@@ -1,0 +1,67 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light",
+        "normal",
+        "unknown"
+    ],
+    "speedlimit": "80KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ],
+                [
+                    "change lane",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005006589562",
+        "200501269400"
+    ],
+    "description": [
+        "This crash occurred in the evening hours on the bituminous northbound lanes of a divided urban highway.  The two northbound were dry, level, curved to the right, and featured shoulders on both sides as well as a posted speed limit of 80kmph (50mph).  There were no adverse atmospheric conditions and the roadway was dark but lighted with normal traffic flow.V1, a 2000 Mazda 626, was traveling north in lane one when its left side was contacted by V2, an unknown type van, as it re-entered the roadway from the shoulder. The initial impact caused V1 to lose control of her vehicle and began to swerve off the road to the left.  She drove a few feet up the embankment on the side of the road digging her left side tires into the grass/dirt causing them to blow out and damage her undercarriage.  V1 abruptly steered right descended down the hill and began to rollover. V1 re-entered the roadway still turning clockwise and rolled over two quarter turns onto its top coming to final rest facing south.  V2 continued traveling and didn't stop.V1 was driven a 25-year old female in good health on her way home.  She stated she didn't expect a vehicle (V2) to be traveling on the shoulder.  When she finally saw V2 encroaching from the left shoulder into her lane. Both driver and passenger were transported to the hospital with moderate injuries and V1 was towed due to damages.    ",
+        "V1, a 2000 Pontiac Montana minivan, made a left turn from a private driveway onto a northbound 5-lane two-way, dry asphalt roadway on a downhill grade.  The posted speed limit on this roadway was 80 kmph (50 MPH). V1 entered the roadway by crossing over the two southbound lanes and then entering the third northbound lane, which was a left turn-only lane at a 4-way intersection. The driver of V1 intended to travel straight through the intersection, and so he began to change lanes to the right. He did not see V2, a 1994 Pontiac Grand Am, that was traveling in the second northbound lane. The northbound roadway had curved to the right prior to the private driveway that V1 had exited. As V1 began to change lanes to the right, the front of V1 contacted the left rear of V2 before coming to final rest on the roadway.The driver of V1 was a 60-year old male who reported that he had been traveling between 2-17 kmph (1-10 mph) prior to the crash.  He had no health-related problems, and had taken no medication prior to the crash.  He was rested and traveling back home.  He was wearing his prescribed lenses that corrected a myopic (nearsighted) condition.  He did not sustain any injuries from the crash and refused treatment.The Critical Precrash Event for the driver of V1 was when he began to travel over the lane line on the right side of the travel lane. The Critical Reason for the Critical Precrash Event was inadequate surveillance (failed to look, looked but did not see). Associated factors coded to the driver of V1 include an illegal use of a left turn lane (cited by police) and an unfamiliarity with the roadway. As per the driver of V1, this was the first time he had driven on this roadway.  "
+    ]
+}

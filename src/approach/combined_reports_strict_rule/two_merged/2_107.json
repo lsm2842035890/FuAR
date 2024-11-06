@@ -1,0 +1,64 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn right",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005005447482",
+        "2005012696003"
+    ],
+    "description": [
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device for this 'T' intersection. The conditions were as follows: late evening, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were both on a -2% roadway. The posted speed limit for vehicle one (V1) and vehicle two (V2) was 72 kph (45 mph). V1 was a 2005 Toyota Tundra, traveling southbound. V1 struck V2 in the center part of V2's rear bumper. The driver side airbags for V1 inflated, and the driver was wearing his seatbelt. The impact caused V1 to push V2 further down the roadway. V1 and V2 came to final rest in the roadway. V1 was towed due to damage. V2 was able to be driven from the scene. The Critical Precrash Event for V1 was coded as other motor vehicle in lane and was stopped. The Critical Reason for the Critical Precrash Event is internal distraction - a driver error. In the PAR the driver stated that items in the front seat area started to fall. He took his eyes off the road to look at the items and when he looked back it was too late to stop. After numerous attempts to try and attain an interview, they were unsuccessful.",
+        "\tV1, a 1997 Dodge Ram pickup, was traveling eastbound on a three-lane, two-way, dry asphalt roadway in daylight conditions.  V1 was approaching a T-intersection intending to turn right.  V2, a 2003 Pontiac Grand Am, was traveling southbound on a four-lane, two-way, dry asphalt roadway approaching the same intersection.  V2 was intending to go straight.  The posted speed for both roadways was 89 kmph (55 mph). Eastbound traffic was controlled by a stop sign; south and northbound traffic had no traffic control device. V1 stopped at the stop sign for 10 seconds or more.  V1 then made a right-hand turn.  The front of V2 contacted the left of V1 before they both came to final rest in the roadway.\tThe driver of V1 was a 68-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash.  He had no health-related problems and had taken no medication prior to the crash.  He was rested and traveling to the store.  He did not wear corrective lenses.  He was uninjured in the crash and refused treatment.  \tThe Critical Pre-crash Event for the driver of V1 was: this vehicle traveling, turning right at intersection.  The Critical reason for the Critical Pre-crash Event was a recognition error: inadequate surveillance (e.g. failed to look, looked but did not see) because he stated that he had looked both ways but did not see V2."
+    ]
+}

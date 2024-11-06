@@ -1,0 +1,94 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "bright",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 5,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005006445022",
+        "2005045587801",
+        "2005002585724",
+        "2005076197801"
+    ],
+    "description": [
+        "\tThis crash occurred in the evening with no adverse weather conditions, and the roadway was dry.  It took place on a two-lane undivided roadway that ran east/west.  V2, a 2000 Dodge Stratus, was stopped at the traffic control device (a tri-color light without pedestrian crossing signs).  V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2 from behind.  For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a 43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained from either driver.               The Critical Precrash Event for the driver of V1 was coded as: \"Other motor vehicle in lane, other vehicle stopped.\"  The Critical Reason was coded as \"Type of driver error unknown,\" due to the lack of an interview. An associated factor was alcohol use - the police report indicates that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for alcohol testing. The results of that testing were not made available.",
+        "    The crash occurred at the intersection of an east/west two-lane state secondary arterial road and a north/south two-lane residential road.  The residential road intersected from the north to form the three-leg intersection and had a stop sign and a flashing red traffic signal.  Traffic on the arterial road had a flashing yellow caution signal in both directions at the intersection.  West of the intersection the arterial road is straight and level.  East of the intersection the arterial curves to the south with a radius of curvature of 141m and had a slight downgrade as it approached the intersection.  The posted speed limit was 56kmph (35mph).  Construction grading was underway on the south side of the road, the arterial was being widened to four lanes and straightened.  At the time of the crash no workers were present only materials that had been at the site for several months.  There are no construction warning signs since traffic is not affected by the roadwork.  Conditions were daylight and dry on a weekday afternoon.    Vehicle #1 was a 2002 Ford Focus traveling east on the two-lane arterial road.  Vehicle #2, a 1996 Chevrolet Lumina, was westbound on the same road.   Vehicle #1 attempted to turn left on the two lane residential road and its front was struck by the front left of Vehicle #2.  Both vehicles came to rest near impact and were towed due to damage.      Vehicle #1 was driven by a 48-year-old female that was belted with deployed frontal airbags and not injured in the crash.  She stated that the other vehicle slowed down and she assumed it was stopping at the intersection.  She drove the road monthly but felt the intersection was somewhat confusing.  ",
+        "\tThis crash occurred on a weekday afternoon in an intersection between two, two lane undivided, bituminous roadways.  The East/West roadway was dry and straight with a posted speed limit of 89kmph (55mph) and a -2% grade.  This roadway had a black on yellow intersection warning with flashing yellow beacon with a suggested speed of 72kmph (45mph) prior to the intersection.  The North/South roadway was a dry, level roadway with a posted speed limit of 72kmph (45mph) and was controlled by a stop sign.  There was also a flashing signal, yellow for the main roadway and red for the cross street.  \tV1, a 1993 Chevrolet Prizm, was stopped in the northbound lane for the stop sign and flashing red beacon.  V2, a 2001 Jeep Wrangler, was westbound approaching the same intersection.  V1 entered the intersection and was struck in the right side by the front of V2.  V1 rotated counterclockwise and the right side struck the left side of V2.  V2 continued forward a short distance, struck a light pole with its front and came to rest facing west.  V1 continued off the right side of the roadway and swiped an 80 cm diameter tree with its right side.  V1 than struck a 120 cm diameter tree with its front and came to final rest facing west. Both vehicles were towed due to damage.      \tV1 was driven by a belted 20year-old female who was transported, treated and released for minor injuries.  The driver could not be located or contacted for additional information.  She did state to the police that she did not see V2 coming when she proceeded into the intersection.",
+        "This is a two-vehicle crash occurred in a rural area at a \"T\" type intersection.  The east and westbound 2-lane asphalt roadway is straight, level and is the through street.  The north and southbound 2-lane asphalt roadway is straight, level and is controlled by a stop sign where it dead-ends at the through street.  The speed limit for the through street is 72 kmph (45 mph). The crash occurred during daylight with no adverse weather or road conditions.Vehicle one (V1), a 2000 GMC Jimmy was southbound turning left (east) following a non-contact vehicle that had turned left at the intersection.  Vehicle two (V2), a 2002 Oldsmobile Alero was westbound when its front bumper plane contacted the left side plane of V1.  V1 rolled to rest on the dirt shoulder of the through street facing east.  V2 rotated counter-clockwise and came to rest in the eastbound lane facing south.  Both vehicles were towed due to damage.The driver of V1, a seventeen-year old female was heading from her aunts home back to her house.  This driver was in a hurry as she needed to get home, get some clothes and go back to school for pictures.  This driver had been driving for about fifteen minutes at the time of the crash.  This driver stated that she was on an unknown medication for acne, but the medical records did not indicate any medications.  This driver stated that she stopped behind a non-contact vehicle.  This driver stated that she looked both ways but did not see V2.  She was eating while driving and had been thinking about a future event. This driver drives this vehicle daily and over this road on a weekly basis."
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": 48,
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "unknown",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "northwest",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005002229262",
+    "description": "This crash occurred on at and intersection between two lane undivided roadways. The Precrash roadway of Vehicle #1 had a elevation of +5.7% and the Precrash roadway of Vehicle #2 had an elevation of + 18.8% and posted speed limits of 48KMPH (30MPH). The weather was clear and the roadway was dry. This crash occurred on a weekday evening.Vehicle #1 a 1998 Mercury Sable was traveling in a westerly direction on the two lane undivided roadway crossing an intersection and intending to go straight. Vehicle #2 a 1995 Nissan Altima was traveling northwest intending to cross the intersection and go in a northern direction. Vehicle # 2 impacted the front left of Vehicle #1 with its front left. Vehicle #1 came to rest facing southwest partially off the roadway with its front.Vehicle #2 came to rest on the roadway facing north after having gone through the intersection."
+}

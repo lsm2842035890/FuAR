@@ -1,0 +1,68 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "normal",
+        "unknown"
+    ],
+    "speedlimit": "80KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ],
+                [
+                    "change lane",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005002229723",
+        "200501269400"
+    ],
+    "description": [
+        "This crash occurred in the eastbound lanes (two lanes head east and one heads west) of a three lane undivided, straight roadway in an urban-like setting where the posted speed limit is 48kmph (30mph).  The roadway was dry and the weather was clear. This crash occurred on a weekday afternoon.V1, a 1991 Chrysler New Yorker, was traveling east when it stopped in lane two (the left turn lane) awaiting traffic to pass before turning into a fast food restaurant.  V2, a 1990 Nissan Pick-up, truck was leaving a service station on the east side of the road.V2 was waived out of the lot by the driver of an uninvolved vehicle stopped in lane one of the roadway.  As V2 proceeded out of the lot it was struck by the front left of V1.  The driver and a passenger of V1 were transported to an area hospital, treated and released. Another passenger in V1 was not injured. The driver of V2 was not injured.",
+        "V1, a 2000 Pontiac Montana minivan, made a left turn from a private driveway onto a northbound 5-lane two-way, dry asphalt roadway on a downhill grade.  The posted speed limit on this roadway was 80 kmph (50 MPH). V1 entered the roadway by crossing over the two southbound lanes and then entering the third northbound lane, which was a left turn-only lane at a 4-way intersection. The driver of V1 intended to travel straight through the intersection, and so he began to change lanes to the right. He did not see V2, a 1994 Pontiac Grand Am, that was traveling in the second northbound lane. The northbound roadway had curved to the right prior to the private driveway that V1 had exited. As V1 began to change lanes to the right, the front of V1 contacted the left rear of V2 before coming to final rest on the roadway.The driver of V1 was a 60-year old male who reported that he had been traveling between 2-17 kmph (1-10 mph) prior to the crash.  He had no health-related problems, and had taken no medication prior to the crash.  He was rested and traveling back home.  He was wearing his prescribed lenses that corrected a myopic (nearsighted) condition.  He did not sustain any injuries from the crash and refused treatment.The Critical Precrash Event for the driver of V1 was when he began to travel over the lane line on the right side of the travel lane. The Critical Reason for the Critical Precrash Event was inadequate surveillance (failed to look, looked but did not see). Associated factors coded to the driver of V1 include an illegal use of a left turn lane (cited by police) and an unfamiliarity with the roadway. As per the driver of V1, this was the first time he had driven on this roadway.  "
+    ]
+}

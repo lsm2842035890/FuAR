@@ -1,0 +1,64 @@
+{
+    "weather": [
+        "unknown",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004495863",
+        "2005004112721"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a two-lane roadway with a driveway related intersection.  Conditions were daylight in the morning on a weekend.  The posted speed limit for the northbound lane was 35 MPH.  There was no posted speed limit for the driveway.     V1 was a 2001 Buick Century sedan turning left out of the driveway facing westbound.  V2, a 2005 Toyota Tundra pick-up, was traveling northbound in the 1st travel lane approaching the driveway intending on going straight.  V1 made a left turn and the front of V2 struck the left side of V1 in the northbound lane.  Both vehicles came to final rest facing northbound.     V1 was driven by a 76-year-old female who sustained moderate injuries and was transported to a local hospital.  She stated that prior to exiting the driveway, she looked both ways and couldn't see to her left because of a big sign.  She proceeded to turn left and struck V2.  V1 did not take any avoidance actions and was traveling less than 10 MPH at the time of impact.  V1 was towed due to damage.",
+        "     The crash occurred in the middle of a four-way intersection.  The northbound travel lane was controlled by a stop sign.  Conditions were daylight and dry in the afternoon on a weekday.  The posted speed limit was 35 MPH and both roads were level.     V1 was a 2002 Mazda 323 hatchback traveling northbound in the right lane approaching an intersection controlled by a stop sign intending on going straight.  V2, a 1997 Nissan Maxima sedan, was traveling eastbound in the right lane approaching the intersection intending on going straight.  The front of V1 struck the right side of V2.  V1 came to final rest facing northeast.  V2 came to final rest facing eastbound.     V1 was driven by a 61-year-old male who was not injured.  He stated that he was stopped at the stop sign, looked in both directions, then proceeded thru the intersection but saw V2 in the corner of his eye.  The driver of V1 braked and swerved right but was unable to avoid contact with V2.  V1 was traveling between 1 and 10 MPH at the time of impact.  V1 was towed due to damage."
+    ]
+}

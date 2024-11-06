@@ -1,0 +1,92 @@
+{
+    "weather": [
+        "cloudy",
+        "snowy",
+        "rainy",
+        "foggy",
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "bright",
+        "normal",
+        "bright"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 5,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ],
+                [
+                    "turn left"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004112001",
+        "2005073438004",
+        "2005004112021",
+        "2005012695903"
+    ],
+    "description": [
+        "The crash occurred in the eastbound lane of a two-lane roadway with an adjacent private driveway.  Conditions were dusk and dry with cloudy skies at 4:38 pm on a weekday late afternoon.  The roadway had a posted speed of 35 MPH and the eastbound lane had a negative 2% grade.  The private driveway was dry and did not have a posted speed limit but had a negative 3% grade.Vehicle 1 was a 1995 Plymouth Neon Sedan decelerating for the vehicle in front of him, which was making a left turn into a plaza.  Vehicle 2, a 1996 Kia Sephia, was exiting a private drive to the right of Vehicle 1.  The front of V1 struck the right side of V2; V2 rotated 90 degrees right.  V1 swerved right then left then both vehicles came to final rest in the right lane facing east.The 45-year-old driver of the Plymouth Neon (V1) stated that he was struck on the right side and swerved to final rest in the eastbound lane.  The driver of V1 sustained a laceration to his forehead and was transported to the emergency room.  V1 was towed due to damage.",
+        "       A two-vehicle crash occurred in the morning daylight hours on a two lane two-way roadway in an intersection.  The roadway surface asphalt and was snow and ice covered at the time of the crash.  This portion of the roadway is a T intersection.  The east/west roadway intersects with the north end of a two lane two-way roadway (which ends at the T intersection with a stop sign).  A double yellow solid lane line divides the east/west roadway.  A double yellow solid lane line also divides the north/south roadway.  The eastbound lane has a 7% positive grade.  The northbound lane has a 2% negative grade.  Both directions are straight roadways with no design deficiencies or sight restrictions.  The posted speed limit for both roads is 64 kmph (40 mph).       Vehicle one is a 2001 Hyundai GX300 four door sedan. Vehicle two is a 2003 Dodge Dakota 4x2 SXT.pick-up. Vehicle one was traveling north on a two lane two-way roadway approaching a T intersection with a stop sign.  Vehicle two was traveling east approaching the same intersection.  Vehicle one's driver applied the brakes to stop at the stop sign but was unable to stop due the roadway conditions.  Vehicle one slid into the intersection.  The driver of vehicle one stated that she looked right while sliding through the intersection and then left which is when she saw vehicle two.  This driver was attempting to turn left at the intersection since she knew she couldn't stop.  Vehicle two's front impacted vehicle one's left side in the intersection.  Both vehicles came to final rest in the intersection. Driver two stated that he saw vehicle one and thought that it had stopped at the stop sign.  He also stated that he saw the nose of vehicle one dive down abruptly as if in the process of a panic stop.  He noticed the driver of vehicle one look right and then straight at him.  Driver two stated that he applied his brakes when he saw the nose of vehicle one dive down.  He depressed his brake and attempted to turn right but was unable to turn the vehicle due to the road conditions. Both vehicles were towed from the scene due to damage.  The driver of vehicle one was transported for injuries.  The driver of vehicle two was not injured.      The pre-event movement for V1 coded going straight, category this vehicle control loss due to poor road condition (snow and ice). Critical reason for the critical event coded environment \"slick roads\".",
+        "     The crash occurred in the northbound lane of a T-intersection with a grass median.  There was one northbound left-turn only lane with a traffic control and two eastbound lanes with the same traffic control signal.  Conditions were overcast with rain with light fog in the early afternoon of a weekday.  The roadway had a posted speed of 45 MPH.     Vehicle 1 was a 1988 Mercedes Benz 300SL stopped for the traffic control intending on turning left.  Vehicle 2 was a 2002 Mercury Mountaineer driving eastbound in the right lane approaching the traffic control.  The light for the Mercedes turned green and the vehicle started turning left when the front of the Mercury struck the left-front corner of the Mercedes.  The Mercedes rotated CCW 90 degrees and the vehicle's final rest was facing east in the eastbound lane.  Final rest for the Mercury was facing east in the eastbound lane as well. ",
+        "\tV1, a 1997 Pontiac Grand Am, was traveling eastbound on a 4-lane, 2-way, dry asphalt roadway in daylight conditions.  V1 was traveling in lane one intending to turn right at a T-intersection.  V2, a 2005 Dodge Grand Caravan, was stopped for a red light in lane one in front of V1 on the same roadway, also intending to turn right. The posted speed limit was 56 kmph (35 mph). The front of V1 contacted the back of V2.  Both vehicles came to final rest off the south road edge.\tThe driver of V1 was a 21-year old male who had reported that he had been traveling between 18-32 kmph (11-20mph) prior to the crash.  He had no health related problems and had taken no medication prior to the crash.  He was rested and traveling to a restaurant.  He does not wear corrective lenses.  He was uninjured and refused treatment.\tThe Critical Precrash Event for the driver of V1 was other motor vehicle in lane, other vehicle stopped.  The Critical Reason for the Critical Precrash Event was a recognition error, an external distraction, because he stated that he was looking at approaching traffic to his left and did not realize that the vehicle ahead of him had stopped."
+    ]
+}

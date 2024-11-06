@@ -1,0 +1,57 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005002229042",
+        "2005002585183"
+    ],
+    "description": [
+        "     The crash occurred on a two lane undivided roadway with a posted speed limit of 48 KPH (30 MPH) and a -2.2% grade.  There was an intersecting driveway to the right with a -13.3% grade.  The weather was clear, the roadway dry and it was daylight at the time of this early morning weekday crash.     Vehicle 1, a 1996 Chevrolet Blazer, was traveling north on the two lane undivided roadway approaching the driveway.  It should be noted that there was a large sign, small hill and telephone pole to this driver's right, which may have obscured the approach of Vehicle 2.  Vehicle 2, a 2000 Toyota Corolla, was traveling west on the driveway approaching the main roadway.  Vehicle 2 entered the main roadway and was struck in the left side by the front of Vehicle 1.  Vehicle 2 was rotated counterclockwise off the left side of the roadway, over a small curb, onto a private lawn and came to rest facing east.  Vehicle 1 continued and came to rest in the southbound lane facing north.     The Chevrolet Blazer (Vehicle 1) was driven by a belted 50-year-old male who was transported, treated and released for a complaint of pain.  Vehicle 1 was traveling north on the roadway and saw Vehicle 2 coming down the driveway off to the right.  He put on his brakes and steered right but hit Vehicle 2 on the left side.  Vehicle 1 was towed due to damage.",
+        "This crash occurred on a two lane undivided roadway, slightly curving to the right prior to the crash site, with no grade and a posted speed limit of  72 KMPH (45 MPH). The weather was clear and the roadway was dry. This crash occurred on a weekday afternoon.Vehicle #1, a 1998 Honda Accord, was traveling north on the two lane undivided roadway when it stopped to allow several  southbound vehicles  to pass before proceeding to make an intended left turn onto a side road. Vehicle #2, a 1994 Ford Escort LX, was traveling in the same direction behind Vehicle #1. Vehicle #2 impacted the rear of Vehicle #1 with it's front. Both vehicles came to rest in the roadway facing north.The Honda Accord (Vehicle #1) was driven by a belted  37 year old female who was transported to an area hospital, treated and released, with a complaint of pain to her neck.  She stated that she was stopped, waiting for the on coming traffic to clear before she made her left turn.  Just as she glanced at her rear view mirror she saw Vehicle #2 coming at her fast.  The driver of Vehicle #2 was not slowing down and then she heard brakes and she gripped the steering wheel, and then she was hit from behind.  The driver of this vehicle was wearing prescription contacts at the time of the crash.  Vehicle #1 was driven from the scene."
+    ]
+}

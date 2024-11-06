@@ -1,0 +1,60 @@
+{
+    "weather": [
+        "sunny",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 6,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004495821",
+        "2005004112741"
+    ],
+    "description": [
+        "     The crash occurred in the eastbound lane of a five-lane roadway.  Conditions were dry with sun glare in the early morning on a weekday.  The posted speed limit was 45 MPH.     V1 was a 2001 Nissan Altman sedan traveling eastbound in the 1st travel lane intending on going straight.  V2, a 1994 Honda Accord station wagon, was stopped in traffic in the eastbound lane directly in front of V1.  The front of V1 struck the back of V2 in the eastbound lane.  Both vehicles came to final rest facing eastbound.     V1 was driven by a 17-year-old male who sustained moderate injuries but refused medical attention.  He stated that he was on his way to school and had some fog on his windshield and there was real bad sun glare.  The driver of V1 also stated that he never saw V2.  V1 did not take any avoidance actions and was traveling between 41-50 MPH at the time of impact.  V1 was towed due to damage.",
+        "     The crash occurred in the eastbound lane of a three-lane T-intersection.  Conditions were daylight and dry in the late afternoon on a weekday.  The posted speed limit was 45 MPH with a 5% downhill grade and a curve-left.       V1 was a 2004 Jeep Cherokee SUV traveling westbound in the right travel lane approaching the T-intersection intending on turning left.  V2, a 1990 Mitsubishi Galant sedan, was traveling eastbound in the right lane intending on going straight.  The front of V2 struck the right side of V2 in the eastbound lane.  V1 came to final rest facing southbound and V2 came to final rest facing eastbound."
+    ]
+}

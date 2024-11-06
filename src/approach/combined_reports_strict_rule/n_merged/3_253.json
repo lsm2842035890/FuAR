@@ -1,0 +1,78 @@
+{
+    "weather": [
+        "sunny",
+        "clear",
+        "snowy",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 4,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005013696502",
+        "2005004112081",
+        "2005004112101"
+    ],
+    "description": [
+        "\tThe crash occurred in a T-intersection of a five-lane two-way roadway and a three-lane two-way roadway.  The five-lane roadway had two lanes eastbound and two lanes westbound with a center two-way left turn lane. The three-lane roadway had two lanes northbound and one lane southbound. The northbound lanes ended at the intersection and were curved to the left. Northbound traffic was controlled by a stop sign. East and westbound traffic had no traffic control device. The posted speed limit on the east/west roadway was 64 kmph (40 mph).  The crash occurred in the early hours of the afternoon on a sunny day. All roadways were dry.  \tV1, a 1996 Chevrolet Lumina, was traveling northbound attempting to turn left into the westbound lanes of traffic.  V2, a 1984 Yamaha motorcycle, was traveling in the second eastbound lane, approaching the intersection.  A witness who was traveling next to V2 in the first lane of travel reported that V1 rolled through the stop sign and pulled out into the path of V2 and herself. Although the witness was able to stop in time, the driver of the motorcycle was not. The driver of V1 told police that he was trying to make a light located at a nearby interstate, and never saw V2 approaching. V1 pulled out from the intersection and was struck in the left side by the front of V2.\tV1 was driven by a 30-year old male. He was transported to a local medical facility for treatment and was subsequently released. The driver of V2, a 52-year old male, was transported and admitted to a local hospital due to major injuries.  Both vehicles were towed due to damage.",
+        "     The crash occurred in the intersection of a five-lane roadway with a traffic control signal.  Conditions were daylight with snow and slush on the roadway at 1:06 pm on a Monday afternoon.  The roadway had a posted speed of 50 MPH and the northbound lane had a positive 3% grade.      V1 was a 1998 Toyota Camry sedan intending on going straight thru the intersection with a green light in the southbound lane.  V2 was a 1994 Dodge Intrepid sedan intending on turning left at the same intersection with a green light.  V2 was in the northbound lane.  As V2 was turning left, the front of V2 struck the left side of V1.  V1 continued on and the front right corner struck a guardrail, coming to final rest.  V2 came to final rest in the center of the intersection-heading north.      A 34-year-old male who was transported drove V1 and was transported to a local hospital with minor injuries.  He stated that he was going straight in the southbound lane and he saw the other vehicle turning in front of him.  He was unable to take any avoidance actions.  V1 continued straight and the front of V1 rested against a guardrail.  The driver of V1 was traveling at 50 MPH at the time of impact.  V1 was towed due to damage and had a CDC of 10LYEW1.",
+        "The crash occurred in the intersection of a five-lane roadway with a traffic control signal.  Conditions were daylight, dry in the early afternoon on a weekday.  The roadway had a posted speed of 81 KPH (50 MPH) and the northbound lane had a positive 3% grade. V2 was a 1992 Ford Escort coupe intending on going straight through the intersection with a green light in the southbound lane.  V1 was a 1999 Chevy Venture minivan intending on turning left at the same intersection with a red light.  V1 was in the northbound lane.  As V1 was turning left, the front of V2 struck the right side of V1.  As a result of the impact, V1 rolled \u00bc turn onto its left side coming to final rest.  V2 came to final rest in the center of the intersection-heading southwest. A 33-year-old male drove V1 and sustained minor injuries but was not transported.    He stated that the light was red as he was turning left.  He saw V2 but thought he was going to stop. After V2 hit V1 the vehicle rolled \u00bc turn on its left side.  V1 was traveling less than 8 KPH (5 MPH) at the time of impact.  V1 was towed due to damage."
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "cloudy"
+    ],
+    "lighting": [
+        "bright",
+        "bright",
+        "dark"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 4,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005005447202",
+        "2005002585382",
+        "2005002229542"
+    ],
+    "description": [
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device, for a construction zone.  The conditions were as follows: early afternoon, clear skies, the roadway was dry and there were no atmospheric conditions.  The gradient for the two vehicles involved were both on a +6% roadway.  The posted speed limit for vehicle one (V1) and vehicle two (V2) was 64 kph (40 mph). V2 was a 2005 Mercury Sable was traveling northbound and was stopped for a stop/slow sign for the construction zone.  Upon realization of the impending crash, the driver of V2 stated that he could not do anything.  V1 was a 2002 Dodge Neon, traveling northbound.  V1 struck V2 in the center part of V2's rear bumper.  The impact caused V1 to push V2 up the roadway.  V1 and V2 came to final rest in the roadway.  V1 was towed due to damage.  V2 was able to be driven from the scene.I spoke to the construction worker on scene, which was holding the stop sign.  He was only able to give a few words, due to the language barrier.  He attested that V2 was waiting for the sign to change, so V2 could proceed.  He further stated that V1 pushed V2 up the roadway some.",
+        "     The crash occurred on a two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The roadway was straight with a grade of -2.3%.  There was a black on yellow \"Y\" intersection warning sign for both vehicles.  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.       Vehicle #1, a 1997 Plymouth Neon, was traveling north on the two lane roadway approaching the intersection.  Vehicle #2, a 1987 Ford F-350 stake body, was stopped facing north waiting to make a left hand turn.  Vehicle #1 struck Vehicle #2 in rear with front.  Both vehicles came to rest facing north.  Vehicle #1 was towed due to damage.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.",
+        "This crash occurred on a two-lane undivided roadway that curved to the right with a super elevation of 6.3 percent. The roadway at this point had a downhill grade of 4.9 percent and there was an intersecting side road on the left. The posted speed limit was 89KMPH (55MPH). The roadway was dry and the weather was cloudy. This crash occurred on a weekday in the early hours of the morning before dawn. The roadway was not illuminated.Vehicle #1, a 2000 Peterbilt tractor-trailer, was traveling north on the two-lane roadway when it came up upon Vehicle #2, a 1998 Chevrolet pickup truck, which was facing north getting ready to make a left turn onto the side road. In an attempt to avoid a collision, the driver of Vehicle #1 steered to the left while locking up his brakes. As he did this, Vehicle #2 initiated its left turn. Vehicle #1 struck Vehicle #2 on the left side passenger compartment with its front right. Vehicle #1 skidded off the roadway to the left, impacting a road sign and came to rest off the roadway on the west side, north of the side road. Vehicle #2 continued off the roadway to the northwest and came to final rest in front of Vehicle #1.Vehicle #1 was driven by a belted 43-year old male who was not injured. This driver stated that Vehicle #2 was stopped in the roadway and he steered to the left to avoid striking it, as he had no room to maneuver to the right of Vehicle #2."
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "weather": [
+        "clear",
+        "cloudy",
+        "clear",
+        "unknown"
+    ],
+    "lighting": [
+        "dark",
+        "bright",
+        "dark",
+        "unknown"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 5,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004112402",
+        "2005043700301",
+        "2005043601421",
+        "2005004112921"
+    ],
+    "description": [
+        "     The crash occurred in the eastbound lane of a two-lane roadway with a T-intersection.  Conditions were dusk and dry in the evening on a weekend.  The northbound lane had a posted speed limit of 40 kmph (25 mph) and the eastbound lane had a posted speed limit of 56 kmph (35 mph).     V1 was a 2003 Hyundai Elantra sedan traveling eastbound in the right lane approaching a T-intersection.  V2, a 1998 Ford Taurus sedan, was traveling northbound in the right lane approaching a stop sign intending on turning left.  V2 stopped at the stop sign, looked in both directions but there was landscaping and a fence obstructing V2's view.  V2 then proceeded to turn left and the front of V1 struck the left side of V2 in the intersection., as V1 passed by V2, V2's right front contacted the back of V1.  V1 continued on and struck a curb and a tree.  V1 came to final rest facing eastbound.  V2 continued on and struck a curb and came to final rest facing northwest.",
+        "\tThe crash occurred at a three-legged intersection in the eastbound lane of a two-lane suburban roadway.  The northbound road approaching the intersection was controlled by a stop sign and had a 4% downhill grade.  The eastbound road curved left at the intersection and had a 3% downhill grade.  The roadway had a posted speed of 56 kmph (35 mph), though the crash occurred during a 40 kmph (25 mph) school zone time.  Conditions were daylight and dry with cloudy skies.  The crash occurred in the mid-afternoon hours of a weekday.  \tVehicle one was a 1991 Acura Integra 3-door hatchback traveling east in lane one.  Vehicle two was a 2000 Honda Civic coupe stopped facing north.  V1 continued through the intersection while V2 proceeded to attempt a left turn.  The two vehicles struck head on.  Both vehicles came to rest in the intersection.  \tV1 was driven by an 18-year old female who was transported to a local hospital with possible injuries.  She stated that it appeared V2 was trying to follow a friend driving in front of V2 who had just completed a left turn in front of this driver.  V2 tried to pull out quickly in front of this driver but mistimed her maneuver.  This driver estimated her travel and impact speeds to be 40 kmph (25 mph), saying she didn't have a chance to slow down.  V1 was towed due to damage. ",
+        "This 2-vehicle crash occurred in the evening at a T-intersection in a suburban neighborhood. A 2-lane roadway runs east and west with an intersecting road that runs north and south. Both roadways have a posted speed limit of 48 kmph (30 mph) and each are controlled by a stop sign at the intersection where the crash took place. The conditions were dusk, clear, dry and the traffic level was moderate. V1, a 1990 Jeep Cherokee Laredo 4 x4 with one occupant, was traveling east in lane one of 2-lane undivided road approaching an intersecting road to its right. V2, a 1997 Honda CR-V with one occupant, was stopped (facing north) at the intersection waiting to turn left (westbound.) Both vehicles entered the intersection at the same time and collided at a right angle. The front of the Honda CR-V (V2) struck the right side of the Jeep Cherokee (V1) causing it to roll 2-quarter turns to its left and coming to rest on its roof. V1 had to be towed from the scene due to damage but V2 was driven away.V1 was driven by a 25-year-old female without a driver license. She did not speak English but her bilingual boyfriend/husband did speak English and he refused to help with the interview. The investigating officer said she was not cooperative with him or the EMS either, but she reportedly claimed the brakes failed. Once the vehicle was rolled back onto its tires, it was towed to the owner's house without the brakes ever being checked.  ",
+        "       The crash occurred in the northbound lane of a two-lane intersection controlled by a stop sign.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 2002 Mercury Grand Marquis sedan traveling northbound in the 1st travel lane approaching the intersection controlled by a stop sign.  V2, a 2003 Toyota Corolla sedan, was traveling eastbound in the 1st travel lane intending on going straight.  V1 stopped at the stop sign looked both ways but did not see V2.  The front of V2 struck the left side of V1 in the northbound lane.  V1 came to final rest facing northbound and V2 came to final rest facing eastbound.     V1 was driven by a 70-year-old male who was not injured.  He stated that he stopped at the stop sign, looked both ways and proceeded thru the intersection.  He did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage."
+    ]
+}

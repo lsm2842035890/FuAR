@@ -1,0 +1,60 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "unknown",
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005003498501",
+        "2005004495461"
+    ],
+    "description": [
+        "The crash occurred in the intersection of two one-way roadways.  Both roadways had one lane of travel and were straight and level.  The speed limit was 48kmph (30mph) and it was clear with no adverse conditions.Vehicle # 1 was a 2005 Infiniti FX35 that was traveling southbound on a one-way roadway.  Vehicle # 2 was a 1993 Ford F-250 Pick-up truck that was traveling westbound on a one-way roadway, which was controlled by a stop sign.  At the intersection, the front of Vehicle # 1 impacted the right side of Vehicle # 2, and then the left side of Vehicle # 2 impacted the right side of Vehicle # 1.  Vehicle # 1 then departed the roadway on the left side and then impacted a fence and came to a final rest after impacting the side of the building.The Infiniti FX35 (Vehicle # 1) was driven by a 45 year-old male who did not sustain any injuries.  The driver of this vehicle declined to participate in the study.  Vehicle # 1 was towed due to damage.",
+        "     The crash occurred in the westbound lane of a five-lane intersection with a traffic control signal.  Conditions were daylight and dry in the afternoon on a weekday.  Both roads had a posted speed limit of 64 kmph (40 MPH).     V1 was a 1998 Pontiac Bonneville sedan traveling southbound in the right lane intending on going straight.  V2, a 2004 Dodge Durango SUV, was traveling westbound in the right lane intending on continuing straight when an unknown vehicle supposedly cut in front of V2, which made V2 run the red light.  The front of V1 struck the right side of V2 in the westbound lane.  V1 came to final rest facing north and V2 came to final rest facing northwest.       V1 was driven by a 44-year old female who was not injured.  The driver of V1 was contacted several times to be interviewed but did not respond back.  V1 was towed due to damage."
+    ]
+}

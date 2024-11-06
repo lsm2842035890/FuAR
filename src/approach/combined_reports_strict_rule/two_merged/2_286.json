@@ -1,0 +1,66 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light",
+        "dark",
+        "light"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005004112321",
+        "2005003588341"
+    ],
+    "description": [
+        "    The crash occurred in the middle of an intersection of a four-lane roadway controlled by a traffic control signal.  Conditions were dark with lights and dry in the evening on a weekday.  The posted speed limit was 64 kpmh (40 mph) for the southbound lane and 40 kmph (25 mph) for the westbound lane.     V1 was a 1993 Plymouth Grand Voyager minivan traveling southbound in the right lane approaching the intersection with a green traffic control signal intending on continuing straight.  V2, a 2000 Chevy Malibu sedan, was traveling northbound in travel lane #2 intending on turning left at the intersection.  As V1 was going straight, an unknown vehicle stopped to let V2 turn.  V1 was to the right of the unknown vehicle and the driver of V2 did not see V1.  The front right of V2 struck the front of V1 in the southbound lane.  V1 then struck a utility pole.  V1 came to final rest facing southwest against the pole.  V2 came to final rest facing west.     A 29-year-old female drove V1 and was not injured.  She stated that the light was green and she didn't see V2 until the last second.  The driver of V1 braked and swerved right and hit the pole.  V1 was traveling between 34 and 48 kmph (21 and 30 mph) at the time of impact.  V1 was towed due to damage.",
+        "The crash occurred in the southbound lanes of a two-way roadway that was divided by a raised curb median with two lanes in each direction.  The roadway was straight and level and had a posted speed of 48 kmph (30 mph).  The weather was clear with no adverse conditions.  It was the evening hours of a weekday and it was dark out but the roadway was lighted. The crash occurred at a signalized intersection with an east/west roadway.Vehicle #1 was a 2001 Mitsubishi Mirage that was traveling southbound in the right lane.  Vehicle #2 was a 1995 Ford Probe that was traveling northbound in the left lane and attempting to make a left turn.  At the intersection, the front of Vehicle #1 impacted the right front side of Vehicle #2, and then Vehicle #2 impacted a chain-link fence that was located on the southwest corner of the intersection.The Mitsubishi Mirage (Vehicle #1) was driven by a 40-year old female who was transported to a local medical facility with incapacitating injuries.  A 21-year old female sustained minor injuries and a 12-year old male in her vehicle sustained non-incapacitating injuries and were both transported to a local medical facility.  Vehicle #1 was going straight through the intersection when Vehicle #2 turned in front of it.  The Mirage was towed due to damage."
+    ]
+}

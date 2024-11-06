@@ -1,0 +1,70 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005045588421",
+        "2005003498181"
+    ],
+    "description": [
+        "    The crash occurred at a T-intersection of an east/west two lane arterial road and a two lane residential road that intersected from the south.  The arterial road was straight with a 4% downgrade and had shoulders.  Traffic counts indicate that it carries 17,888 vehicles per day.  The residential road was straight with a 3% upgrade and was controlled by a stop sign.  The posted speed for the arterial was 56kmph (35mph); the residential road's speed limit was 48kmph (30mph).  Conditions were daylight and dry on a weekday morning.      Vehicle #1 was a 1998 Ford Taurus traveling north on the two lane residential road.  Vehicle #2, a 2002 Honda Odyssey, was eastbound on the two lane arterial.  Vehicle #1 stopped at the intersection and attempted to turn left to go west on the two-lane arterial when its left side was struck by the front of Vehicle #2.  Both vehicles came to rest near impact in the intersection.  The Taurus (V1) was towed due to damage; the Odyssey (V1) was driven from the scene.  No one was treated for injuries in the collision.    Vehicle #1 was driven by a 21-year-old female.  She, along with her 16-year-old passenger, were belted with no deployed airbags.  In her interview she reported that the minivan (V2) had its right turn signal on, however there was no evidence of this and her statement was not deemed credible.  Police charged her with failure to yield.",
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed."
+    ]
+}

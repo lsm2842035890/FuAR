@@ -1,0 +1,62 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light",
+        "unknown"
+    ],
+    "speedlimit": "72KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 6,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    6
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005002229021",
+        "2005078436824"
+    ],
+    "description": [
+        "This crash occurred on the southbound lanes of a five-lane undivided urban highway. There were three southbound lanes that included a left turn lane for the traffic signal-controlled intersection. Conditions were dark, but the roadway was illuminated and dry in the mid-evening hours on a weekend. The roadway had a posted speed limit of 48 KMPH (30 MPH) and the southbound lanes were straight and level. The crash occurred on a weekend during the hours of darkness.Vehicle #1 was a 2002 Hyundai Accent 2-door hatchback driven by a 65-year old female. She was traveling in the first lane of travel, approaching a four-way intersection controlled by a traffic signal. V2, a 1997 Nissan Pathfinder was stopped for a red light in the same lane at the intersection ahead of V1. The driver of V1 stated that she looked to her left at a retail store while braking, thinking that V2 was quite a distance ahead of her. She estimated that she had enough room between her vehicle and Vehicle #2 as she slowed down to the intersection. She stated she probably didn't apply enough braking force, and the front of V1 struck the rear of V2. The driver of V1 was wearing her lap and shoulder seatbelt.  The Critical Precrash Event for the driver of V1 was when another vehicle was in her lane stopped at the intersection. The Critical Reason for the Critical Event was coded as an external distraction. This was chosen because the operator of V1 stated that she was looking at a store to her left as she approached the rear of V2. She also stated that she thought that V2 was farther ahead of her than it actually was. Because of this, she was also coded as misjudging the gap distance to V2. Another associated factor coded to this driver was inadequate evasive action. By her own admission, she did not apply sufficient pressure to her brake pedal. The driver of V1 reported that she was taking four medications:  an unknown diabetes medication, a cholesterol-lowering medication, an anti-inflammatory, and an antidepressant. Only the antidepressant had the possible side effects of dizziness and tiredness. She did not wear glasses for driving. She stated she was two-third's deaf in both ears but could not afford hearing aids although her driving license had a restriction on it indicating that she should be wearing hearing aids. She was familiar with both her vehicle and the roadway. Police did not consider alcohol to be involved and ordered no tests.",
+        "This is an early morning two vehicle left turn T-intersection crash that occurred on a two way six lane, dry asphalt roadway. The roadway consists of two westbound and two eastbound through lanes that are separated by a continuous left turn lane and a right-turn only eastbound lane.  The cross street is a two way, one lane, dry asphalt roadway. The lanes are separated by a painted centerline stripe. The area where the two roadways meet is controlled by a posted stop sign for northbound traffic.  The intersection is not controlled for east and westbound traffic.  The stop sign was visible at the time of the crash. There were no roadway deficiencies and there was a sight line restriction.  The sight line restriction consisted of a non-contact moving school bus traveling eastbound and slowing down  to turn right onto the southbound road. There were no adverse weather conditions and the weather was clear. The speed limit on the through street is posted 89 kmph (55 mph) The speed limit on the cross street is posted 72 kmph (45 mph).Vehicle one (V1), a 1994 Chevrolet pickup, driven by a 38 year-old female with one passenger was traveling southbound approaching the through cross street. The driver stopped for the stop sign and then entered the intersection and began to turn left to travel westbound. V1 began to make the left turn as a non-contact school bus was slowing down to make a right turn. The V1 driver's line of sight was apparently restricted by the bus making the right turn.  The left side of V1 and the front of V2 collided in the eastbound lanes.  The impact caused V1 to rotate clockwise and a side slap between the left side of V1 and right side of V2 occurred.  V1 departed the impacts on an eastbound trajectory and V1 ultimately departed the right side of the roadway and came to rest in a field facing generally south.  V1 was towed due to damage. Driver and passenger were transported to a local medical facility.Vehicle two (V2), a 2002 Bluebird school bus, driven by a 54 year-old male with one passenger was traveling eastbound in the number one lane at approximately 72 kmph (45 mph). There was a non-contact school bus traveling in the right turn lane slowing down to turn right at the intersection. The  driver stated that he noticed V1 making a left turn in front of his vehicle, but had not seen V1 stopped at the stop sign.  The  driver applied the brakes but was unable to stop before the front of V2 and the left side of V1 collided. After impact with V1, the driver of brought his vehicle to a controlled stop on the north shoulder. V2 was towed due to damage. The driver and passenger of V2 were transported to a local medical facility. "
+    ]
+}

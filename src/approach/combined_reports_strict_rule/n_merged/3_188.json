@@ -1,0 +1,74 @@
+{
+    "weather": [
+        "rainy",
+        "unknown",
+        "cloudy"
+    ],
+    "lighting": [
+        "unknown",
+        "dark",
+        "bright"
+    ],
+    "speedlimit": "64KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 4,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005005289123",
+        "2005002229482",
+        "2005004112561"
+    ],
+    "description": [
+        "This two-vehicle crash occurred on a two-lane, two-way, undivided roadway.  There were no vehicle traffic control signals present for this particular stretch of roadway.   The road had a posted speed limit of 72 kmph (45 mph).  It had just started to rain slightly but the road was still considered dry at the time of the incident.  The gradient for this trafficway was measured to be level.  Vehicle one (V1) and Vehicle two (V2) were both light vehicles.  V1, a 2002 Honda Civic, was approaching V2, a 1980 Dodge Aspen, at approximately 34-48 kmph (21-30 mph), heading in the same direction.  V2 was stopped on the roadway waiting to make a left turn into a private driveway.  The left front of V1 made contact with the rear right of V2.  The impact caused V2 to rotate counter-clockwise approximately 90 degrees before coming to final rest in the entranceway of a daycare center.  V1 continued forward before coming to final rest in its original lane of travel.  Both vehicles had to be towed from the scene due to damage.The driver of V1, a 69-year old female, did not suffer any injuries as a result of the impact.  The interview with the driver of V1 did not yield much information.  She was not really sure what the reason for this crash was.  She claimed that there was another car directly in front of her vehicle and behind V2.  She stated that the car in front of hers went around V2, which was waiting to make a left hand turn into a daycare center.  As soon as she realized the impending danger she hit the brakes.  This action was unfortunately not enough to prevent the crash from occurring.  The driver of V1 claimed to be in good health; however, she was taking some prescription medication.  One prescription was a hormone-replacement medication and the other medication was a thyroid-replacement medication.  No deviance from the driver's normal sleep pattern was noted, and she claimed to be well rested at the time of the incident.  Further, no emotional stresses were believed to be a factor in this crash.  She was wearing her prescription lenses that corrected both hyperopic and myopic vision conditions. The Critical Precrash Event for this driver was when another motor vehicle was stopped in her lane.  The Critical Reason was coded as an \"other\" recognition error - driver focused on extraneous vehicle. The driver kept watching the vehicle she had been following as it swerved around V2. The weather was also coded as an associated factor - it was drizzling at the time of the crash.",
+        "This crash occurred on a two lane undivided roadway intersecting with another two lane undivided roadway with no grade and a posted speed limit of 48KMPH (30MPH). This crash occurred on a weekday evening.Vehicle #1, a 1993 Ford Taurus, was traveling on the two lane undivided roadway behind Vehicle #2, a 1996 Volkswagen Jetta, which was stopped at a red light. Vehicle #1 impacted with the rear of  Vehicle #2 with its front. Both vehicle came to rest in the intersection. Vehicle #2 was towed from the scene.The Ford Taurus (vehicle #1) was driven by a belted 19 year old male who was not injured. The driver stated Vehicle #2 had come to a stop and started to pull forward, but stopped again.",
+        "     The crash occurred in the westbound lanes of a four-lane roadway separated by a raised curb median (two lanes each direction) at an intersection controlled by a traffic signal.  Conditions were daylight with clouds in the afternoon on a weekday.  The posted speed limit was 64 kmph (40 MPH).  The westbound lanes had a negative 2 percent slope.     V1 was a 2004 Chevy Cavalier sedan traveling around a jug-handle intending to turn left at the intersection with the east/west roadway.  V2, a 2002 Buick Century sedan, was traveling westbound in the left lane intending on continuing straight through the intersection with a green traffic control signal.  The driver of V1 stated that she stopped for a red traffic signal, and when she thought that her light had changed to green, she entered the intersection. The front of V1 struck the right front side of V2.  V2 was deflected to the left and onto the grass median where the front of V2 struck a traffic control signal post.  V1 came to final rest facing southeast and V2 came to final rest facing southwest.  A witness that was identified on the police report as traveling to the right of and behind V2 indicated that the traffic signal for westbound traffic had been green. The county's highway department reviewed the tripped curcuit and verified that traffic on the jug-handle (V1) had a red light.     A 41-year old female drove V1 and was not injured.  She stated that she was traveling around the jug-handle intending on turning left at the intersection with a possible green traffic control signal when V2 struck the front of her vehicle.  The driver of V1 did not have time to take any avoidance actions.  V1 was traveling between 11-20 MPH at the time of impact.  V1 was towed due to damage."
+    ]
+}

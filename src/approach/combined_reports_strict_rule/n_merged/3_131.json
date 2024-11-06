@@ -1,0 +1,80 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "48KPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 4,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004112161",
+        "2005002585724",
+        "2005002229242"
+    ],
+    "description": [
+        "The crash occurred in the westbound lane of a two-lane roadway with an adjacent T-intersection.  Conditions were daylight and dry and EMS was dispatched in the early evening of a weekday.  The roadway had a posted speed of 40 MPH and a 1% uphill grade.V1 was a 2002 Lexus RX 300 SUV that was initially traveling before coming to a complete stop at the intersection and intending on turning left.  V2 was a 1994 Ford Taurus sedan directly in back of V2 intending on going straight.  The driver of V2 was looking to the left then looked straight ahead.  V2 tried to steer left and brake to avoid V1.  The front of V2 struck the back of V1 in the westbound lane.  Both vehicles came to final rest facing west.",
+        "\tThis crash occurred on a weekday afternoon in an intersection between two, two lane undivided, bituminous roadways.  The East/West roadway was dry and straight with a posted speed limit of 89kmph (55mph) and a -2% grade.  This roadway had a black on yellow intersection warning with flashing yellow beacon with a suggested speed of 72kmph (45mph) prior to the intersection.  The North/South roadway was a dry, level roadway with a posted speed limit of 72kmph (45mph) and was controlled by a stop sign.  There was also a flashing signal, yellow for the main roadway and red for the cross street.  \tV1, a 1993 Chevrolet Prizm, was stopped in the northbound lane for the stop sign and flashing red beacon.  V2, a 2001 Jeep Wrangler, was westbound approaching the same intersection.  V1 entered the intersection and was struck in the right side by the front of V2.  V1 rotated counterclockwise and the right side struck the left side of V2.  V2 continued forward a short distance, struck a light pole with its front and came to rest facing west.  V1 continued off the right side of the roadway and swiped an 80 cm diameter tree with its right side.  V1 than struck a 120 cm diameter tree with its front and came to final rest facing west. Both vehicles were towed due to damage.      \tV1 was driven by a belted 20year-old female who was transported, treated and released for minor injuries.  The driver could not be located or contacted for additional information.  She did state to the police that she did not see V2 coming when she proceeded into the intersection.",
+        "This crash occurred on a level two lane undivided straight roadway with a posted speed limit of 48KPH (30mph). The roadway was straight. The intersecting roadway was a two lane undivided roadway Conditions were dry and crash occurred in the early afternoon hours of a weekday.Vehicle #1 was a 1996 Ford  Contour was traveling in the east bound lane, then making a left turn at the intersection after an uninvolved truck had just passed in the westbound lane. Vehicle #2 was a 2004 Honda Motorcycle traveling westbound behind the uninvolved truck.  Vehicle #1, the Ford Contour, made the left turn immediately after the truck and in front of  Vehicle #2, the Honda Motorcycle.  Vehicle #2 impacted Vehicle #1 on the  right front  side with it's front.The Ford Contour (Vehicle #1) was driven by a 43-year old male who was transported to an area hospital with minor injuries. He was wearing his prescription contact lenses and a pair of sunglasses at the time of the crash.  He stated there was a truck in his way and he didn't see the motorcycle. He did not stop before making the turn. He stated he was traveling less than 20 MPH at impact.  This vehicle was towed due to damage."
+    ]
+}

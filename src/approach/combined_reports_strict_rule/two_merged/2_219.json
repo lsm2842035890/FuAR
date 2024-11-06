@@ -1,0 +1,58 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "normal"
+    ],
+    "speedlimit": "64KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005002229442",
+        "2005002229202"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on late morning on a weekday.Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had been stopped in the northbound  traveling lane waitng for traffic to pass and intending to make a left turn into the parking lot.The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at the scene and refused further medical attention. He stated he was looking at an exterior site, to the right of his vehicle, and did not realize the vehicle in front of him was stopped.",
+        "   This crash occurred on a level two-lane undivided straight roadway with a posted speed limit of 64 KMPH (40 MPH).  Many driveways for retail establishments intersect with the roadway. There is a side road with a control device with a pedestrian signal, which was mentioned by the drivers of both vehicles, 100 meters north of the crash site. The weather was clear and the roadway was dry. The crash occurred on a weekday afternoon.    Vehicle #1, a 2000 Pontiac Grand Am, was traveling south on the two lane undivided roadway. Vehicle #2 pulled out from a fast food establishment's driveway making a left turn in front of Vehicle #1. Vehicle #1 impacted the left front corner of Vehicle #2 with its front right. Both vehicles came to rest in the roadway facing their intended directions.    The 2000 Pontiac Grand Am (Vehicle #1) was driven by a 16-year old belted female who was transported to an area hospital, treated and released. The vehicle was pushed out of the roadway to a parking lot and then towed from the scene."
+    ]
+}

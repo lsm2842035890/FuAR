@@ -1,0 +1,63 @@
+{
+    "weather": [
+        "rainy",
+        "foggy",
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "normal",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 6,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004112021",
+        "2005004112741"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a T-intersection with a grass median.  There was one northbound left-turn only lane with a traffic control and two eastbound lanes with the same traffic control signal.  Conditions were overcast with rain with light fog in the early afternoon of a weekday.  The roadway had a posted speed of 45 MPH.     Vehicle 1 was a 1988 Mercedes Benz 300SL stopped for the traffic control intending on turning left.  Vehicle 2 was a 2002 Mercury Mountaineer driving eastbound in the right lane approaching the traffic control.  The light for the Mercedes turned green and the vehicle started turning left when the front of the Mercury struck the left-front corner of the Mercedes.  The Mercedes rotated CCW 90 degrees and the vehicle's final rest was facing east in the eastbound lane.  Final rest for the Mercury was facing east in the eastbound lane as well. ",
+        "     The crash occurred in the eastbound lane of a three-lane T-intersection.  Conditions were daylight and dry in the late afternoon on a weekday.  The posted speed limit was 45 MPH with a 5% downhill grade and a curve-left.       V1 was a 2004 Jeep Cherokee SUV traveling westbound in the right travel lane approaching the T-intersection intending on turning left.  V2, a 1990 Mitsubishi Galant sedan, was traveling eastbound in the right lane intending on going straight.  The front of V2 struck the right side of V2 in the eastbound lane.  V1 came to final rest facing southbound and V2 came to final rest facing eastbound."
+    ]
+}

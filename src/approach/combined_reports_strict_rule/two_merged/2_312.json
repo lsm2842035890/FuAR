@@ -1,0 +1,60 @@
+{
+    "weather": [
+        "rainy",
+        "foggy",
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "normal",
+        "bright"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004112021",
+        "2005012695903"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a T-intersection with a grass median.  There was one northbound left-turn only lane with a traffic control and two eastbound lanes with the same traffic control signal.  Conditions were overcast with rain with light fog in the early afternoon of a weekday.  The roadway had a posted speed of 45 MPH.     Vehicle 1 was a 1988 Mercedes Benz 300SL stopped for the traffic control intending on turning left.  Vehicle 2 was a 2002 Mercury Mountaineer driving eastbound in the right lane approaching the traffic control.  The light for the Mercedes turned green and the vehicle started turning left when the front of the Mercury struck the left-front corner of the Mercedes.  The Mercedes rotated CCW 90 degrees and the vehicle's final rest was facing east in the eastbound lane.  Final rest for the Mercury was facing east in the eastbound lane as well. ",
+        "\tV1, a 1997 Pontiac Grand Am, was traveling eastbound on a 4-lane, 2-way, dry asphalt roadway in daylight conditions.  V1 was traveling in lane one intending to turn right at a T-intersection.  V2, a 2005 Dodge Grand Caravan, was stopped for a red light in lane one in front of V1 on the same roadway, also intending to turn right. The posted speed limit was 56 kmph (35 mph). The front of V1 contacted the back of V2.  Both vehicles came to final rest off the south road edge.\tThe driver of V1 was a 21-year old male who had reported that he had been traveling between 18-32 kmph (11-20mph) prior to the crash.  He had no health related problems and had taken no medication prior to the crash.  He was rested and traveling to a restaurant.  He does not wear corrective lenses.  He was uninjured and refused treatment.\tThe Critical Precrash Event for the driver of V1 was other motor vehicle in lane, other vehicle stopped.  The Critical Reason for the Critical Precrash Event was a recognition error, an external distraction, because he stated that he was looking at approaching traffic to his left and did not realize that the vehicle ahead of him had stopped."
+    ]
+}

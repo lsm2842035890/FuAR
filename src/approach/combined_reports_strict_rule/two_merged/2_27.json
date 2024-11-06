@@ -1,0 +1,61 @@
+{
+    "weather": [
+        "clear",
+        "cloudy"
+    ],
+    "lighting": [
+        "dark",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004112402",
+        "2005004112761"
+    ],
+    "description": [
+        "     The crash occurred in the eastbound lane of a two-lane roadway with a T-intersection.  Conditions were dusk and dry in the evening on a weekend.  The northbound lane had a posted speed limit of 40 kmph (25 mph) and the eastbound lane had a posted speed limit of 56 kmph (35 mph).     V1 was a 2003 Hyundai Elantra sedan traveling eastbound in the right lane approaching a T-intersection.  V2, a 1998 Ford Taurus sedan, was traveling northbound in the right lane approaching a stop sign intending on turning left.  V2 stopped at the stop sign, looked in both directions but there was landscaping and a fence obstructing V2's view.  V2 then proceeded to turn left and the front of V1 struck the left side of V2 in the intersection., as V1 passed by V2, V2's right front contacted the back of V1.  V1 continued on and struck a curb and a tree.  V1 came to final rest facing eastbound.  V2 continued on and struck a curb and came to final rest facing northwest.",
+        "      The crash occurred in the eastbound lane of a two-lane roadway with an intersection controlled by a traffic control.  Conditions were cloudy and dry in the afternoon on a weekday.  The posted speed limit was 72 kmph (45 mph).     V1 was a 2005 Hyundai Santa Fe SUV traveling in the first travel lane approaching the intersection controlled by a traffic signal intending on going straight.  V2, a 2000 Sterling A9500 M/H truck, was stopped at the intersection with a red traffic control signal.  The front of V1 struck the back of V2 in the eastbound lane.  Both vehicles came to final rest facing eastbound.     V1 was driven by a 69-year-old male who sustained moderate injuries and was transported to a local hospital.  The driver of V1 refused to be interviewed.  V1 was towed due to damage.  "
+    ]
+}

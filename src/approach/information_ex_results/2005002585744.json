@@ -1,0 +1,37 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005002585744",
+    "description": "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The weather was clear, the roadway dry and it was daylight at the time of the crash.     Vehicle 1, a 1996 Honda Civic, was traveling east on the roadway behind Vehicle 2, a 2002 GMC Envoy.  Vehicle 2 observes a non-contact vehicle in front of it slowing to make a left into a driveway.  Vehicle 2 decelerates and is struck in the rear by the front of Vehicle 1.  Vehicle 2 is pushed forward and drives off the road to the right coming to rest facing east off the south shoulder.  V1 came to rest facing east off the south shoulder.Vehicle 1 was towed due to damage and Vehicle 2 was driven from the scene.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests."
+}

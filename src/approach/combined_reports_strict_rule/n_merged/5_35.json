@@ -1,0 +1,108 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "clear",
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "bright",
+        "bright",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "48KPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 6,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005006445022",
+        "2005045587801",
+        "2005004112161",
+        "2005045587921",
+        "2005002229242"
+    ],
+    "description": [
+        "\tThis crash occurred in the evening with no adverse weather conditions, and the roadway was dry.  It took place on a two-lane undivided roadway that ran east/west.  V2, a 2000 Dodge Stratus, was stopped at the traffic control device (a tri-color light without pedestrian crossing signs).  V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2 from behind.  For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a 43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained from either driver.               The Critical Precrash Event for the driver of V1 was coded as: \"Other motor vehicle in lane, other vehicle stopped.\"  The Critical Reason was coded as \"Type of driver error unknown,\" due to the lack of an interview. An associated factor was alcohol use - the police report indicates that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for alcohol testing. The results of that testing were not made available.",
+        "    The crash occurred at the intersection of an east/west two-lane state secondary arterial road and a north/south two-lane residential road.  The residential road intersected from the north to form the three-leg intersection and had a stop sign and a flashing red traffic signal.  Traffic on the arterial road had a flashing yellow caution signal in both directions at the intersection.  West of the intersection the arterial road is straight and level.  East of the intersection the arterial curves to the south with a radius of curvature of 141m and had a slight downgrade as it approached the intersection.  The posted speed limit was 56kmph (35mph).  Construction grading was underway on the south side of the road, the arterial was being widened to four lanes and straightened.  At the time of the crash no workers were present only materials that had been at the site for several months.  There are no construction warning signs since traffic is not affected by the roadwork.  Conditions were daylight and dry on a weekday afternoon.    Vehicle #1 was a 2002 Ford Focus traveling east on the two-lane arterial road.  Vehicle #2, a 1996 Chevrolet Lumina, was westbound on the same road.   Vehicle #1 attempted to turn left on the two lane residential road and its front was struck by the front left of Vehicle #2.  Both vehicles came to rest near impact and were towed due to damage.      Vehicle #1 was driven by a 48-year-old female that was belted with deployed frontal airbags and not injured in the crash.  She stated that the other vehicle slowed down and she assumed it was stopping at the intersection.  She drove the road monthly but felt the intersection was somewhat confusing.  ",
+        "The crash occurred in the westbound lane of a two-lane roadway with an adjacent T-intersection.  Conditions were daylight and dry and EMS was dispatched in the early evening of a weekday.  The roadway had a posted speed of 40 MPH and a 1% uphill grade.V1 was a 2002 Lexus RX 300 SUV that was initially traveling before coming to a complete stop at the intersection and intending on turning left.  V2 was a 1994 Ford Taurus sedan directly in back of V2 intending on going straight.  The driver of V2 was looking to the left then looked straight ahead.  V2 tried to steer left and brake to avoid V1.  The front of V2 struck the back of V1 in the westbound lane.  Both vehicles came to final rest facing west.",
+        "    The crash occurred at the T-intersection of an east/west two-lane secondary arterial road and a north/south two-lane local road.  The arterial curves to the south (left) as it approaches the intersection from the east with a radius of curvature of 375m.  Traffic counts indicate it carries 9,036 vehicles per day with a posted speed limit of 72kmph (45mph).  The local road is straight and is controlled by a stop sign with a posted speed of 48kmph (30mph).  Conditions were daylight and dry on a weekday morning.    Vehicle #1 was a 1999 Ford F-250 pickup pulling a trailer loaded with four horses westbound on the two lane arterial road.  Vehicle #2, a 1999 Toyota Corolla, was southbound on the local road.  Vehicle #2 attempted to make a left turn to go east when its left side was struck by the front of Vehicle #1.   After impact the F-250 (V1) rotated counterclockwise and jackknifed with the truck coming to rest partially off the south side of the intersection facing southeast.  The trailer remained on the road and came to rest facing southwest.  The Corolla (V2) rotated clockwise and came to rest just off the south side of the road facing southwest.    Vehicle #1 was driven by a 25-year-old female that was belted with no deployed airbags and not injured in the crash.    She stated that she began to decelerate as she approached because the other vehicle appeared to be easing out into the intersection.  However, she didn't believe the Corolla (V2) would continue because of lack of gap distance.  Once she realized Vehicle #2 was beginning to turn she applied her brakes, honked the horn and steered to the left in an attempt to avoid a collision.  ",
+        "This crash occurred on a level two lane undivided straight roadway with a posted speed limit of 48KPH (30mph). The roadway was straight. The intersecting roadway was a two lane undivided roadway Conditions were dry and crash occurred in the early afternoon hours of a weekday.Vehicle #1 was a 1996 Ford  Contour was traveling in the east bound lane, then making a left turn at the intersection after an uninvolved truck had just passed in the westbound lane. Vehicle #2 was a 2004 Honda Motorcycle traveling westbound behind the uninvolved truck.  Vehicle #1, the Ford Contour, made the left turn immediately after the truck and in front of  Vehicle #2, the Honda Motorcycle.  Vehicle #2 impacted Vehicle #1 on the  right front  side with it's front.The Ford Contour (Vehicle #1) was driven by a 43-year old male who was transported to an area hospital with minor injuries. He was wearing his prescription contact lenses and a pair of sunglasses at the time of the crash.  He stated there was a truck in his way and he didn't see the motorcycle. He did not stop before making the turn. He stated he was traveling less than 20 MPH at impact.  This vehicle was towed due to damage."
+    ]
+}

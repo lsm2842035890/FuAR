@@ -1,0 +1,97 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "clear",
+        "rainy"
+    ],
+    "lighting": [
+        "dark",
+        "light",
+        "bright",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 5,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005003498523",
+        "2005003498481",
+        "2005004112721",
+        "2005004112521"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "This crash occurred at the intersection of a two-way roadway with one lane in each direction and a one-lane, one-way roadway.  It was daylight and the roadway was straight and level and it was clear with patches of ice that formed from the night before.  The speed limit was 48kph (30mph).  \tVehicle #1, a 1999 Ford Crown Victoria, was traveling westbound on the two-way roadway.  Vehicle #2, a 1993 Ford Crown Victoria, was traveling northbound on the one-way roadway.  At the intersection, the front of Vehicle #2 contacted the left side of Vehicle #1.  Vehicle #1 then struck a pedestrian standing on the northwest corner of the intersection.  The pedestrian sustained no injuries.\tThe 1999 Ford Crown Victoria was driven by a 48-year old male who sustained no injuries and was not transported to the hospital.  The vehicle was used as a livery taxicab, and he was transporting one passenger.  He stated that he had the green light and was trying to avoid Vehicle #2 by steering right.  The driver also stated that Vehicle #2 was traveling at a high rate of speed and disregarded the traffic control signal.  This vehicle was driven from the scene.  The driver of Vehicle #1 was not thought to have contributed to the crash.",
+        "     The crash occurred in the middle of a four-way intersection.  The northbound travel lane was controlled by a stop sign.  Conditions were daylight and dry in the afternoon on a weekday.  The posted speed limit was 35 MPH and both roads were level.     V1 was a 2002 Mazda 323 hatchback traveling northbound in the right lane approaching an intersection controlled by a stop sign intending on going straight.  V2, a 1997 Nissan Maxima sedan, was traveling eastbound in the right lane approaching the intersection intending on going straight.  The front of V1 struck the right side of V2.  V1 came to final rest facing northeast.  V2 came to final rest facing eastbound.     V1 was driven by a 61-year-old male who was not injured.  He stated that he was stopped at the stop sign, looked in both directions, then proceeded thru the intersection but saw V2 in the corner of his eye.  The driver of V1 braked and swerved right but was unable to avoid contact with V2.  V1 was traveling between 1 and 10 MPH at the time of impact.  V1 was towed due to damage.",
+        "The crash occurred in the middle of a four-way intersection.  Conditions were daylight with rain in the morning on a weekday.  Both lanes had a posted speed limit of 72 kmph (45 mph).       V1 was a 2003 Kia Rio sedan traveling southbound in the right lane approaching the intersection with a blinking beacon light.  V2, a 2002 Honda Civic sedan, was traveling northbound in the right lane approaching the same intersection.  V1 made a left turn in front of V2 and the front of V2 struck the right side of V1 in the middle of the intersection.  The two vehicles then side-slapped the front right bumper of V1 hit the right rear wheel rim of V2.  V1 came to final rest facing west.  V2 came to final rest facing northeast.      V1 was driven by a 44-year-old female who was not injured.  She stated that she thought that V2 was turning so she made a left turn in front of V2.  The front of V2 struck the right side of V1.  V1 was traveling between 50 and 64 kmph (31 and 40 mph) at the time of impact.  V1 was towed due to damage."
+    ]
+}

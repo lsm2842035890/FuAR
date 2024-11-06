@@ -1,0 +1,72 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "cloudy"
+    ],
+    "lighting": [
+        "dark",
+        "normal",
+        "dark",
+        "light"
+    ],
+    "speedlimit": "64KPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 4,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005005447482",
+        "2005002229202",
+        "2005002229102"
+    ],
+    "description": [
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device for this 'T' intersection. The conditions were as follows: late evening, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were both on a -2% roadway. The posted speed limit for vehicle one (V1) and vehicle two (V2) was 72 kph (45 mph). V1 was a 2005 Toyota Tundra, traveling southbound. V1 struck V2 in the center part of V2's rear bumper. The driver side airbags for V1 inflated, and the driver was wearing his seatbelt. The impact caused V1 to push V2 further down the roadway. V1 and V2 came to final rest in the roadway. V1 was towed due to damage. V2 was able to be driven from the scene. The Critical Precrash Event for V1 was coded as other motor vehicle in lane and was stopped. The Critical Reason for the Critical Precrash Event is internal distraction - a driver error. In the PAR the driver stated that items in the front seat area started to fall. He took his eyes off the road to look at the items and when he looked back it was too late to stop. After numerous attempts to try and attain an interview, they were unsuccessful.",
+        "   This crash occurred on a level two-lane undivided straight roadway with a posted speed limit of 64 KMPH (40 MPH).  Many driveways for retail establishments intersect with the roadway. There is a side road with a control device with a pedestrian signal, which was mentioned by the drivers of both vehicles, 100 meters north of the crash site. The weather was clear and the roadway was dry. The crash occurred on a weekday afternoon.    Vehicle #1, a 2000 Pontiac Grand Am, was traveling south on the two lane undivided roadway. Vehicle #2 pulled out from a fast food establishment's driveway making a left turn in front of Vehicle #1. Vehicle #1 impacted the left front corner of Vehicle #2 with its front right. Both vehicles came to rest in the roadway facing their intended directions.    The 2000 Pontiac Grand Am (Vehicle #1) was driven by a 16-year old belted female who was transported to an area hospital, treated and released. The vehicle was pushed out of the roadway to a parking lot and then towed from the scene.",
+        "     This crash occurred on a level two lane undivided roadway with a posted speed limit of 64KPH (40MPH).  There was an intersecting roadway to the left and a driveway to the right. There was a traffic control signal at the intersection. The weather was cloudy, the roadway was dry and it was dark, but lighted at the time of this late night weekday crash.     Vehicle #1, a 1987 Honda Accord, was traveling south on the two lane undivided roadway approaching the intersection. It should be noted that the traffic control signal was lighted red. Vehicle #2, a 1994 Honda Civic was stopped at the signal awaiting a green light, in front of Vehicle #1. Vehicle #1's front impacted Vehicle #2's rear. Vehicle #2 was pushed through the intersection and came to rest facing in a southwesterly direction. Vehicle #1 came to rest facing in a southerly direction.     The Honda Accord (Vehicle #1) was driven by an unbelted 19 year old female who was transported, treated and released for minor bleeding to the head. She stated that she did not see the other vehicle, that she was also looking down to retrieve a dropped water bottle as well as attempting to put on her seat belt. Vehicle #1 was towed due to damage and was destroyed before the inspection could be done."
+    ]
+}

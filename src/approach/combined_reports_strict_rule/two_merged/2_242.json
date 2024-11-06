@@ -1,0 +1,61 @@
+{
+    "weather": [
+        "clear",
+        "rainy"
+    ],
+    "lighting": [
+        "dark",
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005006445022",
+        "2005002585643"
+    ],
+    "description": [
+        "\tThis crash occurred in the evening with no adverse weather conditions, and the roadway was dry.  It took place on a two-lane undivided roadway that ran east/west.  V2, a 2000 Dodge Stratus, was stopped at the traffic control device (a tri-color light without pedestrian crossing signs).  V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2 from behind.  For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a 43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained from either driver.               The Critical Precrash Event for the driver of V1 was coded as: \"Other motor vehicle in lane, other vehicle stopped.\"  The Critical Reason was coded as \"Type of driver error unknown,\" due to the lack of an interview. An associated factor was alcohol use - the police report indicates that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for alcohol testing. The results of that testing were not made available.",
+        "     The crash occurred on a level four lane undivided roadway at a four-leg intersection controlled by a traffic signal.  The posted speed limit was 35 MPH (56 KPH).  It was raining, the roadway was wet and it was daylight at the time of this weekday morning crash.     Vehicle #1, a 1998 Ford Contour, was traveling west exiting a parking lot driveway controlled by a flashing red light.  Vehicle #2, a 2000 Dodge Durango, was traveling north in the second lane of the main road approaching the intersection.  Vehicle #1 entered the intersection to turn left and was struck in the left side by the front of Vehicle #2.  Vehicle #1 was rotated counterclockwise, across the southbound lanes and came to rest off the road facing in a southeasterly direction.  Vehicle #2 drove off the road to the right and stopped in a parking lot.  Both vehicles were towed due to damage.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Ford Contour (Vehicle #1) was driven by a belted 69 year old female who was transported, treated for fractured ribs and released from a local hospital.  She stated that she had just left the feed store and was waiting to pull out to make a left hand turn.  She indicated that she had been stopped for more than 10 seconds prior to proceeding and waited until other traffic had a red light as she always did.  She stated that other vehicles had stopped, but the vehicle that hit her didn't. She stated she wore glasses for myopic (near-sighted) and hyperopic (far-sighted) conditions. She had a hearing deficiency and was wearing a hearing aid at the time of the crash.  She considered herself in fair health."
+    ]
+}

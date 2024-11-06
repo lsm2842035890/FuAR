@@ -1,0 +1,67 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn right",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005043601782",
+        "2005012696003"
+    ],
+    "description": [
+        "This two-vehicle crash occurred at a T type intersection in a rural area. The crash happened where a north/south two-lane road intersects with an east/west two-lane road. The conditions were clear, dry, daylight and both roadways had posted speed limit of 72 kmph (45 mph).V1, a 1998 Plymouth Voyager with three occupants, was traveling south approaching the intersecting road. V2, a 2001 Saturn SL2 with one occupant was traveling east approaching the same intersection. Both vehicles entered the intersection and collided at a right angle. The front of V1 struck the left side of V2 and subsequently side slapped. V1 departed the left side of the road and struck a street sign and mailbox. V1 came to final rest on the southeast roadside and V2 came to rest on the south roadside. Both vehicles were towed due to damage.V1 was driven by a 30-year-old female that was traveling this afternoon in her 1998 Plymouth Voyager with her husband and two young sons. She was returning home after buying some paint and completing some other errands. As she drove south on a 2-lane undivided road, she noticed ahead of her a white Saturn at an intersecting road begin to \"inch\" forward. As this driver got closer to the intersection, she could see the Saturn still slowly moving forward, so she took her foot off the accelerator. Finally, the Saturn coming from this driver's right side, turned left in front of her as she entered the intersection. This driver said she tried to swerve left, around the car, but was not able to avoid the crash. The front of her minivan struck the left side of the Saturn, departed the left side of the road, struck a mailbox, and came to final rest on the front lawn of a home. This driver received a small scratch to her right thigh after striking the keys hanging from her ignition. She was not treated and none of her passengers were injured. ",
+        "\tV1, a 1997 Dodge Ram pickup, was traveling eastbound on a three-lane, two-way, dry asphalt roadway in daylight conditions.  V1 was approaching a T-intersection intending to turn right.  V2, a 2003 Pontiac Grand Am, was traveling southbound on a four-lane, two-way, dry asphalt roadway approaching the same intersection.  V2 was intending to go straight.  The posted speed for both roadways was 89 kmph (55 mph). Eastbound traffic was controlled by a stop sign; south and northbound traffic had no traffic control device. V1 stopped at the stop sign for 10 seconds or more.  V1 then made a right-hand turn.  The front of V2 contacted the left of V1 before they both came to final rest in the roadway.\tThe driver of V1 was a 68-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash.  He had no health-related problems and had taken no medication prior to the crash.  He was rested and traveling to the store.  He did not wear corrective lenses.  He was uninjured in the crash and refused treatment.  \tThe Critical Pre-crash Event for the driver of V1 was: this vehicle traveling, turning right at intersection.  The Critical reason for the Critical Pre-crash Event was a recognition error: inadequate surveillance (e.g. failed to look, looked but did not see) because he stated that he had looked both ways but did not see V2."
+    ]
+}

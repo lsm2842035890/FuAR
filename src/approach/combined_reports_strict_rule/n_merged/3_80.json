@@ -1,0 +1,66 @@
+{
+    "weather": [
+        "clear",
+        "rainy",
+        "rainy"
+    ],
+    "lighting": [
+        "bright",
+        "bright",
+        "dark"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005003498401",
+        "2005005447062",
+        "2005002229462"
+    ],
+    "description": [
+        "The crash occurred on the eastbound lane of a two-way road with one lane in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions. There were no traffic control devices and the speed limit was 48kmph (30mph).Vehicle # 1 was a 2004 Mercury Sable that was traveling westbound.  The driver veered into the eastbound lanes and the front of Vehicle # 1 impacted the left side of a legally parked and unoccupied Ford E-Series Van. Vehicle # 1 came to a final rest when it impacted a fence on the sidewalk. The Mercury Sable (Vehicle # 1) was driven by a 55 year-old female who sustained minor injuries and was transported to a local hospital.  The occupant in the front-center seating position did not sustain any injuries but was also transported to a local hospital.  The driver stated that she attempted to stop when she stepped on the accelerator instead of the brake pedal.  The Mercury Sable was towed due to damage and the driver declined to participate in the study.  ",
+        "The crash occurred on a two-way, two-lane, not physically divided roadway.  It was mid-morning and heavy rain was present.  The gradient for both roadways of vehicle 1 and vehicle 2 travel were level.  The posted speed limit on the roadway was 64 kmph (40mph).V1, a 1999 Pontiac Sunfire operated by a 18-year-old male, was traveling westbound.  V2, a 2003 Hyundai Elantra operated by a 24-year-old male, was traveling eastbound.  V1 crossed the centerline, entered the eastbound lane, and impacted V2 head-on.  The impact caused V1 to rotate counterclockwise; V1 came to final rest in the westbound lane facing south.  The driver of V2 was initially traveling straight and then attempted to avoid the collision by steering the vehicle to the right.  V2 rotated clockwise before coming to final rest between a mailbox and telephone pole.  Both vehicles were towed from the scene. The driver of V1 was transported by EMS to a local hospital.  After obtaining the interview from the driver of V1, it is likely that work and sleep patterns contributed to this crash. The driver was traveling home after working the graveyard shift.  ",
+        "This crash occurred on a two lane undivided roadway, curving to the right, with and grade of  -9.8%, and a posted speed limit of 72KMPH (45MPH). It was raining heavily and the roadway was wet. This crash occurred on a weekend evening on a dark unlighted roadway.Vehicle #1, a 1993 Toyota Paseo, was traveling westbound on the two lane undivided roadway, negotiating the curve to the right when it skidded over the left lane line into the eastbound lane and impacted the front right of Vehicle #2, a 2000 Honda Odessy, with its front left. Vehicle #1 continued off the roadway and came to rest on the south side, against a embankment, facing west. Vehicle # 2 came to rest off the roadway on the south side, facing east.The Toyota Paseo (Vehicle #1) was driven by a belted 20 year old male who was not injured. A belted 20 year old male passenger in the front right seat was also not injured."
+    ]
+}

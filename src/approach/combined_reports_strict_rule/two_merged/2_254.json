@@ -1,0 +1,68 @@
+{
+    "weather": [
+        "clear",
+        "cloudy",
+        "rainy"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004495301",
+        "2005004112541"
+    ],
+    "description": [
+        "The crash occurred in the eastbound lane of a two-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The eastbound lane had a posted speed limit of 40 kmph (25 mph) with a stop sign; the southbound lane had a speed limit of 56 kmph (35 mph).V1 was 1999 Pontiac Montana Minivan, which was traveling southbound in the right lane approaching an intersection.  V2, a 1991 Ford Tempo sedan, was traveling eastbound in the right lane approaching the intersection with a stop sign.  V2 stopped at the stop sign and then proceeded through the intersection.  V1's front struck the left side of V2 in the eastbound lane.  V1 came to final rest facing eastbound and V2 came to final rest facing northbound.V1 was driven by a 40-year-old female who was not injured.  She stated that she was going straight, saw V2 stopped at the sign, and then saw V2 accelerate into her path.  The driver of V1 didn't understand why V2 decided to accelerate.  The driver of V1 braked but could not successfully avoid V2.  V1 was traveling between 17-32 kmph (11-20 mph) at the time of impact.  V1 was driven from the scene.  The driver of V1 did not want me to take any pictures of the vehicle.",
+        "     The crash occurred in the southbound lane of a two-lane roadway with a T-intersection.  Conditions were daylight with cloudy skies and rain in the morning on a weekday.  The posted speed limit was 72 kmph (45 mph).     V1 was a 2003 Acura 3.2 TL sedan traveling eastbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Ford Aerostar minivan, was traveling southbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left front corner of V1 in the southbound lane.  V1 spun clockwise and came to final rest facing westbound.  V2 came to final rest facing southbound."
+    ]
+}

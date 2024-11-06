@@ -1,0 +1,58 @@
+{
+    "weather": [
+        "clear",
+        "unknown"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005002229042",
+        "2005004495863"
+    ],
+    "description": [
+        "     The crash occurred on a two lane undivided roadway with a posted speed limit of 48 KPH (30 MPH) and a -2.2% grade.  There was an intersecting driveway to the right with a -13.3% grade.  The weather was clear, the roadway dry and it was daylight at the time of this early morning weekday crash.     Vehicle 1, a 1996 Chevrolet Blazer, was traveling north on the two lane undivided roadway approaching the driveway.  It should be noted that there was a large sign, small hill and telephone pole to this driver's right, which may have obscured the approach of Vehicle 2.  Vehicle 2, a 2000 Toyota Corolla, was traveling west on the driveway approaching the main roadway.  Vehicle 2 entered the main roadway and was struck in the left side by the front of Vehicle 1.  Vehicle 2 was rotated counterclockwise off the left side of the roadway, over a small curb, onto a private lawn and came to rest facing east.  Vehicle 1 continued and came to rest in the southbound lane facing north.     The Chevrolet Blazer (Vehicle 1) was driven by a belted 50-year-old male who was transported, treated and released for a complaint of pain.  Vehicle 1 was traveling north on the roadway and saw Vehicle 2 coming down the driveway off to the right.  He put on his brakes and steered right but hit Vehicle 2 on the left side.  Vehicle 1 was towed due to damage.",
+        "     The crash occurred in the northbound lane of a two-lane roadway with a driveway related intersection.  Conditions were daylight in the morning on a weekend.  The posted speed limit for the northbound lane was 35 MPH.  There was no posted speed limit for the driveway.     V1 was a 2001 Buick Century sedan turning left out of the driveway facing westbound.  V2, a 2005 Toyota Tundra pick-up, was traveling northbound in the 1st travel lane approaching the driveway intending on going straight.  V1 made a left turn and the front of V2 struck the left side of V1 in the northbound lane.  Both vehicles came to final rest facing northbound.     V1 was driven by a 76-year-old female who sustained moderate injuries and was transported to a local hospital.  She stated that prior to exiting the driveway, she looked both ways and couldn't see to her left because of a big sign.  She proceeded to turn left and struck V2.  V1 did not take any avoidance actions and was traveling less than 10 MPH at the time of impact.  V1 was towed due to damage."
+    ]
+}

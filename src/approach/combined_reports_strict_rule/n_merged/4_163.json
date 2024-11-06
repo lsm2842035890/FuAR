@@ -1,0 +1,91 @@
+{
+    "weather": [
+        "unknown",
+        "clear",
+        "clear",
+        "rainy"
+    ],
+    "lighting": [
+        "unknown",
+        "bright",
+        "dark",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 5,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005006445082",
+        "2005002585224",
+        "2005005289822",
+        "2005004112521"
+    ],
+    "description": [
+        "\tThis motor vehicle crash took place on a two-lane roadway.  This roadway has a set of rail tracks dividing the two lanes.  The roadway runs north/south with one lane in each direction and the posted speed limit was 40 kmph (25 mph).  The north/south roadway was not controlled by any TCD's (traffic control devices).\tV1, a 1995 Jeep Grand Cherokee Sport Utility Vehicle, was traveling northbound in lane one.  V2, a 2001 Hyundai Sonata, came out of a parking lot onto northbound lane one, attempting to turn right.  V1 was unable to stop and ended up striking the left side of V2 with its front end.  Both vehicles came to rest.\tNo interview was obtained from the driver of V1, a 26-year old female. According to an eyewitness account, V1 was traveling at about 30mph. V2 pulled out of the lot carelessly, not looking in either direction nor making a full stop at the stop sign while exiting the parking lot. The eyewitness was in a vehicle traveling behind V1 at time of the crash.",
+        "     The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH).  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.     Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking.  Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway.  Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn.  Vehicle #2 braked and steered left to avoid a collision.  Vehicle #2 struck Vehicle #1 in left side with its front.  Vehicle #2 came to rest facing in a northwesterly direction.  Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm.  He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work.  He stated that he had glanced at the traffic light (behind him) and thought it was red.  He also stated that he had looked, but didn't see the bus.  He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers.  Vehicle #1 was towed due to damage.",
+        "This two-vehicle crash occurred in the evening hours in the middle of the two northbound lanes of a physically divided (concrete barrier) bridge.  There were no adverse atmospheric conditions at the time of the crash, although it was dark and no streetlights were present.  The roadway was dry, straight, and level with a posted speed limit of the roadway was 72kph (45mph).  V1, a 2005 Mazda 626, was northbound in lane one on the bridge.  V2, a 1995 Ford Windstar, was disabled on the bridge in lane one ahead of vehicle one.  V1 failed to stop and the front of V1 contacted the back of V2 the impact pushed V2 forward and its right side contacted the right concrete barrier before coming to final rest.  Both vehicles had to be towed from the scene due to vehicle damage.V1 was driven by a 22 year-old female who suffered minor injuries as a result of the collision, but did not require transport to a medical facility.  After numerous attempts, an interview could not be obtained from the driver of vehicle one.  From statements given to the police on scene the driver of V1 had consumed alcoholic beverages prior to the crash but sobriety tests confirmed she was still within the legal limit to operate a motor vehicle.  V1 was towed due to damage.",
+        "The crash occurred in the middle of a four-way intersection.  Conditions were daylight with rain in the morning on a weekday.  Both lanes had a posted speed limit of 72 kmph (45 mph).       V1 was a 2003 Kia Rio sedan traveling southbound in the right lane approaching the intersection with a blinking beacon light.  V2, a 2002 Honda Civic sedan, was traveling northbound in the right lane approaching the same intersection.  V1 made a left turn in front of V2 and the front of V2 struck the right side of V1 in the middle of the intersection.  The two vehicles then side-slapped the front right bumper of V1 hit the right rear wheel rim of V2.  V1 came to final rest facing west.  V2 came to final rest facing northeast.      V1 was driven by a 44-year-old female who was not injured.  She stated that she thought that V2 was turning so she made a left turn in front of V2.  The front of V2 struck the right side of V1.  V1 was traveling between 50 and 64 kmph (31 and 40 mph) at the time of impact.  V1 was towed due to damage."
+    ]
+}

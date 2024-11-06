@@ -1,0 +1,66 @@
+{
+    "weather": [
+        "cloudy",
+        "clear",
+        "cloudy"
+    ],
+    "lighting": [
+        "bright",
+        "dark",
+        "light"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005004495581",
+        "2005004495041"
+    ],
+    "description": [
+        "     The crash occurred in the westbound lane of a two-lane T-intersection.  Conditions were cloudy and dry in the afternoon on a weekday.  The westbound road had a posted speed limit of 50 MPH and the southbound road had a posted speed limit of 25 MPH and was controlled by a stop sign.     V1 was a 1985 Chevy Celebrity sedan traveling southbound in the right lane approaching a stop sign intending on turning left at the T-intersection.  V2, a 1995 Dodge Neon sedan, was traveling westbound in the right lane intending on continuing straight.  An unknown vehicle was traveling westbound on the same roadway and turned right onto the road where V1 originally was.  V1 then turned left and the front of V2 struck the left side of V1 in the westbound lane.  Both vehicles then side-slapped left to right and came to final rest facing southwest.  ",
+        "     The crash occurred in the westbound lanes of a three-lane roadway with a T-intersection.  Conditions were dark with lights, dry with cloudy skies in the evening on a weekday.  The westbound lanes had a posted speed of 80 kmph (50 mph), the southbound lane had a speed limit of 56 kmph (35 mph).     V1 was a 1998 Ford Escort sedan traveling southbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Subaru Legacy sedan, was traveling westbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left side of V1 in the westbound lane.  Both vehicles came to final rest facing westbound.  "
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "weather": [
+        "clear",
+        "cloudy"
+    ],
+    "lighting": [
+        "bright",
+        "unknown"
+    ],
+    "speedlimit": 55,
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "brake"
+                ],
+                [
+                    "steer left"
+                ],
+                [
+                    "drive off"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005002229143",
+        "2005002585263"
+    ],
+    "description": [
+        "     The crash occurred in the westbound lane of a two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH). The roadway was curved to the right with a radius of curvature of 321.4 meters, a superelevation of 4.7% and a -4.6% grade. There was a black on yellow warning sign prior to the curve, but gave no suggested speed. The weather was clear, the roadway dry and it was daylight at the time of this weekday morning crash.     Vehicle #1, a 1997 Jeep Grand Cherokee, was traveling west on the two lane undivided roadway negotiating the curve to the right on a downgrade.  Vehicle #2, a 1997 Peterbilt 379 CBE towing a low boy semi-trailer, was traveling west on the same roadway ahead of Vehicle #1 and turning left into a driveway. Vehicle #2 was partially into the driveway and the trailer was across both east and westbound lanes. Vehicle #1 attempted to avoid Vehicle #2 by braking and steering left.  Vehicle #1 went off the left side of the roadway, up a small snow embankment and rolled over to the right one-quarter turn.  Vehicle #1 continued a short distance and struck the left side of the tractor-trailer with its top.  Vehicle #1 came to rest on its right side facing in a southwesterly direction.  Vehicle #2 was pushed slightly clockwise and came to rest facing in a southwesterly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Jeep Cherokee (Vehicle #1) was driven by a belted 29-year-old male who was transported, treated and released at a local hospital for a complaint of pain.  The belted 29-year-old female right front passenger was airlifted to a trauma center with a complaint of pain.  No interview was obtained from the driver.  Statements and information obtained at the scene from the police indicated that the driver and passenger had been arguing prior to the crash.  It should be noted that the previous day they had had their engagement party. The driver stated that he had failed to observe the tractor-trailer turning and attempted to avoid it. Vehicle #1 was towed due to damage.",
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The road was curved left with a radius of curvature of 375 meters and a superelevation of 1.8% for Vehicle #2. The road was curved right with a radius of curvature of 1875 meters and no superelevation for Vehicle #1.  Both vehicles had black on yellow curve warning signs with a suggested speed of 50 MPH.  The weather was cloudy.     Vehicle #1, a 2000 Chevrolet Cavalier, was traveling west on the two-lane roadway negotiating a curve to the right approaching a driveway.  Vehicle #2, a 1995 Dodge Intrepid, was traveling east on the same roadway negotiating the curve to the left.  Vehicle #1 attempted a left hand turn into the driveway and was struck in the front by Vehicle #2's front.  Vehicle #1 was rotated counterclockwise back across both lanes and came to rest in the westbound lane facing east.  Vehicle #2 continued off the right side of the roadway, came back on the roadway crossed both lanes, off the north side of the road and struck a 25cm pole with its front.  Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Chevrolet Cavalier (Vehicle #1) was driven by a belted 80 year old male who was transported, treated and released for minor injuries.  The right front seat passenger was a belted 72-year-old female who was also transported, treated and released for minor injuries. Both driver and passenger airbags deployed. The interview was refused and no information obtained from the driver. "
+    ]
+}

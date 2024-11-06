@@ -1,0 +1,60 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005002229282",
+        "2005002585502"
+    ],
+    "description": [
+        "This crash occurred on a curve of a two-lane undivided roadway with a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry and level. This crash occurred on a weekend afternoon.Vehicle #1, a red 2003 Buick Century, was traveling south on the two-lane undivided roadway negotiating a curve to the right when it went over the left side double yellow lines into the northbound lane. Vehicle #2, a white 1992 Nissan Sentra, was traveling north on the same roadway negotiating the same curve. Vehicle #1 impacted the front left of Vehicle #2 with its front left. Vehicle #1 spun counter-clockwise and came to rest facing north on the southbound shoulder. Vehicle #2 spun counter-clockwise and came to rest on the northbound shoulder facing south.The Buick Century (Vehicle #1) was driven by a belted 58-year old female who was airlifted to a trauma center and hospitalized due to left leg and abdominal injuries. She stated that she could not remember the actual crash but does remember talking with her passenger and then waking up to see dirt, a broken window and the airbag. The right front passenger in this vehicle was a relative of the driver, a belted 80-year old male with a previous diagnosis of dementia. He was transported to an area hospital. The driver of this vehicle takes several medications for diabetes, high blood pressure, and depression. She also has been diagnosed with sleep apnea. Possible side effects of these medications include drowsiness and lethargy. It should be noted here that a witness described this driver as looking \"like she fell asleep.\"  Vehicle 1 was towed due to damage.",
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 89 KMPH (55 MPH).  The roadway was curved with a radius of curvature of 563 meters and a superelevation of 2.8%.  The weather was clear, the roadway dry and it was daylight at the time of this afternoon weekday crash.     Vehicle #1, a 1992 Toyota 4-Runner, was traveling south on the two-lane roadway negotiating the curve to the right.  Vehicle #2, a 2005 Freightliner School Bus, was traveling north on the same roadway negotiating the curve to the left.  Vehicle #1 crossed the centerline into the northbound lane.  Vehicle #2 attempted to steer right onto the paved shoulder to avoid the collision.  Vehicle #1 continued across the northbound lane onto the paved shoulder and struck Vehicle #2's front with its front.  Vehicle #1 came to rest facing in a southeasterly direction on the east shoulder and Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage.     The Toyota 4-Runner (Vehicle #1) was driven by a belted 27 year old male who received minor bruises, but refused medical treatment.  He stated that as he was negotiating the curve at approximately 64-72 KMPH (40-45 MPH), when his truck pulled to the left and he thought it might have been a wind gust.  He attempted to steer back into his lane, but the steering wheel would not turn.  He was unable to return to his lane and continued to drift into the opposing lane.  He observed the bus coming toward him, but was only able to brake in an attempt to avoid the collision.  The truck left approximately 17 meters of pre-impact skids.  The police issued him a citation for failure to keep right.  He stated that he took no medications and did not wear corrective lenses.  He indicated that he had gotten off work early and was not in a hurry. "
+    ]
+}

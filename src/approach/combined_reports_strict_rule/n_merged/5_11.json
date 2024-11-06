@@ -1,0 +1,113 @@
+{
+    "weather": [
+        "rainy",
+        "clear",
+        "clear",
+        "clear",
+        "rainy"
+    ],
+    "lighting": [
+        "dark",
+        "bright",
+        "dark",
+        "light",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 6,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005005289602",
+        "2005004113122",
+        "2005004495421",
+        "2005003498481",
+        "2005004112521"
+    ],
+    "description": [
+        "This two-vehicle crash occurred in the middle of a T intersection.  The northbound lane was a one-way roadway, which intersected the two-way, two-lane east/west roadway.  A stop sign was present for the one-way traffic, however there were no signs or signals present for the east/west roadway.  The incident occurred in the early morning hours, and it was raining at the time of the crash.  Both roadways were considered to be level, and both roadways had a posted speed limit of 40kph (25mph).  Vehicle one (V1), a 2003 Suzuki XL-7, was traveling north on the one-way roadway approaching the intersection.  Vehicle two (V2), a 1989 Nissan Maxima, was traveling west on the two-way roadway also approaching the intersection.  The front of V2 made contact with the left front of V1.  Both vehicles came to final rest shortly after the impact.  Vehicle one was driven from the scene, however, vehicle two had to be towed due to vehicle damage.  The driver of V1, a 40-year old male, did not suffer any injuries as a result of the crash and did not require any medical attention.   An interview could not be obtained from the driver because the telephone number on the Police Accident Report (PAR) was for a fax machine.  No record of the driver could be found in the phone book or on the Internet.  Through information contained in the PAR, it was revealed that the driver of V1 was not familiar with the area.  Further, he believed that the crossing roadway was also a one-way roadway and that V2 had a stop sign as well.  ",
+        "     The crash occurred in the intersection of a two-lane roadway controlled by a stop sign.  Conditions were daylight and dry in the afternoon on a weekday.  The posted speed limit for both roads was 25 MPH.    V1 was a 2003 Saturn LW 300 station wagon traveling eastbound in the 1st travel lane approaching an intersection controlled by a stop sign intending on going straight.  V2, a 2004 Ford Explorer SUV, was traveling northbound in the 1st travel lane approaching the same intersection intending on going straight.  V1 drove thru the intersection and the front of V2 struck the right side of V1 in the intersection.  V2 then struck a curb.  V1 and V2 came to final rest facing northeast.     V1 was driven by a 56-year-old female who sustained minor injuries but was not transported.  She stated that she was not familiar with this roadway.  As she approached the intersection she was distracted by an ambulance and did not see the stop sign.  She failed to stop for the TCD and struck the front of V2 in the intersection.  The driver of V1 did not take any avoidance actions and was traveling between 21-30 MPH at the time of impact.  V1 was towed due to damage.",
+        "     The crash occurred in the middle of the intersection of a two-lane roadway.  Conditions were dark with lights and dry in the evening on a weekday.  The posted speed limit for both roads was 40 kmph (25 mph).     V1 was a 2005 Toyota Matrix hatchback traveling westbound in the right lane approaching an intersection.  V2, a 2005 Hyundai Accent coupe, was traveling northbound in the right lane approaching the same intersection with a stop sign.  V2 did not stop at the stop sign and the front of V2 struck the left side of V1 in the intersection.  V1 then rolled 6-quarter rolls and came to final rest on its roof facing eastbound.  V2 came to final rest facing northwest.     V1 was driven by a 31-year-old male who was transported with moderate injuries to a local hospital prior to our arrival.  V1 was towed due to damage.  The driver stated that he was traveling through the intersection and the other car just drover through the stop sign, she didn't even slow down.  Driver of V1 gave a partial interview in the ambulance, but would not respond to numerous attempts to contact him via both landline and cell phone.",
+        "This crash occurred at the intersection of a two-way roadway with one lane in each direction and a one-lane, one-way roadway.  It was daylight and the roadway was straight and level and it was clear with patches of ice that formed from the night before.  The speed limit was 48kph (30mph).  \tVehicle #1, a 1999 Ford Crown Victoria, was traveling westbound on the two-way roadway.  Vehicle #2, a 1993 Ford Crown Victoria, was traveling northbound on the one-way roadway.  At the intersection, the front of Vehicle #2 contacted the left side of Vehicle #1.  Vehicle #1 then struck a pedestrian standing on the northwest corner of the intersection.  The pedestrian sustained no injuries.\tThe 1999 Ford Crown Victoria was driven by a 48-year old male who sustained no injuries and was not transported to the hospital.  The vehicle was used as a livery taxicab, and he was transporting one passenger.  He stated that he had the green light and was trying to avoid Vehicle #2 by steering right.  The driver also stated that Vehicle #2 was traveling at a high rate of speed and disregarded the traffic control signal.  This vehicle was driven from the scene.  The driver of Vehicle #1 was not thought to have contributed to the crash.",
+        "The crash occurred in the middle of a four-way intersection.  Conditions were daylight with rain in the morning on a weekday.  Both lanes had a posted speed limit of 72 kmph (45 mph).       V1 was a 2003 Kia Rio sedan traveling southbound in the right lane approaching the intersection with a blinking beacon light.  V2, a 2002 Honda Civic sedan, was traveling northbound in the right lane approaching the same intersection.  V1 made a left turn in front of V2 and the front of V2 struck the right side of V1 in the middle of the intersection.  The two vehicles then side-slapped the front right bumper of V1 hit the right rear wheel rim of V2.  V1 came to final rest facing west.  V2 came to final rest facing northeast.      V1 was driven by a 44-year-old female who was not injured.  She stated that she thought that V2 was turning so she made a left turn in front of V2.  The front of V2 struck the right side of V1.  V1 was traveling between 50 and 64 kmph (31 and 40 mph) at the time of impact.  V1 was towed due to damage."
+    ]
+}

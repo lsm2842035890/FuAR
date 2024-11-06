@@ -1,0 +1,59 @@
+{
+    "weather": [
+        "rainy",
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "dark",
+        "light"
+    ],
+    "speedlimit": 48,
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004495861",
+        "2005002229021"
+    ],
+    "description": [
+        "     The crash occurred in the southbound lane of a two-lane roadway.  Conditions were cloudy with rain in the early evening on a weekday.  The posted speed limit was 40 MPH.  The northbound lane had a -3% downhill grade.  The southbound lane had a positive 2 % uphill grade.     V1 was a 1995 Mercedes Benz S420 sedan traveling northbound in the first travel lane negotiating a curve left.  V2, a 2003 Ford Ranger pick-up, was traveling southbound in the first travel lane about to negotiate the curve.  V1 lost control of her vehicle and began to spin in a counterclockwise rotation.  V1 crossed over the centerline and the front of V2 struck the right side of V1 in the southbound lane.  V1 came to final rest facing southeast.  V2 came to final rest facing easr-southeast.     V1 was driven by a 70-year-old female who was not injured.  She refused to be interviewed but a surrogate interview was obtained by the investigating police officer.  He stated that the driver of V1 was speeding while negotiating the curve, which caused the driver to lose control on the wet pavement.  V1 then spun counterclockwise and crossed over the centerline and struck V2.  The driver of V1 did not take any avoidance actions.  The driver of V1 was traveling between 31 and 40 MPH at the time of impact.  V1 was towed due to damage.",
+        "This crash occurred on the southbound lanes of a five-lane undivided urban highway. There were three southbound lanes that included a left turn lane for the traffic signal-controlled intersection. Conditions were dark, but the roadway was illuminated and dry in the mid-evening hours on a weekend. The roadway had a posted speed limit of 48 KMPH (30 MPH) and the southbound lanes were straight and level. The crash occurred on a weekend during the hours of darkness.Vehicle #1 was a 2002 Hyundai Accent 2-door hatchback driven by a 65-year old female. She was traveling in the first lane of travel, approaching a four-way intersection controlled by a traffic signal. V2, a 1997 Nissan Pathfinder was stopped for a red light in the same lane at the intersection ahead of V1. The driver of V1 stated that she looked to her left at a retail store while braking, thinking that V2 was quite a distance ahead of her. She estimated that she had enough room between her vehicle and Vehicle #2 as she slowed down to the intersection. She stated she probably didn't apply enough braking force, and the front of V1 struck the rear of V2. The driver of V1 was wearing her lap and shoulder seatbelt.  The Critical Precrash Event for the driver of V1 was when another vehicle was in her lane stopped at the intersection. The Critical Reason for the Critical Event was coded as an external distraction. This was chosen because the operator of V1 stated that she was looking at a store to her left as she approached the rear of V2. She also stated that she thought that V2 was farther ahead of her than it actually was. Because of this, she was also coded as misjudging the gap distance to V2. Another associated factor coded to this driver was inadequate evasive action. By her own admission, she did not apply sufficient pressure to her brake pedal. The driver of V1 reported that she was taking four medications:  an unknown diabetes medication, a cholesterol-lowering medication, an anti-inflammatory, and an antidepressant. Only the antidepressant had the possible side effects of dizziness and tiredness. She did not wear glasses for driving. She stated she was two-third's deaf in both ears but could not afford hearing aids although her driving license had a restriction on it indicating that she should be wearing hearing aids. She was familiar with both her vehicle and the roadway. Police did not consider alcohol to be involved and ordered no tests."
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "weather": [
+        "clear",
+        "rainy",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "bright",
+        "dark",
+        "light"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 4,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005006445022",
+        "2005002585643",
+        "2005048103261"
+    ],
+    "description": [
+        "\tThis crash occurred in the evening with no adverse weather conditions, and the roadway was dry.  It took place on a two-lane undivided roadway that ran east/west.  V2, a 2000 Dodge Stratus, was stopped at the traffic control device (a tri-color light without pedestrian crossing signs).  V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2 from behind.  For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a 43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained from either driver.               The Critical Precrash Event for the driver of V1 was coded as: \"Other motor vehicle in lane, other vehicle stopped.\"  The Critical Reason was coded as \"Type of driver error unknown,\" due to the lack of an interview. An associated factor was alcohol use - the police report indicates that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for alcohol testing. The results of that testing were not made available.",
+        "     The crash occurred on a level four lane undivided roadway at a four-leg intersection controlled by a traffic signal.  The posted speed limit was 35 MPH (56 KPH).  It was raining, the roadway was wet and it was daylight at the time of this weekday morning crash.     Vehicle #1, a 1998 Ford Contour, was traveling west exiting a parking lot driveway controlled by a flashing red light.  Vehicle #2, a 2000 Dodge Durango, was traveling north in the second lane of the main road approaching the intersection.  Vehicle #1 entered the intersection to turn left and was struck in the left side by the front of Vehicle #2.  Vehicle #1 was rotated counterclockwise, across the southbound lanes and came to rest off the road facing in a southeasterly direction.  Vehicle #2 drove off the road to the right and stopped in a parking lot.  Both vehicles were towed due to damage.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Ford Contour (Vehicle #1) was driven by a belted 69 year old female who was transported, treated for fractured ribs and released from a local hospital.  She stated that she had just left the feed store and was waiting to pull out to make a left hand turn.  She indicated that she had been stopped for more than 10 seconds prior to proceeding and waited until other traffic had a red light as she always did.  She stated that other vehicles had stopped, but the vehicle that hit her didn't. She stated she wore glasses for myopic (near-sighted) and hyperopic (far-sighted) conditions. She had a hearing deficiency and was wearing a hearing aid at the time of the crash.  She considered herself in fair health.",
+        "This two-vehicle crash occurred at just before midnight at the \"T\" intersection of a two-lane, two-way dry, level, bituminous north/south roadway and a two-lane, two-way, dry, uphill, bituminous roadway that intersects the north/south roadway from the west.  The roadway curves to the right slightly for westbound traffic.  The intersection was controlled by a stop sign for westbound traffic.  The roadway intersects the northbound roadway at a 50-degree angle.  It was dark but lit at the time of the crash and there were no adverse atmospheric conditions.  The posted speed limit for the north/south roadway was 89 kmph (55 mph) and the westbound roadway was 56 kmph (35 mph).Vehicle one (V1), a 2000 Chrysler Cirrus was traveling westbound approaching the intersection.  Vehicle two (V2), a 2002 Ford Explorer was traveling northbound and pulling a trailer loaded with musical equipment.  V1 entered the intersection attempting to turn left while V2 passed through the intersection going straight.  The front of V2 contacted the left side of V1.  V1 deflected to the right and came to rest off of the roadway facing southwest.  V2 rotated counterclockwise and came to rest on the roadway facing south.  While V2 was rotating towards final rest, its trailer contacted the left rear of V2. The driver of V1 was a 19-year old female who maintains a regular sleep schedule of 7 hours of sleep per evening and a normal work schedule of 35 hours per week.  She was fatigued at the time of the crash.  She was familiar with the vehicle and has over 4 years of driving experience.  This was however, her first time on this particular roadway.  The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see)."
+    ]
+}

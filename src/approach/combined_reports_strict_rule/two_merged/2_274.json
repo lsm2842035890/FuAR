@@ -1,0 +1,64 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005012696063",
+        "2005002585683"
+    ],
+    "description": [
+        "\tV1, a 2000 Chevrolet Malibu, was traveling northbound on a three-lane, two way, dry asphalt roadway in daylight conditions. The posted speed limit for V1 was 56 kmph (35 mph). V1 was traveling in the center left turn lane approaching a T-intersection.  V1 was intending to turn left.  V2, a 1996 Jeep Cherokee, was traveling southbound on the same roadway.  The posted speed limit for V2 was 72 kmph (45 mph). V2 was also approaching the intersection, intending to go straight.  The driver of V1 claimed that she had looked but did not see V2 before turning.  The front of V2 contacted the right front side of V1, and then both vehicles came to final rest in the roadway. \tThe driver of V1 was an 80-year old woman who reported that she had been traveling between 2-16 kmph (1-10 mph) prior to the crash.  She had a history of high blood pressure and had taken medication for it prior to the crash.  She was rested and traveling to a restaurant.  She was wearing her prescribed lenses that corrected a hyperopic (far-sighted) condition.  She sustained minor injuries in the crash and was treated on scene, but refused to be transported to a local trauma facility.\tThe Critical Pre-crash Event for the driver of V1 was this vehicle turning left at intersection.  The Critical Reason for the Critical Pre-crash Event was a recognition error: inadequate surveillance (e.g. failed to look, looked but did not see) because she stated that she did not see V2 before initiating her turn.",
+        "     The crash occurred on a level four lane undivided roadway at a four-leg intersection controlled by a traffic signal.  The posted speed limit was 35 MPH (56 KPH). The roadway for Vehicle #2 was slightly curved to the right with a radius of curvature of 1,125 meters. The weather was clear, the roadway dry and it was daylight at the time of this afternoon weekday crash.     Vehicle #1, a 1991 Dodge Dynasty, was traveling north in the second straight/left turn lane approaching the intersection.  Vehicle #2, a 1992 Mazda 626, was traveling south in the right hand lane approaching the same intersection. Both vehicles had a green light. Vehicle #1 stopped waiting for traffic to clear prior to making the left hand turn.  Vehicle #1 proceeded to make the left turn and struck Vehicle #2 in its front with front.  Vehicle #1 drove off the road into a driveway.  Vehicle #2 continued a short distance and came to rest facing in a southerly direction in its original lane.  Vehicle #2 was towed due to damage.  Police did not consider either alcohol or drugs to be involved and ordered no tests.     The Dodge Dynasty (Vehicle #1) was driven by a belted 71 year old female who had a bruise to her right forearm from the deployed airbag, but refused treatment.  She stated that she was on an errand for her grandson at her anticipated destination.  She stated that she had stopped waiting for traffic to clear before making the left, thought she had a green light at the time as she made the turn.  As she proceeded to make the turn, she indicated that she saw the other vehicle \"out of the corner of her eye\" at the last second, but the other vehicle was \"right there\" and she was unable to avoid the crash. She also stated that she had just accelerated from a stop and was traveling no more than 5-10 MPH.  She indicated that the other vehicle was traveling pretty fast and that she never saw her until she was right there."
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "weather": [
+        "snowy",
+        "unknown"
+    ],
+    "lighting": [
+        "bright",
+        "unknown"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ],
+                [
+                    "turn left"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005073438004",
+        "2005004112921"
+    ],
+    "description": [
+        "       A two-vehicle crash occurred in the morning daylight hours on a two lane two-way roadway in an intersection.  The roadway surface asphalt and was snow and ice covered at the time of the crash.  This portion of the roadway is a T intersection.  The east/west roadway intersects with the north end of a two lane two-way roadway (which ends at the T intersection with a stop sign).  A double yellow solid lane line divides the east/west roadway.  A double yellow solid lane line also divides the north/south roadway.  The eastbound lane has a 7% positive grade.  The northbound lane has a 2% negative grade.  Both directions are straight roadways with no design deficiencies or sight restrictions.  The posted speed limit for both roads is 64 kmph (40 mph).       Vehicle one is a 2001 Hyundai GX300 four door sedan. Vehicle two is a 2003 Dodge Dakota 4x2 SXT.pick-up. Vehicle one was traveling north on a two lane two-way roadway approaching a T intersection with a stop sign.  Vehicle two was traveling east approaching the same intersection.  Vehicle one's driver applied the brakes to stop at the stop sign but was unable to stop due the roadway conditions.  Vehicle one slid into the intersection.  The driver of vehicle one stated that she looked right while sliding through the intersection and then left which is when she saw vehicle two.  This driver was attempting to turn left at the intersection since she knew she couldn't stop.  Vehicle two's front impacted vehicle one's left side in the intersection.  Both vehicles came to final rest in the intersection. Driver two stated that he saw vehicle one and thought that it had stopped at the stop sign.  He also stated that he saw the nose of vehicle one dive down abruptly as if in the process of a panic stop.  He noticed the driver of vehicle one look right and then straight at him.  Driver two stated that he applied his brakes when he saw the nose of vehicle one dive down.  He depressed his brake and attempted to turn right but was unable to turn the vehicle due to the road conditions. Both vehicles were towed from the scene due to damage.  The driver of vehicle one was transported for injuries.  The driver of vehicle two was not injured.      The pre-event movement for V1 coded going straight, category this vehicle control loss due to poor road condition (snow and ice). Critical reason for the critical event coded environment \"slick roads\".",
+        "       The crash occurred in the northbound lane of a two-lane intersection controlled by a stop sign.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 2002 Mercury Grand Marquis sedan traveling northbound in the 1st travel lane approaching the intersection controlled by a stop sign.  V2, a 2003 Toyota Corolla sedan, was traveling eastbound in the 1st travel lane intending on going straight.  V1 stopped at the stop sign looked both ways but did not see V2.  The front of V2 struck the left side of V1 in the northbound lane.  V1 came to final rest facing northbound and V2 came to final rest facing eastbound.     V1 was driven by a 70-year-old male who was not injured.  He stated that he stopped at the stop sign, looked both ways and proceeded thru the intersection.  He did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage."
+    ]
+}

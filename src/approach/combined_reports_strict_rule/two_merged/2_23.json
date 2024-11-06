@@ -1,0 +1,58 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light",
+        "bright"
+    ],
+    "speedlimit": 35,
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005003498221",
+        "2005009501162"
+    ],
+    "description": [
+        "The crash occurred in the westbound lane of a two-way roadway with one lane in each direction.  The roadway was straight and level and had a speed limit of 48 kmph (30 mph).  It was the mid-evening hours and it was dark out but the roadway was lighted. It was dry with no adverse weather conditions.Vehicle #2 was a 1995 Ford Taurus that was traveling eastbound and veered into the westbound lane.  Vehicle #1 was a 2001 Ford F-150 pick-up truck traveling westbound on the same roadway.  The front of Vehicle #2 contacted the front of Vehicle #1.A 39-year old male drove the Ford F-150 (Vehicle #1) and he did not sustain any injuries.  The passenger seated in the front-right position sustained minor injuries and was transported to a medical facility.  The driver stated that the driver of Vehicle #2 had an alcohol odor about him and that he was driving eastbound in the westbound lane.  Vehicle #1 was towed due to damage.  The driver of this vehicle declined to participate in the study.",
+        "   This crash took place on a two lane undivided roadway near a T-intersection.  Conditions were daylight and dry with clear skies shortly after noon on a weekend.  The roadway had a posted speed limit of 56 kmph (35 mph).   V1, a 1997 Chevrolet 300 conversion van, was traveling east on the roadway.  V2, a 1999 Infinity QX sport utility vehicle, was traveling west on the same roadway.  The vehicle traveling directly in front of V1 slowed quickly and to avoid making contact, the driver of V1 steered left, made a lane departure to the left, and this vehicle's right front made contact to the front right of V2.  The critical pre-crash event for V1 was when it traveled over the lane line on the left side of the travel lane.  The critical reason for the critical pre-crash event was coded as an incorrect evasive action. One associated factor coded to the driver of V1 was inattention. He reported that he had been thinking about some concerns immediately before the crash. V1 was driven by a 60 year-old male who was not injured.  V1 was towed due to damage.  The critical pre-crash event for the driver of V2 was when another vehicle encroached into her lane from the opposite direction-over the left lane line. The critical reason was not coded to the driver of V2 and no associated factors were coded to her. V2 was driven by a 42 year-old female who was not injured.  V2 was also towed due to damage."
+    ]
+}

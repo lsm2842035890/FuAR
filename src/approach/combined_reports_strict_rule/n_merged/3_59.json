@@ -1,0 +1,79 @@
+{
+    "weather": [
+        "rainy",
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 4,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005005289602",
+        "2005004113122",
+        "2005004112721"
+    ],
+    "description": [
+        "This two-vehicle crash occurred in the middle of a T intersection.  The northbound lane was a one-way roadway, which intersected the two-way, two-lane east/west roadway.  A stop sign was present for the one-way traffic, however there were no signs or signals present for the east/west roadway.  The incident occurred in the early morning hours, and it was raining at the time of the crash.  Both roadways were considered to be level, and both roadways had a posted speed limit of 40kph (25mph).  Vehicle one (V1), a 2003 Suzuki XL-7, was traveling north on the one-way roadway approaching the intersection.  Vehicle two (V2), a 1989 Nissan Maxima, was traveling west on the two-way roadway also approaching the intersection.  The front of V2 made contact with the left front of V1.  Both vehicles came to final rest shortly after the impact.  Vehicle one was driven from the scene, however, vehicle two had to be towed due to vehicle damage.  The driver of V1, a 40-year old male, did not suffer any injuries as a result of the crash and did not require any medical attention.   An interview could not be obtained from the driver because the telephone number on the Police Accident Report (PAR) was for a fax machine.  No record of the driver could be found in the phone book or on the Internet.  Through information contained in the PAR, it was revealed that the driver of V1 was not familiar with the area.  Further, he believed that the crossing roadway was also a one-way roadway and that V2 had a stop sign as well.  ",
+        "     The crash occurred in the intersection of a two-lane roadway controlled by a stop sign.  Conditions were daylight and dry in the afternoon on a weekday.  The posted speed limit for both roads was 25 MPH.    V1 was a 2003 Saturn LW 300 station wagon traveling eastbound in the 1st travel lane approaching an intersection controlled by a stop sign intending on going straight.  V2, a 2004 Ford Explorer SUV, was traveling northbound in the 1st travel lane approaching the same intersection intending on going straight.  V1 drove thru the intersection and the front of V2 struck the right side of V1 in the intersection.  V2 then struck a curb.  V1 and V2 came to final rest facing northeast.     V1 was driven by a 56-year-old female who sustained minor injuries but was not transported.  She stated that she was not familiar with this roadway.  As she approached the intersection she was distracted by an ambulance and did not see the stop sign.  She failed to stop for the TCD and struck the front of V2 in the intersection.  The driver of V1 did not take any avoidance actions and was traveling between 21-30 MPH at the time of impact.  V1 was towed due to damage.",
+        "     The crash occurred in the middle of a four-way intersection.  The northbound travel lane was controlled by a stop sign.  Conditions were daylight and dry in the afternoon on a weekday.  The posted speed limit was 35 MPH and both roads were level.     V1 was a 2002 Mazda 323 hatchback traveling northbound in the right lane approaching an intersection controlled by a stop sign intending on going straight.  V2, a 1997 Nissan Maxima sedan, was traveling eastbound in the right lane approaching the intersection intending on going straight.  The front of V1 struck the right side of V2.  V1 came to final rest facing northeast.  V2 came to final rest facing eastbound.     V1 was driven by a 61-year-old male who was not injured.  He stated that he was stopped at the stop sign, looked in both directions, then proceeded thru the intersection but saw V2 in the corner of his eye.  The driver of V1 braked and swerved right but was unable to avoid contact with V2.  V1 was traveling between 1 and 10 MPH at the time of impact.  V1 was towed due to damage."
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "weather": [
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "normal"
+    ],
+    "speedlimit": "64KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005004112001",
+        "2005002229202"
+    ],
+    "description": [
+        "The crash occurred in the eastbound lane of a two-lane roadway with an adjacent private driveway.  Conditions were dusk and dry with cloudy skies at 4:38 pm on a weekday late afternoon.  The roadway had a posted speed of 35 MPH and the eastbound lane had a negative 2% grade.  The private driveway was dry and did not have a posted speed limit but had a negative 3% grade.Vehicle 1 was a 1995 Plymouth Neon Sedan decelerating for the vehicle in front of him, which was making a left turn into a plaza.  Vehicle 2, a 1996 Kia Sephia, was exiting a private drive to the right of Vehicle 1.  The front of V1 struck the right side of V2; V2 rotated 90 degrees right.  V1 swerved right then left then both vehicles came to final rest in the right lane facing east.The 45-year-old driver of the Plymouth Neon (V1) stated that he was struck on the right side and swerved to final rest in the eastbound lane.  The driver of V1 sustained a laceration to his forehead and was transported to the emergency room.  V1 was towed due to damage.",
+        "   This crash occurred on a level two-lane undivided straight roadway with a posted speed limit of 64 KMPH (40 MPH).  Many driveways for retail establishments intersect with the roadway. There is a side road with a control device with a pedestrian signal, which was mentioned by the drivers of both vehicles, 100 meters north of the crash site. The weather was clear and the roadway was dry. The crash occurred on a weekday afternoon.    Vehicle #1, a 2000 Pontiac Grand Am, was traveling south on the two lane undivided roadway. Vehicle #2 pulled out from a fast food establishment's driveway making a left turn in front of Vehicle #1. Vehicle #1 impacted the left front corner of Vehicle #2 with its front right. Both vehicles came to rest in the roadway facing their intended directions.    The 2000 Pontiac Grand Am (Vehicle #1) was driven by a 16-year old belted female who was transported to an area hospital, treated and released. The vehicle was pushed out of the roadway to a parking lot and then towed from the scene."
+    ]
+}

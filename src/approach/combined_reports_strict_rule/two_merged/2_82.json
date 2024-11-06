@@ -1,0 +1,53 @@
+{
+    "weather": [
+        "clear",
+        "rainy"
+    ],
+    "lighting": [
+        "bright",
+        "dark"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005003498401",
+        "2005002229462"
+    ],
+    "description": [
+        "The crash occurred on the eastbound lane of a two-way road with one lane in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions. There were no traffic control devices and the speed limit was 48kmph (30mph).Vehicle # 1 was a 2004 Mercury Sable that was traveling westbound.  The driver veered into the eastbound lanes and the front of Vehicle # 1 impacted the left side of a legally parked and unoccupied Ford E-Series Van. Vehicle # 1 came to a final rest when it impacted a fence on the sidewalk. The Mercury Sable (Vehicle # 1) was driven by a 55 year-old female who sustained minor injuries and was transported to a local hospital.  The occupant in the front-center seating position did not sustain any injuries but was also transported to a local hospital.  The driver stated that she attempted to stop when she stepped on the accelerator instead of the brake pedal.  The Mercury Sable was towed due to damage and the driver declined to participate in the study.  ",
+        "This crash occurred on a two lane undivided roadway, curving to the right, with and grade of  -9.8%, and a posted speed limit of 72KMPH (45MPH). It was raining heavily and the roadway was wet. This crash occurred on a weekend evening on a dark unlighted roadway.Vehicle #1, a 1993 Toyota Paseo, was traveling westbound on the two lane undivided roadway, negotiating the curve to the right when it skidded over the left lane line into the eastbound lane and impacted the front right of Vehicle #2, a 2000 Honda Odessy, with its front left. Vehicle #1 continued off the roadway and came to rest on the south side, against a embankment, facing west. Vehicle # 2 came to rest off the roadway on the south side, facing east.The Toyota Paseo (Vehicle #1) was driven by a belted 20 year old male who was not injured. A belted 20 year old male passenger in the front right seat was also not injured."
+    ]
+}

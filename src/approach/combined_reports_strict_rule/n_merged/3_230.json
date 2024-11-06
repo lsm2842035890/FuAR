@@ -1,0 +1,83 @@
+{
+    "weather": [
+        "clear",
+        "rainy",
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "unknown",
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 4,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005004495301",
+        "2005003498381",
+        "2005004495461"
+    ],
+    "description": [
+        "The crash occurred in the eastbound lane of a two-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The eastbound lane had a posted speed limit of 40 kmph (25 mph) with a stop sign; the southbound lane had a speed limit of 56 kmph (35 mph).V1 was 1999 Pontiac Montana Minivan, which was traveling southbound in the right lane approaching an intersection.  V2, a 1991 Ford Tempo sedan, was traveling eastbound in the right lane approaching the intersection with a stop sign.  V2 stopped at the stop sign and then proceeded through the intersection.  V1's front struck the left side of V2 in the eastbound lane.  V1 came to final rest facing eastbound and V2 came to final rest facing northbound.V1 was driven by a 40-year-old female who was not injured.  She stated that she was going straight, saw V2 stopped at the sign, and then saw V2 accelerate into her path.  The driver of V1 didn't understand why V2 decided to accelerate.  The driver of V1 braked but could not successfully avoid V2.  V1 was traveling between 17-32 kmph (11-20 mph) at the time of impact.  V1 was driven from the scene.  The driver of V1 did not want me to take any pictures of the vehicle.",
+        "The crash occurred in the intersection of a two-way roadway with one lane in both the north and south direction and an eastbound one-way roadway.  The roadway was straight and level and had a speed limit of 48 kmph (30 mph).  The road was wet and it was cloudy and raining.Vehicle # 1 was a 2002 Mitsubishi Montero that was traveling eastbound on the one-way roadway and stopped at the stop sign and proceeded through.  Vehicle # 2 was a 1998 Ford E-Series Van that was traveling southbound.  At the intersection, the front of Vehicle # 2 impacted the left side of Vehicle # 1.  A 25 year-old female drove the Mitsubishi Montero (Vehicle # 1) and she did not sustain any injuries.  The 15-month old passenger seated in the second-row center position also did not sustain any injuries.  The driver stated that she was stopped at the stop sign when the driver of Vehicle # 2 was speeding and impacted her vehicle on the left side.  Vehicle # 1 was towed due to damage.  ",
+        "     The crash occurred in the westbound lane of a five-lane intersection with a traffic control signal.  Conditions were daylight and dry in the afternoon on a weekday.  Both roads had a posted speed limit of 64 kmph (40 MPH).     V1 was a 1998 Pontiac Bonneville sedan traveling southbound in the right lane intending on going straight.  V2, a 2004 Dodge Durango SUV, was traveling westbound in the right lane intending on continuing straight when an unknown vehicle supposedly cut in front of V2, which made V2 run the red light.  The front of V1 struck the right side of V2 in the westbound lane.  V1 came to final rest facing north and V2 came to final rest facing northwest.       V1 was driven by a 44-year old female who was not injured.  The driver of V1 was contacted several times to be interviewed but did not respond back.  V1 was towed due to damage."
+    ]
+}

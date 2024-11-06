@@ -1,0 +1,73 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "64KMPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 4,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005002229442",
+        "2005002585502",
+        "2006002229448"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on late morning on a weekday.Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had been stopped in the northbound  traveling lane waitng for traffic to pass and intending to make a left turn into the parking lot.The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at the scene and refused further medical attention. He stated he was looking at an exterior site, to the right of his vehicle, and did not realize the vehicle in front of him was stopped.",
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 89 KMPH (55 MPH).  The roadway was curved with a radius of curvature of 563 meters and a superelevation of 2.8%.  The weather was clear, the roadway dry and it was daylight at the time of this afternoon weekday crash.     Vehicle #1, a 1992 Toyota 4-Runner, was traveling south on the two-lane roadway negotiating the curve to the right.  Vehicle #2, a 2005 Freightliner School Bus, was traveling north on the same roadway negotiating the curve to the left.  Vehicle #1 crossed the centerline into the northbound lane.  Vehicle #2 attempted to steer right onto the paved shoulder to avoid the collision.  Vehicle #1 continued across the northbound lane onto the paved shoulder and struck Vehicle #2's front with its front.  Vehicle #1 came to rest facing in a southeasterly direction on the east shoulder and Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage.     The Toyota 4-Runner (Vehicle #1) was driven by a belted 27 year old male who received minor bruises, but refused medical treatment.  He stated that as he was negotiating the curve at approximately 64-72 KMPH (40-45 MPH), when his truck pulled to the left and he thought it might have been a wind gust.  He attempted to steer back into his lane, but the steering wheel would not turn.  He was unable to return to his lane and continued to drift into the opposing lane.  He observed the bus coming toward him, but was only able to brake in an attempt to avoid the collision.  The truck left approximately 17 meters of pre-impact skids.  The police issued him a citation for failure to keep right.  He stated that he took no medications and did not wear corrective lenses.  He indicated that he had gotten off work early and was not in a hurry. ",
+        "This crash occurred on a two lane undivided roadway between a left and right curve with a grade of + 4.0% for Vehicle 1 and - 2.9% for Vehicle 2. The posted speed limit was 64 KMPH (40MPH). The weather was clear and the roadway was dry. This crash occurred on a late weekday afternoon.Vehicle 1, a 2003 Honda Pilot was traveling south on the two lane roadway when it went over the left lane line, completely into the northbound lane, impacting with the left rear of Vehicle 2, a 2006 GMC Yukon, which was heading north. The impact pushed Vehicle 2 into a 1 meter wide tree where it impacted with the tree with its right side.Vehicle 1, (the Honda Pilot) was driven by a  belted 37 year old male who was not injured. There was a belted 27 year old female in the front right seat and a child in the second row center, belted into a child seat. The passengers in this vehicle were not injured. The driver of this vehicle stated he was blinded by sun glare and did not realize he had gone over the left lane line. This driver refused inspection of his vehicle."
+    ]
+}

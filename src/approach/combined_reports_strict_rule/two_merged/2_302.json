@@ -1,0 +1,64 @@
+{
+    "weather": [
+        "clear",
+        "unknown"
+    ],
+    "lighting": [
+        "bright",
+        "dark"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 3
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005004112601",
+        "2005004112862"
+    ],
+    "description": [
+        "     The crash occurred in the middle of an intersection of a four-lane roadway controlled by a traffic control signal.  Conditions were daylight and dry in the early evening on a weekday.  The posted speed limit was 64 kmph (40 mph) for V1 and 72 kmph (45 mph) for V2.     V1 was a 2003 Buick Century sedan traveling northbound in the 3rd travel lane approaching a green traffic control signal intending on turning left at the intersection.  V2, a 2004 Toyota Corolla sedan, was traveling southbound in the second travel lane approaching the same green traffic control signal intending on continuing straight.  V1 looked but did not see V2 approaching and proceeded to make a left turn at the intersection.  The front right of V1 struck the front of V2 in the middle of the intersection.  V1 then spun 45 degrees and both vehicles came to final rest facing southwest.     A 74-year old male drove V1 and sustained minor injuries but refused any medical attention.  He stated that he was traveling between 1 and 10 MPH when he approached the intersection, looked ahead, then turned left.  The driver of V1 did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage.",
+        "     The crash occurred in the southbound lane of a five-lane intersection with a median controlled by a traffic control signal.  Conditions were dusk with minimal light in the evening on a weekday.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 2003 Honda Civic Coupe traveling northbound in the third travel lane approaching an intersection controlled by a traffic control signal intending on turning left.  V2, a 1999 Chevy Malibu sedan, was traveling southbound in the third travel lane approaching the same intersection intending on going straight.  As V1 was making a left turn, the front of V1 struck the front of V2 in the southbound lane.  V1 came to final rest facing westbound and V2 came to final rest facing southbound.     V1 was driven by a 29-year-old female who sustained moderate injuries and was transported to a local hospital.  She stated that she looked prior to turning left and did not see V2.  The driver of V1 did not take any avoidance actions.  V1 was traveling between 11-20 MPH at the time of impact.  V1 was towed due to damage."
+    ]
+}

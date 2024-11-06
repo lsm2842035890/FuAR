@@ -1,0 +1,59 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005003498421",
+        "2005003498261"
+    ],
+    "description": [
+        "The crash occurred in the eastbound lanes of a two-way roadway with one lane in each direction.  The roadway was straight and level and had a speed limit of 48kmph (30mph).  It was daylight and clear with no adverse conditions.Vehicle # 1 was a 1994 Acura Vigor that was traveling eastbound.  Vehicle # 2 was a Lincoln Town Car that attempted to make a left turn into a gas station.  The front of Vehicle # 1 contacted the front of Vehicle # 2.  The front of Vehicle # 1 then impacted the right side of Vehicle # 2 before coming to a final rest.The Acura Vigor (Vehicle # 1), was driven by a 47-year old male who did not sustain any injuries.  The driver stated that he was going straight when Vehicle # 2 attempted to turn in front of him.  The Acura Vigor was towed due to damage.",
+        "This crash occurred on the eastbound lanes of an undivided four-lane roadway with two lanes in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions.  The speed limit for the roadway was 48 kmph (30 mph).Vehicle #1 was a 1996 Lincoln Town Car that was in the eastbound parking lane and attempting to make a U-turn to go westbound on the roadway.  Vehicle #2 was a Dodge Grand Caravan that was traveling eastbound in the second lane of travel.  Vehicle #1 attempted to make a U-turn and the front impacted the right side of Vehicle #2.The Lincoln Town Car (Vehicle #1) was driven by a 37-year old male who did not sustain any injuries.  The driver stated that he was coming out of a parking spot and attempting to make a U-Turn.  Vehicle #1 was used and registered as a livery cab and was driven away from the scene. "
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "snowy"
+    ],
+    "lighting": [
+        "bright",
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 4,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005005447202",
+        "2005004112101",
+        "2005004112081"
+    ],
+    "description": [
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device, for a construction zone.  The conditions were as follows: early afternoon, clear skies, the roadway was dry and there were no atmospheric conditions.  The gradient for the two vehicles involved were both on a +6% roadway.  The posted speed limit for vehicle one (V1) and vehicle two (V2) was 64 kph (40 mph). V2 was a 2005 Mercury Sable was traveling northbound and was stopped for a stop/slow sign for the construction zone.  Upon realization of the impending crash, the driver of V2 stated that he could not do anything.  V1 was a 2002 Dodge Neon, traveling northbound.  V1 struck V2 in the center part of V2's rear bumper.  The impact caused V1 to push V2 up the roadway.  V1 and V2 came to final rest in the roadway.  V1 was towed due to damage.  V2 was able to be driven from the scene.I spoke to the construction worker on scene, which was holding the stop sign.  He was only able to give a few words, due to the language barrier.  He attested that V2 was waiting for the sign to change, so V2 could proceed.  He further stated that V1 pushed V2 up the roadway some.",
+        "The crash occurred in the intersection of a five-lane roadway with a traffic control signal.  Conditions were daylight, dry in the early afternoon on a weekday.  The roadway had a posted speed of 81 KPH (50 MPH) and the northbound lane had a positive 3% grade. V2 was a 1992 Ford Escort coupe intending on going straight through the intersection with a green light in the southbound lane.  V1 was a 1999 Chevy Venture minivan intending on turning left at the same intersection with a red light.  V1 was in the northbound lane.  As V1 was turning left, the front of V2 struck the right side of V1.  As a result of the impact, V1 rolled \u00bc turn onto its left side coming to final rest.  V2 came to final rest in the center of the intersection-heading southwest. A 33-year-old male drove V1 and sustained minor injuries but was not transported.    He stated that the light was red as he was turning left.  He saw V2 but thought he was going to stop. After V2 hit V1 the vehicle rolled \u00bc turn on its left side.  V1 was traveling less than 8 KPH (5 MPH) at the time of impact.  V1 was towed due to damage.",
+        "     The crash occurred in the intersection of a five-lane roadway with a traffic control signal.  Conditions were daylight with snow and slush on the roadway at 1:06 pm on a Monday afternoon.  The roadway had a posted speed of 50 MPH and the northbound lane had a positive 3% grade.      V1 was a 1998 Toyota Camry sedan intending on going straight thru the intersection with a green light in the southbound lane.  V2 was a 1994 Dodge Intrepid sedan intending on turning left at the same intersection with a green light.  V2 was in the northbound lane.  As V2 was turning left, the front of V2 struck the left side of V1.  V1 continued on and the front right corner struck a guardrail, coming to final rest.  V2 came to final rest in the center of the intersection-heading north.      A 34-year-old male who was transported drove V1 and was transported to a local hospital with minor injuries.  He stated that he was going straight in the southbound lane and he saw the other vehicle turning in front of him.  He was unable to take any avoidance actions.  V1 continued straight and the front of V1 rested against a guardrail.  The driver of V1 was traveling at 50 MPH at the time of impact.  V1 was towed due to damage and had a CDC of 10LYEW1."
+    ]
+}

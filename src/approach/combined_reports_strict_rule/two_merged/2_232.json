@@ -1,0 +1,64 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 5,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 5
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005004495461",
+        "2005074434121"
+    ],
+    "description": [
+        "     The crash occurred in the westbound lane of a five-lane intersection with a traffic control signal.  Conditions were daylight and dry in the afternoon on a weekday.  Both roads had a posted speed limit of 64 kmph (40 MPH).     V1 was a 1998 Pontiac Bonneville sedan traveling southbound in the right lane intending on going straight.  V2, a 2004 Dodge Durango SUV, was traveling westbound in the right lane intending on continuing straight when an unknown vehicle supposedly cut in front of V2, which made V2 run the red light.  The front of V1 struck the right side of V2 in the westbound lane.  V1 came to final rest facing north and V2 came to final rest facing northwest.       V1 was driven by a 44-year old female who was not injured.  The driver of V1 was contacted several times to be interviewed but did not respond back.  V1 was towed due to damage.",
+        "This two-vehicle collision occurred during afternoon daylight hours at a three-legged intersection controlled by tri-light traffic signals.  Conditions were dry and clear; there were no weather-related adverse conditions, and the roadway surface asphalt was free of defects. Speed limit 72 kmph (45 mph).Vehicle one (V1), a 2002 Chevrolet Cavalier two-door coupe, driven by a 74 year-old female was traveling westbound in the first lane approaching the intersection with the intention of passing straight through.  Vehicle two (V2), a 1998 Oldsmobile Aurora four-door sedan, driven by a 75 year-old male with one passenger was traveling eastbound in the fifth lane approaching the same intersection with the intention of turning left into northbound traffic. V1, having failed to notice the red traffic light, entered the intersection as V2 was turning.  The front of V1 impacted the right side of V2.  The two vehicles rotated towards each other and the left side of V1 impacted the right side of V2 in a side-slap configuration.  The vehicles separated, and V1 moved northwest, crossing all lanes of the side street.  V1 departed the road over the west curb, where the front of V1 impacted a street lamp pole, bringing V1 to rest.  V2 departed the road onto the northeast traffic island after impact, where it came to rest. V1 and V2 were towed from the scene. The driver of V1 and the passenger in V2 were transported to a local medical facility.The critical pre-crash event for V1 was coded: this vehicle traveling crossing over passing through intersection. The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (failed to look, looked but did not see).  This driver didn't see the red traffic light and also did not see V2 about to clear the intersection."
+    ]
+}

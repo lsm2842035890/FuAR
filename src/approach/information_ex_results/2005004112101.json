@@ -1,0 +1,44 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "81KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 5,
+    "striker": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005004112101",
+    "description": "The crash occurred in the intersection of a five-lane roadway with a traffic control signal.  Conditions were daylight, dry in the early afternoon on a weekday.  The roadway had a posted speed of 81 KPH (50 MPH) and the northbound lane had a positive 3% grade. V2 was a 1992 Ford Escort coupe intending on going straight through the intersection with a green light in the southbound lane.  V1 was a 1999 Chevy Venture minivan intending on turning left at the same intersection with a red light.  V1 was in the northbound lane.  As V1 was turning left, the front of V2 struck the right side of V1.  As a result of the impact, V1 rolled \u00bc turn onto its left side coming to final rest.  V2 came to final rest in the center of the intersection-heading southwest. A 33-year-old male drove V1 and sustained minor injuries but was not transported.    He stated that the light was red as he was turning left.  He saw V2 but thought he was going to stop. After V2 hit V1 the vehicle rolled \u00bc turn on its left side.  V1 was traveling less than 8 KPH (5 MPH) at the time of impact.  V1 was towed due to damage."
+}

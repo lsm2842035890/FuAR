@@ -1,0 +1,45 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005004112881",
+    "description": "     The crash occurred in the northbound lane of a two-lane roadway with a T-intersection.  Conditions were daylight in the morning on a weekday.  The posted speed limit was 45 MPH.     V1 was a 1991 Volkswagen Jetta sedan traveling southbound in the 1st travel lane approaching the T-intersection intending on turning left.  V2, a 1994 Ford Taurus sedan, was traveling northbound in the 1st travel lane intending on going straight.  V1 made the left turn and the front of V2 struck the front-right of V1 in the northbound lane.  Both vehicles came to final rest facing northbound."
+}
