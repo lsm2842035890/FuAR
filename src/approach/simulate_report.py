@@ -1233,18 +1233,17 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
             sim.run(1500)
         pass
     
-
-
-
-directory_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged"
-json_files = glob.glob(os.path.join(directory_path, '*.json'))
-for file_path in json_files:
-    print(file_path)
-    # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_211.json"
-    file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_40.json"
-    simulate_report(file_path,True)
-    # input("Press any key to continue...")
-    break
+if __name__ == '__main__':
+    directory_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged"
+    json_files = glob.glob(os.path.join(directory_path, '*.json'))
+    for file_path in json_files:
+        print(file_path)
+        # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_211.json"
+        file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_40.json"
+        simulate_report(file_path,True)
+        # input("Press any key to continue...")
+        print("lslsls")
+        break
 
 # /home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_223.json
 # {'V1': [[5, 1, 's'], ['follow lane'], [5, 1, 'e'], ['go across'], [8, 1, 's']], 'V2': [[7, 1, 's'], ['follow lane'], [7, 1, 'e'], ['go across'], [2, 1, 's']], 'V3': [[7, 1, 's'], ['follow lane'], [7, 1, 'e'], ['turn right'], [8, 1, 's']]}
