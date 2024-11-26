@@ -1242,7 +1242,6 @@ if __name__ == '__main__':
         file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_40.json"
         simulate_report(file_path,True)
         # input("Press any key to continue...")
-        print("lslsls")
         break
 
 # /home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_223.json
