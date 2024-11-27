@@ -1098,6 +1098,7 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
                 state = lgsvl.AgentState()
                 state.transform = Transform(position=temp_pos,rotation=sim.map_point_on_lane(temp_pos).rotation)
                 npc_list[veh_id] = sim.add_agent("SUV", lgsvl.AgentType.NPC,state)
+                npc_waypoints[veh_id].append(lgsvl.DriveWaypoint(position=temp_pos,speed=0,angle=state.transform.rotation))
             elif len(all_vehs_waypoints[veh_id]) > 2:
                 if all_vehs_symbol[veh_id][1] == ["retrograde"]:
                     road = all_vehs_symbol[veh_id][0][0]
@@ -1141,7 +1142,6 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
                             temp_rotation = [0,math.degrees(math.atan2(curr_pos[0]-former_pos[0],curr_pos[2]-former_pos[2])),0,0]
                             temp_rotation = lgsvl.Vector(temp_rotation[0],temp_rotation[1],temp_rotation[2])
                             npc_waypoints[veh_id].append(lgsvl.DriveWaypoint(position=temp_pos,speed=speed,angle=temp_rotation))
-
         for veh_id in npc_waypoints.keys():
             for drivewp in npc_waypoints[veh_id]:
                 print(drivewp.position,drivewp.speed,drivewp.angle)
@@ -1237,9 +1237,11 @@ if __name__ == '__main__':
     directory_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged"
     json_files = glob.glob(os.path.join(directory_path, '*.json'))
     for file_path in json_files:
-        print(file_path)
-        # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_211.json"
-        file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_40.json"
+        # print(file_path)
+        # bug::211.json 's vehs'fist coordination is overlapped
+        # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_211.json"  
+        # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_40.json"
+        file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_12.json"
         simulate_report(file_path,True)
         # input("Press any key to continue...")
         break
