@@ -1098,6 +1098,7 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
                 state = lgsvl.AgentState()
                 state.transform = Transform(position=temp_pos,rotation=sim.map_point_on_lane(temp_pos).rotation)
                 npc_list[veh_id] = sim.add_agent("SUV", lgsvl.AgentType.NPC,state)
+                npc_waypoints[veh_id].append(lgsvl.DriveWaypoint(position=temp_pos,speed=0,angle=state.transform.rotation))
             elif len(all_vehs_waypoints[veh_id]) > 2:
                 if all_vehs_symbol[veh_id][1] == ["retrograde"]:
                     road = all_vehs_symbol[veh_id][0][0]
