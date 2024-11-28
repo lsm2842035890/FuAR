@@ -1240,8 +1240,10 @@ directory_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/
 json_files = glob.glob(os.path.join(directory_path, '*.json'))
 for file_path in json_files:
     print(file_path)
-    # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_211.json"
-    file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_40.json"
+    # bug::211.json 's vehs'fist coordination is overlapped
+    # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_211.json"  
+    # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_40.json"
+    file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_12.json"
     simulate_report(file_path,True)
     # input("Press any key to continue...")
     break
