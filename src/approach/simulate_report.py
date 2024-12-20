@@ -1,4 +1,7 @@
 import os
+import sys
+import threading
+import atexit
 import json
 import glob
 import random
@@ -10,6 +13,14 @@ from lgsvl.dreamview import CoordType
 from lgsvl import Transform, Vector
 from datetime import datetime
 from environs import Env
+
+current_file_path = os.path.abspath(__file__)
+current_dir = os.path.dirname(current_file_path)
+parent_dir = os.path.dirname(current_dir)
+sys.path.append(parent_dir)
+from CyberBridge import CyberBridge
+from CyberBridge import Topics
+from lgsvl_method import CyberBridgeInstance
   
 def simulate_report(report_path,flag_apollo):
     with open(report_path, 'r') as f:
@@ -19,9 +30,34 @@ def simulate_report(report_path,flag_apollo):
     map,map_lon_lat =search_in_map(report)
     all_vehs_symbol = trajectory_analysis(report)
     all_vehs_waypoints = trajectory_calculators(all_vehs_symbol, map)
-    draw_map_and_trajs(all_vehs_waypoints)
+    # draw_map_and_trajs(all_vehs_waypoints)
     start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,map_lon_lat,report,flag_apollo)
 
+def solve_waypoints_overlap(all_vehs_waypoints):
+    overlap_set = []
+    vehs_id = []
+    for key in all_vehs_waypoints.keys():
+        vehs_id.append(key)
+    for veh1 in vehs_id:
+        for veh2 in vehs_id:
+            if veh1!= veh2:
+                if all_vehs_waypoints[veh1][0] == all_vehs_waypoints[veh2][0]:
+                    if [veh1,veh2] not in overlap_set and [veh2,veh1] not in overlap_set:
+                        overlap_set.append([veh1,veh2])
+    # print("overlap_set ",overlap_set)
+    for i in range(len(overlap_set)):
+        left = overlap_set[i][0]
+        right = overlap_set[i][1]
+        if all_vehs_waypoints[left][0] == all_vehs_waypoints[right][0]:
+            if len(all_vehs_waypoints[left]) >1 and len(all_vehs_waypoints[right]) >1:
+                all_vehs_waypoints[left].pop(0)
+            elif len(all_vehs_waypoints[left]) ==1 and len(all_vehs_waypoints[right]) >1:
+                all_vehs_waypoints[right].pop(0)
+            elif len(all_vehs_waypoints[left]) >1 and len(all_vehs_waypoints[right]) ==1:
+                all_vehs_waypoints[left].pop(0)
+            else:
+                pass
+    return all_vehs_waypoints
 
 def get_merged_report_reasonable(report):
     direction_frenquency = [0,0,0,0]
@@ -973,7 +1009,8 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
         for i in range(0,len(removed_index)):
             all_vehs_waypoints[veh_id].pop(removed_index[len(removed_index)-1-i])
     print(all_vehs_waypoints)
-
+    all_vehs_waypoints = solve_waypoints_overlap(all_vehs_waypoints)
+    print(all_vehs_waypoints)
     
     if flag_apollo == False:
         ####
@@ -1054,22 +1091,34 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
         cameraRotation = Vector(90, 0, 0)
         camera = Transform(cameraPosition, cameraRotation)
         sim.set_sim_camera(camera)
-        sim.run()
+        sim.run(50)
+        sim.close()
     else:
         choosen_vehicle = ""
-        striker = report['striker']
-        at_fault_vehicle = report["At-Fault-Vehicle"]
-        if striker != "":
-            choosen_vehicle = striker
-        elif at_fault_vehicle != "":
-            choosen_vehicle = at_fault_vehicle
+        # have two ways to choose the vehicle:manual or automatic
+        if (True):
+            striker = report['striker']
+            at_fault_vehicle = report["At-Fault-Vehicle"]
+            if striker != "":
+                choosen_vehicle = striker
+            elif at_fault_vehicle != "":
+                choosen_vehicle = at_fault_vehicle
+            else:
+                indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
+                choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
+            # print(all_vehs_symbol)
+            while len(all_vehs_symbol[choosen_vehicle])==1:
+                print("choosen_vehicle stays still,so change anthor vehicle")
+                indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
+                choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
+            while all_vehs_symbol[choosen_vehicle][1][0] == "retrograde":
+                print("choosen_vehicle is retrograde,so change anthor vehicle")
+                indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
+                choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
         else:
-            indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
-            choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
-        while len(all_vehs_symbol[choosen_vehicle])==1:
-            print("choosen_vehicle stays still,so change anthor vehicle")
-            indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
-            choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
+            print("print your choosen vehicle")
+            index = int(input())
+            choosen_vehicle = "V"+str(index)
         print("choosen_vehicle",choosen_vehicle)
         env = Env()
         SIMULATOR_HOST = env.str("LGSVL__SIMULATOR_HOST", "127.0.0.1")
@@ -1142,9 +1191,9 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
                             temp_rotation = [0,math.degrees(math.atan2(curr_pos[0]-former_pos[0],curr_pos[2]-former_pos[2])),0,0]
                             temp_rotation = lgsvl.Vector(temp_rotation[0],temp_rotation[1],temp_rotation[2])
                             npc_waypoints[veh_id].append(lgsvl.DriveWaypoint(position=temp_pos,speed=speed,angle=temp_rotation))
-        for veh_id in npc_waypoints.keys():
-            for drivewp in npc_waypoints[veh_id]:
-                print(drivewp.position,drivewp.speed,drivewp.angle)
+        # for veh_id in npc_waypoints.keys():
+        #     for drivewp in npc_waypoints[veh_id]:
+        #         print(drivewp.position,drivewp.speed,drivewp.angle)
 
         for veh_id in npc_list.keys():
             # print(veh_id)
@@ -1192,7 +1241,8 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
             cameraRotation = Vector(90, 0, 0)
             camera = Transform(cameraPosition, cameraRotation)
             sim.set_sim_camera(camera)
-            sim.run(1500)
+            sim.run(50)
+            sim.close()
         else:
             road = all_vehs_symbol[choosen_vehicle][0][0]
             temp_rotation = lgsvl.Vector(map[road][6][0],map[road][6][1],map[road][6][2])
@@ -1207,14 +1257,15 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
             dv.set_vehicle(LGSVL__AUTOPILOT_0_VEHICLE_CONFIG)
 
             default_modules = [
-                'Localization',
+                
                 'Transform',
                 'Routing',
                 'Prediction',
                 'Planning',
                 'Control',
                 'Recorder',
-                'Perception'
+                'Perception',
+                'Localization',
                 
             ]
 
@@ -1230,9 +1281,20 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
             cameraRotation = Vector(90, 0, 0)
             camera = Transform(cameraPosition, cameraRotation)
             sim.set_sim_camera(camera)
-            sim.run(1500)
+            sim.run(50)
+            sim.close()
         pass
-    
+
+
+def run_cyberbridgeinstance(directory_name,name):
+    global cyber
+    cyber = CyberBridgeInstance()
+    cyber.register(None,[0,0],[],"san_francisco",True,directory_name,name)
+
+def on_exit():
+    if cyber:
+        cyber.save_pose_perception_json()
+
 if __name__ == '__main__':
     directory_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged"
     json_files = glob.glob(os.path.join(directory_path, '*.json'))
@@ -1241,10 +1303,29 @@ if __name__ == '__main__':
         # bug::211.json 's vehs'fist coordination is overlapped
         # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_211.json"  
         # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_40.json"
-        file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_12.json"
+        # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_23.json"
+        # file_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_279.json"
+        with open("/home/lsm/SFTSG_NME/src/approach/RQ/RQ1/time.txt","a") as f:
+            f.write(file_path)
+            f.write('\n')
+            f.write('start:'+ datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+            f.write('\n')
+        directory_name = os.path.basename(os.path.dirname(file_path))
+        file_name_with_extension = os.path.basename(file_path)
+        file_name, file_extension = os.path.splitext(file_name_with_extension)
+        print(directory_name,file_name)
+        # cyber = None
+        # atexit.register(on_exit)  # 注册退出时的清理回调
+        location_thread = threading.Thread(target=run_cyberbridgeinstance,args=(directory_name,file_name))
+        location_thread.daemon = True
+        location_thread.start()  # 启动线程
+        
         simulate_report(file_path,True)
+        if cyber:
+            cyber.save_pose_perception_json()  # 执行保存操作
+        # get_location()
         # input("Press any key to continue...")
-        break
+        # break
 
 # /home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged/2_223.json
 # {'V1': [[5, 1, 's'], ['follow lane'], [5, 1, 'e'], ['go across'], [8, 1, 's']], 'V2': [[7, 1, 's'], ['follow lane'], [7, 1, 'e'], ['go across'], [2, 1, 's']], 'V3': [[7, 1, 's'], ['follow lane'], [7, 1, 'e'], ['turn right'], [8, 1, 's']]}

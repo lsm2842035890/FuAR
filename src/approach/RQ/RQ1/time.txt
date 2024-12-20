@@ -1,0 +1,1509 @@
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_94.json
+start:2024-12-08 14:09:23
+end:2024-12-08 14:10:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_1.json
+start:2024-12-08 14:10:25
+end:2024-12-08 14:11:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_0.json
+start:2024-12-08 14:11:24
+end:2024-12-08 14:12:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_137.json
+start:2024-12-08 14:12:23
+end:2024-12-08 14:13:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_131.json
+start:2024-12-08 14:13:25
+end:2024-12-08 14:14:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_198.json
+start:2024-12-08 14:14:24
+end:2024-12-08 14:15:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_87.json
+start:2024-12-08 14:15:24
+end:2024-12-08 14:16:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_1.json
+start:2024-12-08 14:16:25
+end:2024-12-08 14:17:27
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_23.json
+start:2024-12-08 14:17:27
+end:2024-12-08 14:18:26
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_211.json
+start:2024-12-08 14:18:26
+end:2024-12-08 14:19:26
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_37.json
+start:2024-12-08 14:19:26
+end:2024-12-08 14:20:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_28.json
+start:2024-12-08 14:20:25
+end:2024-12-08 14:21:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_106.json
+start:2024-12-08 14:21:25
+end:2024-12-08 14:22:27
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_227.json
+start:2024-12-08 14:22:27
+end:2024-12-08 14:23:28
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_194.json
+start:2024-12-08 14:23:28
+end:2024-12-08 14:24:28
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_4.json
+start:2024-12-08 14:24:28
+end:2024-12-08 14:25:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_149.json
+start:2024-12-08 14:25:29
+end:2024-12-08 14:26:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_3.json
+start:2024-12-08 14:26:29
+end:2024-12-08 14:27:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_229.json
+start:2024-12-08 14:27:30
+end:2024-12-08 14:28:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_92.json
+start:2024-12-08 14:28:30
+end:2024-12-08 14:29:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_11.json
+start:2024-12-08 14:29:30
+end:2024-12-08 14:30:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_34.json
+start:2024-12-08 14:30:31
+end:2024-12-08 14:31:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_197.json
+start:2024-12-08 14:31:31
+end:2024-12-08 14:32:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_92.json
+start:2024-12-08 14:32:31
+end:2024-12-08 14:33:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_51.json
+start:2024-12-08 14:33:31
+end:2024-12-08 14:34:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_223.json
+start:2024-12-08 14:34:30
+end:2024-12-08 14:35:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_57.json
+start:2024-12-08 14:35:32
+end:2024-12-08 14:36:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_213.json
+start:2024-12-08 14:36:31
+end:2024-12-08 14:37:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_10.json
+start:2024-12-08 14:37:31
+end:2024-12-08 14:38:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_29.json
+start:2024-12-08 14:38:32
+end:2024-12-08 14:39:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_69.json
+start:2024-12-08 14:39:32
+end:2024-12-08 14:40:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_260.json
+start:2024-12-08 14:40:34
+end:2024-12-08 14:41:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_142.json
+start:2024-12-08 14:41:36
+end:2024-12-08 14:42:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_204.json
+start:2024-12-08 14:42:37
+end:2024-12-08 14:43:39
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_273.json
+start:2024-12-08 15:51:23
+end:2024-12-08 15:52:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_99.json
+start:2024-12-08 15:52:34
+end:2024-12-08 15:53:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_36.json
+start:2024-12-08 15:53:34
+end:2024-12-08 15:54:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_18.json
+start:2024-12-08 15:54:33
+end:2024-12-08 15:55:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_94.json
+start:2024-12-08 15:55:33
+end:2024-12-08 15:56:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_199.json
+start:2024-12-08 15:56:33
+end:2024-12-08 15:57:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_226.json
+start:2024-12-08 15:57:32
+end:2024-12-08 15:58:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_108.json
+start:2024-12-08 15:58:32
+end:2024-12-08 15:59:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_9.json
+start:2024-12-08 15:59:31
+end:2024-12-08 16:00:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_50.json
+start:2024-12-08 16:00:31
+end:2024-12-08 16:01:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_83.json
+start:2024-12-08 16:01:31
+end:2024-12-08 16:02:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_105.json
+start:2024-12-08 16:02:30
+end:2024-12-08 16:03:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_228.json
+start:2024-12-08 16:03:31
+end:2024-12-08 16:04:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_153.json
+start:2024-12-08 16:04:31
+end:2024-12-08 16:05:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_3.json
+start:2024-12-08 16:05:30
+end:2024-12-08 16:06:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_38.json
+start:2024-12-08 16:06:32
+end:2024-12-08 16:07:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_128.json
+start:2024-12-08 16:07:33
+end:2024-12-08 16:08:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_117.json
+start:2024-12-08 16:08:33
+end:2024-12-08 16:09:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_180.json
+start:2024-12-08 16:14:39
+end:2024-12-08 16:15:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_50.json
+start:2024-12-08 16:15:47
+end:2024-12-08 16:16:46
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_19.json
+start:2024-12-08 16:16:46
+end:2024-12-08 16:17:46
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_38.json
+start:2024-12-08 16:17:46
+end:2024-12-08 16:18:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_232.json
+start:2024-12-08 16:18:45
+end:2024-12-08 16:19:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_12.json
+start:2024-12-08 16:19:45
+end:2024-12-08 16:20:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_206.json
+start:2024-12-08 16:20:45
+end:2024-12-08 16:21:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_43.json
+start:2024-12-08 16:21:44
+end:2024-12-08 16:22:46
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_36.json
+start:2024-12-08 16:22:46
+end:2024-12-08 16:23:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_29.json
+start:2024-12-08 16:23:45
+end:2024-12-08 16:24:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_42.json
+start:2024-12-08 16:24:45
+end:2024-12-08 16:25:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_89.json
+start:2024-12-08 16:25:45
+end:2024-12-08 16:26:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_257.json
+start:2024-12-08 16:26:47
+end:2024-12-08 16:27:46
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_44.json
+start:2024-12-08 16:27:46
+end:2024-12-08 16:28:46
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_60.json
+start:2024-12-08 16:28:46
+end:2024-12-08 16:29:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_48.json
+start:2024-12-08 16:29:45
+end:2024-12-08 16:30:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_64.json
+start:2024-12-08 16:30:45
+end:2024-12-08 16:31:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_143.json
+start:2024-12-08 16:31:44
+end:2024-12-08 16:32:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_49.json
+start:2024-12-08 16:32:44
+end:2024-12-08 16:33:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_39.json
+start:2024-12-08 16:33:44
+end:2024-12-08 16:34:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_195.json
+start:2024-12-08 16:34:44
+end:2024-12-08 16:35:46
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_13.json
+start:2024-12-08 16:35:46
+end:2024-12-08 16:36:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_123.json
+start:2024-12-08 16:36:47
+end:2024-12-08 16:37:48
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_172.json
+start:2024-12-08 16:37:48
+end:2024-12-08 16:38:48
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_152.json
+start:2024-12-08 16:38:48
+end:2024-12-08 16:39:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_166.json
+start:2024-12-08 16:39:47
+end:2024-12-08 16:40:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_243.json
+start:2024-12-08 16:40:47
+end:2024-12-08 16:41:49
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_60.json
+start:2024-12-08 16:41:49
+end:2024-12-08 16:42:51
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_129.json
+start:2024-12-08 16:42:51
+end:2024-12-08 16:43:50
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_173.json
+start:2024-12-08 16:43:50
+end:2024-12-08 16:44:52
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_126.json
+start:2024-12-08 16:44:52
+end:2024-12-08 16:45:54
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_39.json
+start:2024-12-08 16:45:54
+end:2024-12-08 16:46:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_116.json
+start:2024-12-08 16:46:55
+end:2024-12-08 16:47:57
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_261.json
+start:2024-12-08 17:45:18
+end:2024-12-08 17:46:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_255.json
+start:2024-12-08 17:46:23
+end:2024-12-08 17:47:22
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_15.json
+start:2024-12-08 17:47:22
+end:2024-12-08 17:48:22
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_167.json
+start:2024-12-08 17:48:22
+end:2024-12-08 17:49:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/6_7.json
+start:2024-12-08 17:49:21
+end:2024-12-08 17:50:20
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_93.json
+start:2024-12-08 17:50:20
+end:2024-12-08 17:51:20
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_62.json
+start:2024-12-08 17:51:20
+end:2024-12-08 17:52:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_5.json
+start:2024-12-08 17:52:19
+end:2024-12-08 17:53:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_26.json
+start:2024-12-08 17:53:21
+end:2024-12-08 17:54:20
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_248.json
+start:2024-12-08 17:54:20
+end:2024-12-08 17:55:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_237.json
+start:2024-12-08 17:55:19
+end:2024-12-08 17:56:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_24.json
+start:2024-12-08 17:56:19
+end:2024-12-08 17:57:18
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_103.json
+start:2024-12-08 17:57:18
+end:2024-12-08 17:58:17
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_87.json
+start:2024-12-08 17:58:17
+end:2024-12-08 17:59:17
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_233.json
+start:2024-12-08 17:59:17
+end:2024-12-08 18:00:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_80.json
+start:2024-12-08 18:00:16
+end:2024-12-08 18:01:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_24.json
+start:2024-12-08 18:01:15
+end:2024-12-08 18:02:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_267.json
+start:2024-12-08 18:02:15
+end:2024-12-08 18:03:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_39.json
+start:2024-12-08 18:03:15
+end:2024-12-08 18:04:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_45.json
+start:2024-12-08 18:04:16
+end:2024-12-08 18:05:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_208.json
+start:2024-12-08 18:05:16
+end:2024-12-08 18:06:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_132.json
+start:2024-12-08 18:06:15
+end:2024-12-08 18:07:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_125.json
+start:2024-12-08 18:07:15
+end:2024-12-08 18:08:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_104.json
+start:2024-12-08 18:08:16
+end:2024-12-08 18:09:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_134.json
+start:2024-12-08 18:09:16
+end:2024-12-08 18:10:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_36.json
+start:2024-12-08 18:10:15
+end:2024-12-08 18:11:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_139.json
+start:2024-12-08 18:11:15
+end:2024-12-08 18:12:17
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_17.json
+start:2024-12-08 18:12:17
+end:2024-12-08 18:13:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_150.json
+start:2024-12-08 18:13:19
+end:2024-12-08 18:14:18
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_50.json
+start:2024-12-08 18:14:18
+end:2024-12-08 18:15:18
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_27.json
+start:2024-12-08 18:21:00
+end:2024-12-08 18:22:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_98.json
+start:2024-12-08 18:22:05
+end:2024-12-08 18:23:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_40.json
+start:2024-12-08 18:23:04
+end:2024-12-08 18:24:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_112.json
+start:2024-12-08 18:24:04
+end:2024-12-08 18:25:03
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_78.json
+start:2024-12-08 18:25:03
+end:2024-12-08 18:26:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_124.json
+start:2024-12-08 18:26:05
+end:2024-12-08 18:27:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/6_5.json
+start:2024-12-08 18:27:04
+end:2024-12-08 18:28:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_129.json
+start:2024-12-08 18:28:04
+end:2024-12-08 18:29:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_26.json
+start:2024-12-08 18:29:04
+end:2024-12-08 18:30:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_159.json
+start:2024-12-08 18:30:05
+end:2024-12-08 18:31:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_24.json
+start:2024-12-08 18:31:07
+end:2024-12-08 18:32:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_8.json
+start:2024-12-08 18:32:07
+end:2024-12-08 18:33:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_1.json
+start:2024-12-08 18:33:06
+end:2024-12-08 18:34:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_62.json
+start:2024-12-08 18:34:06
+end:2024-12-08 18:35:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_48.json
+start:2024-12-08 18:35:05
+end:2024-12-08 18:36:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_76.json
+start:2024-12-08 18:36:05
+end:2024-12-08 18:37:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/6_3.json
+start:2024-12-08 18:37:04
+end:2024-12-08 18:38:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_61.json
+start:2024-12-08 18:38:07
+end:2024-12-08 18:39:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_5.json
+start:2024-12-08 18:39:06
+end:2024-12-08 18:40:08
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_145.json
+start:2024-12-08 18:40:08
+end:2024-12-08 18:41:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_35.json
+start:2024-12-08 18:41:07
+end:2024-12-08 18:42:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_220.json
+start:2024-12-08 18:42:07
+end:2024-12-08 18:43:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_179.json
+start:2024-12-08 18:43:06
+end:2024-12-08 18:44:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_134.json
+start:2024-12-08 18:44:06
+end:2024-12-08 18:45:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_122.json
+start:2024-12-08 18:45:05
+end:2024-12-08 18:46:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_22.json
+start:2024-12-08 18:46:05
+end:2024-12-08 18:47:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_147.json
+start:2024-12-08 18:47:07
+end:2024-12-08 18:48:10
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_155.json
+start:2024-12-08 18:48:10
+end:2024-12-08 18:49:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_86.json
+start:2024-12-08 18:49:12
+end:2024-12-08 18:50:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_146.json
+start:2024-12-08 18:50:14
+end:2024-12-08 18:51:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_182.json
+start:2024-12-08 18:57:18
+end:2024-12-08 18:58:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_33.json
+start:2024-12-08 18:58:19
+end:2024-12-08 18:59:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_164.json
+start:2024-12-08 18:59:19
+end:2024-12-08 19:00:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_23.json
+start:2024-12-08 19:00:21
+end:2024-12-08 19:01:22
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_16.json
+start:2024-12-08 19:01:22
+end:2024-12-08 19:02:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_6.json
+start:2024-12-08 19:02:23
+end:2024-12-08 19:03:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_155.json
+start:2024-12-08 19:03:25
+end:2024-12-08 19:04:26
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_8.json
+start:2024-12-08 19:04:26
+end:2024-12-08 19:05:27
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_256.json
+start:2024-12-08 19:05:27
+end:2024-12-08 19:06:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_143.json
+start:2024-12-08 19:06:29
+end:2024-12-08 19:07:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_80.json
+start:2024-12-08 19:07:30
+end:2024-12-08 19:08:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_19.json
+start:2024-12-08 19:08:30
+end:2024-12-08 19:09:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_4.json
+start:2024-12-08 19:09:31
+end:2024-12-08 19:10:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_55.json
+start:2024-12-08 19:10:31
+end:2024-12-08 19:11:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_132.json
+start:2024-12-08 19:11:33
+end:2024-12-08 19:12:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_79.json
+start:2024-12-08 19:12:34
+end:2024-12-08 19:13:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_190.json
+start:2024-12-08 19:13:35
+end:2024-12-08 19:14:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_181.json
+start:2024-12-08 19:14:38
+end:2024-12-08 19:15:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_162.json
+start:2024-12-08 19:15:38
+end:2024-12-08 19:16:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_88.json
+start:2024-12-08 19:16:38
+end:2024-12-08 19:17:42
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_116.json
+start:2024-12-08 19:17:42
+end:2024-12-08 19:18:42
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_120.json
+start:2024-12-08 19:18:42
+end:2024-12-08 19:19:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_111.json
+start:2024-12-08 19:19:45
+end:2024-12-08 19:20:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_61.json
+start:2024-12-08 19:20:47
+end:2024-12-08 19:21:49
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_239.json
+start:2024-12-08 19:21:49
+end:2024-12-08 19:22:52
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_91.json
+start:2024-12-08 19:22:52
+end:2024-12-08 19:23:57
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_122.json
+start:2024-12-08 19:23:57
+end:2024-12-08 19:24:59
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_73.json
+start:2024-12-08 19:24:59
+end:2024-12-08 19:26:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_275.json
+start:2024-12-09 14:35:57
+end:2024-12-09 14:37:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_130.json
+start:2024-12-09 14:37:09
+end:2024-12-09 14:38:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_18.json
+start:2024-12-09 14:38:09
+end:2024-12-09 14:39:08
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_74.json
+start:2024-12-09 14:39:08
+end:2024-12-09 14:40:08
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_144.json
+start:2024-12-09 14:40:08
+end:2024-12-09 14:41:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_128.json
+start:2024-12-09 14:41:07
+end:2024-12-09 14:42:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_71.json
+start:2024-12-09 14:42:07
+end:2024-12-09 14:43:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_17.json
+start:2024-12-09 14:43:06
+end:2024-12-09 14:44:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_47.json
+start:2024-12-09 14:44:06
+end:2024-12-09 14:45:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_168.json
+start:2024-12-09 14:45:05
+end:2024-12-09 14:46:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_53.json
+start:2024-12-09 14:46:05
+end:2024-12-09 14:47:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_148.json
+start:2024-12-09 14:47:04
+end:2024-12-09 14:48:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_115.json
+start:2024-12-09 14:48:06
+end:2024-12-09 14:49:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_75.json
+start:2024-12-09 14:49:07
+end:2024-12-09 14:50:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_31.json
+start:2024-12-09 14:50:07
+end:2024-12-09 14:51:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_16.json
+start:2024-12-09 14:51:06
+end:2024-12-09 14:52:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_51.json
+start:2024-12-09 14:52:06
+end:2024-12-09 14:53:08
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_135.json
+start:2024-12-09 14:53:08
+end:2024-12-09 14:54:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_131.json
+start:2024-12-09 14:54:07
+end:2024-12-09 14:55:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_130.json
+start:2024-12-09 14:55:07
+end:2024-12-09 14:56:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_158.json
+start:2024-12-09 14:56:06
+end:2024-12-09 14:57:08
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_238.json
+start:2024-12-09 14:57:08
+end:2024-12-09 14:58:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_34.json
+start:2024-12-09 14:58:07
+end:2024-12-09 14:59:10
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_40.json
+start:2024-12-09 14:59:10
+end:2024-12-09 15:00:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_221.json
+start:2024-12-09 15:12:53
+end:2024-12-09 15:13:57
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_183.json
+start:2024-12-09 15:13:57
+end:2024-12-09 15:14:56
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_162.json
+start:2024-12-09 15:14:56
+end:2024-12-09 15:15:56
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_254.json
+start:2024-12-09 15:15:56
+end:2024-12-09 15:16:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_33.json
+start:2024-12-09 15:16:55
+end:2024-12-09 15:17:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_52.json
+start:2024-12-09 15:17:55
+end:2024-12-09 15:18:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_201.json
+start:2024-12-09 15:18:55
+end:2024-12-09 15:19:54
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_136.json
+start:2024-12-09 15:19:54
+end:2024-12-09 15:20:54
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_4.json
+start:2024-12-09 15:20:54
+end:2024-12-09 15:21:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_28.json
+start:2024-12-09 15:21:55
+end:2024-12-09 15:22:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_15.json
+start:2024-12-09 15:22:55
+end:2024-12-09 15:23:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_84.json
+start:2024-12-09 15:23:55
+end:2024-12-09 15:24:54
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_202.json
+start:2024-12-09 15:24:54
+end:2024-12-09 15:25:54
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_212.json
+start:2024-12-09 15:25:54
+end:2024-12-09 15:26:53
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_81.json
+start:2024-12-09 15:33:35
+end:2024-12-09 15:34:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_82.json
+start:2024-12-09 15:34:36
+end:2024-12-09 15:35:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_55.json
+start:2024-12-09 15:35:35
+end:2024-12-09 15:36:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_274.json
+start:2024-12-09 15:36:35
+end:2024-12-09 15:37:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_147.json
+start:2024-12-09 15:37:36
+end:2024-12-09 15:38:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_14.json
+start:2024-12-09 15:38:36
+end:2024-12-09 15:39:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_56.json
+start:2024-12-09 15:39:37
+end:2024-12-09 15:40:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_95.json
+start:2024-12-09 15:40:37
+end:2024-12-09 15:41:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_118.json
+start:2024-12-09 15:41:37
+end:2024-12-09 15:42:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_119.json
+start:2024-12-09 15:42:36
+end:2024-12-09 15:43:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_104.json
+start:2024-12-09 15:43:36
+end:2024-12-09 15:44:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_49.json
+start:2024-12-09 15:44:36
+end:2024-12-09 15:45:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_245.json
+start:2024-12-09 15:45:35
+end:2024-12-09 15:46:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_27.json
+start:2024-12-09 15:46:35
+end:2024-12-09 15:47:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_98.json
+start:2024-12-09 15:47:36
+end:2024-12-09 15:48:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_45.json
+start:2024-12-09 15:48:36
+end:2024-12-09 15:49:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_81.json
+start:2024-12-09 15:49:35
+end:2024-12-09 15:50:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_58.json
+start:2024-12-09 15:50:38
+end:2024-12-09 15:51:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_73.json
+start:2024-12-09 15:51:37
+end:2024-12-09 15:52:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_149.json
+start:2024-12-09 15:52:37
+end:2024-12-09 15:53:39
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_184.json
+start:2024-12-09 16:00:25
+end:2024-12-09 16:01:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_266.json
+start:2024-12-09 16:01:24
+end:2024-12-09 16:02:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_41.json
+start:2024-12-09 16:02:23
+end:2024-12-09 16:03:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_141.json
+start:2024-12-09 16:03:23
+end:2024-12-09 16:04:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_66.json
+start:2024-12-09 16:04:23
+end:2024-12-09 16:05:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_22.json
+start:2024-12-09 16:05:24
+end:2024-12-09 16:06:26
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_203.json
+start:2024-12-09 16:06:26
+end:2024-12-09 16:07:27
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_46.json
+start:2024-12-09 16:07:27
+end:2024-12-09 16:08:28
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_175.json
+start:2024-12-09 16:08:28
+end:2024-12-09 16:09:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_157.json
+start:2024-12-09 16:09:29
+end:2024-12-09 16:10:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/6_2.json
+start:2024-12-09 16:10:29
+end:2024-12-09 16:11:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_177.json
+start:2024-12-09 16:11:32
+end:2024-12-09 16:12:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_0.json
+start:2024-12-09 16:12:33
+end:2024-12-09 16:13:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_29.json
+start:2024-12-09 16:13:35
+end:2024-12-09 16:14:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_252.json
+start:2024-12-09 16:14:36
+end:2024-12-09 16:15:39
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_69.json
+start:2024-12-09 16:15:39
+end:2024-12-09 16:16:41
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_159.json
+start:2024-12-09 16:16:41
+end:2024-12-09 16:17:42
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_30.json
+start:2024-12-09 16:17:42
+end:2024-12-09 16:18:43
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_139.json
+start:2024-12-09 16:18:43
+end:2024-12-09 16:19:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_96.json
+start:2024-12-16 15:47:05
+end:2024-12-16 15:48:22
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_225.json
+start:2024-12-16 15:48:22
+end:2024-12-16 15:49:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_21.json
+start:2024-12-16 15:49:21
+end:2024-12-16 15:50:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_20.json
+start:2024-12-16 15:50:21
+end:2024-12-16 15:51:20
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_253.json
+start:2024-12-16 15:51:20
+end:2024-12-16 15:52:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_88.json
+start:2024-12-16 15:52:19
+end:2024-12-16 15:53:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_44.json
+start:2024-12-16 15:53:21
+end:2024-12-16 15:54:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_250.json
+start:2024-12-16 15:54:23
+end:2024-12-16 15:55:28
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_269.json
+start:2024-12-16 15:55:28
+end:2024-12-16 15:56:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_63.json
+start:2024-12-16 15:56:36
+end:2024-12-16 15:57:41
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_102.json
+start:2024-12-16 15:57:41
+end:2024-12-16 15:58:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_196.json
+start:2024-12-16 15:58:45
+end:2024-12-16 15:59:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_140.json
+start:2024-12-16 15:59:47
+end:2024-12-16 16:00:56
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_2.json
+start:2024-12-16 16:00:56
+end:2024-12-16 16:02:02
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_262.json
+start:2024-12-16 16:02:02
+end:2024-12-16 16:03:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_127.json
+start:2024-12-16 16:03:06
+end:2024-12-16 16:04:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_12.json
+start:2024-12-16 16:04:16
+end:2024-12-16 16:05:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_117.json
+start:2024-12-16 16:05:21
+end:2024-12-16 16:06:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_205.json
+start:2024-12-16 16:06:23
+end:2024-12-16 16:07:28
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_187.json
+start:2024-12-16 16:14:33
+end:2024-12-16 16:15:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_17.json
+start:2024-12-16 16:15:37
+end:2024-12-16 16:16:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_85.json
+start:2024-12-16 16:16:38
+end:2024-12-16 16:17:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_236.json
+start:2024-12-16 16:17:38
+end:2024-12-16 16:18:40
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_43.json
+start:2024-12-16 16:18:40
+end:2024-12-16 16:19:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_63.json
+start:2024-12-16 16:19:45
+end:2024-12-16 16:20:48
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_161.json
+start:2024-12-16 16:20:48
+end:2024-12-16 16:21:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/6_6.json
+start:2024-12-16 16:21:55
+end:2024-12-16 16:23:00
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_240.json
+start:2024-12-16 16:23:00
+end:2024-12-16 16:24:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_85.json
+start:2024-12-16 16:24:07
+end:2024-12-16 16:25:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_146.json
+start:2024-12-16 16:25:12
+end:2024-12-16 16:26:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_72.json
+start:2024-12-16 16:26:21
+end:2024-12-16 16:27:26
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_270.json
+start:2024-12-16 16:27:26
+end:2024-12-16 16:28:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_124.json
+start:2024-12-16 16:28:34
+end:2024-12-16 16:29:43
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_163.json
+start:2024-12-16 16:29:43
+end:2024-12-16 16:30:50
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_200.json
+start:2024-12-16 16:30:50
+end:2024-12-16 16:31:57
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/6_0.json
+start:2024-12-16 16:31:57
+end:2024-12-16 16:33:03
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_133.json
+start:2024-12-16 16:33:03
+end:2024-12-16 16:34:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_188.json
+start:2024-12-16 16:42:53
+end:2024-12-16 16:43:53
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_79.json
+start:2024-12-16 16:43:53
+end:2024-12-16 16:44:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_125.json
+start:2024-12-16 16:44:55
+end:2024-12-16 16:45:59
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_157.json
+start:2024-12-16 16:45:59
+end:2024-12-16 16:47:02
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_191.json
+start:2024-12-16 16:47:02
+end:2024-12-16 16:48:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_115.json
+start:2024-12-16 16:48:07
+end:2024-12-16 16:49:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_18.json
+start:2024-12-16 16:49:14
+end:2024-12-16 16:50:18
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_90.json
+start:2024-12-16 16:50:18
+end:2024-12-16 16:51:23
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_13.json
+start:2024-12-16 16:51:23
+end:2024-12-16 16:52:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_57.json
+start:2024-12-16 16:52:30
+end:2024-12-16 16:53:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_101.json
+start:2024-12-16 16:53:35
+end:2024-12-16 16:54:42
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_32.json
+start:2024-12-16 16:54:42
+end:2024-12-16 16:55:50
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_21.json
+start:2024-12-16 16:55:50
+end:2024-12-16 16:56:58
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_78.json
+start:2024-12-16 18:02:46
+end:2024-12-16 18:03:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_31.json
+start:2024-12-16 18:03:47
+end:2024-12-16 18:04:49
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_68.json
+start:2024-12-16 18:07:35
+end:2024-12-16 18:08:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_110.json
+start:2024-12-16 18:08:37
+end:2024-12-16 18:09:36
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_0.json
+start:2024-12-16 18:09:36
+end:2024-12-16 18:10:37
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_263.json
+start:2024-12-16 18:10:37
+end:2024-12-16 18:11:40
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_96.json
+start:2024-12-16 18:11:40
+end:2024-12-16 18:12:42
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_153.json
+start:2024-12-16 18:12:42
+end:2024-12-16 18:13:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_44.json
+start:2024-12-16 18:13:44
+end:2024-12-16 18:14:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_224.json
+start:2024-12-16 18:14:47
+end:2024-12-16 18:15:53
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_138.json
+start:2024-12-16 18:15:53
+end:2024-12-16 18:16:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_101.json
+start:2024-12-16 18:20:53
+end:2024-12-16 18:21:54
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_65.json
+start:2024-12-16 18:21:54
+end:2024-12-16 18:22:57
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_107.json
+start:2024-12-16 18:22:57
+end:2024-12-16 18:24:00
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_142.json
+start:2024-12-16 18:24:00
+end:2024-12-16 18:25:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_32.json
+start:2024-12-16 18:25:07
+end:2024-12-16 18:26:11
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_33.json
+start:2024-12-16 18:26:11
+end:2024-12-16 18:27:17
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_152.json
+start:2024-12-16 18:27:17
+end:2024-12-16 18:28:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_46.json
+start:2024-12-16 18:28:24
+end:2024-12-16 18:29:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_148.json
+start:2024-12-16 18:29:30
+end:2024-12-16 18:30:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_68.json
+start:2024-12-16 18:30:38
+end:2024-12-16 18:31:48
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_174.json
+start:2024-12-16 18:31:48
+end:2024-12-16 18:32:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_214.json
+start:2024-12-16 18:32:55
+end:2024-12-16 18:33:59
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_154.json
+start:2024-12-16 18:33:59
+end:2024-12-16 18:35:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_151.json
+start:2024-12-16 18:35:06
+end:2024-12-16 18:36:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_31.json
+start:2024-12-16 18:36:14
+end:2024-12-16 18:37:22
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_158.json
+start:2024-12-16 18:37:22
+end:2024-12-16 18:38:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_77.json
+start:2024-12-16 18:38:32
+end:2024-12-16 18:39:39
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_77.json
+start:2024-12-16 18:39:39
+end:2024-12-16 18:40:48
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/6_4.json
+start:2024-12-16 18:40:48
+end:2024-12-16 18:41:56
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_65.json
+start:2024-12-16 18:52:18
+end:2024-12-16 18:53:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_47.json
+start:2024-12-16 18:53:21
+end:2024-12-16 18:54:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_66.json
+start:2024-12-16 18:54:24
+end:2024-12-16 18:55:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_89.json
+start:2024-12-16 18:55:25
+end:2024-12-16 18:56:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_27.json
+start:2024-12-16 18:56:29
+end:2024-12-16 18:57:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_145.json
+start:2024-12-16 18:57:35
+end:2024-12-16 18:58:41
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_83.json
+start:2024-12-16 18:58:41
+end:2024-12-16 18:59:46
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_52.json
+start:2024-12-16 18:59:46
+end:2024-12-16 19:00:52
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_123.json
+start:2024-12-16 19:00:52
+end:2024-12-16 19:01:58
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_3.json
+start:2024-12-16 19:01:58
+end:2024-12-16 19:03:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_12.json
+start:2024-12-16 19:03:09
+end:2024-12-16 19:04:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_272.json
+start:2024-12-16 19:04:16
+end:2024-12-16 19:05:26
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_28.json
+start:2024-12-16 19:05:26
+end:2024-12-16 19:06:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_59.json
+start:2024-12-16 19:06:31
+end:2024-12-16 19:07:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_76.json
+start:2024-12-16 19:07:38
+end:2024-12-16 19:08:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_22.json
+start:2024-12-16 19:08:47
+end:2024-12-16 19:09:52
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_169.json
+start:2024-12-16 19:09:52
+end:2024-12-16 19:11:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_109.json
+start:2024-12-16 19:11:04
+end:2024-12-16 19:12:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_219.json
+start:2024-12-16 19:33:11
+end:2024-12-16 19:34:17
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_100.json
+start:2024-12-16 19:34:17
+end:2024-12-16 19:35:18
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_113.json
+start:2024-12-16 19:35:18
+end:2024-12-16 19:36:21
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_53.json
+start:2024-12-16 19:36:21
+end:2024-12-16 19:37:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_265.json
+start:2024-12-16 19:37:24
+end:2024-12-16 19:38:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_70.json
+start:2024-12-16 19:38:29
+end:2024-12-16 19:39:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_140.json
+start:2024-12-16 19:39:34
+end:2024-12-16 19:40:39
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_32.json
+start:2024-12-16 19:40:39
+end:2024-12-16 19:41:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_189.json
+start:2024-12-16 19:41:47
+end:2024-12-16 19:42:51
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_91.json
+start:2024-12-16 19:42:51
+end:2024-12-16 19:43:58
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_59.json
+start:2024-12-16 19:43:58
+end:2024-12-16 19:45:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_163.json
+start:2024-12-16 19:45:05
+end:2024-12-16 19:46:10
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_111.json
+start:2024-12-16 19:46:10
+end:2024-12-16 19:47:18
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_10.json
+start:2024-12-16 19:47:18
+end:2024-12-16 19:48:28
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_120.json
+start:2024-12-16 19:48:28
+end:2024-12-16 19:49:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_84.json
+start:2024-12-16 19:49:38
+end:2024-12-16 19:50:48
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_258.json
+start:2024-12-16 19:50:48
+end:2024-12-16 19:51:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_72.json
+start:2024-12-16 19:51:55
+end:2024-12-16 19:53:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_160.json
+start:2024-12-16 19:53:05
+end:2024-12-16 19:54:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_171.json
+start:2024-12-16 20:12:55
+end:2024-12-16 20:14:05
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_48.json
+start:2024-12-16 20:14:05
+end:2024-12-16 20:15:08
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_121.json
+start:2024-12-16 20:15:08
+end:2024-12-16 20:16:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_54.json
+start:2024-12-16 20:16:09
+end:2024-12-16 20:17:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_107.json
+start:2024-12-16 20:17:12
+end:2024-12-16 20:18:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_150.json
+start:2024-12-16 20:18:15
+end:2024-12-16 20:19:20
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_64.json
+start:2024-12-16 20:19:20
+end:2024-12-16 20:20:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_70.json
+start:2024-12-16 20:20:24
+end:2024-12-16 20:21:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_215.json
+start:2024-12-16 20:21:32
+end:2024-12-16 20:22:40
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_186.json
+start:2024-12-16 20:22:40
+end:2024-12-16 20:23:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_138.json
+start:2024-12-16 20:23:47
+end:2024-12-16 20:24:57
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_102.json
+start:2024-12-16 20:24:57
+end:2024-12-16 20:26:07
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_82.json
+start:2024-12-16 20:26:07
+end:2024-12-16 20:27:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_170.json
+start:2024-12-16 20:27:19
+end:2024-12-16 20:28:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_51.json
+start:2024-12-16 20:28:29
+end:2024-12-16 20:29:42
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_210.json
+start:2024-12-16 20:29:42
+end:2024-12-16 20:30:52
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_67.json
+start:2024-12-16 20:41:17
+end:2024-12-16 20:42:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_165.json
+start:2024-12-16 20:42:19
+end:2024-12-16 20:43:18
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_118.json
+start:2024-12-16 20:43:18
+end:2024-12-16 20:44:17
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_110.json
+start:2024-12-16 20:44:17
+end:2024-12-16 20:45:17
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_53.json
+start:2024-12-16 20:45:17
+end:2024-12-16 20:46:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_14.json
+start:2024-12-16 20:46:16
+end:2024-12-16 20:47:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_246.json
+start:2024-12-16 20:47:16
+end:2024-12-16 20:48:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_37.json
+start:2024-12-16 20:48:15
+end:2024-12-16 20:49:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_178.json
+start:2024-12-16 20:49:16
+end:2024-12-16 20:50:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_15.json
+start:2024-12-16 20:50:16
+end:2024-12-16 20:51:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_90.json
+start:2024-12-16 20:51:15
+end:2024-12-16 20:52:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_8.json
+start:2024-12-16 20:52:14
+end:2024-12-16 20:53:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_234.json
+start:2024-12-16 20:53:14
+end:2024-12-16 20:54:13
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_71.json
+start:2024-12-16 20:54:13
+end:2024-12-16 20:55:13
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_231.json
+start:2024-12-16 20:55:13
+end:2024-12-16 20:56:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_9.json
+start:2024-12-16 20:56:12
+end:2024-12-16 20:57:11
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_259.json
+start:2024-12-16 20:57:11
+end:2024-12-16 20:58:11
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_42.json
+start:2024-12-16 20:58:11
+end:2024-12-16 20:59:10
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_121.json
+start:2024-12-16 20:59:10
+end:2024-12-16 21:00:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_100.json
+start:2024-12-16 21:00:09
+end:2024-12-16 21:01:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_127.json
+start:2024-12-16 21:01:09
+end:2024-12-16 21:02:09
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_241.json
+start:2024-12-16 21:02:09
+end:2024-12-16 21:03:08
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_11.json
+start:2024-12-16 21:03:08
+end:2024-12-16 21:04:10
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_75.json
+start:2024-12-16 21:13:04
+end:2024-12-16 21:14:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_156.json
+start:2024-12-16 21:14:15
+end:2024-12-16 21:15:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_249.json
+start:2024-12-16 21:15:15
+end:2024-12-16 21:16:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_99.json
+start:2024-12-16 21:16:14
+end:2024-12-16 21:17:13
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_58.json
+start:2024-12-16 21:17:13
+end:2024-12-16 21:18:13
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_23.json
+start:2024-12-16 21:18:13
+end:2024-12-16 21:19:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_133.json
+start:2024-12-16 21:19:12
+end:2024-12-16 21:20:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_108.json
+start:2024-12-16 21:20:12
+end:2024-12-16 21:21:13
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_164.json
+start:2024-12-16 21:21:13
+end:2024-12-16 21:22:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_244.json
+start:2024-12-16 21:22:15
+end:2024-12-16 21:23:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_7.json
+start:2024-12-16 21:23:14
+end:2024-12-16 21:24:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_218.json
+start:2024-12-16 21:24:14
+end:2024-12-16 21:25:13
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_230.json
+start:2024-12-16 21:25:13
+end:2024-12-16 21:26:13
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_126.json
+start:2024-12-16 21:26:13
+end:2024-12-16 21:27:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_41.json
+start:2024-12-16 21:27:12
+end:2024-12-16 21:28:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_56.json
+start:2024-12-16 21:28:12
+end:2024-12-16 21:29:14
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_154.json
+start:2024-12-16 21:29:14
+end:2024-12-16 21:30:13
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_54.json
+start:2024-12-16 21:30:13
+end:2024-12-16 21:31:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_6.json
+start:2024-12-16 21:31:15
+end:2024-12-16 21:32:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_193.json
+start:2024-12-16 21:32:16
+end:2024-12-16 21:33:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_216.json
+start:2024-12-16 21:43:23
+end:2024-12-16 21:44:26
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_151.json
+start:2024-12-16 21:44:26
+end:2024-12-16 21:45:27
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_176.json
+start:2024-12-16 21:45:27
+end:2024-12-16 21:46:27
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_114.json
+start:2024-12-16 21:46:27
+end:2024-12-16 21:47:28
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_103.json
+start:2024-12-16 21:47:28
+end:2024-12-16 21:48:30
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_242.json
+start:2024-12-16 21:48:30
+end:2024-12-16 21:49:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_30.json
+start:2024-12-16 21:49:32
+end:2024-12-16 21:50:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_20.json
+start:2024-12-16 21:50:31
+end:2024-12-16 21:51:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_45.json
+start:2024-12-16 21:51:31
+end:2024-12-16 21:52:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_156.json
+start:2024-12-16 21:52:32
+end:2024-12-16 21:53:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_185.json
+start:2024-12-16 21:53:32
+end:2024-12-16 21:54:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_7.json
+start:2024-12-16 21:54:32
+end:2024-12-16 21:55:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_114.json
+start:2024-12-16 21:55:33
+end:2024-12-16 21:56:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_119.json
+start:2024-12-16 21:56:33
+end:2024-12-16 21:57:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_21.json
+start:2024-12-16 21:57:33
+end:2024-12-16 21:58:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_16.json
+start:2024-12-16 21:58:32
+end:2024-12-16 21:59:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_5.json
+start:2024-12-16 21:59:32
+end:2024-12-16 22:00:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/6_1.json
+start:2024-12-16 22:00:34
+end:2024-12-16 22:01:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_11.json
+start:2024-12-16 22:01:35
+end:2024-12-16 22:02:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_25.json
+start:2024-12-16 22:02:35
+end:2024-12-16 22:03:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_97.json
+start:2024-12-17 15:41:31
+end:2024-12-17 15:42:33
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_222.json
+start:2024-12-17 15:42:33
+end:2024-12-17 15:43:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_38.json
+start:2024-12-17 15:43:32
+end:2024-12-17 15:44:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_251.json
+start:2024-12-17 15:44:32
+end:2024-12-17 15:45:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_25.json
+start:2024-12-17 15:45:31
+end:2024-12-17 15:46:31
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_34.json
+start:2024-12-17 15:46:31
+end:2024-12-17 15:47:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_136.json
+start:2024-12-17 15:47:34
+end:2024-12-17 15:48:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_105.json
+start:2024-12-17 15:48:35
+end:2024-12-17 15:49:39
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_41.json
+start:2024-12-17 15:49:39
+end:2024-12-17 15:50:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_26.json
+start:2024-12-17 15:50:45
+end:2024-12-17 15:51:47
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_271.json
+start:2024-12-17 15:51:47
+end:2024-12-17 15:52:50
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_67.json
+start:2024-12-17 15:52:50
+end:2024-12-17 15:53:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_106.json
+start:2024-12-17 15:53:55
+end:2024-12-17 15:54:59
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_112.json
+start:2024-12-17 15:54:59
+end:2024-12-17 15:56:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_113.json
+start:2024-12-17 16:01:15
+end:2024-12-17 16:02:16
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_264.json
+start:2024-12-17 16:02:16
+end:2024-12-17 16:03:18
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_37.json
+start:2024-12-17 16:03:18
+end:2024-12-17 16:04:20
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_19.json
+start:2024-12-17 16:04:20
+end:2024-12-17 16:05:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_97.json
+start:2024-12-17 16:05:25
+end:2024-12-17 16:06:29
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_43.json
+start:2024-12-17 16:06:29
+end:2024-12-17 16:07:35
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_35.json
+start:2024-12-17 16:07:35
+end:2024-12-17 16:08:39
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_9.json
+start:2024-12-17 16:08:39
+end:2024-12-17 16:09:43
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_95.json
+start:2024-12-17 16:09:43
+end:2024-12-17 16:10:51
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_2.json
+start:2024-12-17 16:10:51
+end:2024-12-17 16:11:56
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_207.json
+start:2024-12-17 16:11:56
+end:2024-12-17 16:13:00
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_42.json
+start:2024-12-17 16:13:00
+end:2024-12-17 16:14:06
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_25.json
+start:2024-12-17 16:14:06
+end:2024-12-17 16:15:12
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_35.json
+start:2024-12-17 16:15:12
+end:2024-12-17 16:16:19
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_10.json
+start:2024-12-17 16:16:19
+end:2024-12-17 16:17:26
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_160.json
+start:2024-12-17 16:17:26
+end:2024-12-17 16:18:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_52.json
+start:2024-12-17 16:18:34
+end:2024-12-17 16:19:41
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_74.json
+start:2024-12-17 16:19:41
+end:2024-12-17 16:20:48
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_141.json
+start:2024-12-17 16:24:39
+end:2024-12-17 16:25:41
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_86.json
+start:2024-12-17 16:25:41
+end:2024-12-17 16:26:45
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_14.json
+start:2024-12-17 16:26:45
+end:2024-12-17 16:27:51
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_40.json
+start:2024-12-17 16:27:51
+end:2024-12-17 16:28:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_137.json
+start:2024-12-17 16:28:55
+end:2024-12-17 16:29:59
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_20.json
+start:2024-12-17 16:29:59
+end:2024-12-17 16:31:03
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_135.json
+start:2024-12-17 16:31:03
+end:2024-12-17 16:32:08
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_13.json
+start:2024-12-17 16:32:08
+end:2024-12-17 16:33:15
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_268.json
+start:2024-12-17 16:33:15
+end:2024-12-17 16:34:20
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/5_30.json
+start:2024-12-17 16:34:20
+end:2024-12-17 16:35:24
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_144.json
+start:2024-12-17 16:35:24
+end:2024-12-17 16:36:32
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_161.json
+start:2024-12-17 16:36:32
+end:2024-12-17 16:37:39
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_93.json
+start:2024-12-17 16:37:39
+end:2024-12-17 16:38:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_209.json
+start:2024-12-17 16:43:18
+end:2024-12-17 16:44:25
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_7.json
+start:2024-12-17 16:44:25
+end:2024-12-17 16:45:28
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_217.json
+start:2024-12-17 16:45:28
+end:2024-12-17 16:46:34
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_192.json
+start:2024-12-17 16:46:34
+end:2024-12-17 16:47:38
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_109.json
+start:2024-12-17 16:47:38
+end:2024-12-17 16:48:44
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_6.json
+start:2024-12-17 16:48:44
+end:2024-12-17 16:49:50
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_47.json
+start:2024-12-17 16:49:50
+end:2024-12-17 16:50:55
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_49.json
+start:2024-12-17 16:50:55
+end:2024-12-17 16:51:57
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_247.json
+start:2024-12-17 16:51:57
+end:2024-12-17 16:53:04
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/4_2.json
+start:2024-12-17 16:53:04
+end:2024-12-17 16:54:11
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_235.json
+start:2024-12-17 16:54:11
+end:2024-12-17 16:55:17
+/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged/3_46.json
+start:2024-12-17 16:55:17
+end:2024-12-17 16:56:21

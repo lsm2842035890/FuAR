@@ -6,8 +6,26 @@ from lgsvl.dreamview import CoordType
 from datetime import datetime
 from environs import Env
 import lgsvl
+import threading
+from CyberBridge import CyberBridge
+from CyberBridge import Topics
+from lgsvl_method import CyberBridgeInstance
 
+def cb(data):   
+    print(data)
 
+def get_location():
+    ######
+    print("Waiting for localization")
+    cyber = CyberBridge("127.0.0.1", 9090)
+    # cyber.add_publisher(Topics.Planning)
+    # cyber.add_subscriber(Topics.Planning,cb)
+    cyber.add_subscriber(Topics.TrafficLight,cb)
+    cyber.spin()
+    ######
+    # while True:
+    #     print("Waiting for localization")
+    #     cyber.receive_publish()
 
 
 
@@ -21,7 +39,7 @@ def testApollo(tag):
 
     LGSVL__AUTOPILOT_HD_MAP = env.str("LGSVL__AUTOPILOT_HD_MAP", "san_francisco")
     LGSVL__AUTOPILOT_0_VEHICLE_CONFIG = env.str("LGSVL__AUTOPILOT_0_VEHICLE_CONFIG", 'Lincoln2017MKZ_LGSVL')
-    LGSVL__SIMULATION_DURATION_SECS = 1500
+    LGSVL__SIMULATION_DURATION_SECS = 50
 
     vehicle_conf = env.str("LGSVL__VEHICLE_0", lgsvl.wise.DefaultAssets.ego_lincoln2017mkz_apollo6_modular)
     scene_name = env.str("LGSVL__MAP", lgsvl.wise.DefaultAssets.map_sanfrancisco_correct)
@@ -66,9 +84,22 @@ def testApollo(tag):
     dv.setup_apollo(592598.94, 4134701.40, default_modules)
     dv.set_destination(592598.94,4134701.40,coord_type=CoordType.Northing)
     sim.run(LGSVL__SIMULATION_DURATION_SECS)
+    sim.close()
 
+def run_cyberbridgeinstance():
+    cyber = CyberBridgeInstance()
+    cyber.register(None,[592598.94,4134701.40],[],"san_francisco",True)
 
-testApollo(1)
+if __name__ == "__main__":
+      # 创建一个线程来运行 get_location 函数
+    # location_thread = threading.Thread(target=get_location)
+    # location_thread.start()  # 启动线程
+    # get_location()
+    # location_thread = threading.Thread(target=run_cyberbridgeinstance)
+    # location_thread.start()  # 启动线程
+    # testApollo(1)
+    for i in range(2):
+        testApollo(i)
 
 
 
