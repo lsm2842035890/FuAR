@@ -1,0 +1,127 @@
+{
+    "weather": [
+        "cloudy",
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498523",
+        "2005004112101",
+        "2005004112541",
+        "2005048103261"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "The crash occurred in the intersection of a five-lane roadway with a traffic control signal.  Conditions were daylight, dry in the early afternoon on a weekday.  The roadway had a posted speed of 81 KPH (50 MPH) and the northbound lane had a positive 3% grade. V2 was a 1992 Ford Escort coupe intending on going straight through the intersection with a green light in the southbound lane.  V1 was a 1999 Chevy Venture minivan intending on turning left at the same intersection with a red light.  V1 was in the northbound lane.  As V1 was turning left, the front of V2 struck the right side of V1.  As a result of the impact, V1 rolled \u00bc turn onto its left side coming to final rest.  V2 came to final rest in the center of the intersection-heading southwest. A 33-year-old male drove V1 and sustained minor injuries but was not transported.    He stated that the light was red as he was turning left.  He saw V2 but thought he was going to stop. After V2 hit V1 the vehicle rolled \u00bc turn on its left side.  V1 was traveling less than 8 KPH (5 MPH) at the time of impact.  V1 was towed due to damage.",
+        "     The crash occurred in the southbound lane of a two-lane roadway with a T-intersection.  Conditions were daylight with cloudy skies and rain in the morning on a weekday.  The posted speed limit was 72 kmph (45 mph).     V1 was a 2003 Acura 3.2 TL sedan traveling eastbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Ford Aerostar minivan, was traveling southbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left front corner of V1 in the southbound lane.  V1 spun clockwise and came to final rest facing westbound.  V2 came to final rest facing southbound.",
+        "This two-vehicle crash occurred at just before midnight at the \"T\" intersection of a two-lane, two-way dry, level, bituminous north/south roadway and a two-lane, two-way, dry, uphill, bituminous roadway that intersects the north/south roadway from the west.  The roadway curves to the right slightly for westbound traffic.  The intersection was controlled by a stop sign for westbound traffic.  The roadway intersects the northbound roadway at a 50-degree angle.  It was dark but lit at the time of the crash and there were no adverse atmospheric conditions.  The posted speed limit for the north/south roadway was 89 kmph (55 mph) and the westbound roadway was 56 kmph (35 mph).Vehicle one (V1), a 2000 Chrysler Cirrus was traveling westbound approaching the intersection.  Vehicle two (V2), a 2002 Ford Explorer was traveling northbound and pulling a trailer loaded with musical equipment.  V1 entered the intersection attempting to turn left while V2 passed through the intersection going straight.  The front of V2 contacted the left side of V1.  V1 deflected to the right and came to rest off of the roadway facing southwest.  V2 rotated counterclockwise and came to rest on the roadway facing south.  While V2 was rotating towards final rest, its trailer contacted the left rear of V2. The driver of V1 was a 19-year old female who maintains a regular sleep schedule of 7 hours of sleep per evening and a normal work schedule of 35 hours per week.  She was fatigued at the time of the crash.  She was familiar with the vehicle and has over 4 years of driving experience.  This was however, her first time on this particular roadway.  The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

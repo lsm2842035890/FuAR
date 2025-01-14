@@ -1,0 +1,23 @@
+
+
+
+- [Response]: {
+    "weather": [],
+    "lighting": ["daylight"],
+    "speedlimit": "40 MPH",
+    "intersection": "T",
+    "T": "unknown",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive straight", 1], ["see V2", 1], ["brake", 1], ["turn left", 3]],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [["make left turn", 2], ["encroach into V1's lane", 8], ["strike V1", 2]],
+            "direction

@@ -1,0 +1,129 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "25MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 5,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004495041",
+        "2005006445102",
+        "2005045588442",
+        "2005075585601"
+    ],
+    "description": [
+        "     The crash occurred in the westbound lanes of a three-lane roadway with a T-intersection.  Conditions were dark with lights, dry with cloudy skies in the evening on a weekday.  The westbound lanes had a posted speed of 80 kmph (50 mph), the southbound lane had a speed limit of 56 kmph (35 mph).     V1 was a 1998 Ford Escort sedan traveling southbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Subaru Legacy sedan, was traveling westbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left side of V1 in the westbound lane.  Both vehicles came to final rest facing westbound.  ",
+        "This motor vehicle crash happened on a roadway.  This roadway travels east/west, with two travel lanes westbound and two travel lanes and one left turn lane eastbound.  The roadway is not physically divided.  The crash took place mid-block about 9 meters west of the traffic control signal.The driver of V1 was stopped at a traffic light, when the light turned green the driver proceeded to accelerate, traveling in lane two, in the westbound lanes.  V2 entered the roadway from a parking lot and crossed the path of V1, trying to turn onto the eastbound lanes.  V1 contacted V2 with its left front.  Both cars came to rest at impact.  V1's driver was coming from work and states that they did not see V2 until V2 crossed the path of V1.  The driver states that they were traveling about 40-48 kmph (25-30 mph) at time the of impact and tried to avoid contacting V2 but could not stop in time.",
+        "    The crash occurred on at a T-intersection of a four lane arterial road and a two-lane residential side street.  The urban four-lane roadway ran east/west and was undivided with two way left turn lane.   The two lane residential side street went north/south and was controlled by a stop sign.  Both roads were straight and level.  Conditions were daylight and dry on a weekday afternoon.    Vehicle #1 was a 1995 Chevy Blazer northbound attempting to turn left from the residential side street to go west on the four-lane road.  Vehicle #2, a 2001 Nissan Sentra, was eastbound in the left lane of the four-lane road.  The GMC (V1) began to turn left into the center two way left turn lane and stopped in the eastbound lanes.  The front of the Nissan (V2) struck the left side of Vehicle #1.  Both vehicles came to rest near impact and were towed due to damage.    Vehicle #1 was driven by a 20-year-old male that was belted and not injured in the crash.  The front right passenger, a 21-year-old female, was belted and transported to an area hospital with minor injuries.  No airbags deployed.  It appears the driver misjudged the gap distance and panicked when he realized he couldn't make it across to the center turn lane, stopping in the eastbound lanes.",
+        "       This two-vehicle crash occurred during morning daylight hours on a curved, two-lane, t-intersection with no controls.  The road runs north and south at the location and has one lane in each direction.  The speed limit is 40 kph (25 mph) road surface level asphalt and there were no adverse weather conditions at the time.       Vehicle #1 (V1), a red 1998 Dodge Stratus 4-door, driven by a 21 year-old female was traveling southbound in lane one. Vehicle #2 (V 2) a 1996 Ford Bronco driven by a 43 year-old female was traveling northbound in lane one. V 1 initiated a left turn just before the intersection the front of V1 collided with left side of Vi.  The impact rotated V1 somewhat counterclockwise and pushed it back and V1 came to rest in the northbound lane facing generally southeast.  V1 was towed due to damage.  The V1 driver stated that she was on her way to get a key to a new apartment that she was planning to move into. She added that she was wearing sunglasses and had the V1 sun visor down, but did not see V2 because the sun glare was blinding her as she began to turn left. V 2  noticed V1 turning into her path and steered to the right but was not able to avoid the collision with V1.  After the impact, V2 came to rest a few meters to the north of the intersection in the original lane of travel against the curb facing generally north.  V2 was towed due to damage.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 8
+}

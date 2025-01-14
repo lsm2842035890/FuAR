@@ -1,0 +1,96 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005002585263",
+        "2005004112601",
+        "2005048103001"
+    ],
+    "description": [
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The road was curved left with a radius of curvature of 375 meters and a superelevation of 1.8% for Vehicle #2. The road was curved right with a radius of curvature of 1875 meters and no superelevation for Vehicle #1.  Both vehicles had black on yellow curve warning signs with a suggested speed of 50 MPH.  The weather was cloudy.     Vehicle #1, a 2000 Chevrolet Cavalier, was traveling west on the two-lane roadway negotiating a curve to the right approaching a driveway.  Vehicle #2, a 1995 Dodge Intrepid, was traveling east on the same roadway negotiating the curve to the left.  Vehicle #1 attempted a left hand turn into the driveway and was struck in the front by Vehicle #2's front.  Vehicle #1 was rotated counterclockwise back across both lanes and came to rest in the westbound lane facing east.  Vehicle #2 continued off the right side of the roadway, came back on the roadway crossed both lanes, off the north side of the road and struck a 25cm pole with its front.  Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Chevrolet Cavalier (Vehicle #1) was driven by a belted 80 year old male who was transported, treated and released for minor injuries.  The right front seat passenger was a belted 72-year-old female who was also transported, treated and released for minor injuries. Both driver and passenger airbags deployed. The interview was refused and no information obtained from the driver. ",
+        "     The crash occurred in the middle of an intersection of a four-lane roadway controlled by a traffic control signal.  Conditions were daylight and dry in the early evening on a weekday.  The posted speed limit was 64 kmph (40 mph) for V1 and 72 kmph (45 mph) for V2.     V1 was a 2003 Buick Century sedan traveling northbound in the 3rd travel lane approaching a green traffic control signal intending on turning left at the intersection.  V2, a 2004 Toyota Corolla sedan, was traveling southbound in the second travel lane approaching the same green traffic control signal intending on continuing straight.  V1 looked but did not see V2 approaching and proceeded to make a left turn at the intersection.  The front right of V1 struck the front of V2 in the middle of the intersection.  V1 then spun 45 degrees and both vehicles came to final rest facing southwest.     A 74-year old male drove V1 and sustained minor injuries but refused any medical attention.  He stated that he was traveling between 1 and 10 MPH when he approached the intersection, looked ahead, then turned left.  The driver of V1 did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage.",
+        "This two-vehicle intersection related crash occurred in the morning daylight hours on a two-lane, undivided, two-way, bituminous roadway that intersects at a \"T\" intersection with a two-way two-lane road to the south.  The roadway was wet because it had just started to rain.  The primary roadway runs east/west with one lane in each direction and is slightly curved.  There are no traffic controls for the east/west roadway and a stop sign is posted for the intersecting northbound travel direction.  The posted speed limit on the east/west roadway was 72 kmph (45 mph).Vehicle one (V1) was a 1997 Infinity Q45 that was traveling west and negotiating a curve to the right.  The driver of V1 intended to make a left turn at the intersection.  The driver of V1 stated that as he approached the intersection, his vision shrank to tunnel vision and he blacked out.  V1 crossed the double yellow lane line and its front contacted the front of vehicle two (V2).  V2 was a 2005 Lexus ES330 that was traveling east negotiating the curve to the left.  Post impact V1 rotated clockwise and departed the north side of the roadway and the front of V1 impacted an embankment where it came to rest.  After the first impact V2 deflected to the right and departed the south side of the roadway and came to rest facing east on the upslope of an embankment. Both vehicles were towed due to damage.The driver of V1, and sole occupant, was a 51 year old male.  He had been awake for four hours after adequate sleep. He performed strenuous recreational activities of playing tennis for three hours prior to this trip and takes the medication Mavik for high blood pressure.  He blacked out while driving his vehicle.  Medical records indicated that low blood sugar may have been why the driver blacked out even though he had not been diagnosed as being diabetic.  The driver was very familiar with the vehicle and the roadway."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 6
+}

@@ -1,0 +1,75 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light",
+        "bright",
+        "dark"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 4,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005003498523",
+        "2005002585224",
+        "2005005289822"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "     The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH).  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.     Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking.  Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway.  Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn.  Vehicle #2 braked and steered left to avoid a collision.  Vehicle #2 struck Vehicle #1 in left side with its front.  Vehicle #2 came to rest facing in a northwesterly direction.  Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm.  He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work.  He stated that he had glanced at the traffic light (behind him) and thought it was red.  He also stated that he had looked, but didn't see the bus.  He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers.  Vehicle #1 was towed due to damage.",
+        "This two-vehicle crash occurred in the evening hours in the middle of the two northbound lanes of a physically divided (concrete barrier) bridge.  There were no adverse atmospheric conditions at the time of the crash, although it was dark and no streetlights were present.  The roadway was dry, straight, and level with a posted speed limit of the roadway was 72kph (45mph).  V1, a 2005 Mazda 626, was northbound in lane one on the bridge.  V2, a 1995 Ford Windstar, was disabled on the bridge in lane one ahead of vehicle one.  V1 failed to stop and the front of V1 contacted the back of V2 the impact pushed V2 forward and its right side contacted the right concrete barrier before coming to final rest.  Both vehicles had to be towed from the scene due to vehicle damage.V1 was driven by a 22 year-old female who suffered minor injuries as a result of the collision, but did not require transport to a medical facility.  After numerous attempts, an interview could not be obtained from the driver of vehicle one.  From statements given to the police on scene the driver of V1 had consumed alcoholic beverages prior to the crash but sobriety tests confirmed she was still within the legal limit to operate a motor vehicle.  V1 was towed due to damage."
+    ]
+}

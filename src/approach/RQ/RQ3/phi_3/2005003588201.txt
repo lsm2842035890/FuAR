@@ -1,0 +1,26 @@
+
+
+
+- [response]: {
+    "weather": [],
+    "lighting": ["it was dark out but the roadway was lighted"],
+    "speedlimit": "48 kmph (30 mph)",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into"], ["drive off"], ["turn around", 2], ["turn left", 2]],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["go across"]],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    }

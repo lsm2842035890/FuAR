@@ -1,0 +1,25 @@
+
+
+
+- [Response]: {
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "40kmph (25mph)",
+    "intersection": "unknown",
+    "T": "unknown",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive around bend", 2], ["stop", 0], ["stuck", 1]],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [["proceed opposite direction", 1], ["cross over lane", 3], ["hit", 1]],
+            "direction": "unknown",
+            "laneNumber": 0
+       

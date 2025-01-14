@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005005289123",
+    "description": "This two-vehicle crash occurred on a two-lane, two-way, undivided roadway. There were no\n                        vehicle traffic control signals present for this particular stretch of roadway. The road had a\n                        posted speed limit of 72 kmph (45 mph). It had just started to rain slightly but the road was\n                        still considered dry at the time of the incident. The gradient for this trafficway was measured\n                        to be level.\n\n\n                        Vehicle one (V1) and Vehicle two (V2) were both light vehicles. V1, a 2002 Honda Civic, was\n                        approaching V2, a 1980 Dodge Aspen, at approximately 34-48 kmph (21-30 mph), heading in the same\n                        direction. V2 was stopped on the roadway waiting to make a left turn into a private driveway.\n                        The left front of V1 made contact with the rear right of V2. The impact caused V2 to rotate\n                        counter-clockwise approximately 90 degrees before coming to final rest in the entranceway of a\n                        daycare center. V1 continued forward before coming to final rest in its original lane of travel.\n                        Both vehicles had to be towed from the scene due to damage.\n\n\n                        The driver of V1, a 69-year old female, did not suffer any injuries as a result of the impact.\n                        The interview with the driver of V1 did not yield much information. She was not really sure what\n                        the reason for this crash was. She claimed that there was another car directly in front of her\n                        vehicle and behind V2. She stated that the car in front of hers went around V2, which was\n                        waiting to make a left hand turn into a daycare center. As soon as she realized the impending\n                        danger she hit the brakes. This action was unfortunately not enough to prevent the crash from\n                        occurring. The driver of V1 claimed to be in good health; however, she was taking some\n                        prescription medication. One prescription was a hormone-replacement medication and the other\n                        medication was a thyroid-replacement medication. No deviance from the driver's normal sleep\n                        pattern was noted, and she claimed to be well rested at the time of the incident. Further, no\n                        emotional stresses were believed to be a factor in this crash. She was wearing her prescription\n                        lenses that corrected both hyperopic and myopic vision conditions. The Critical Precrash Event\n                        for this driver was when another motor vehicle was stopped in her lane. The Critical Reason was\n                        coded as an \"other\" recognition error - driver focused on extraneous vehicle. The driver kept\n                        watching the vehicle she had been following as it swerved around V2. The weather was also coded\n                        as an associated factor - it was drizzling at the time of the crash.\n\n\n                        The driver of V2, a 31-year old female, was not seriously hurt; however, she was taken to the\n                        hospital for evaluation. V2 was stopped in the traffic lane waiting to make a left turn into a\n                        daycare center. The interview could not be obtained from this person because no phone number was\n                        provided on the Police Accident Report. There was a phone number on the medical report but no\n                        one could be reached at that number. The Critical Precrash Event for this driver was when\n                        another motor vehicle was in her lane traveling in the same direction with higher speed. The\n                        Critical Reason was not coded to this vehicle. One associated factor coded to this vehicle was\n                        the weather, because it was drizzling out at the time of the crash. No other information about\n                        the driver of V2 was known because there was no interview."
+}

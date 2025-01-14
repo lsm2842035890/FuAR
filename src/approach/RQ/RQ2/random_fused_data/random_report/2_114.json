@@ -1,0 +1,63 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005004112382",
+        "2005072709641"
+    ],
+    "description": [
+        "     The crash occurred in the southbound lane of a three-lane roadway with a median controlled by a traffic control signal.  Conditions were daylight with rain in the afternoon on a weekday.  The posted speed limit was 80 KMPH (50 MPH) with a -2% downhill grade.     V1 was a 1990 Honda Civic sedan traveling southbound in the second travel lane approaching an intersection controlled by a traffic control signal.  V2, a 1999 Chevy Silverado pick-up, was stopped in traffic in the southbound lane in front of V1.  The front of V1 struck the back of V2 in the southbound lane.  Both vehicles came to final rest facing southbound.     V1 was driven by a 18-year-old female who was not injured.  She stated that she was talking to her friend and did not realize how close she was to V2.  She then braked and swerved right but struck V2 in the rear.  V1 was traveling between 50 and 64 KMPH (31 and 40 MPH) at the time of impact.  V1 was towed due to damage.",
+        "       This two-vehicle crash occurred in the morning at 0740 hours at a traffic-signal-controlled T-intersection. The north/south roadway is straight, level, dry and has two lanes in each direction that are separated by a painted median. The intersecting roadway (that branches on the west side of the north/south road) is a two-lane, undivided, level, straight east/west roadway. The speed limit on both roadways is 48 kph (30 mph) and there were no adverse atmospheric conditions at the time of the crash.       Vehicle one,(V 1) a 1992 Cadillac Deville, was southbound in the second lane. Vehicle two,(V 2) a 1993 Ford F-150 pickup truck, was eastbound at the intersection. The light turned red for vehicle one and green for vehicle two. As vehicle two turned left at the intersection, the front of vehicle one struck the left side vehicle two. Both vehicles came to rest in the intersection and were towed due to damage. The driver of V 1 a forty-six-year-old female, disregarded the red traffic signal. No information was obtained from this driver. The driver of V 2 a twenty-year-old male, was driving from home to work. He was well rested, familiar with his vehicle and his route, not in a hurry and comfortable with his twenty-year-old male passenger. He was listening to the radio, but this did not distract him from his driving responsibilities.       The pre-event movement for V 1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason driver related factor \"illegal maneuver\" (disregard of traffic control signal)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

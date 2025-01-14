@@ -1,0 +1,31 @@
+
+
+
+- [Response]: ```json
+{
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "48 kph (30 mph)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": ["drive into", "go across", "drive off"],
+            "direction": "unknown",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": ["follow lane", "turn left", "drive into"],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    }
+}
+```
+
+To arrive at this solution, the following information was

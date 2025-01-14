@@ -1,0 +1,42 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "25MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005004112402",
+    "description": "The crash occurred in the eastbound lane of a two-lane roadway with a T-intersection.\n                        Conditions were dusk and dry in the evening on a weekend. The northbound lane had a posted speed\n                        limit of 40 kmph (25 mph) and the eastbound lane had a posted speed limit of 56 kmph (35 mph).\n\n\n                        V1 was a 2003 Hyundai Elantra sedan traveling eastbound in the right lane approaching a\n                        T-intersection. V2, a 1998 Ford Taurus sedan, was traveling northbound in the right lane\n                        approaching a stop sign intending on turning left. V2 stopped at the stop sign, looked in both\n                        directions but there was landscaping and a fence obstructing V2's view. V2 then proceeded to\n                        turn left and the front of V1 struck the left side of V2 in the intersection., as V1 passed by\n                        V2, V2's right front contacted the back of V1. V1 continued on and struck a curb and a tree. V1\n                        came to final rest facing eastbound. V2 continued on and struck a curb and came to final rest\n                        facing northwest.\n\n\n                        V1 was driven by a 61-year-old female who sustained moderate injuries and was transported to a\n                        local hospital. She stated that she was traveling eastbound and saw V2 turn in front of her. The\n                        driver of V1 braked and swerved left but struck the left side of V2. V1 was towed due to damage.\n\n\n                        The Critical Precrash Event for V1 was other vehicle encroachment from crossing street turning\n                        into opposite direction. The Critical Reason for the Critical Precrash Event was not coded to\n                        this vehicle. Associated factors coded to this driver include several physical ailments such as\n                        high blood pressure, diabetes and asthma. The driver of V1 also takes several medications for\n                        these ailments. The driver is familiar with the roadway.\n\n\n                        V2 was driven by a 26-year-old female who was not injured. She stated that she stopped at the\n                        stop sign, looked in both directions but was unable to see V1 because of a fence and landscaping\n                        obstruction. V2 intending on turning left but was struck by V1. V2 was towed due to damage.\n\n\n                        The Critical Precrash Event for V2 was this vehicle turning left at the intersection. The\n                        Critical Reason for the Critical Precrash Event was an environmental related factor; view\n                        obstructed by a fence and landscaping. Associated factors coded to this driver was a recognition\n                        factor; driver was conversing with the passenger, inadequate surveillance; looked but did not\n                        see, the driver being unlicensed. The driver was familiar with the roadway."
+}

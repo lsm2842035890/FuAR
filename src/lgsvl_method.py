@@ -2543,16 +2543,16 @@ class CyberBridgeInstance:
 		# print(self.trace)
 
 	def save_pose_perception_json(self):
-		if not os.path.exists(fr"/home/lsm/SFTSG_NME/src/approach/runtime_scenaio_data/{self.directory_name}"):
-			os.makedirs(fr"/home/lsm/SFTSG_NME/src/approach/runtime_scenaio_data/{self.directory_name}")
+		if not os.path.exists("/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fuse_report_runtimedata"):
+			os.makedirs("/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fuse_report_runtimedata")
 			with self.lock:
-				with open(fr"/home/lsm/SFTSG_NME/src/approach/runtime_scenaio_data/{self.directory_name}/{self.name}_scenario.json", 'a') as f:
+				with open(fr"/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fuse_report_runtimedata/{self.name}_scenario.json", 'a') as f:
 					scenario_copy = self.scenario_json.copy()
 					# scenario_copy = copy.deepcopy(self.scenario_json)
 					json.dump(scenario_copy, f, indent=4)
 		else:
 			with self.lock:
-				with open(fr"/home/lsm/SFTSG_NME/src/approach/runtime_scenaio_data/{self.directory_name}/{self.name}_scenario.json", 'a') as f:
+				with open(fr"/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fuse_report_runtimedata/{self.name}_scenario.json", 'a') as f:
 					scenario_copy = self.scenario_json.copy()
 					# scenario_copy = copy.deepcopy(self.scenario_json)
 					json.dump(scenario_copy, f, indent=4)

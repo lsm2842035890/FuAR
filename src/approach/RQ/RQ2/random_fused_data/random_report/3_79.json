@@ -1,0 +1,102 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005003498461",
+        "2005003498503",
+        "2005012696003"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway was dry and had a downhill grade of -2/61.Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway.  Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane.  Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1.The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries.  The passenger in the front right seating position also did not sustain any injuries.  The International truck was not towed due to damage.",
+        "This crash occurred in the early afternoon of a weekend in the intersection of a northbound one-way roadway and a two-way east and west roadway.  All roadways were straight and level and had a speed limit of 48kmph (30mph).  The northbound entrance into the intersection was controlled by a stop sign.  It was daylight and clear with no adverse conditions.V1, a 1998 Mercedes-Benz ML320, was traveling westbound approaching the intersection.  V2, a 1999 Chevrolet Lumina, was traveling northbound and stopped at the stop sign.  As V2 proceeded into the intersection, its front impacted the left side of V1.  V1 than yawed counterclockwise and the right-rear wheel impacted the curb.  The right side of V1 then impacted a breakaway light-pole and rolled over one quarter turn before coming to final rest on its right side.V1 was driven by a 35 year-old male who sustained minor injuries and was transported to a medical facility.   A complete interview could not be obtained, but the driver stated that he was going straight when he was impacted by V2, who did not stop at the stop sign.  The Mercedes-Benz was towed due to damage.",
+        "\tV1, a 1997 Dodge Ram pickup, was traveling eastbound on a three-lane, two-way, dry asphalt roadway in daylight conditions.  V1 was approaching a T-intersection intending to turn right.  V2, a 2003 Pontiac Grand Am, was traveling southbound on a four-lane, two-way, dry asphalt roadway approaching the same intersection.  V2 was intending to go straight.  The posted speed for both roadways was 89 kmph (55 mph). Eastbound traffic was controlled by a stop sign; south and northbound traffic had no traffic control device. V1 stopped at the stop sign for 10 seconds or more.  V1 then made a right-hand turn.  The front of V2 contacted the left of V1 before they both came to final rest in the roadway.\tThe driver of V1 was a 68-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash.  He had no health-related problems and had taken no medication prior to the crash.  He was rested and traveling to the store.  He did not wear corrective lenses.  He was uninjured in the crash and refused treatment.  \tThe Critical Pre-crash Event for the driver of V1 was: this vehicle traveling, turning right at intersection.  The Critical reason for the Critical Pre-crash Event was a recognition error: inadequate surveillance (e.g. failed to look, looked but did not see) because he stated that he had looked both ways but did not see V2."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn right",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

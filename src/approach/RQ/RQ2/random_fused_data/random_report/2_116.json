@@ -1,0 +1,75 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "normal"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "unknown",
+    "impactPart": 1,
+    "ID": [
+        "2005003588301",
+        "2005004496062"
+    ],
+    "description": [
+        "This crash occurred in the intersection of a north/south road with one lane in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was raining and the roadways were wet.  The crash occurred in the morning hours on a weekend.Vehicle #1 was a 2001 Chevrolet Lumina that was traveling southbound. Vehicle #2 was a 2003 Lexus LS430 that was traveling westbound.  At the intersection, the front of Vehicle #2 impacted the left side of Vehicle #1.  The impact spun Vehicle #1 counter-clockwise and the right side impacted a train support pillar.  Vehicle #1 then spun clockwise to its final rest, facing northbound.The Chevrolet Lumina (Vehicle #1) was driven by a 52-year old male who did not sustain any injuries. A 52-year old female occupant in the front-right seat sustained incapacitating injuries and was transported to a local medical facility.  The driver stated that he was going straight and had the green light when Vehicle #2 ran the red light, which caused him to impact the train support pillar.  The Chevrolet Lumina was towed due to damage.",
+        "     The crash occurred in the intersection of a five-lane roadway controlled by a traffic control signal.  Conditions were dark with minimal lighting in the evening on a weekday.  The posted speed limit was 80 KMPH (50 MPH).  The northbound lane had a  >2% uphill grade.  The southbound lane was level.     V1 was a 1999 Toyota Corolla sedan traveling northbound in the third travel lane approaching an intersection controlled by a traffic control signal intending on turning left at the intersection.  V2, a 2006 Chevy Colorado pickup, was traveling southbound in the 2nd travel lane approaching the same intersection intending on going straight.  The front of V1 struck the front of V2 in the intersection.  Both vehicles came to final rest facing southbound.     V1 was driven by a 51-year-old male who sustained moderate injuries and was transported to a local hospital.  He stated that he did not see V2.  The driver did not take any avoidance actions and was traveling between 11-20 MPH at the time of impact.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 4
+}

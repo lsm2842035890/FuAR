@@ -1,0 +1,154 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "48KPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005002229242",
+        "2005003588341",
+        "2005004112261",
+        "2005006445102",
+        "2005009501162"
+    ],
+    "description": [
+        "This crash occurred on a level two lane undivided straight roadway with a posted speed limit of 48KPH (30mph). The roadway was straight. The intersecting roadway was a two lane undivided roadway Conditions were dry and crash occurred in the early afternoon hours of a weekday.Vehicle #1 was a 1996 Ford  Contour was traveling in the east bound lane, then making a left turn at the intersection after an uninvolved truck had just passed in the westbound lane. Vehicle #2 was a 2004 Honda Motorcycle traveling westbound behind the uninvolved truck.  Vehicle #1, the Ford Contour, made the left turn immediately after the truck and in front of  Vehicle #2, the Honda Motorcycle.  Vehicle #2 impacted Vehicle #1 on the  right front  side with it's front.The Ford Contour (Vehicle #1) was driven by a 43-year old male who was transported to an area hospital with minor injuries. He was wearing his prescription contact lenses and a pair of sunglasses at the time of the crash.  He stated there was a truck in his way and he didn't see the motorcycle. He did not stop before making the turn. He stated he was traveling less than 20 MPH at impact.  This vehicle was towed due to damage.",
+        "The crash occurred in the southbound lanes of a two-way roadway that was divided by a raised curb median with two lanes in each direction.  The roadway was straight and level and had a posted speed of 48 kmph (30 mph).  The weather was clear with no adverse conditions.  It was the evening hours of a weekday and it was dark out but the roadway was lighted. The crash occurred at a signalized intersection with an east/west roadway.Vehicle #1 was a 2001 Mitsubishi Mirage that was traveling southbound in the right lane.  Vehicle #2 was a 1995 Ford Probe that was traveling northbound in the left lane and attempting to make a left turn.  At the intersection, the front of Vehicle #1 impacted the right front side of Vehicle #2, and then Vehicle #2 impacted a chain-link fence that was located on the southwest corner of the intersection.The Mitsubishi Mirage (Vehicle #1) was driven by a 40-year old female who was transported to a local medical facility with incapacitating injuries.  A 21-year old female sustained minor injuries and a 12-year old male in her vehicle sustained non-incapacitating injuries and were both transported to a local medical facility.  Vehicle #1 was going straight through the intersection when Vehicle #2 turned in front of it.  The Mirage was towed due to damage.",
+        "The crash occurred in the northbound lane of a two-lane roadway in an intersection controlled by a stop sign.  Conditions were dusk with rain in the evening on a weekday.  Both roads had a posted speed limit of 56 Kph (35 MPH).V1 was a 2005 Dodge Stratus Sedan and was traveling westbound in the right lane approaching an intersection.  V2, a 1993 Chevy Corsica Sedan, was traveling northbound in the right lane approaching the same intersection controlled by a stop sign.  V2 made a complete stop at the stop sign, then continued through the intersection and struck the left side of V1 in the middle of the intersection.  Both vehicles came to final rest facing northwest.A 25-year-old male who was not injured drove V1.  He stated that he was driving westbound when V2 came out from the intersection and struck his vehicle on the left side.  V1 was traveling approximately 56 Kph (35MPH) at the time of impact.  He did not have time to take any avoidance actions.  V1 was towed due to damage.",
+        "This motor vehicle crash happened on a roadway.  This roadway travels east/west, with two travel lanes westbound and two travel lanes and one left turn lane eastbound.  The roadway is not physically divided.  The crash took place mid-block about 9 meters west of the traffic control signal.The driver of V1 was stopped at a traffic light, when the light turned green the driver proceeded to accelerate, traveling in lane two, in the westbound lanes.  V2 entered the roadway from a parking lot and crossed the path of V1, trying to turn onto the eastbound lanes.  V1 contacted V2 with its left front.  Both cars came to rest at impact.  V1's driver was coming from work and states that they did not see V2 until V2 crossed the path of V1.  The driver states that they were traveling about 40-48 kmph (25-30 mph) at time the of impact and tried to avoid contacting V2 but could not stop in time.",
+        "   This crash took place on a two lane undivided roadway near a T-intersection.  Conditions were daylight and dry with clear skies shortly after noon on a weekend.  The roadway had a posted speed limit of 56 kmph (35 mph).   V1, a 1997 Chevrolet 300 conversion van, was traveling east on the roadway.  V2, a 1999 Infinity QX sport utility vehicle, was traveling west on the same roadway.  The vehicle traveling directly in front of V1 slowed quickly and to avoid making contact, the driver of V1 steered left, made a lane departure to the left, and this vehicle's right front made contact to the front right of V2.  The critical pre-crash event for V1 was when it traveled over the lane line on the left side of the travel lane.  The critical reason for the critical pre-crash event was coded as an incorrect evasive action. One associated factor coded to the driver of V1 was inattention. He reported that he had been thinking about some concerns immediately before the crash. V1 was driven by a 60 year-old male who was not injured.  V1 was towed due to damage.  The critical pre-crash event for the driver of V2 was when another vehicle encroached into her lane from the opposite direction-over the left lane line. The critical reason was not coded to the driver of V2 and no associated factors were coded to her. V2 was driven by a 42 year-old female who was not injured.  V2 was also towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V9": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V10": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 10
+}

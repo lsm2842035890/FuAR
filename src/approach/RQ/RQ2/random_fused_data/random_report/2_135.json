@@ -1,0 +1,73 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 0,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498461",
+        "2005004495041"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway was dry and had a downhill grade of -2/61.Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway.  Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane.  Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1.The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries.  The passenger in the front right seating position also did not sustain any injuries.  The International truck was not towed due to damage.",
+        "     The crash occurred in the westbound lanes of a three-lane roadway with a T-intersection.  Conditions were dark with lights, dry with cloudy skies in the evening on a weekday.  The westbound lanes had a posted speed of 80 kmph (50 mph), the southbound lane had a speed limit of 56 kmph (35 mph).     V1 was a 1998 Ford Escort sedan traveling southbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Subaru Legacy sedan, was traveling westbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left side of V1 in the westbound lane.  Both vehicles came to final rest facing westbound.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 4
+}

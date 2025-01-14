@@ -1,0 +1,117 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "25MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005004113122",
+        "2005005289222",
+        "2005005289822",
+        "2005005447202"
+    ],
+    "description": [
+        "     The crash occurred in the intersection of a two-lane roadway controlled by a stop sign.  Conditions were daylight and dry in the afternoon on a weekday.  The posted speed limit for both roads was 25 MPH.    V1 was a 2003 Saturn LW 300 station wagon traveling eastbound in the 1st travel lane approaching an intersection controlled by a stop sign intending on going straight.  V2, a 2004 Ford Explorer SUV, was traveling northbound in the 1st travel lane approaching the same intersection intending on going straight.  V1 drove thru the intersection and the front of V2 struck the right side of V1 in the intersection.  V2 then struck a curb.  V1 and V2 came to final rest facing northeast.     V1 was driven by a 56-year-old female who sustained minor injuries but was not transported.  She stated that she was not familiar with this roadway.  As she approached the intersection she was distracted by an ambulance and did not see the stop sign.  She failed to stop for the TCD and struck the front of V2 in the intersection.  The driver of V1 did not take any avoidance actions and was traveling between 21-30 MPH at the time of impact.  V1 was towed due to damage.",
+        "This late-night, two-vehicle crash occurred on a two-way, two-lane, not physically divided roadway.  The posted speed limit was 56kph (35mph) and there were no atmospheric conditions at the time of the incident.  The gradient for both vehicles involved was level.  No traffic control devices were associated with this crash.  Vehicle one (V1) was traveling eastbound and had just negotiated a right curve.  For unknown reasons, V1 partially left the right side of the roadway and overcompensated the vehicle when trying to return.  This caused V1 to spin laterally in a counterclockwise direction.  After loosing control of the vehicle, the passenger side of V1 made contact with the front of vehicle two (V2), which was traveling in the opposite direction.  The impact caused V1 to spin in a clockwise direction, approximately 180 degrees, before coming to final rest entirely off of the roadway on the property of a nearby house.  After colliding with V1, V2 spun clockwise, also approximately 180 degrees, before coming to rest partially off of the roadway on the same property as V1.  The travel speeds of both vehicles could not be determined.  All three occupants involved were airlifted to nearby hospitals due to injuries.  Unfortunately, the interviews of the drivers could not be obtained.  Therefore, some pertinent information could not be acquired, thus giving an incomplete synopsis of events.  There was however, some witness information given to the officers that help complete the scenario.  ",
+        "This two-vehicle crash occurred in the evening hours in the middle of the two northbound lanes of a physically divided (concrete barrier) bridge.  There were no adverse atmospheric conditions at the time of the crash, although it was dark and no streetlights were present.  The roadway was dry, straight, and level with a posted speed limit of the roadway was 72kph (45mph).  V1, a 2005 Mazda 626, was northbound in lane one on the bridge.  V2, a 1995 Ford Windstar, was disabled on the bridge in lane one ahead of vehicle one.  V1 failed to stop and the front of V1 contacted the back of V2 the impact pushed V2 forward and its right side contacted the right concrete barrier before coming to final rest.  Both vehicles had to be towed from the scene due to vehicle damage.V1 was driven by a 22 year-old female who suffered minor injuries as a result of the collision, but did not require transport to a medical facility.  After numerous attempts, an interview could not be obtained from the driver of vehicle one.  From statements given to the police on scene the driver of V1 had consumed alcoholic beverages prior to the crash but sobriety tests confirmed she was still within the legal limit to operate a motor vehicle.  V1 was towed due to damage.",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device, for a construction zone.  The conditions were as follows: early afternoon, clear skies, the roadway was dry and there were no atmospheric conditions.  The gradient for the two vehicles involved were both on a +6% roadway.  The posted speed limit for vehicle one (V1) and vehicle two (V2) was 64 kph (40 mph). V2 was a 2005 Mercury Sable was traveling northbound and was stopped for a stop/slow sign for the construction zone.  Upon realization of the impending crash, the driver of V2 stated that he could not do anything.  V1 was a 2002 Dodge Neon, traveling northbound.  V1 struck V2 in the center part of V2's rear bumper.  The impact caused V1 to push V2 up the roadway.  V1 and V2 came to final rest in the roadway.  V1 was towed due to damage.  V2 was able to be driven from the scene.I spoke to the construction worker on scene, which was holding the stop sign.  He was only able to give a few words, due to the language barrier.  He attested that V2 was waiting for the sign to change, so V2 could proceed.  He further stated that V1 pushed V2 up the roadway some."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "drive off"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

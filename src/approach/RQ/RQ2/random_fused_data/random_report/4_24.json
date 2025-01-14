@@ -1,0 +1,117 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "64KPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002229102",
+        "2005002585382",
+        "2005003498181",
+        "2005048103001"
+    ],
+    "description": [
+        "     This crash occurred on a level two lane undivided roadway with a posted speed limit of 64KPH (40MPH).  There was an intersecting roadway to the left and a driveway to the right. There was a traffic control signal at the intersection. The weather was cloudy, the roadway was dry and it was dark, but lighted at the time of this late night weekday crash.     Vehicle #1, a 1987 Honda Accord, was traveling south on the two lane undivided roadway approaching the intersection. It should be noted that the traffic control signal was lighted red. Vehicle #2, a 1994 Honda Civic was stopped at the signal awaiting a green light, in front of Vehicle #1. Vehicle #1's front impacted Vehicle #2's rear. Vehicle #2 was pushed through the intersection and came to rest facing in a southwesterly direction. Vehicle #1 came to rest facing in a southerly direction.     The Honda Accord (Vehicle #1) was driven by an unbelted 19 year old female who was transported, treated and released for minor bleeding to the head. She stated that she did not see the other vehicle, that she was also looking down to retrieve a dropped water bottle as well as attempting to put on her seat belt. Vehicle #1 was towed due to damage and was destroyed before the inspection could be done.",
+        "     The crash occurred on a two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The roadway was straight with a grade of -2.3%.  There was a black on yellow \"Y\" intersection warning sign for both vehicles.  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.       Vehicle #1, a 1997 Plymouth Neon, was traveling north on the two lane roadway approaching the intersection.  Vehicle #2, a 1987 Ford F-350 stake body, was stopped facing north waiting to make a left hand turn.  Vehicle #1 struck Vehicle #2 in rear with front.  Both vehicles came to rest facing north.  Vehicle #1 was towed due to damage.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.",
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed.",
+        "This two-vehicle intersection related crash occurred in the morning daylight hours on a two-lane, undivided, two-way, bituminous roadway that intersects at a \"T\" intersection with a two-way two-lane road to the south.  The roadway was wet because it had just started to rain.  The primary roadway runs east/west with one lane in each direction and is slightly curved.  There are no traffic controls for the east/west roadway and a stop sign is posted for the intersecting northbound travel direction.  The posted speed limit on the east/west roadway was 72 kmph (45 mph).Vehicle one (V1) was a 1997 Infinity Q45 that was traveling west and negotiating a curve to the right.  The driver of V1 intended to make a left turn at the intersection.  The driver of V1 stated that as he approached the intersection, his vision shrank to tunnel vision and he blacked out.  V1 crossed the double yellow lane line and its front contacted the front of vehicle two (V2).  V2 was a 2005 Lexus ES330 that was traveling east negotiating the curve to the left.  Post impact V1 rotated clockwise and departed the north side of the roadway and the front of V1 impacted an embankment where it came to rest.  After the first impact V2 deflected to the right and departed the south side of the roadway and came to rest facing east on the upslope of an embankment. Both vehicles were towed due to damage.The driver of V1, and sole occupant, was a 51 year old male.  He had been awake for four hours after adequate sleep. He performed strenuous recreational activities of playing tennis for three hours prior to this trip and takes the medication Mavik for high blood pressure.  He blacked out while driving his vehicle.  Medical records indicated that low blood sugar may have been why the driver blacked out even though he had not been diagnosed as being diabetic.  The driver was very familiar with the vehicle and the roadway."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 8
+}

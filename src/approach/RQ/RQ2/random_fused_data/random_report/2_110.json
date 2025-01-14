@@ -1,0 +1,73 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "no",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003588101",
+        "2005075585381"
+    ],
+    "description": [
+        "This crash occurred in the southbound lanes of a two-way roadway with two lanes in each direction.  The roadway was straight with a downhill grade of -2/61.  It was daylight and clear with no adverse conditions.  The speed limit for the roadway was 48kmph (30mph).  On the right of the southbound lanes was a gas station and a carwash. Vehicle # 1 was a 1996 Mitsubishi 3000GT, that was traveling southbound on the right lane.  Vehicle # 2 was a 1996 Ford Windstar that was traveling northbound on the left lane and attempting to turn left into the Gas Station.  Due to a sightline restriction from a non-contact vehicle, the front of Vehicle # 1 contacted the right-front wheel of Vehicle # 2.  The Mitsubishi 3000GT was driven by a 40-year old male who did not sustain any injuries.  He stated that he was traveling approximately 25 mph when a mini-van traveling northbound attempted to make a left-turn.  The driver stated that he tried to brake but it was too late because his sightline was restricted by another vehicle on the left-lane.  The Mitsubishi 3000GT was not towed due to damage. ",
+        "This two-vehicle crash occurred during daylight hours a traffic light controlled, three-legged intersection. The east/west roadway is divided, straight, level and the westbound lanes consist of one right turn lane, two through lanes and a left turn lane into a private driveway. The north/south roadway is divided and is a controlled-access highway ramp; in the southbound direction, the lanes are straight and downhill. The speed limit for both roadways is 56 kmph (35 mph) and it was raining at the time of the crash.Vehicle one (V1), a 1991 Mazda Protege was southbound on the exit ramp from an interstate in lane two, the left turn lane. Vehicle two (V2), a 1999 Mercury Sable, was westbound in lane two, the right through lane. The driver of V1 thought she had the green light and started to make a left turn. V2, who actually had the green light, proceeded into the intersection and the front struck the left side of V1. V1 was pushed slightly clockwise and came to rest facing southwest in the middle of the intersection. V2 rotated slightly counterclockwise and came to rest next to V1 facing southwest in the middle of the intersection. V1 was towed due to damage.The driver of V1, a forty-two-year-old female, was driving from her home to an RV park to visit a friend. She was familiar with the route and the vehicle. She took ibuprofen and an unknown brand of medication for a sinus headache several hours prior to the crash. She claimed that she had a green light, that \"the light usually stays red for 10 years.\"  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 4
+}

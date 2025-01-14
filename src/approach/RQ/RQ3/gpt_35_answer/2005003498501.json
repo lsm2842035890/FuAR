@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "normal"
+    ],
+    "speedlimit": 48,
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "unknown",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005003498501",
+    "description": "The crash occurred in the intersection of two one-way roadways. Both roadways had one lane\n                        of travel and were straight and level. The speed limit was 48kmph (30mph) and it was clear with\n                        no adverse conditions.\n\n\n                        Vehicle # 1 was a 2005 Infiniti FX35 that was traveling southbound on a one-way roadway. Vehicle\n                        # 2 was a 1993 Ford F-250 Pick-up truck that was traveling westbound on a one-way roadway, which\n                        was controlled by a stop sign. At the intersection, the front of Vehicle # 1 impacted the right\n                        side of Vehicle # 2, and then the left side of Vehicle # 2 impacted the right side of Vehicle #\n                        1. Vehicle # 1 then departed the roadway on the left side and then impacted a fence and came to\n                        a final rest after impacting the side of the building.\n\n\n                        The Infiniti FX35 (Vehicle # 1) was driven by a 45 year-old male who did not sustain any\n                        injuries. The driver of this vehicle declined to participate in the study. Vehicle # 1 was towed\n                        due to damage.\n\n\n                        The Critical Pre-crash event for Vehicle # 1 was coded as: Other vehicle encroachment, from\n                        crossing street across path. The Critical Reason for the Critical event was not coded to the\n                        driver because he was not thought to have contributed to the crash. The driver was issued a\n                        citation for unlicensed operator. The associated factors were coded as unknown.\n\n\n                        The Ford F-250 (Vehicle # 2) was driven by a 50 year-old male who did not sustain any injuries.\n                        The 32-year old passenger in the front-right seating position also did not sustain any injuries.\n                        He stated that he did not see Vehicle # 1 when he entered the intersection. The Ford was towed\n                        due to damage.\n\n\n                        The Critical Pre-crash event for Vehicle # 2 was coded as: This vehicle traveling, crossing over\n                        (passing through) intersection. The Critical Reason for the Critical event was coded as a Driver\n                        related factor, illegal maneuver. The associated factors coded to the driver were both\n                        recognition factors, he was conversing with the passenger and inadequate surveillance, looked,\n                        but did not see. The driver wore eyeglasses that corrected an unknown condition, and he was\n                        issued a citation for uninsured vehicle."
+}

@@ -1,0 +1,71 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 35,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005003498282",
+        "2005009501162"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a two-way north/south road with two lanes in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was daylight and clear with no adverse conditions.  The crash occurred in the morning hours on a weekday.Vehicle #1 was a 2004 Acura MDX that was traveling southbound in the right lane.  Vehicle #2 was 1995 Dodge Neon that was traveling westbound. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2.    The Acura MDX (Vehicle #1) was driven by a 29-year old female who did not sustain any injuries.  She stated that she had come to a rolling stop at a red light and then when her light turned green, she accelerated into the intersection. She stated that Vehicle #2 came from nowhere.  The Acura was not towed.",
+        "   This crash took place on a two lane undivided roadway near a T-intersection.  Conditions were daylight and dry with clear skies shortly after noon on a weekend.  The roadway had a posted speed limit of 56 kmph (35 mph).   V1, a 1997 Chevrolet 300 conversion van, was traveling east on the roadway.  V2, a 1999 Infinity QX sport utility vehicle, was traveling west on the same roadway.  The vehicle traveling directly in front of V1 slowed quickly and to avoid making contact, the driver of V1 steered left, made a lane departure to the left, and this vehicle's right front made contact to the front right of V2.  The critical pre-crash event for V1 was when it traveled over the lane line on the left side of the travel lane.  The critical reason for the critical pre-crash event was coded as an incorrect evasive action. One associated factor coded to the driver of V1 was inattention. He reported that he had been thinking about some concerns immediately before the crash. V1 was driven by a 60 year-old male who was not injured.  V1 was towed due to damage.  The critical pre-crash event for the driver of V2 was when another vehicle encroached into her lane from the opposite direction-over the left lane line. The critical reason was not coded to the driver of V2 and no associated factors were coded to her. V2 was driven by a 42 year-old female who was not injured.  V2 was also towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 4
+}

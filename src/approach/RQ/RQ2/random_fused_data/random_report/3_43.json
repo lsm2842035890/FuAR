@@ -1,0 +1,94 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "48KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585263",
+        "2005003498461",
+        "2005003588201"
+    ],
+    "description": [
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The road was curved left with a radius of curvature of 375 meters and a superelevation of 1.8% for Vehicle #2. The road was curved right with a radius of curvature of 1875 meters and no superelevation for Vehicle #1.  Both vehicles had black on yellow curve warning signs with a suggested speed of 50 MPH.  The weather was cloudy.     Vehicle #1, a 2000 Chevrolet Cavalier, was traveling west on the two-lane roadway negotiating a curve to the right approaching a driveway.  Vehicle #2, a 1995 Dodge Intrepid, was traveling east on the same roadway negotiating the curve to the left.  Vehicle #1 attempted a left hand turn into the driveway and was struck in the front by Vehicle #2's front.  Vehicle #1 was rotated counterclockwise back across both lanes and came to rest in the westbound lane facing east.  Vehicle #2 continued off the right side of the roadway, came back on the roadway crossed both lanes, off the north side of the road and struck a 25cm pole with its front.  Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Chevrolet Cavalier (Vehicle #1) was driven by a belted 80 year old male who was transported, treated and released for minor injuries.  The right front seat passenger was a belted 72-year-old female who was also transported, treated and released for minor injuries. Both driver and passenger airbags deployed. The interview was refused and no information obtained from the driver. ",
+        "The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway was dry and had a downhill grade of -2/61.Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway.  Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane.  Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1.The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries.  The passenger in the front right seating position also did not sustain any injuries.  The International truck was not towed due to damage.",
+        "The crash occurred in the southbound lanes of an undivided two-way roadway, with two lanes of travel in each direction.  The roadway was straight and level and had a posted speed limit of 48 kmph (30 mph).  It was dark out but the roadway was lighted and it was dry.  Vehicle #1 was a 2002 Dodge Stratus, which was traveling southbound on the two-way roadway in the right lane.  Vehicle #2 was a 1993 Nissan Altima that was traveling southbound on the two-way roadway in the left lane.  On this roadway, Vehicle #1 was attempting to make a U-turn to travel northbound when it was contacted on its left plane by Vehicle #2's frontal plane. The crash occurred on a non-junction roadway with no traffic signs or signals. Both vehicles came to final rest on the sidewalk of the northbound lanes. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 6
+}

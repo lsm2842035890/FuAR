@@ -1,0 +1,71 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498503",
+        "2005048103001"
+    ],
+    "description": [
+        "This crash occurred in the early afternoon of a weekend in the intersection of a northbound one-way roadway and a two-way east and west roadway.  All roadways were straight and level and had a speed limit of 48kmph (30mph).  The northbound entrance into the intersection was controlled by a stop sign.  It was daylight and clear with no adverse conditions.V1, a 1998 Mercedes-Benz ML320, was traveling westbound approaching the intersection.  V2, a 1999 Chevrolet Lumina, was traveling northbound and stopped at the stop sign.  As V2 proceeded into the intersection, its front impacted the left side of V1.  V1 than yawed counterclockwise and the right-rear wheel impacted the curb.  The right side of V1 then impacted a breakaway light-pole and rolled over one quarter turn before coming to final rest on its right side.V1 was driven by a 35 year-old male who sustained minor injuries and was transported to a medical facility.   A complete interview could not be obtained, but the driver stated that he was going straight when he was impacted by V2, who did not stop at the stop sign.  The Mercedes-Benz was towed due to damage.",
+        "This two-vehicle intersection related crash occurred in the morning daylight hours on a two-lane, undivided, two-way, bituminous roadway that intersects at a \"T\" intersection with a two-way two-lane road to the south.  The roadway was wet because it had just started to rain.  The primary roadway runs east/west with one lane in each direction and is slightly curved.  There are no traffic controls for the east/west roadway and a stop sign is posted for the intersecting northbound travel direction.  The posted speed limit on the east/west roadway was 72 kmph (45 mph).Vehicle one (V1) was a 1997 Infinity Q45 that was traveling west and negotiating a curve to the right.  The driver of V1 intended to make a left turn at the intersection.  The driver of V1 stated that as he approached the intersection, his vision shrank to tunnel vision and he blacked out.  V1 crossed the double yellow lane line and its front contacted the front of vehicle two (V2).  V2 was a 2005 Lexus ES330 that was traveling east negotiating the curve to the left.  Post impact V1 rotated clockwise and departed the north side of the roadway and the front of V1 impacted an embankment where it came to rest.  After the first impact V2 deflected to the right and departed the south side of the roadway and came to rest facing east on the upslope of an embankment. Both vehicles were towed due to damage.The driver of V1, and sole occupant, was a 51 year old male.  He had been awake for four hours after adequate sleep. He performed strenuous recreational activities of playing tennis for three hours prior to this trip and takes the medication Mavik for high blood pressure.  He blacked out while driving his vehicle.  Medical records indicated that low blood sugar may have been why the driver blacked out even though he had not been diagnosed as being diabetic.  The driver was very familiar with the vehicle and the roadway."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 4
+}

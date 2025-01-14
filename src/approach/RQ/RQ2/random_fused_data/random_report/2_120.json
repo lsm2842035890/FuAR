@@ -1,0 +1,65 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40KMPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004112901",
+        "2005006445082"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a four-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The northbound lane had a posted speed limit of 80 kmph (50 mph) and a 2% uphill grade. The westbound lane had a posted sped limit of 56 kmph (35 mph).     V1 was a 2003 Toyota Camry sedan stopped westbound at the stop sign in the first travel lane.  V2, a 2003 Nissan 350Z coupe, was traveling northbound in the second travel lane intending on going straight.  V1 was waved into the intersection by an unknown vehicle stopped in the 1st travel lane facing northbound.  V1 proceeded thru the intersection and the front of V2 struck the left side of V1 in the 2nd travel lane of the northbound roadway.  The driver of V1 lost consciousness and his vehicle traveled southbound hitting a curb and several signs traveling approximately 115 meters.  V1 came to final rest against a pole facing westbound.  V2 came to final rest facing westbound.     V1 was driven by a 57-year-old male who sustained moderate injuries and was transported to a local hospital.  He stated that he was stopped at the stop sign when an unknown vehicle waved him into the intersection.  The driver of V1 did not see V2.  The driver of V1 was traveling between 18 and 32 kmph (11 and 20 mph) at the time of impact.  V1 was towed due to damage.  ",
+        "\tThis motor vehicle crash took place on a two-lane roadway.  This roadway has a set of rail tracks dividing the two lanes.  The roadway runs north/south with one lane in each direction and the posted speed limit was 40 kmph (25 mph).  The north/south roadway was not controlled by any TCD's (traffic control devices).\tV1, a 1995 Jeep Grand Cherokee Sport Utility Vehicle, was traveling northbound in lane one.  V2, a 2001 Hyundai Sonata, came out of a parking lot onto northbound lane one, attempting to turn right.  V1 was unable to stop and ended up striking the left side of V2 with its front end.  Both vehicles came to rest.\tNo interview was obtained from the driver of V1, a 26-year old female. According to an eyewitness account, V1 was traveling at about 30mph. V2 pulled out of the lot carelessly, not looking in either direction nor making a full stop at the stop sign while exiting the parking lot. The eyewitness was in a vehicle traveling behind V1 at time of the crash."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

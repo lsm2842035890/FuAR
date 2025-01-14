@@ -1,0 +1,28 @@
+
+
+- response: {
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "89 KMPH (55 MPH)",
+    "intersection": "unknown",
+    "T": "unknown",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["turn right", 3], ["drive off", 0]],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["go across", 2]],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    }
+}
+
+The "weather" and "lighting" are not mentioned in the report

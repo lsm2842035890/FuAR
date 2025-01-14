@@ -1,0 +1,42 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "45mph",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 3,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005005289162",
+    "description": "This two-vehicle crash occurred on a two-way, three-lane, not physically divided roadway.\n                        The posted speed limit was 72kph (45mph). There were no atmospheric conditions at the time of\n                        the incident and the roadway was dry.\n\n\n                        Vehicle one (V1) was exiting a parking lot, which had a gradient of +2. Vehicle two (V2) was\n                        going straight on a level roadway, passing the parking lot from where V1 was exiting. There were\n                        no traffic control devices present at the location of this crash.\n\n\n                        V1 a 1996 Jeep Grand Cherokee was attempting to make a left onto the westbound roadway from a\n                        parking lot from a convenience store. V2 a 1992 Chevy Cavalier was traveling east on the main\n                        roadway at approximately 64kph (40mph). The front left of V2 made contact with the left rear of\n                        V1. The impact caused V1 to spin counter clockwise before coming to final rest in the westbound\n                        lane. V2 continued further ahead before coming to rest in between lanes one and two of the\n                        roadway. Vehicle two was removed from the scene due to moderate damage, whereas vehicle one\n                        suffered minor damage and was removed by the owner.\n\n\n                        Numerous attempts and messages could not generate an interview with the driver of V1 who had\n                        already departed the scene upon my arrival. However, through information collected by the police\n                        officer, it appears that the driver failed to look both ways before entering the roadway. Based\n                        on this information, the Critical Precrash Event was coded this vehicle traveling, turning left\n                        at intersection (from parking lot). The Critical Reason for the Critical Precrash Event was\n                        coded as recognition error, inadequate surveillance, in that the driver failed to look both\n                        ways. As far as the details of fatigue, medication, or possible distractions are concerned, this\n                        information remains unknown. The driver of vehicle one did not suffer any injuries as a result\n                        of this crash.\n\n\n                        The passenger of V2 was taken to the hospital for possible injuries, and the driver accompanied\n                        them before my arrival. An attempt was made to contact the driver of V2 using the number\n                        provided on the Police Accident Report. Unfortunately the person who answered claimed that it\n                        was not the residence of the driver in question. A match could not be found using sources such\n                        as the phone book or the Internet. Because no interview could be obtained, any other factors\n                        that may have contributed to this crash are unknown at this time. The Critical Precrash Event\n                        coded to this vehicle was other vehicle encroachment (from driveway, turning in opposite\n                        direction). There was no Critical Reason coded to this vehicle."
+}

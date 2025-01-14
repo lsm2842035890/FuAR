@@ -1,0 +1,119 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498282",
+        "2005005447202",
+        "2005072709641",
+        "2005075585381"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a two-way north/south road with two lanes in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was daylight and clear with no adverse conditions.  The crash occurred in the morning hours on a weekday.Vehicle #1 was a 2004 Acura MDX that was traveling southbound in the right lane.  Vehicle #2 was 1995 Dodge Neon that was traveling westbound. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2.    The Acura MDX (Vehicle #1) was driven by a 29-year old female who did not sustain any injuries.  She stated that she had come to a rolling stop at a red light and then when her light turned green, she accelerated into the intersection. She stated that Vehicle #2 came from nowhere.  The Acura was not towed.",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device, for a construction zone.  The conditions were as follows: early afternoon, clear skies, the roadway was dry and there were no atmospheric conditions.  The gradient for the two vehicles involved were both on a +6% roadway.  The posted speed limit for vehicle one (V1) and vehicle two (V2) was 64 kph (40 mph). V2 was a 2005 Mercury Sable was traveling northbound and was stopped for a stop/slow sign for the construction zone.  Upon realization of the impending crash, the driver of V2 stated that he could not do anything.  V1 was a 2002 Dodge Neon, traveling northbound.  V1 struck V2 in the center part of V2's rear bumper.  The impact caused V1 to push V2 up the roadway.  V1 and V2 came to final rest in the roadway.  V1 was towed due to damage.  V2 was able to be driven from the scene.I spoke to the construction worker on scene, which was holding the stop sign.  He was only able to give a few words, due to the language barrier.  He attested that V2 was waiting for the sign to change, so V2 could proceed.  He further stated that V1 pushed V2 up the roadway some.",
+        "       This two-vehicle crash occurred in the morning at 0740 hours at a traffic-signal-controlled T-intersection. The north/south roadway is straight, level, dry and has two lanes in each direction that are separated by a painted median. The intersecting roadway (that branches on the west side of the north/south road) is a two-lane, undivided, level, straight east/west roadway. The speed limit on both roadways is 48 kph (30 mph) and there were no adverse atmospheric conditions at the time of the crash.       Vehicle one,(V 1) a 1992 Cadillac Deville, was southbound in the second lane. Vehicle two,(V 2) a 1993 Ford F-150 pickup truck, was eastbound at the intersection. The light turned red for vehicle one and green for vehicle two. As vehicle two turned left at the intersection, the front of vehicle one struck the left side vehicle two. Both vehicles came to rest in the intersection and were towed due to damage. The driver of V 1 a forty-six-year-old female, disregarded the red traffic signal. No information was obtained from this driver. The driver of V 2 a twenty-year-old male, was driving from home to work. He was well rested, familiar with his vehicle and his route, not in a hurry and comfortable with his twenty-year-old male passenger. He was listening to the radio, but this did not distract him from his driving responsibilities.       The pre-event movement for V 1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason driver related factor \"illegal maneuver\" (disregard of traffic control signal).",
+        "This two-vehicle crash occurred during daylight hours a traffic light controlled, three-legged intersection. The east/west roadway is divided, straight, level and the westbound lanes consist of one right turn lane, two through lanes and a left turn lane into a private driveway. The north/south roadway is divided and is a controlled-access highway ramp; in the southbound direction, the lanes are straight and downhill. The speed limit for both roadways is 56 kmph (35 mph) and it was raining at the time of the crash.Vehicle one (V1), a 1991 Mazda Protege was southbound on the exit ramp from an interstate in lane two, the left turn lane. Vehicle two (V2), a 1999 Mercury Sable, was westbound in lane two, the right through lane. The driver of V1 thought she had the green light and started to make a left turn. V2, who actually had the green light, proceeded into the intersection and the front struck the left side of V1. V1 was pushed slightly clockwise and came to rest facing southwest in the middle of the intersection. V2 rotated slightly counterclockwise and came to rest next to V1 facing southwest in the middle of the intersection. V1 was towed due to damage.The driver of V1, a forty-two-year-old female, was driving from her home to an RV park to visit a friend. She was familiar with the route and the vehicle. She took ibuprofen and an unknown brand of medication for a sinus headache several hours prior to the crash. She claimed that she had a green light, that \"the light usually stays red for 10 years.\"  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 8
+}

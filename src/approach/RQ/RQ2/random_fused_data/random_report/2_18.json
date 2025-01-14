@@ -1,0 +1,66 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005005289822",
+        "2005041508981"
+    ],
+    "description": [
+        "This two-vehicle crash occurred in the evening hours in the middle of the two northbound lanes of a physically divided (concrete barrier) bridge.  There were no adverse atmospheric conditions at the time of the crash, although it was dark and no streetlights were present.  The roadway was dry, straight, and level with a posted speed limit of the roadway was 72kph (45mph).  V1, a 2005 Mazda 626, was northbound in lane one on the bridge.  V2, a 1995 Ford Windstar, was disabled on the bridge in lane one ahead of vehicle one.  V1 failed to stop and the front of V1 contacted the back of V2 the impact pushed V2 forward and its right side contacted the right concrete barrier before coming to final rest.  Both vehicles had to be towed from the scene due to vehicle damage.V1 was driven by a 22 year-old female who suffered minor injuries as a result of the collision, but did not require transport to a medical facility.  After numerous attempts, an interview could not be obtained from the driver of vehicle one.  From statements given to the police on scene the driver of V1 had consumed alcoholic beverages prior to the crash but sobriety tests confirmed she was still within the legal limit to operate a motor vehicle.  V1 was towed due to damage.",
+        "\tThe crash occurred at a T-intersection of an eastbound 5-lane undivided roadway and a northbound driveway exit from a parking lot.  The eastbound roadway was a two-way, five-lane roadway with a two-way left turn lane in the middle.  Both the eastbound roadway and the driveway were straight, level, bituminous roadways.   The posted speed for east/west traffic was 56 kmph (35 mph).  Conditions were daylight on a weekday morning with dry roads and clear skies.  Traffic flow in the eastbound direction was backed up for a light at a signalized intersection up ahead.    \tV1, a 2001 Volkswagen Jetta with one occupant, was stopped at a stop sign at the parking lot exit, waiting to turn left.  V2, a 2002 Dodge Intrepid with two occupants, was traveling eastbound in the two-way left turn lane.  Traffic in the first two eastbound lanes was backed up for a traffic light ahead.  Vehicles in those lanes made space for V1 to pull out.  As V1 pulled out to turn left, the front of V1 made contact with the front of V2 in the third (middle) lane of travel.  Both vehicles were towed due to damage.   \tV1 was driven by a 23-year old female who sustained possible injuries.  She was transported to the hospital from the crash scene by her boyfriend.  She stated that she had stopped at the drug store on her way to the hospice to see her grandmother.  Eastbound traffic was backed up, but the first two lanes left a gap for her to exit.  She said that one of the drivers waved her out.  She stated that she didn't see anything, so she cautiously pulled out.  The driver indicated that she did not know where the other vehicle came from.    "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,66 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "48KMPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 0,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005002229723",
+        "2005003498361"
+    ],
+    "description": [
+        "This crash occurred in the eastbound lanes (two lanes head east and one heads west) of a three lane undivided, straight roadway in an urban-like setting where the posted speed limit is 48kmph (30mph).  The roadway was dry and the weather was clear. This crash occurred on a weekday afternoon.V1, a 1991 Chrysler New Yorker, was traveling east when it stopped in lane two (the left turn lane) awaiting traffic to pass before turning into a fast food restaurant.  V2, a 1990 Nissan Pick-up, truck was leaving a service station on the east side of the road.V2 was waived out of the lot by the driver of an uninvolved vehicle stopped in lane one of the roadway.  As V2 proceeded out of the lot it was struck by the front left of V1.  The driver and a passenger of V1 were transported to an area hospital, treated and released. Another passenger in V1 was not injured. The driver of V2 was not injured.",
+        "This crash occurred in the westbound lanes of a not physically divided two-way roadway.  The roadway had a speed limit of 48kmph (30mph) and had a grade of -2/61.  It was dark but lighted, and it was clear with no adverse conditions.  The crash occurred in the early morning hours on a weekend.Vehicle # 1 was a 2000 Mack Dump Truck that was traveling westbound on the roadway.  Vehicle # 2 was a 2003 Chevrolet Trailblazer that was traveling eastbound, when it swerved into the westbound lanes.  The front of Vehicle # 2 impacted the left side of Vehicle # 1.  Vehicle # 2 came to a final rest back on the eastbound lane.The 2000 Mack Truck (Vehicle # 1) was driven by a 28-year old male who did not sustain any injuries.  The Mack Truck was not towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,33 @@
+
+
+
+
+### response
+
+{
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "80 kmph (50 MPH)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["turn left", 3], ["change lane", 3], ["drive off", 0]],
+            "direction": "north",
+            "laneNumber": 3
+        },
+        "V2": {
+            "behaviors": [["drive into", 0]],
+            "direction": "north",
+            "laneNumber": 2
+        }
+    }
+}
+
+
+The accident description provided

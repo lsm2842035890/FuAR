@@ -1,0 +1,113 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005003498401",
+        "2005004112921",
+        "2005006445082",
+        "2005008450282"
+    ],
+    "description": [
+        "The crash occurred on the eastbound lane of a two-way road with one lane in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions. There were no traffic control devices and the speed limit was 48kmph (30mph).Vehicle # 1 was a 2004 Mercury Sable that was traveling westbound.  The driver veered into the eastbound lanes and the front of Vehicle # 1 impacted the left side of a legally parked and unoccupied Ford E-Series Van. Vehicle # 1 came to a final rest when it impacted a fence on the sidewalk. The Mercury Sable (Vehicle # 1) was driven by a 55 year-old female who sustained minor injuries and was transported to a local hospital.  The occupant in the front-center seating position did not sustain any injuries but was also transported to a local hospital.  The driver stated that she attempted to stop when she stepped on the accelerator instead of the brake pedal.  The Mercury Sable was towed due to damage and the driver declined to participate in the study.  ",
+        "       The crash occurred in the northbound lane of a two-lane intersection controlled by a stop sign.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 2002 Mercury Grand Marquis sedan traveling northbound in the 1st travel lane approaching the intersection controlled by a stop sign.  V2, a 2003 Toyota Corolla sedan, was traveling eastbound in the 1st travel lane intending on going straight.  V1 stopped at the stop sign looked both ways but did not see V2.  The front of V2 struck the left side of V1 in the northbound lane.  V1 came to final rest facing northbound and V2 came to final rest facing eastbound.     V1 was driven by a 70-year-old male who was not injured.  He stated that he stopped at the stop sign, looked both ways and proceeded thru the intersection.  He did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage.",
+        "\tThis motor vehicle crash took place on a two-lane roadway.  This roadway has a set of rail tracks dividing the two lanes.  The roadway runs north/south with one lane in each direction and the posted speed limit was 40 kmph (25 mph).  The north/south roadway was not controlled by any TCD's (traffic control devices).\tV1, a 1995 Jeep Grand Cherokee Sport Utility Vehicle, was traveling northbound in lane one.  V2, a 2001 Hyundai Sonata, came out of a parking lot onto northbound lane one, attempting to turn right.  V1 was unable to stop and ended up striking the left side of V2 with its front end.  Both vehicles came to rest.\tNo interview was obtained from the driver of V1, a 26-year old female. According to an eyewitness account, V1 was traveling at about 30mph. V2 pulled out of the lot carelessly, not looking in either direction nor making a full stop at the stop sign while exiting the parking lot. The eyewitness was in a vehicle traveling behind V1 at time of the crash.",
+        "\tThis crash occurred on a dry 2 lane loose dirt-gravel roadway on a weekday night.  The speed limit was 40kmph (25mph) and there was a grade of 8.2%.  The roadway was curved at the point of impact with a hillside obscuring the view of the two drivers.\tVehicle 1 was negotiating and uphill right hand curve.  Vehicle 2 was proceeding opposite vehicle1 and negotiating a downhill left hand curve.  The driver of Vehicle 1 pulled over and stopped the driver of Vehicle 2 crossed over and stuck Vehicle 1's left front with V2's left front.  \tVehicle 1 was a 1993 Cadillac Seville driven by a 45 year old male.  The driver states he was going around the bend when he saw another car coming the opposite way, he stopped and the other car hit him in the door."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

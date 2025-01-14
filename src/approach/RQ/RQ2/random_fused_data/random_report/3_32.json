@@ -1,0 +1,100 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "25MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004112541",
+        "2005048103261",
+        "2005076197381"
+    ],
+    "description": [
+        "     The crash occurred in the southbound lane of a two-lane roadway with a T-intersection.  Conditions were daylight with cloudy skies and rain in the morning on a weekday.  The posted speed limit was 72 kmph (45 mph).     V1 was a 2003 Acura 3.2 TL sedan traveling eastbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Ford Aerostar minivan, was traveling southbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left front corner of V1 in the southbound lane.  V1 spun clockwise and came to final rest facing westbound.  V2 came to final rest facing southbound.",
+        "This two-vehicle crash occurred at just before midnight at the \"T\" intersection of a two-lane, two-way dry, level, bituminous north/south roadway and a two-lane, two-way, dry, uphill, bituminous roadway that intersects the north/south roadway from the west.  The roadway curves to the right slightly for westbound traffic.  The intersection was controlled by a stop sign for westbound traffic.  The roadway intersects the northbound roadway at a 50-degree angle.  It was dark but lit at the time of the crash and there were no adverse atmospheric conditions.  The posted speed limit for the north/south roadway was 89 kmph (55 mph) and the westbound roadway was 56 kmph (35 mph).Vehicle one (V1), a 2000 Chrysler Cirrus was traveling westbound approaching the intersection.  Vehicle two (V2), a 2002 Ford Explorer was traveling northbound and pulling a trailer loaded with musical equipment.  V1 entered the intersection attempting to turn left while V2 passed through the intersection going straight.  The front of V2 contacted the left side of V1.  V1 deflected to the right and came to rest off of the roadway facing southwest.  V2 rotated counterclockwise and came to rest on the roadway facing south.  While V2 was rotating towards final rest, its trailer contacted the left rear of V2. The driver of V1 was a 19-year old female who maintains a regular sleep schedule of 7 hours of sleep per evening and a normal work schedule of 35 hours per week.  She was fatigued at the time of the crash.  She was familiar with the vehicle and has over 4 years of driving experience.  This was however, her first time on this particular roadway.  The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see).",
+        "     This two-vehicle crash occurred mid-morning hours during daylight hours in a rural residential area in a type T intersection. The north/south bound two-lane roadway is straight, level and without traffic control devices.  The west/east bound two-lane roadway is straight and downhill for westbound travel and controlled by a stop sign where it dead-ends with the other roadway. The speed limit for the area is 40 kph (25 mph). with no adverse weather or road conditions present.     Vehicle one (V1) a 1972 Ford Galaxie 4-door sedan driven by a 35 year-old male was traveling westbound approaching the stop sign when the driver discovered the brakes were inoperative.  Vehicle #1 steered to the left slightly before it entered the intersection without stopping.  Vehicle two (V2) a 1997 Ford F-150 pickup driven by a 48 year-old male was traveling northbound when it's front right side plane was contacted by the front bumper V1. V1 came to rest facing west. V2 came to rest in the south bound lane facing north. Both vehicles were towed due to damage.     The pre-event movement for V1 coded going straight, category this vehicle control loss due to disabling vehicle failure (brakes). Critical reason for the critical event vehicle related factor \"brakes failed\"."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

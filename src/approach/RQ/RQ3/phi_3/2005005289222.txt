@@ -1,0 +1,21 @@
+
+
+- Response: {
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "56kph (35mph)",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 0,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into", 2], ["drive off", 0], ["follow lane", 2], ["turn left", 2], ["turn around", 2], ["turn right", 3], ["drive off", 0], ["drive into", 0]],
+            "direction": "east",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["follow lane", 1], ["

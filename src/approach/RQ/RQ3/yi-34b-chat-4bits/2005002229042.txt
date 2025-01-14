@@ -1,0 +1,25 @@
+
+ {
+     "weather" : ["clear"],
+     "lighting" : ["bright"],
+     "speedlimit" : "48 KPH",
+     "intersection" : "yes",
+     "T" : "yes",
+     "carCount" : 2,
+     "laneCount" : 2,
+     "striker" : "V1 ",
+     "At-Fault-Vehicle" : "V2 ",
+     "impactPart" : 2,
+     "carInformation" : {
+         "V1 " : {
+             "behaviors" : [["follow lane"]],
+             "direction" : "north",
+             "laneNumber" : 1
+         },
+         "V2 " : {
+             "behaviors" : [["drive into"]],
+             "direction" : "unknown",
+             "laneNumber" : 0
+         }
+     }
+ }

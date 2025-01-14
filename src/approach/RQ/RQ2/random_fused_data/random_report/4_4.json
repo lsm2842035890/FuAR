@@ -1,0 +1,131 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 0,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005003498181",
+        "2005003498482",
+        "2005043601421",
+        "2005045706121"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed.",
+        "The crash occurred in the intersection of a southbound one-way and a westbound one-way roadway.   The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway condition was dry.Vehicle # 1 was a 1998 Ford Windstar that was traveling southbound on the right turn lane making a right turn when the front of Vehicle # 1 impacted the right side of Vehicle # 2, a Ford E-Series Van that was traveling on the same roadway and attempting to make a right turn from the left lane.The Ford Windstar (Vehicle # 1) was driven by a 64 year-old male who did not sustain any injuries.  The driver stated that he was making a right turn when the right side of Vehicle # 2 impacted the front of his vehicle.  The Ford Windstar was towed due to damage.",
+        "This 2-vehicle crash occurred in the evening at a T-intersection in a suburban neighborhood. A 2-lane roadway runs east and west with an intersecting road that runs north and south. Both roadways have a posted speed limit of 48 kmph (30 mph) and each are controlled by a stop sign at the intersection where the crash took place. The conditions were dusk, clear, dry and the traffic level was moderate. V1, a 1990 Jeep Cherokee Laredo 4 x4 with one occupant, was traveling east in lane one of 2-lane undivided road approaching an intersecting road to its right. V2, a 1997 Honda CR-V with one occupant, was stopped (facing north) at the intersection waiting to turn left (westbound.) Both vehicles entered the intersection at the same time and collided at a right angle. The front of the Honda CR-V (V2) struck the right side of the Jeep Cherokee (V1) causing it to roll 2-quarter turns to its left and coming to rest on its roof. V1 had to be towed from the scene due to damage but V2 was driven away.V1 was driven by a 25-year-old female without a driver license. She did not speak English but her bilingual boyfriend/husband did speak English and he refused to help with the interview. The investigating officer said she was not cooperative with him or the EMS either, but she reportedly claimed the brakes failed. Once the vehicle was rolled back onto its tires, it was towed to the owner's house without the brakes ever being checked.  ",
+        "                The crash occurred on a two-way two-lane east/west rural arterial road divided by double yellow lines at a T-intersection with the intersecting road coming from the north side.  The intersecting road was also a two-way, two-lane road that had an incline of -4 percent on the southbound lane.  The rural arterial road was straight and level for the most part but for a slight curve from the south bending west with a radius of 148 meters.  The intersection was controlled by a one-way stop sign for the intersecting road.  There was no traffic control device for the east/west roadway. The posted speed limit was 64kmph/40mph for both roadways.  Conditions were partly cloudy and dry in the early afternoon on a weekend.  \tVehicle 1, a 2001 Hyundai Santa Fe (SUV 4WD), was southbound on the intersecting road, intending to make a left turn onto the east/west rural arterial road.  As V1 approached the stop sign, the vehicle came to a rolling stop before it began to ease out into the intersection.  It then contacted the trailer unit of Vehicle 2, a 1995 Ford F-350 that had a modified body with a dump bed, pulling a two-axle steel framed float equipment trailer. The trailer had a bobcat track hoe loaded on board that was chained down with two chains.  Immediately before impact, V2 swerved left in an attempt to avoid a collision.  After impact it swerved left then right in an attempt to get the trailer under control with the brakes locked and the tires blown on the trailer.  V2 came to rest back in its original travel lane facing west with its load slightly askew but still intact on the trailer approximately 50 meters west of POI.  V1 came to rest after spinning about 100 degrees clockwise and was facing southwest about 4 meters west of impact.  V1 was towed due to damage.  V2's trailer was picked up by the wrecker service, but the truck was undamaged.  \tVehicle 1 was driven by a 33-year old belted male whose airbags deployed.   He refused treatment for possible injuries and only went home after the crash.  The driver of V1 stated that he had been reprimanded very recently for tardiness at work and was running tight on time that afternoon.  He also claimed to not get very much sleep regularly (5 hours per day).   He said it had been fourteen days since his last day off, which was a sick day and before that he can't remember a day that he has been off work in recent memory. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

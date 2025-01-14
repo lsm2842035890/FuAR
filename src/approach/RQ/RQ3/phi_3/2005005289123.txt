@@ -1,0 +1,29 @@
+
+
+
+- [Response]: {
+    "weather": ["drizzling"],
+    "lighting": [],
+    "speedlimit": "72 kmph (45 mph)",
+    "intersection": "unknown",
+    "T": "unknown",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive", 2], ["turn left", 2]],
+            "direction": "unknown",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["stop", 2], ["turn left", 2]],
+            "direction": "unknown",
+            "laneNumber": 1
+        }
+    }
+}
+
+The "weather" is "dri

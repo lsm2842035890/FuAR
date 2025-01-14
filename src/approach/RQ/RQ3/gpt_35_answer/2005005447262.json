@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "early morning"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        }
+    },
+    "ID": "2005005447262",
+    "description": "This crash occurred on a two-way, two-lane roadway. The roadway was not physically divided,\n                        and there was no traffic control device involved in this crash. The conditions were as follows:\n                        early morning, clear skies, and the roadway was dry. The gradient for the two vehicles involved\n                        was level. The posted speed limit for the two vehicles was 56 kmph (35mph).\n\n\n                        Vehicle one (V1) was a 2000 Chevy Blazer, traveling westbound. V1 was driven by a 38-year old\n                        male. V1 traveled over the double yellow line to the left into opposing traffic. Vehicle two\n                        (V2), a 2001 Ford Taurus, was traveling eastbound. V2 was driven by a 17-year old male. The left\n                        front of V1 struck the left side of V2, pulling the outside of the left front door off. The\n                        police report narrative indicated that after striking V2, V1 left the scene. V1 was pulled over\n                        by police shortly after the crash, and the driver of V1 told police that he thought he had hit a\n                        curb. Police indicated that the driver of V1 was unsteady on his feet, confused, and lethargic.\n                        An ambulance arrived on scene and tested his blood sugar, which was normal. The driver of V1\n                        finally admitted to police that he was taking several prescription medications, including a\n                        narcotic pain reliever and a muscle relaxant. Police took the driver of V1 to a hospital for a\n                        possible head injury and also for drug and alcohol testing. The results of those tests were not\n                        made available.\n\n\n                        Both V1 and V2 were towed from the scene because they could not be driven. The driver of V2 was\n                        not injured.\n\n\n                        The Critical Precrash Event for V1 was coded as: this vehicle traveling over the lane line on\n                        left side of travel lane. The Critical Reason for the Critical Precrash Event was coded as \"Type\n                        of driver error unknown\" because the researcher was not able to obtain an interview. The driver\n                        of V1 would not return phone calls. Associated factors included the use of prescription\n                        medications and aggressive driving because V1 was reported by a witness (to police) to have been\n                        weaving in and out of his lane prior to the crash.\n\n\n                        The driver of V2 was traveling westbound and turned slightly right to try and avoid the crash.\n                        With this maneuver, the driver unfortunately could not prevent the crash. The researcher was\n                        able to attain the interview, via phone with the driver's mother because he was under 18. The\n                        Critical Precrash Event for V2 was coded as other vehicle encroachment from opposite direction -\n                        over left lane line. The Critical Reason was not coded to this vehicle. One associated factor\n                        coded to this driver was a sight line restriction in that a large vehicle that was traveling in\n                        front of V1 blocked the driver of V2's view of V1 until V1 entered V2's lane."
+}

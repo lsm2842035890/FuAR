@@ -1,0 +1,70 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498482",
+        "2005005289822"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a southbound one-way and a westbound one-way roadway.   The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway condition was dry.Vehicle # 1 was a 1998 Ford Windstar that was traveling southbound on the right turn lane making a right turn when the front of Vehicle # 1 impacted the right side of Vehicle # 2, a Ford E-Series Van that was traveling on the same roadway and attempting to make a right turn from the left lane.The Ford Windstar (Vehicle # 1) was driven by a 64 year-old male who did not sustain any injuries.  The driver stated that he was making a right turn when the right side of Vehicle # 2 impacted the front of his vehicle.  The Ford Windstar was towed due to damage.",
+        "This two-vehicle crash occurred in the evening hours in the middle of the two northbound lanes of a physically divided (concrete barrier) bridge.  There were no adverse atmospheric conditions at the time of the crash, although it was dark and no streetlights were present.  The roadway was dry, straight, and level with a posted speed limit of the roadway was 72kph (45mph).  V1, a 2005 Mazda 626, was northbound in lane one on the bridge.  V2, a 1995 Ford Windstar, was disabled on the bridge in lane one ahead of vehicle one.  V1 failed to stop and the front of V1 contacted the back of V2 the impact pushed V2 forward and its right side contacted the right concrete barrier before coming to final rest.  Both vehicles had to be towed from the scene due to vehicle damage.V1 was driven by a 22 year-old female who suffered minor injuries as a result of the collision, but did not require transport to a medical facility.  After numerous attempts, an interview could not be obtained from the driver of vehicle one.  From statements given to the police on scene the driver of V1 had consumed alcoholic beverages prior to the crash but sobriety tests confirmed she was still within the legal limit to operate a motor vehicle.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 4
+}

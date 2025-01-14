@@ -1,0 +1,104 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005002585643",
+        "2005003498482",
+        "2005043700301"
+    ],
+    "description": [
+        "     The crash occurred on a level four lane undivided roadway at a four-leg intersection controlled by a traffic signal.  The posted speed limit was 35 MPH (56 KPH).  It was raining, the roadway was wet and it was daylight at the time of this weekday morning crash.     Vehicle #1, a 1998 Ford Contour, was traveling west exiting a parking lot driveway controlled by a flashing red light.  Vehicle #2, a 2000 Dodge Durango, was traveling north in the second lane of the main road approaching the intersection.  Vehicle #1 entered the intersection to turn left and was struck in the left side by the front of Vehicle #2.  Vehicle #1 was rotated counterclockwise, across the southbound lanes and came to rest off the road facing in a southeasterly direction.  Vehicle #2 drove off the road to the right and stopped in a parking lot.  Both vehicles were towed due to damage.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Ford Contour (Vehicle #1) was driven by a belted 69 year old female who was transported, treated for fractured ribs and released from a local hospital.  She stated that she had just left the feed store and was waiting to pull out to make a left hand turn.  She indicated that she had been stopped for more than 10 seconds prior to proceeding and waited until other traffic had a red light as she always did.  She stated that other vehicles had stopped, but the vehicle that hit her didn't. She stated she wore glasses for myopic (near-sighted) and hyperopic (far-sighted) conditions. She had a hearing deficiency and was wearing a hearing aid at the time of the crash.  She considered herself in fair health.",
+        "The crash occurred in the intersection of a southbound one-way and a westbound one-way roadway.   The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway condition was dry.Vehicle # 1 was a 1998 Ford Windstar that was traveling southbound on the right turn lane making a right turn when the front of Vehicle # 1 impacted the right side of Vehicle # 2, a Ford E-Series Van that was traveling on the same roadway and attempting to make a right turn from the left lane.The Ford Windstar (Vehicle # 1) was driven by a 64 year-old male who did not sustain any injuries.  The driver stated that he was making a right turn when the right side of Vehicle # 2 impacted the front of his vehicle.  The Ford Windstar was towed due to damage.",
+        "\tThe crash occurred at a three-legged intersection in the eastbound lane of a two-lane suburban roadway.  The northbound road approaching the intersection was controlled by a stop sign and had a 4% downhill grade.  The eastbound road curved left at the intersection and had a 3% downhill grade.  The roadway had a posted speed of 56 kmph (35 mph), though the crash occurred during a 40 kmph (25 mph) school zone time.  Conditions were daylight and dry with cloudy skies.  The crash occurred in the mid-afternoon hours of a weekday.  \tVehicle one was a 1991 Acura Integra 3-door hatchback traveling east in lane one.  Vehicle two was a 2000 Honda Civic coupe stopped facing north.  V1 continued through the intersection while V2 proceeded to attempt a left turn.  The two vehicles struck head on.  Both vehicles came to rest in the intersection.  \tV1 was driven by an 18-year old female who was transported to a local hospital with possible injuries.  She stated that it appeared V2 was trying to follow a friend driving in front of V2 who had just completed a left turn in front of this driver.  V2 tried to pull out quickly in front of this driver but mistimed her maneuver.  This driver estimated her travel and impact speeds to be 40 kmph (25 mph), saying she didn't have a chance to slow down.  V1 was towed due to damage. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

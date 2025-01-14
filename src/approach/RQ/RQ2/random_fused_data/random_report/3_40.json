@@ -1,0 +1,104 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "48KPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002229242",
+        "2005003498482",
+        "2005048103261"
+    ],
+    "description": [
+        "This crash occurred on a level two lane undivided straight roadway with a posted speed limit of 48KPH (30mph). The roadway was straight. The intersecting roadway was a two lane undivided roadway Conditions were dry and crash occurred in the early afternoon hours of a weekday.Vehicle #1 was a 1996 Ford  Contour was traveling in the east bound lane, then making a left turn at the intersection after an uninvolved truck had just passed in the westbound lane. Vehicle #2 was a 2004 Honda Motorcycle traveling westbound behind the uninvolved truck.  Vehicle #1, the Ford Contour, made the left turn immediately after the truck and in front of  Vehicle #2, the Honda Motorcycle.  Vehicle #2 impacted Vehicle #1 on the  right front  side with it's front.The Ford Contour (Vehicle #1) was driven by a 43-year old male who was transported to an area hospital with minor injuries. He was wearing his prescription contact lenses and a pair of sunglasses at the time of the crash.  He stated there was a truck in his way and he didn't see the motorcycle. He did not stop before making the turn. He stated he was traveling less than 20 MPH at impact.  This vehicle was towed due to damage.",
+        "The crash occurred in the intersection of a southbound one-way and a westbound one-way roadway.   The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway condition was dry.Vehicle # 1 was a 1998 Ford Windstar that was traveling southbound on the right turn lane making a right turn when the front of Vehicle # 1 impacted the right side of Vehicle # 2, a Ford E-Series Van that was traveling on the same roadway and attempting to make a right turn from the left lane.The Ford Windstar (Vehicle # 1) was driven by a 64 year-old male who did not sustain any injuries.  The driver stated that he was making a right turn when the right side of Vehicle # 2 impacted the front of his vehicle.  The Ford Windstar was towed due to damage.",
+        "This two-vehicle crash occurred at just before midnight at the \"T\" intersection of a two-lane, two-way dry, level, bituminous north/south roadway and a two-lane, two-way, dry, uphill, bituminous roadway that intersects the north/south roadway from the west.  The roadway curves to the right slightly for westbound traffic.  The intersection was controlled by a stop sign for westbound traffic.  The roadway intersects the northbound roadway at a 50-degree angle.  It was dark but lit at the time of the crash and there were no adverse atmospheric conditions.  The posted speed limit for the north/south roadway was 89 kmph (55 mph) and the westbound roadway was 56 kmph (35 mph).Vehicle one (V1), a 2000 Chrysler Cirrus was traveling westbound approaching the intersection.  Vehicle two (V2), a 2002 Ford Explorer was traveling northbound and pulling a trailer loaded with musical equipment.  V1 entered the intersection attempting to turn left while V2 passed through the intersection going straight.  The front of V2 contacted the left side of V1.  V1 deflected to the right and came to rest off of the roadway facing southwest.  V2 rotated counterclockwise and came to rest on the roadway facing south.  While V2 was rotating towards final rest, its trailer contacted the left rear of V2. The driver of V1 was a 19-year old female who maintains a regular sleep schedule of 7 hours of sleep per evening and a normal work schedule of 35 hours per week.  She was fatigued at the time of the crash.  She was familiar with the vehicle and has over 4 years of driving experience.  This was however, her first time on this particular roadway.  The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

@@ -1,0 +1,25 @@
+
+ {
+     "weather" : ["cloudy"],
+     "lighting" : ["unknown"],
+     "speedlimit" : "72 KMPH",
+     "intersection" : "yes",
+     "T" : "no",
+     "carCount" : 2,
+     "laneCount" : 2,
+     "striker" : "V1 ",
+     "At-Fault-Vehicle" : "V2 ",
+     "impactPart" : 1,
+     "carInformation" : {
+         "V1 " : {
+             "behaviors" : [["follow lane"]],
+             "direction" : "west",
+             "laneNumber" : 1
+         },
+         "V2 " : {
+             "behaviors" : [["turn left",  2 ]],
+             "direction" : "unknown",
+             "laneNumber" : 0
+         }
+     }
+ }

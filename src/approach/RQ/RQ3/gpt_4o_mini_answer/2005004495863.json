@@ -1,0 +1,39 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005004495863",
+    "description": "The crash occurred in the northbound lane of a two-lane roadway with a driveway related\n                        intersection. Conditions were daylight in the morning on a weekend. The posted speed limit for\n                        the northbound lane was 35 MPH. There was no posted speed limit for the driveway.\n\n\n                        V1 was a 2001 Buick Century sedan turning left out of the driveway facing westbound. V2, a 2005\n                        Toyota Tundra pick-up, was traveling northbound in the 1st travel lane approaching the driveway\n                        intending on going straight. V1 made a left turn and the front of V2 struck the left side of V1\n                        in the northbound lane. Both vehicles came to final rest facing northbound.\n\n\n                        V1 was driven by a 76-year-old female who sustained moderate injuries and was transported to a\n                        local hospital. She stated that prior to exiting the driveway, she looked both ways and couldn't\n                        see to her left because of a big sign. She proceeded to turn left and struck V2. V1 did not take\n                        any avoidance actions and was traveling less than 10 MPH at the time of impact. V1 was towed due\n                        to damage.\n\n\n                        The critical precrash event for V1 was when this vehicle was turning left at the intersection.\n                        The critical reason for the critical precrash event was a highway related factor (view\n                        obstructed by a large sign). Associated factors coded to this driver were a sightline\n                        restriction (sign), inadequate surveillance (looked but did not see), and the driver turned with\n                        an obstructed view. The driver takes several medications due to her pre-existing medical\n                        conditions but this was thought not to have contributed to the crash.\n\n\n                        V2 was driven by a 46-year-old male who was not injured. He stated that he was traveling\n                        northbound in the 1st travel lane when he saw V1 turn in front of him. V1 did not have time to\n                        take any avoidance actions. The driver of V2 did state that he is uncomfortable with the\n                        congestion on this roadway and rarely drives on it. V2 was towed due to damage.\n\n\n                        The critical precrash event for V2 was other vehicle encroachment from the driveway turning into\n                        opposite direction. No critical reason for the critical precrash event was coded to this driver."
+}

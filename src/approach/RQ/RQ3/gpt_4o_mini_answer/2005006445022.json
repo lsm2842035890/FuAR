@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": 0,
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "unknown",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005006445022",
+    "description": "This crash occurred in the evening with no adverse weather conditions, and the roadway was\n                        dry. It took place on a two-lane undivided roadway that ran east/west. V2, a 2000 Dodge Stratus,\n                        was stopped at the traffic control device (a tri-color light without pedestrian crossing signs).\n                        V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2\n                        from behind. For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a\n                        43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained\n                        from either driver.\n\n\n                        The Critical Precrash Event for the driver of V1 was coded as: \"Other motor vehicle in lane,\n                        other vehicle stopped.\" The Critical Reason was coded as \"Type of driver error unknown,\" due to\n                        the lack of an interview. An associated factor was alcohol use - the police report indicates\n                        that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for\n                        alcohol testing. The results of that testing were not made available.\n\n\n                        The Critical Precrash Event for the driver of V2 was coded as: \"Other motor vehicle in lane,\n                        traveling in same direction with higher speed.\" The Critical Reason was not coded to the driver\n                        of V2. The operator of V2 has sought legal counsel and no cooperation could be obtained with the\n                        counsel to speak to the driver."
+}

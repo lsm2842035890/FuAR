@@ -1,0 +1,44 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005004112921",
+    "description": "       The crash occurred in the northbound lane of a two-lane intersection controlled by a stop sign.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 2002 Mercury Grand Marquis sedan traveling northbound in the 1st travel lane approaching the intersection controlled by a stop sign.  V2, a 2003 Toyota Corolla sedan, was traveling eastbound in the 1st travel lane intending on going straight.  V1 stopped at the stop sign looked both ways but did not see V2.  The front of V2 struck the left side of V1 in the northbound lane.  V1 came to final rest facing northbound and V2 came to final rest facing eastbound.     V1 was driven by a 70-year-old male who was not injured.  He stated that he stopped at the stop sign, looked both ways and proceeded thru the intersection.  He did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage."
+}

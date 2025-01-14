@@ -1,0 +1,31 @@
+
+
+
+- [response]: ```json
+{
+    "weather": ["snowy"],
+    "lighting": ["daylight"],
+    "speedlimit": "48kph (30mph)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 3,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["turn left", 2]],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["turn left", 3]],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    }
+}
+```
+
+The provided accident description has been analyzed and the relevant

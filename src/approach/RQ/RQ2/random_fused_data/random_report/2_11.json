@@ -1,0 +1,72 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 0,
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498461",
+        "2005006445102"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway was dry and had a downhill grade of -2/61.Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway.  Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane.  Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1.The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries.  The passenger in the front right seating position also did not sustain any injuries.  The International truck was not towed due to damage.",
+        "This motor vehicle crash happened on a roadway.  This roadway travels east/west, with two travel lanes westbound and two travel lanes and one left turn lane eastbound.  The roadway is not physically divided.  The crash took place mid-block about 9 meters west of the traffic control signal.The driver of V1 was stopped at a traffic light, when the light turned green the driver proceeded to accelerate, traveling in lane two, in the westbound lanes.  V2 entered the roadway from a parking lot and crossed the path of V1, trying to turn onto the eastbound lanes.  V1 contacted V2 with its left front.  Both cars came to rest at impact.  V1's driver was coming from work and states that they did not see V2 until V2 crossed the path of V1.  The driver states that they were traveling about 40-48 kmph (25-30 mph) at time the of impact and tried to avoid contacting V2 but could not stop in time."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

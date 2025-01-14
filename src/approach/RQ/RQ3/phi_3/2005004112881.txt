@@ -1,0 +1,29 @@
+
+
+
+- [response]: {
+    "weather": [],
+    "lighting": ["daylight in the morning"],
+    "speedlimit": "45 MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["turn left", 1]],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [["go across", 3]],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    }
+}
+
+The crash occurred in the northbound lane of a two-lane roadway with a T-inter

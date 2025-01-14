@@ -1,0 +1,77 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 0,
+    "intersection": "no",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005006445243",
+        "200501269401"
+    ],
+    "description": [
+        "\tThe crash occurred in the early evening hours while still daylight at a T-intersection.  The main street was an east/west two-lane two-way roadway with no traffic control. The posted speed limit was 40 KMPH (25 MPH). The crossing street ran north/south and ended at the T-intersection.  The north/south roadway was a two-lane two-way roadway controlled by a stop sign. The east west roadway had a shoulder on either side, which diminished as it neared the intersection.  The roadway was divided by two solid yellow lines.  There were no adverse weather conditions that day and both roadways were dry.   \tV1, a 1998 Ford Taurus station wagon, was driven by a 20-year old female. V1 was traveling west on the east/west roadway. V2, a 1994 Pontiac Grand Am, was driven by a 24-year old female. V2 was traveling south on the north/south roadway. According to police and witness reports, the driver of V2 came to a complete stop at her stop sign, facing south.  The driver of V2 then entered the intersection and attempted to turn left to travel east on the east/west roadway.  As V2 entered the intersection, its left side was struck by the front right of V1. The momentum of V1 pushed V2 off of the roadway and down the east/west roadway traveling westbound, coming to rest approximately 51.6m from impact in the eastbound lanes.  V1 rolled off of the sidewalk and came to rest facing south in the middle of the two east/west lanes.\tThe Critical Pre-Crash Event for V1 was coded as \"other vehicle encroachment from crossing street, turning into opposite direction.\" The Critical Reason For the Critical Pre-Crash Event was not coded to V1, although excess speed was coded as an associated factor. A witness who had been traveling behind V1 reported that V1 was traveling at a high rate of speed prior to impact. The extent of damage to V2 and the post-impact trajectory of the vehicles supported the claim of excess speed, as the posted speed limit was 40 KMPH (25 MPH). All other information was unknown due to the lack of an interview with the driver of V1.",
+        "The crash occurred in the eastbound lane of a two-lane, two-way asphalt roadway on level grade.  The conditions were daylight and wet with cloudy skies in the early afternoon on a weekday.\tV1, a 1995 Chevrolet Lumina was traveling eastbound.  V2, a 2004 Chevrolet Trailblazer was also traveling eastbound on the same roadway.  V2, was attempting to make a left-hand turn into a private drive on the North side of the roadway.  While turning V1 attempted to pass V2 on the left-hand side contacting it's front to the left side of V2.  Both vehicles came to final rest on the roadway at impact.The driver of V1 fled the scene and was not identified, so no further information could be obtained from him.  The Driver of V2 stated that the driver was a male and had hit his head and was bleeding.  She did not pursue the driver because she thought she saw a gun. The officer said that the car had been reported stolen."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

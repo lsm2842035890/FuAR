@@ -1,0 +1,62 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002229482",
+        "2005004112382"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway intersecting with another two lane undivided roadway with no grade and a posted speed limit of 48KMPH (30MPH). This crash occurred on a weekday evening.Vehicle #1, a 1993 Ford Taurus, was traveling on the two lane undivided roadway behind Vehicle #2, a 1996 Volkswagen Jetta, which was stopped at a red light. Vehicle #1 impacted with the rear of  Vehicle #2 with its front. Both vehicle came to rest in the intersection. Vehicle #2 was towed from the scene.The Ford Taurus (vehicle #1) was driven by a belted 19 year old male who was not injured. The driver stated Vehicle #2 had come to a stop and started to pull forward, but stopped again.",
+        "     The crash occurred in the southbound lane of a three-lane roadway with a median controlled by a traffic control signal.  Conditions were daylight with rain in the afternoon on a weekday.  The posted speed limit was 80 KMPH (50 MPH) with a -2% downhill grade.     V1 was a 1990 Honda Civic sedan traveling southbound in the second travel lane approaching an intersection controlled by a traffic control signal.  V2, a 1999 Chevy Silverado pick-up, was stopped in traffic in the southbound lane in front of V1.  The front of V1 struck the back of V2 in the southbound lane.  Both vehicles came to final rest facing southbound.     V1 was driven by a 18-year-old female who was not injured.  She stated that she was talking to her friend and did not realize how close she was to V2.  She then braked and swerved right but struck V2 in the rear.  V1 was traveling between 50 and 64 KMPH (31 and 40 MPH) at the time of impact.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 4
+}

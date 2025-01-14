@@ -1,0 +1,124 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002229483",
+        "2005003498282",
+        "2005004112721",
+        "2005004495863"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.Vehicle #1, a 1988 Ford Mustang, was traveling westbound on the two lane undivided roadway when it observed Vehicle #2, a 1985 Kawasaki motorcycle, in its westbound lane traveling east.  Vehicle #1 crossed over the left lane line into the eastbound lane. The motorcycle returned to its original eastbound lane whereupon Vehicle #1 impacted with Vehicle #2 with its front. Vehicle #1 came to rest in the eastbound land facing west Vehicle #2 was knocked backwards 33meters coming to rest on its side, in the center of the roadway, facing eastward.This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.",
+        "The crash occurred in the intersection of a two-way north/south road with two lanes in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was daylight and clear with no adverse conditions.  The crash occurred in the morning hours on a weekday.Vehicle #1 was a 2004 Acura MDX that was traveling southbound in the right lane.  Vehicle #2 was 1995 Dodge Neon that was traveling westbound. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2.    The Acura MDX (Vehicle #1) was driven by a 29-year old female who did not sustain any injuries.  She stated that she had come to a rolling stop at a red light and then when her light turned green, she accelerated into the intersection. She stated that Vehicle #2 came from nowhere.  The Acura was not towed.",
+        "     The crash occurred in the middle of a four-way intersection.  The northbound travel lane was controlled by a stop sign.  Conditions were daylight and dry in the afternoon on a weekday.  The posted speed limit was 35 MPH and both roads were level.     V1 was a 2002 Mazda 323 hatchback traveling northbound in the right lane approaching an intersection controlled by a stop sign intending on going straight.  V2, a 1997 Nissan Maxima sedan, was traveling eastbound in the right lane approaching the intersection intending on going straight.  The front of V1 struck the right side of V2.  V1 came to final rest facing northeast.  V2 came to final rest facing eastbound.     V1 was driven by a 61-year-old male who was not injured.  He stated that he was stopped at the stop sign, looked in both directions, then proceeded thru the intersection but saw V2 in the corner of his eye.  The driver of V1 braked and swerved right but was unable to avoid contact with V2.  V1 was traveling between 1 and 10 MPH at the time of impact.  V1 was towed due to damage.",
+        "     The crash occurred in the northbound lane of a two-lane roadway with a driveway related intersection.  Conditions were daylight in the morning on a weekend.  The posted speed limit for the northbound lane was 35 MPH.  There was no posted speed limit for the driveway.     V1 was a 2001 Buick Century sedan turning left out of the driveway facing westbound.  V2, a 2005 Toyota Tundra pick-up, was traveling northbound in the 1st travel lane approaching the driveway intending on going straight.  V1 made a left turn and the front of V2 struck the left side of V1 in the northbound lane.  Both vehicles came to final rest facing northbound.     V1 was driven by a 76-year-old female who sustained moderate injuries and was transported to a local hospital.  She stated that prior to exiting the driveway, she looked both ways and couldn't see to her left because of a big sign.  She proceeded to turn left and struck V2.  V1 did not take any avoidance actions and was traveling less than 10 MPH at the time of impact.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 8
+}

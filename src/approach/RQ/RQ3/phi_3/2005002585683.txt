@@ -1,0 +1,29 @@
+
+
+
+- [Response]: {
+    "weather": ["clear"],
+    "lighting": ["daylight"],
+    "speedlimit": "35 MPH (56 KPH)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into", 2], ["drive off", 0]],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["drive into", 1]],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    }
+}
+
+The car behaviors for Vehicle #1

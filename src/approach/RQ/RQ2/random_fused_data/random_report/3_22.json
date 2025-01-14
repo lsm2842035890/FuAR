@@ -1,0 +1,96 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "normal"
+    ],
+    "speedlimit": "64KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004112561",
+        "2005045706121",
+        "2005072709641"
+    ],
+    "description": [
+        "     The crash occurred in the westbound lanes of a four-lane roadway separated by a raised curb median (two lanes each direction) at an intersection controlled by a traffic signal.  Conditions were daylight with clouds in the afternoon on a weekday.  The posted speed limit was 64 kmph (40 MPH).  The westbound lanes had a negative 2 percent slope.     V1 was a 2004 Chevy Cavalier sedan traveling around a jug-handle intending to turn left at the intersection with the east/west roadway.  V2, a 2002 Buick Century sedan, was traveling westbound in the left lane intending on continuing straight through the intersection with a green traffic control signal.  The driver of V1 stated that she stopped for a red traffic signal, and when she thought that her light had changed to green, she entered the intersection. The front of V1 struck the right front side of V2.  V2 was deflected to the left and onto the grass median where the front of V2 struck a traffic control signal post.  V1 came to final rest facing southeast and V2 came to final rest facing southwest.  A witness that was identified on the police report as traveling to the right of and behind V2 indicated that the traffic signal for westbound traffic had been green. The county's highway department reviewed the tripped curcuit and verified that traffic on the jug-handle (V1) had a red light.     A 41-year old female drove V1 and was not injured.  She stated that she was traveling around the jug-handle intending on turning left at the intersection with a possible green traffic control signal when V2 struck the front of her vehicle.  The driver of V1 did not have time to take any avoidance actions.  V1 was traveling between 11-20 MPH at the time of impact.  V1 was towed due to damage.",
+        "                The crash occurred on a two-way two-lane east/west rural arterial road divided by double yellow lines at a T-intersection with the intersecting road coming from the north side.  The intersecting road was also a two-way, two-lane road that had an incline of -4 percent on the southbound lane.  The rural arterial road was straight and level for the most part but for a slight curve from the south bending west with a radius of 148 meters.  The intersection was controlled by a one-way stop sign for the intersecting road.  There was no traffic control device for the east/west roadway. The posted speed limit was 64kmph/40mph for both roadways.  Conditions were partly cloudy and dry in the early afternoon on a weekend.  \tVehicle 1, a 2001 Hyundai Santa Fe (SUV 4WD), was southbound on the intersecting road, intending to make a left turn onto the east/west rural arterial road.  As V1 approached the stop sign, the vehicle came to a rolling stop before it began to ease out into the intersection.  It then contacted the trailer unit of Vehicle 2, a 1995 Ford F-350 that had a modified body with a dump bed, pulling a two-axle steel framed float equipment trailer. The trailer had a bobcat track hoe loaded on board that was chained down with two chains.  Immediately before impact, V2 swerved left in an attempt to avoid a collision.  After impact it swerved left then right in an attempt to get the trailer under control with the brakes locked and the tires blown on the trailer.  V2 came to rest back in its original travel lane facing west with its load slightly askew but still intact on the trailer approximately 50 meters west of POI.  V1 came to rest after spinning about 100 degrees clockwise and was facing southwest about 4 meters west of impact.  V1 was towed due to damage.  V2's trailer was picked up by the wrecker service, but the truck was undamaged.  \tVehicle 1 was driven by a 33-year old belted male whose airbags deployed.   He refused treatment for possible injuries and only went home after the crash.  The driver of V1 stated that he had been reprimanded very recently for tardiness at work and was running tight on time that afternoon.  He also claimed to not get very much sleep regularly (5 hours per day).   He said it had been fourteen days since his last day off, which was a sick day and before that he can't remember a day that he has been off work in recent memory. ",
+        "       This two-vehicle crash occurred in the morning at 0740 hours at a traffic-signal-controlled T-intersection. The north/south roadway is straight, level, dry and has two lanes in each direction that are separated by a painted median. The intersecting roadway (that branches on the west side of the north/south road) is a two-lane, undivided, level, straight east/west roadway. The speed limit on both roadways is 48 kph (30 mph) and there were no adverse atmospheric conditions at the time of the crash.       Vehicle one,(V 1) a 1992 Cadillac Deville, was southbound in the second lane. Vehicle two,(V 2) a 1993 Ford F-150 pickup truck, was eastbound at the intersection. The light turned red for vehicle one and green for vehicle two. As vehicle two turned left at the intersection, the front of vehicle one struck the left side vehicle two. Both vehicles came to rest in the intersection and were towed due to damage. The driver of V 1 a forty-six-year-old female, disregarded the red traffic signal. No information was obtained from this driver. The driver of V 2 a twenty-year-old male, was driving from home to work. He was well rested, familiar with his vehicle and his route, not in a hurry and comfortable with his twenty-year-old male passenger. He was listening to the radio, but this did not distract him from his driving responsibilities.       The pre-event movement for V 1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason driver related factor \"illegal maneuver\" (disregard of traffic control signal)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

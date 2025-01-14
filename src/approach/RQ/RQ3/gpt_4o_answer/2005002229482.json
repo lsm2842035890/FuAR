@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005002229482",
+    "description": "This crash occurred on a two lane undivided roadway intersecting with another two lane\n                        undivided roadway with no grade and a posted speed limit of 48KMPH (30MPH). This crash occurred\n                        on a weekday evening.\n\n\n                        Vehicle #1, a 1993 Ford Taurus, was traveling on the two lane undivided roadway behind Vehicle\n                        #2, a 1996 Volkswagen Jetta, which was stopped at a red light. Vehicle #1 impacted with the rear\n                        of Vehicle #2 with its front. Both vehicle came to rest in the intersection. Vehicle #2 was\n                        towed from the scene.\n\n\n                        The Ford Taurus (vehicle #1) was driven by a belted 19 year old male who was not injured. The\n                        driver stated Vehicle #2 had come to a stop and started to pull forward, but stopped again.\n\n                        He stated he couldn't understand why Vehicle #2 stopped a second time and he thought she would\n                        just continue to turn right.\n\n\n                        The Critical Precrash Event coded to this vehicle was Other Motor Vehicle in Lane Traveling in\n                        same direction while decelerating. The Critical Reason for the Critical Precrash Event was coded\n                        as: Driver Related Factor Decision Error False assumption of other's actions. This was chosen\n                        when the driver stated he thought the driver of Vehicle #2 would continue to turn right.\n\n\n                        The Volkswagen Jetta (vehicle #2) was driven by a 58 year old belted female who was coded as\n                        having possible injuries but refused medical attention. The driver stated she had stopped at the\n                        red light and was going to turn right on red when she saw approaching traffic and slowed to\n                        allow traffic to pass before proceeding.\n\n\n                        The Critical Precrash Event coded to this vehicle was Other Motor Vehicle in lane Traveling in\n                        Same Direction with Higher Speed. A Critical Reason for the Critical Precrash Event was not\n                        coded to this vehicle.\n\n\n                        The Police did not consider illegal drugs or alcohol to be involved and ordered no tests for\n                        either driver."
+}

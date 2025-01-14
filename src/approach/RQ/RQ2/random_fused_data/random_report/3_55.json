@@ -1,0 +1,98 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "72KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498181",
+        "2005003498261",
+        "2005048103001"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed.",
+        "This crash occurred on the eastbound lanes of an undivided four-lane roadway with two lanes in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions.  The speed limit for the roadway was 48 kmph (30 mph).Vehicle #1 was a 1996 Lincoln Town Car that was in the eastbound parking lane and attempting to make a U-turn to go westbound on the roadway.  Vehicle #2 was a Dodge Grand Caravan that was traveling eastbound in the second lane of travel.  Vehicle #1 attempted to make a U-turn and the front impacted the right side of Vehicle #2.The Lincoln Town Car (Vehicle #1) was driven by a 37-year old male who did not sustain any injuries.  The driver stated that he was coming out of a parking spot and attempting to make a U-Turn.  Vehicle #1 was used and registered as a livery cab and was driven away from the scene. ",
+        "This two-vehicle intersection related crash occurred in the morning daylight hours on a two-lane, undivided, two-way, bituminous roadway that intersects at a \"T\" intersection with a two-way two-lane road to the south.  The roadway was wet because it had just started to rain.  The primary roadway runs east/west with one lane in each direction and is slightly curved.  There are no traffic controls for the east/west roadway and a stop sign is posted for the intersecting northbound travel direction.  The posted speed limit on the east/west roadway was 72 kmph (45 mph).Vehicle one (V1) was a 1997 Infinity Q45 that was traveling west and negotiating a curve to the right.  The driver of V1 intended to make a left turn at the intersection.  The driver of V1 stated that as he approached the intersection, his vision shrank to tunnel vision and he blacked out.  V1 crossed the double yellow lane line and its front contacted the front of vehicle two (V2).  V2 was a 2005 Lexus ES330 that was traveling east negotiating the curve to the left.  Post impact V1 rotated clockwise and departed the north side of the roadway and the front of V1 impacted an embankment where it came to rest.  After the first impact V2 deflected to the right and departed the south side of the roadway and came to rest facing east on the upslope of an embankment. Both vehicles were towed due to damage.The driver of V1, and sole occupant, was a 51 year old male.  He had been awake for four hours after adequate sleep. He performed strenuous recreational activities of playing tennis for three hours prior to this trip and takes the medication Mavik for high blood pressure.  He blacked out while driving his vehicle.  Medical records indicated that low blood sugar may have been why the driver blacked out even though he had not been diagnosed as being diabetic.  The driver was very familiar with the vehicle and the roadway."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 6
+}

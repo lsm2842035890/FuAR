@@ -1,0 +1,38 @@
+
+import re
+import json
+import numpy as np
+from collections import Counter
+from collections import defaultdict
+
+def get_weather(text):
+    weather = []
+    if'sunny' in text:
+        weather.append('sunny')
+    if 'clear' in text:
+        weather.append('clear')
+    if 'rainy' in text:
+        weather.append('rainy')
+    if 'foggy' in text:
+        weather.append('foggy')
+    if'snowy' in text:
+        weather.append('snowy')
+    if 'windy' in text:
+        weather.append('windy')
+    if 'cloudy' in text:
+        weather.append('cloudy')
+    if not weather:
+        weather.append('unknown')
+    return weather
+
+def get_lighting(text):
+    lighting = []
+    if 'bright' in text:
+        lighting.append('bright')
+    if 'normal' in text:
+        lighting.append('normal')
+    if 'dark' in text:
+        lighting.append('dark')
+    if 'dusk' in text:
+        lighting.append('dark')
+    if 'night' in

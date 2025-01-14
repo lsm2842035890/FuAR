@@ -1,0 +1,130 @@
+{
+    "weather": [
+        "rainy",
+        "cloudy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 0,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002229503",
+        "2005003498261",
+        "2005003498282",
+        "2005074433941"
+    ],
+    "description": [
+        "This crash occurred in the southbound lanes of a two-lane undivided roadway during the mid-afternoon hours. The roadway was straight with a posted speed limit of 89 KMPH (55 MPH). The roadway was wet and the sky was cloudy. This crash occurred on a weekday afternoon.Vehicle #1, a 1995 Toyota Camry station wagon, was traveling on the undivided roadway when it went over the right lane line and its right front impacted the left rear of Vehicle #2, a parked and unoccupied 1993 Oldsmobile Ciera. The Oldsmobile was parked on the right shoulder. The driver of Vehicle #1 then steered to the left across the southbound lane and into the northbound lane, overcorrected, came back across the southbound lane, and went off the roadway on the west side. The front right of Vehicle #1 struck a 15cm tree before coming to final rest against the tree, facing a westerly direction.The Toyota Camry Wagon was driven by a belted 52-year old male who was transported to an area hospital. The driver could not located for an interview and did not return messages left at the residence listed on his driver's license. The police report indicated that the driver of this vehicle might have had a seizure while driving.  A witness to this crash stated that she saw the driver of Vehicle #1 looking down and to his right as if at something inside the vehicle before the crash. ",
+        "This crash occurred on the eastbound lanes of an undivided four-lane roadway with two lanes in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions.  The speed limit for the roadway was 48 kmph (30 mph).Vehicle #1 was a 1996 Lincoln Town Car that was in the eastbound parking lane and attempting to make a U-turn to go westbound on the roadway.  Vehicle #2 was a Dodge Grand Caravan that was traveling eastbound in the second lane of travel.  Vehicle #1 attempted to make a U-turn and the front impacted the right side of Vehicle #2.The Lincoln Town Car (Vehicle #1) was driven by a 37-year old male who did not sustain any injuries.  The driver stated that he was coming out of a parking spot and attempting to make a U-Turn.  Vehicle #1 was used and registered as a livery cab and was driven away from the scene. ",
+        "The crash occurred in the intersection of a two-way north/south road with two lanes in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was daylight and clear with no adverse conditions.  The crash occurred in the morning hours on a weekday.Vehicle #1 was a 2004 Acura MDX that was traveling southbound in the right lane.  Vehicle #2 was 1995 Dodge Neon that was traveling westbound. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2.    The Acura MDX (Vehicle #1) was driven by a 29-year old female who did not sustain any injuries.  She stated that she had come to a rolling stop at a red light and then when her light turned green, she accelerated into the intersection. She stated that Vehicle #2 came from nowhere.  The Acura was not towed.",
+        "This two-vehicle collision occurred mid-afternoon in a three-way intersection.  Southbound traffic was controlled by a stop sign traffic device.  Road surface dry asphalt, no adverse weather condition or sight restrictions. The posted speed limit 48 kMmph (30 mph). The east/west roadway has a +8% grade.Vehicle one (V1), a 1994 Yamaha 600cc motorcycle driven by a 36 year-old male, was traveling west. Vehicle two (V2), a 1993 Ford Crown Victoria sedan driven by a 39 year-old male with three passengers, was traveling south in the process of making a left turn after stopping at a stop sign, As V2 entered the intersection V1, according to witnesses was driving at a high rate of speed, changed lanes to the left and collided with the left side of V2. The driver of V1 came to final rest at the northwest corner of the intersection and the motorcycle came to rest in the intersection at point of impact. V2 came to rest facing east in the westbound lanes. Both  V1 and V2 were towed from the scene, the driver of V1 was transported to a local medical facility.The critical pre-crash event for V1 was coded: other vehicle encroachment, from crossing street, turning into opposite direction. The critical reason for the critical event was not coded to this vehicle.  Associative factors for V 1 driver are as follows: driver performed various decision errors (aggressive driving behaviors).  V 1 driver violated a traffic signal, accelerated excessively  while weaving in and out of travel lanes, and failed to look far enough ahead for possible crossing traffic.  Medical reports indicated V1 driver  had an abnormal level of amphetamine."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "drive off"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    0
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    0
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

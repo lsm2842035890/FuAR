@@ -1,0 +1,95 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005003498081",
+        "2005004495861",
+        "2005048103261"
+    ],
+    "description": [
+        "This crash occurred in the right lane of the northbound lanes of an undivided roadway with two lanes in each direction.  The roadway was straight and level, and it was cloudy and raining.  The roadway was wet and had a posted speed limit of 48 kmph (30 mph). The crash occurred at a 4-way signalized intersection.  Vehicle #1 was a 1999 Toyota Camry that stopped for an emergency vehicle traveling westbound with the emergency lights on.  Vehicle #2 was a 2000 Nissan Sentra that was behind Vehicle #1 and could not stop in time.  Vehicle #2 rear-ended Vehicle #1.   The emergency vehicle was crossing over the intersection.A seventy-four year old male who did not sustain any injuries drove the Toyota Camry.  He stated that he saw the emergency vehicle trying to go through the intersection so he slowed down and came to a stop.  As he stopped, he was rear-ended by Vehicle #2. ",
+        "     The crash occurred in the southbound lane of a two-lane roadway.  Conditions were cloudy with rain in the early evening on a weekday.  The posted speed limit was 40 MPH.  The northbound lane had a -3% downhill grade.  The southbound lane had a positive 2 % uphill grade.     V1 was a 1995 Mercedes Benz S420 sedan traveling northbound in the first travel lane negotiating a curve left.  V2, a 2003 Ford Ranger pick-up, was traveling southbound in the first travel lane about to negotiate the curve.  V1 lost control of her vehicle and began to spin in a counterclockwise rotation.  V1 crossed over the centerline and the front of V2 struck the right side of V1 in the southbound lane.  V1 came to final rest facing southeast.  V2 came to final rest facing easr-southeast.     V1 was driven by a 70-year-old female who was not injured.  She refused to be interviewed but a surrogate interview was obtained by the investigating police officer.  He stated that the driver of V1 was speeding while negotiating the curve, which caused the driver to lose control on the wet pavement.  V1 then spun counterclockwise and crossed over the centerline and struck V2.  The driver of V1 did not take any avoidance actions.  The driver of V1 was traveling between 31 and 40 MPH at the time of impact.  V1 was towed due to damage.",
+        "This two-vehicle crash occurred at just before midnight at the \"T\" intersection of a two-lane, two-way dry, level, bituminous north/south roadway and a two-lane, two-way, dry, uphill, bituminous roadway that intersects the north/south roadway from the west.  The roadway curves to the right slightly for westbound traffic.  The intersection was controlled by a stop sign for westbound traffic.  The roadway intersects the northbound roadway at a 50-degree angle.  It was dark but lit at the time of the crash and there were no adverse atmospheric conditions.  The posted speed limit for the north/south roadway was 89 kmph (55 mph) and the westbound roadway was 56 kmph (35 mph).Vehicle one (V1), a 2000 Chrysler Cirrus was traveling westbound approaching the intersection.  Vehicle two (V2), a 2002 Ford Explorer was traveling northbound and pulling a trailer loaded with musical equipment.  V1 entered the intersection attempting to turn left while V2 passed through the intersection going straight.  The front of V2 contacted the left side of V1.  V1 deflected to the right and came to rest off of the roadway facing southwest.  V2 rotated counterclockwise and came to rest on the roadway facing south.  While V2 was rotating towards final rest, its trailer contacted the left rear of V2. The driver of V1 was a 19-year old female who maintains a regular sleep schedule of 7 hours of sleep per evening and a normal work schedule of 35 hours per week.  She was fatigued at the time of the crash.  She was familiar with the vehicle and has over 4 years of driving experience.  This was however, her first time on this particular roadway.  The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

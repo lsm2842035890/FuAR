@@ -1,0 +1,102 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498523",
+        "2005005289222",
+        "2005045588442"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "This late-night, two-vehicle crash occurred on a two-way, two-lane, not physically divided roadway.  The posted speed limit was 56kph (35mph) and there were no atmospheric conditions at the time of the incident.  The gradient for both vehicles involved was level.  No traffic control devices were associated with this crash.  Vehicle one (V1) was traveling eastbound and had just negotiated a right curve.  For unknown reasons, V1 partially left the right side of the roadway and overcompensated the vehicle when trying to return.  This caused V1 to spin laterally in a counterclockwise direction.  After loosing control of the vehicle, the passenger side of V1 made contact with the front of vehicle two (V2), which was traveling in the opposite direction.  The impact caused V1 to spin in a clockwise direction, approximately 180 degrees, before coming to final rest entirely off of the roadway on the property of a nearby house.  After colliding with V1, V2 spun clockwise, also approximately 180 degrees, before coming to rest partially off of the roadway on the same property as V1.  The travel speeds of both vehicles could not be determined.  All three occupants involved were airlifted to nearby hospitals due to injuries.  Unfortunately, the interviews of the drivers could not be obtained.  Therefore, some pertinent information could not be acquired, thus giving an incomplete synopsis of events.  There was however, some witness information given to the officers that help complete the scenario.  ",
+        "    The crash occurred on at a T-intersection of a four lane arterial road and a two-lane residential side street.  The urban four-lane roadway ran east/west and was undivided with two way left turn lane.   The two lane residential side street went north/south and was controlled by a stop sign.  Both roads were straight and level.  Conditions were daylight and dry on a weekday afternoon.    Vehicle #1 was a 1995 Chevy Blazer northbound attempting to turn left from the residential side street to go west on the four-lane road.  Vehicle #2, a 2001 Nissan Sentra, was eastbound in the left lane of the four-lane road.  The GMC (V1) began to turn left into the center two way left turn lane and stopped in the eastbound lanes.  The front of the Nissan (V2) struck the left side of Vehicle #1.  Both vehicles came to rest near impact and were towed due to damage.    Vehicle #1 was driven by a 20-year-old male that was belted and not injured in the crash.  The front right passenger, a 21-year-old female, was belted and transported to an area hospital with minor injuries.  No airbags deployed.  It appears the driver misjudged the gap distance and panicked when he realized he couldn't make it across to the center turn lane, stopping in the eastbound lanes."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "drive off"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 6
+}

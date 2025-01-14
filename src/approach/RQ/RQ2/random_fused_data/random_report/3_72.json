@@ -1,0 +1,93 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 45,
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 6,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005003498523",
+        "2005041508981",
+        "2005076597363"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "\tThe crash occurred at a T-intersection of an eastbound 5-lane undivided roadway and a northbound driveway exit from a parking lot.  The eastbound roadway was a two-way, five-lane roadway with a two-way left turn lane in the middle.  Both the eastbound roadway and the driveway were straight, level, bituminous roadways.   The posted speed for east/west traffic was 56 kmph (35 mph).  Conditions were daylight on a weekday morning with dry roads and clear skies.  Traffic flow in the eastbound direction was backed up for a light at a signalized intersection up ahead.    \tV1, a 2001 Volkswagen Jetta with one occupant, was stopped at a stop sign at the parking lot exit, waiting to turn left.  V2, a 2002 Dodge Intrepid with two occupants, was traveling eastbound in the two-way left turn lane.  Traffic in the first two eastbound lanes was backed up for a traffic light ahead.  Vehicles in those lanes made space for V1 to pull out.  As V1 pulled out to turn left, the front of V1 made contact with the front of V2 in the third (middle) lane of travel.  Both vehicles were towed due to damage.   \tV1 was driven by a 23-year old female who sustained possible injuries.  She was transported to the hospital from the crash scene by her boyfriend.  She stated that she had stopped at the drug store on her way to the hospice to see her grandmother.  Eastbound traffic was backed up, but the first two lanes left a gap for her to exit.  She said that one of the drivers waved her out.  She stated that she didn't see anything, so she cautiously pulled out.  The driver indicated that she did not know where the other vehicle came from.    ",
+        "This two-vehicle crash occurred just past noon on a 6-lane asphalt constructed roadway. At the area of this crash there is a three-legged intersection with a business driveway on the south side. This roadway runs east to west with three lanes on the westbound and two lanes for the eastbound traffic. There is a center left turn only lane and the posted speed limit is 64 kmph (45 mph). The north side entrance road has two lanes and is stop sign controlled. The south side business entrance is not regulated and has a driveway type entrance. This crash occurred during daylight with no adverse weather or sight line obstructions.Vehicle one (V1) was a 1995 Dodge Dakota pickup driven by a 85 year-old male.  V1 was eastbound and entered into the center left turn lane intending to turn left. Vehicle two (V2) was a 1985 Nissan Maxima 4 door sedan driven by a 18 year-old male.  V2 was traveling westbound in the #3 lane approaching the intersection. As V1 entered the left turn lane it slowed down to allow opposite traveling traffic to clear. As a group of vehicles passed, V1 turned left. As V1 crossed into the westbound #3 lane it was impacted on the right side with the front of V2. V1 then rotated clockwise and came to a rest on the northwest corner of this intersection.  V2 had locked up its brakes prior to the impact but could not avoid V1. V2 was disabled and towed from the scene.The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.  The critical reason for the critical event was attributed to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 6
+}

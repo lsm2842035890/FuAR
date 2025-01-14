@@ -1,0 +1,73 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 0,
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 6,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585643",
+        "2005006589001"
+    ],
+    "description": [
+        "     The crash occurred on a level four lane undivided roadway at a four-leg intersection controlled by a traffic signal.  The posted speed limit was 35 MPH (56 KPH).  It was raining, the roadway was wet and it was daylight at the time of this weekday morning crash.     Vehicle #1, a 1998 Ford Contour, was traveling west exiting a parking lot driveway controlled by a flashing red light.  Vehicle #2, a 2000 Dodge Durango, was traveling north in the second lane of the main road approaching the intersection.  Vehicle #1 entered the intersection to turn left and was struck in the left side by the front of Vehicle #2.  Vehicle #1 was rotated counterclockwise, across the southbound lanes and came to rest off the road facing in a southeasterly direction.  Vehicle #2 drove off the road to the right and stopped in a parking lot.  Both vehicles were towed due to damage.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Ford Contour (Vehicle #1) was driven by a belted 69 year old female who was transported, treated for fractured ribs and released from a local hospital.  She stated that she had just left the feed store and was waiting to pull out to make a left hand turn.  She indicated that she had been stopped for more than 10 seconds prior to proceeding and waited until other traffic had a red light as she always did.  She stated that other vehicles had stopped, but the vehicle that hit her didn't. She stated she wore glasses for myopic (near-sighted) and hyperopic (far-sighted) conditions. She had a hearing deficiency and was wearing a hearing aid at the time of the crash.  She considered herself in fair health.",
+        "\tThis crash occurred in the evening, the weather that evening was clear with no adverse conditions, the roadway was dry.  It took place on a major highway.  The highway travels east/west.  It consists of six total travel lanes, three in each direction, divided by a physical median with a positive barrier.  The two vehicles contacted in the westbound lanes while coming off the on-ramp, the on-ramp was not a factor (they were both on the roadway at the bottom).  The on-ramp had a yield sign at the bottom where the roadway levels out.\tV2 was stopped at the bottom of the on-ramp waiting for traffic at the yield sign.  V1 was also trying to merge into traffic, but did not notice V2 stopped at the bottom of the ramp due to being distracted by traffic on the roadway, driver of V1 was trying to merge into.  After V1 contacted the rear of V2 with its' front they both came to rest in the merging traffic lane.\tThe operator of V1 states that he thought the operator of V2 had already merged into traffic. Driver of V1 was paying attention to the other traffic and never saw that V2 had not merged into traffic as he had thought.  V1 rear- ended V2 at the bottom of the ramp.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

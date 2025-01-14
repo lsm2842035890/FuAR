@@ -44,7 +44,8 @@ def read_completed_files(time_file_path):
                     break
     return completed_files
 
-directory_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged"
+# directory_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/n_merged"
+directory_path = "/home/lsm/SFTSG_NME/src/approach/combined_reports_strict_rule/two_merged"
 json_files = glob.glob(os.path.join(directory_path, '*.json'))
 completed_files = read_completed_files("/home/lsm/SFTSG_NME/src/approach/RQ/RQ1/time.txt")
 for file_path in json_files:

@@ -1,0 +1,112 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498401",
+        "2005003498502",
+        "2005004112901",
+        "2005075585601"
+    ],
+    "description": [
+        "The crash occurred on the eastbound lane of a two-way road with one lane in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions. There were no traffic control devices and the speed limit was 48kmph (30mph).Vehicle # 1 was a 2004 Mercury Sable that was traveling westbound.  The driver veered into the eastbound lanes and the front of Vehicle # 1 impacted the left side of a legally parked and unoccupied Ford E-Series Van. Vehicle # 1 came to a final rest when it impacted a fence on the sidewalk. The Mercury Sable (Vehicle # 1) was driven by a 55 year-old female who sustained minor injuries and was transported to a local hospital.  The occupant in the front-center seating position did not sustain any injuries but was also transported to a local hospital.  The driver stated that she attempted to stop when she stepped on the accelerator instead of the brake pedal.  The Mercury Sable was towed due to damage and the driver declined to participate in the study.  ",
+        "The crash occurred in the early afternoon of a weekday in the westbound lanes of a divided two-way roadway with three lanes in each direction.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  It was daylight and clear with no adverse conditions.V1, a 1997 Infiniti QX4, was traveling westbound in the right lane (lane one).  V2, a 1990 Ford Crown Victoria, was traveling westbound on the middle lane (lane two).  V2 attempted to make a right turn at the intersection the right side of his vehicle collided with the left front of V1.  V1 then went off the roadway to the right and then the front impacted a breakaway light pole.V1 was driven by a 34 year-old female who sustained minor injuries and was transported to a medical facility.  She was unable to be located for an interview, but she told the police on scene that she was going straight when V2 attempted to make a right turn at the intersection.  The Infiniti was towed due to damage.",
+        "     The crash occurred in the northbound lane of a four-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The northbound lane had a posted speed limit of 80 kmph (50 mph) and a 2% uphill grade. The westbound lane had a posted sped limit of 56 kmph (35 mph).     V1 was a 2003 Toyota Camry sedan stopped westbound at the stop sign in the first travel lane.  V2, a 2003 Nissan 350Z coupe, was traveling northbound in the second travel lane intending on going straight.  V1 was waved into the intersection by an unknown vehicle stopped in the 1st travel lane facing northbound.  V1 proceeded thru the intersection and the front of V2 struck the left side of V1 in the 2nd travel lane of the northbound roadway.  The driver of V1 lost consciousness and his vehicle traveled southbound hitting a curb and several signs traveling approximately 115 meters.  V1 came to final rest against a pole facing westbound.  V2 came to final rest facing westbound.     V1 was driven by a 57-year-old male who sustained moderate injuries and was transported to a local hospital.  He stated that he was stopped at the stop sign when an unknown vehicle waved him into the intersection.  The driver of V1 did not see V2.  The driver of V1 was traveling between 18 and 32 kmph (11 and 20 mph) at the time of impact.  V1 was towed due to damage.  ",
+        "       This two-vehicle crash occurred during morning daylight hours on a curved, two-lane, t-intersection with no controls.  The road runs north and south at the location and has one lane in each direction.  The speed limit is 40 kph (25 mph) road surface level asphalt and there were no adverse weather conditions at the time.       Vehicle #1 (V1), a red 1998 Dodge Stratus 4-door, driven by a 21 year-old female was traveling southbound in lane one. Vehicle #2 (V 2) a 1996 Ford Bronco driven by a 43 year-old female was traveling northbound in lane one. V 1 initiated a left turn just before the intersection the front of V1 collided with left side of Vi.  The impact rotated V1 somewhat counterclockwise and pushed it back and V1 came to rest in the northbound lane facing generally southeast.  V1 was towed due to damage.  The V1 driver stated that she was on her way to get a key to a new apartment that she was planning to move into. She added that she was wearing sunglasses and had the V1 sun visor down, but did not see V2 because the sun glare was blinding her as she began to turn left. V 2  noticed V1 turning into her path and steered to the right but was not able to avoid the collision with V1.  After the impact, V2 came to rest a few meters to the north of the intersection in the original lane of travel against the curb facing generally north.  V2 was towed due to damage.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 8
+}

@@ -1,0 +1,141 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 3,
+    "ID": [
+        "2005002229442",
+        "2005003498523",
+        "2005003588301",
+        "2005005447062",
+        "2005043601421"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on late morning on a weekday.Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had been stopped in the northbound  traveling lane waitng for traffic to pass and intending to make a left turn into the parking lot.The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at the scene and refused further medical attention. He stated he was looking at an exterior site, to the right of his vehicle, and did not realize the vehicle in front of him was stopped.",
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "This crash occurred in the intersection of a north/south road with one lane in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was raining and the roadways were wet.  The crash occurred in the morning hours on a weekend.Vehicle #1 was a 2001 Chevrolet Lumina that was traveling southbound. Vehicle #2 was a 2003 Lexus LS430 that was traveling westbound.  At the intersection, the front of Vehicle #2 impacted the left side of Vehicle #1.  The impact spun Vehicle #1 counter-clockwise and the right side impacted a train support pillar.  Vehicle #1 then spun clockwise to its final rest, facing northbound.The Chevrolet Lumina (Vehicle #1) was driven by a 52-year old male who did not sustain any injuries. A 52-year old female occupant in the front-right seat sustained incapacitating injuries and was transported to a local medical facility.  The driver stated that he was going straight and had the green light when Vehicle #2 ran the red light, which caused him to impact the train support pillar.  The Chevrolet Lumina was towed due to damage.",
+        "The crash occurred on a two-way, two-lane, not physically divided roadway.  It was mid-morning and heavy rain was present.  The gradient for both roadways of vehicle 1 and vehicle 2 travel were level.  The posted speed limit on the roadway was 64 kmph (40mph).V1, a 1999 Pontiac Sunfire operated by a 18-year-old male, was traveling westbound.  V2, a 2003 Hyundai Elantra operated by a 24-year-old male, was traveling eastbound.  V1 crossed the centerline, entered the eastbound lane, and impacted V2 head-on.  The impact caused V1 to rotate counterclockwise; V1 came to final rest in the westbound lane facing south.  The driver of V2 was initially traveling straight and then attempted to avoid the collision by steering the vehicle to the right.  V2 rotated clockwise before coming to final rest between a mailbox and telephone pole.  Both vehicles were towed from the scene. The driver of V1 was transported by EMS to a local hospital.  After obtaining the interview from the driver of V1, it is likely that work and sleep patterns contributed to this crash. The driver was traveling home after working the graveyard shift.  ",
+        "This 2-vehicle crash occurred in the evening at a T-intersection in a suburban neighborhood. A 2-lane roadway runs east and west with an intersecting road that runs north and south. Both roadways have a posted speed limit of 48 kmph (30 mph) and each are controlled by a stop sign at the intersection where the crash took place. The conditions were dusk, clear, dry and the traffic level was moderate. V1, a 1990 Jeep Cherokee Laredo 4 x4 with one occupant, was traveling east in lane one of 2-lane undivided road approaching an intersecting road to its right. V2, a 1997 Honda CR-V with one occupant, was stopped (facing north) at the intersection waiting to turn left (westbound.) Both vehicles entered the intersection at the same time and collided at a right angle. The front of the Honda CR-V (V2) struck the right side of the Jeep Cherokee (V1) causing it to roll 2-quarter turns to its left and coming to rest on its roof. V1 had to be towed from the scene due to damage but V2 was driven away.V1 was driven by a 25-year-old female without a driver license. She did not speak English but her bilingual boyfriend/husband did speak English and he refused to help with the interview. The investigating officer said she was not cooperative with him or the EMS either, but she reportedly claimed the brakes failed. Once the vehicle was rolled back onto its tires, it was towed to the owner's house without the brakes ever being checked.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V9": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V10": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 10
+}

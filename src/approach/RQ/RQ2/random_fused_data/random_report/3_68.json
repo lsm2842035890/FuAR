@@ -1,0 +1,95 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "no",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005004495621",
+        "2005005447202",
+        "2005006445243"
+    ],
+    "description": [
+        "       The crash occurred in the left lane of a level two-lane roadway with a concrete median barrier (4 lanes total).  Conditions were daylight and dry with clear skies in the early evening on a weekday.  The posted speed limit was 56 kmph (35 MPH).     V1 was a 1996 Chevy S10 pickup truck traveling southbound in the left lane intending on going straight.  V2, a 2005 Nissan Quest minivan, was traveling southbound directly in front of V1.  V2 was stopped when the front of V1 struck the rear of V2.  Both vehicles came to final rest facing southbound.     A 17-year old male drove V1 and was not injured.  Both driver and parent of the driver refused to be interviewed.  V1 was driven away from the scene.",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device, for a construction zone.  The conditions were as follows: early afternoon, clear skies, the roadway was dry and there were no atmospheric conditions.  The gradient for the two vehicles involved were both on a +6% roadway.  The posted speed limit for vehicle one (V1) and vehicle two (V2) was 64 kph (40 mph). V2 was a 2005 Mercury Sable was traveling northbound and was stopped for a stop/slow sign for the construction zone.  Upon realization of the impending crash, the driver of V2 stated that he could not do anything.  V1 was a 2002 Dodge Neon, traveling northbound.  V1 struck V2 in the center part of V2's rear bumper.  The impact caused V1 to push V2 up the roadway.  V1 and V2 came to final rest in the roadway.  V1 was towed due to damage.  V2 was able to be driven from the scene.I spoke to the construction worker on scene, which was holding the stop sign.  He was only able to give a few words, due to the language barrier.  He attested that V2 was waiting for the sign to change, so V2 could proceed.  He further stated that V1 pushed V2 up the roadway some.",
+        "\tThe crash occurred in the early evening hours while still daylight at a T-intersection.  The main street was an east/west two-lane two-way roadway with no traffic control. The posted speed limit was 40 KMPH (25 MPH). The crossing street ran north/south and ended at the T-intersection.  The north/south roadway was a two-lane two-way roadway controlled by a stop sign. The east west roadway had a shoulder on either side, which diminished as it neared the intersection.  The roadway was divided by two solid yellow lines.  There were no adverse weather conditions that day and both roadways were dry.   \tV1, a 1998 Ford Taurus station wagon, was driven by a 20-year old female. V1 was traveling west on the east/west roadway. V2, a 1994 Pontiac Grand Am, was driven by a 24-year old female. V2 was traveling south on the north/south roadway. According to police and witness reports, the driver of V2 came to a complete stop at her stop sign, facing south.  The driver of V2 then entered the intersection and attempted to turn left to travel east on the east/west roadway.  As V2 entered the intersection, its left side was struck by the front right of V1. The momentum of V1 pushed V2 off of the roadway and down the east/west roadway traveling westbound, coming to rest approximately 51.6m from impact in the eastbound lanes.  V1 rolled off of the sidewalk and came to rest facing south in the middle of the two east/west lanes.\tThe Critical Pre-Crash Event for V1 was coded as \"other vehicle encroachment from crossing street, turning into opposite direction.\" The Critical Reason For the Critical Pre-Crash Event was not coded to V1, although excess speed was coded as an associated factor. A witness who had been traveling behind V1 reported that V1 was traveling at a high rate of speed prior to impact. The extent of damage to V2 and the post-impact trajectory of the vehicles supported the claim of excess speed, as the posted speed limit was 40 KMPH (25 MPH). All other information was unknown due to the lack of an interview with the driver of V1."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

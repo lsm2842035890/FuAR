@@ -1,0 +1,39 @@
+{
+    "weather": [
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005004112761",
+    "description": "The crash occurred in the eastbound lane of a two-lane roadway with an intersection controlled\n                        by a traffic control. Conditions were cloudy and dry in the afternoon on a weekday. The posted\n                        speed limit was 72 kmph (45 mph).\n\n\n                        V1 was a 2005 Hyundai Santa Fe SUV traveling in the first travel lane approaching the\n                        intersection controlled by a traffic signal intending on going straight. V2, a 2000 Sterling\n                        A9500 M/H truck, was stopped at the intersection with a red traffic control signal. The front of\n                        V1 struck the back of V2 in the eastbound lane. Both vehicles came to final rest facing\n                        eastbound.\n\n\n                        V1 was driven by a 69-year-old male who sustained moderate injuries and was transported to a\n                        local hospital. The driver of V1 refused to be interviewed. V1 was towed due to damage.\n\n\n                        The Critical Precrash Event for V1 was other motor vehicle in lane; other vehicle stopped. The\n                        Critical Reason for the Critical Precrash Event was coded as an unknown driver error due to the\n                        lack of interview.\n\n\n                        V2 was driven by a 44-year-old male who was not injured. He stated that he was decelerating\n                        because of the red traffic control signal. V2 then made a complete stop and soon after he felt a\n                        push and a loud noise. V2 did not take any avoidance actions. V2 was driven away from the scene.\n\n\n                        The Critical Precrash Event for V2 was other motor vehicle in lane; traveling in same direction\n                        with higher speed. No Critical Reason for the critical precrash event was coded to this vehicle."
+}

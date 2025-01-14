@@ -1,0 +1,71 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005005447062",
+        "2005006445102"
+    ],
+    "description": [
+        "The crash occurred on a two-way, two-lane, not physically divided roadway.  It was mid-morning and heavy rain was present.  The gradient for both roadways of vehicle 1 and vehicle 2 travel were level.  The posted speed limit on the roadway was 64 kmph (40mph).V1, a 1999 Pontiac Sunfire operated by a 18-year-old male, was traveling westbound.  V2, a 2003 Hyundai Elantra operated by a 24-year-old male, was traveling eastbound.  V1 crossed the centerline, entered the eastbound lane, and impacted V2 head-on.  The impact caused V1 to rotate counterclockwise; V1 came to final rest in the westbound lane facing south.  The driver of V2 was initially traveling straight and then attempted to avoid the collision by steering the vehicle to the right.  V2 rotated clockwise before coming to final rest between a mailbox and telephone pole.  Both vehicles were towed from the scene. The driver of V1 was transported by EMS to a local hospital.  After obtaining the interview from the driver of V1, it is likely that work and sleep patterns contributed to this crash. The driver was traveling home after working the graveyard shift.  ",
+        "This motor vehicle crash happened on a roadway.  This roadway travels east/west, with two travel lanes westbound and two travel lanes and one left turn lane eastbound.  The roadway is not physically divided.  The crash took place mid-block about 9 meters west of the traffic control signal.The driver of V1 was stopped at a traffic light, when the light turned green the driver proceeded to accelerate, traveling in lane two, in the westbound lanes.  V2 entered the roadway from a parking lot and crossed the path of V1, trying to turn onto the eastbound lanes.  V1 contacted V2 with its left front.  Both cars came to rest at impact.  V1's driver was coming from work and states that they did not see V2 until V2 crossed the path of V1.  The driver states that they were traveling about 40-48 kmph (25-30 mph) at time the of impact and tried to avoid contacting V2 but could not stop in time."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,72 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 0,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498461",
+        "2005004496041"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway was dry and had a downhill grade of -2/61.Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway.  Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane.  Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1.The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries.  The passenger in the front right seating position also did not sustain any injuries.  The International truck was not towed due to damage.",
+        "     The crash occurred in the westbound lane of a four-lane roadway with a median and a traffic control signal.  Conditions were daylight and dry in the morning on a weekday.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 1997 Toyota Corolla sedan traveling westbound in the 1st travel lane approaching an intersection controlled by a traffic control signal intending on going straight.  V2, a 2003 Nissan Altima sedan, was decelerating in the 1st travel lane for the amber traffic control signal.  The front of V1 struck the back of V2 in the westbound lane.  Both vehicles came to final rest facing westbound.     A 26-year-old male who was not injured drove V1.  He stated that he was in the right lane when the traffic control turned amber and he thought he had enough time to make a complete stop.  The driver of V1 braked but was unable to avoid V2.  V1 was traveling between 50-64 KMPH (31-40 MPH) at the time of impact.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 4
+}

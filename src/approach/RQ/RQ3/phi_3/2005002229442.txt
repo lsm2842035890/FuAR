@@ -1,0 +1,33 @@
+
+
+
+
+### Response
+
+{
+    "weather": ["clear"],
+    "lighting": [],
+    "speedlimit": "89 KMPH (55 MPH)",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into", 2], ["drive off", 0]],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["turn left", 2]],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    }
+}
+
+
+The crash description provided indicates that Vehicle

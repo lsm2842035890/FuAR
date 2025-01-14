@@ -1,0 +1,31 @@
+
+
+
+- response: ```json
+{
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "48KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into intersection", 2]],
+            "direction": "unknown",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["stop", "turn right", 3]],
+            "direction": "east",
+            "laneNumber": 2
+        }
+    }
+}
+```
+
+The crash description provided indicates that Vehicle #1 (Ford Taurus) was the

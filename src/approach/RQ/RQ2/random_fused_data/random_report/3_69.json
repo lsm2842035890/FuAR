@@ -1,0 +1,92 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "no",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585744",
+        "2005004112901",
+        "2005049602084"
+    ],
+    "description": [
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The weather was clear, the roadway dry and it was daylight at the time of the crash.     Vehicle 1, a 1996 Honda Civic, was traveling east on the roadway behind Vehicle 2, a 2002 GMC Envoy.  Vehicle 2 observes a non-contact vehicle in front of it slowing to make a left into a driveway.  Vehicle 2 decelerates and is struck in the rear by the front of Vehicle 1.  Vehicle 2 is pushed forward and drives off the road to the right coming to rest facing east off the south shoulder.  V1 came to rest facing east off the south shoulder.Vehicle 1 was towed due to damage and Vehicle 2 was driven from the scene.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.",
+        "     The crash occurred in the northbound lane of a four-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The northbound lane had a posted speed limit of 80 kmph (50 mph) and a 2% uphill grade. The westbound lane had a posted sped limit of 56 kmph (35 mph).     V1 was a 2003 Toyota Camry sedan stopped westbound at the stop sign in the first travel lane.  V2, a 2003 Nissan 350Z coupe, was traveling northbound in the second travel lane intending on going straight.  V1 was waved into the intersection by an unknown vehicle stopped in the 1st travel lane facing northbound.  V1 proceeded thru the intersection and the front of V2 struck the left side of V1 in the 2nd travel lane of the northbound roadway.  The driver of V1 lost consciousness and his vehicle traveled southbound hitting a curb and several signs traveling approximately 115 meters.  V1 came to final rest against a pole facing westbound.  V2 came to final rest facing westbound.     V1 was driven by a 57-year-old male who sustained moderate injuries and was transported to a local hospital.  He stated that he was stopped at the stop sign when an unknown vehicle waved him into the intersection.  The driver of V1 did not see V2.  The driver of V1 was traveling between 18 and 32 kmph (11 and 20 mph) at the time of impact.  V1 was towed due to damage.  ",
+        "This crash occurred just past noon.  The weather was clear and the road surface  bituminous and dry.  The crash occurred at a \"T\" intersection with the through street a six lane, divided,  north/south roadway.  The speed limit is 56 kmph (35 mph).  The secondary street intersects at a 90-degree angle from the west and is a two way, two lane asphalt roadway.  The speed limit for this roadway is 48 kmph (30 mph).  Traffic eastbound is controlled by a stop sign before entering or crossing the six-lane roadway.Vehicle one (V1), a 1999  Infiniti  G 20 was stopped at a stop sign. Vehicle two (V2), a 2001 Nissan Frontier Pick up truck, was traveling south in the third lane V1, after stopping for the stop sign, attempted a left turn into the northbound lanes of traffic. While crossing the third lane of southbound traffic, the front of V2 impacted the left side of V1.  V1 rotated clockwise and came to rest within the third lane of traffic.  V2 came to rest within its original traffic lane.   The frontal air bags in vehicle 2 deployed at impact.  V2 was towed from the scene. The left front wheel on V1 was restricted; a relative of the driver was able to drive the vehicle across the street to a gas station located east of the intersection. The vehicle was towed away later.  The driver of V1 was not injured; the two occupants in V2 were transported to a local hospital.  The driver of V1 was a 17-year-old female student who possesses a valid driver's license .  She had driver training in high school and has been driving for one year.  She had just purchased the vehicle the day before the crash.  She told police and fire department personnel she waited for about 3 minutes at the stop sign before proceeding into the intersection.  The driver was not able to provide any information about the traffic flow.  She did state there was no view obstruction.  She claimed she was not in a hurry, not conversing, in good health, not taking any medication, and no hearing deficiency.  She stated she had a clear view of approaching traffic from her left.  She was wearing glasses to correct for a myopic condition.  Sleep and fatigue factors are unknown as is her trip plan.  It is unknown if she had been involved in any arguments  She was not conversing and claimed she was not involved in any non-driving activities.  There was no involvement of alcohol or drugs.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 6
+}

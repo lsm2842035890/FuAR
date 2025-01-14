@@ -1,0 +1,70 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 1,
+    "ID": [
+        "2005004112402",
+        "2005074596001"
+    ],
+    "description": [
+        "     The crash occurred in the eastbound lane of a two-lane roadway with a T-intersection.  Conditions were dusk and dry in the evening on a weekend.  The northbound lane had a posted speed limit of 40 kmph (25 mph) and the eastbound lane had a posted speed limit of 56 kmph (35 mph).     V1 was a 2003 Hyundai Elantra sedan traveling eastbound in the right lane approaching a T-intersection.  V2, a 1998 Ford Taurus sedan, was traveling northbound in the right lane approaching a stop sign intending on turning left.  V2 stopped at the stop sign, looked in both directions but there was landscaping and a fence obstructing V2's view.  V2 then proceeded to turn left and the front of V1 struck the left side of V2 in the intersection., as V1 passed by V2, V2's right front contacted the back of V1.  V1 continued on and struck a curb and a tree.  V1 came to final rest facing eastbound.  V2 continued on and struck a curb and came to final rest facing northwest.",
+        "This two vehicle crash occurred during evening hours at a T-intersection with the east/west roadway controlled by a stop sign. The road surface dry,level concrete with overhead lighting. The posted speed limit 64 kmph (40 mph). Vehicle one (V1), a 1984 Buick Park Avenue sedan driven by a 31 year-old female with three passengers, was traveling northbound in lane one. Vehicle two (V2), a 1991 Jeep Cherokee driven by a 17 year-old male, was  traveling south in lane 2 of a 4 lane undivided concrete roadway with a negative grade.   The driver of V2 was traveling the speed limit until the driver decided to turn around and go back the other direction.  The driver of V2 saw a street to turn into, slowed down and turned left.  At this time V2 impacted the front of V 1 with it's front bumper.  V2 rotated counter clockwise and struck the left side of V1 with it's right front tire.  V2 came to final rest  facing northwest in the middle of the intersection.  V1 was traveling north in  lane 1 of a 4 lane undivided concrete roadway with a positive grade.  The driver of V1  was talking to the passengers in the vehicle at the time of the crash.  The driver saw V2 approach the intersection and assumed that the vehicle would stop and wait until traffic had cleared before turning.  After the initial impact V1 rotated counter clockwise and struck the right front tire of V2.  V1 came to final rest facing northwest in the middle of the street.   All occupants were transported to a local medical facility. Both vehicles were towed due to damage.  The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line.  The critical reason was not coded to this vehicle."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 4
+}

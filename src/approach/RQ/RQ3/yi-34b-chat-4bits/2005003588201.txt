@@ -1,0 +1,25 @@
+
+ {
+     "weather" : ["clear"],
+     "lighting": ["bright"],
+     "speedlimit": "30 MPH",
+     "intersection" : "no",
+     "T" : "no",
+     "carCount" : 2,
+     "laneCount" : 4,
+     "striker" : "V1 ",
+     "At-Fault-Vehicle" : "V1 ",
+     "impactPart": 1,
+     "carInformation" : {
+         "V1 " : {
+             "behaviors" : [["attempted U-turn"]],
+             "direction" : "south",
+             "laneNumber" : 2
+         },
+         "V2 " : {
+             "behaviors" : [["traveling southbound"]],
+             "direction" : "south",
+             "laneNumber" : 1
+         }
+     }
+ }

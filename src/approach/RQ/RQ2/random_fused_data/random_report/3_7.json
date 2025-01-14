@@ -1,0 +1,86 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585224",
+        "2005003588441",
+        "2005004112001"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH).  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.     Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking.  Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway.  Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn.  Vehicle #2 braked and steered left to avoid a collision.  Vehicle #2 struck Vehicle #1 in left side with its front.  Vehicle #2 came to rest facing in a northwesterly direction.  Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm.  He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work.  He stated that he had glanced at the traffic light (behind him) and thought it was red.  He also stated that he had looked, but didn't see the bus.  He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers.  Vehicle #1 was towed due to damage.",
+        "The crash occurred in the eastbound lanes of a two-way roadway that is divided by a center median with three lanes in each direction.  It was daylight and clear and the ground was wet from a previous rainstorm.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph). V1 was a 2000 Mercedes-Benz ML320 that was stopped for the Traffic control device when it was rear-ended by V2, a 1996 Toyota Corolla.  Both vehicles came to final rest in the roadway.V1 was driven by a 42 year-old male who did not sustain any injuries and was unable to be located for an interview.  V1 was driven away before it could be inspected.",
+        "The crash occurred in the eastbound lane of a two-lane roadway with an adjacent private driveway.  Conditions were dusk and dry with cloudy skies at 4:38 pm on a weekday late afternoon.  The roadway had a posted speed of 35 MPH and the eastbound lane had a negative 2% grade.  The private driveway was dry and did not have a posted speed limit but had a negative 3% grade.Vehicle 1 was a 1995 Plymouth Neon Sedan decelerating for the vehicle in front of him, which was making a left turn into a plaza.  Vehicle 2, a 1996 Kia Sephia, was exiting a private drive to the right of Vehicle 1.  The front of V1 struck the right side of V2; V2 rotated 90 degrees right.  V1 swerved right then left then both vehicles came to final rest in the right lane facing east.The 45-year-old driver of the Plymouth Neon (V1) stated that he was struck on the right side and swerved to final rest in the eastbound lane.  The driver of V1 sustained a laceration to his forehead and was transported to the emergency room.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

@@ -1,0 +1,97 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 45,
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 5,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005074595061",
+        "2005075585601",
+        "2005076597363"
+    ],
+    "description": [
+        "This two vehicle crash occurred during early evening hours at a T-intersection during dusk, rush hour traffic.  There were no adverse weather conditions at the time of this crash.  The bituminous roadway was dry.  The south roadway  level, undivided, two-way traffic way controlled by a stop sign. The west roadway has a positive 8% sloped, undivided, 5-lane traffic way, with no traffic controls. Posted speed limit 56 kmph (35 mph).Vehicle one (V1), a  2004, 4-door Chrysler Sebring driven by a 44 year-old female with one passenger was stopped at the stop sign for several minutes in the curb lane waiting to turn left across the westbound and center 2-way left turn lane.  Vehicle two (V2), a  1996 4-door Dodge Intrepid driven by a 33 year-old male was approaching the T-intersection in lane 2 going straight.  V1 proceeded its left turn across westbound lanes and its front collided with the front of V2.  V1's left front corner contacted the right front corner of V2.  The force of the impact caused V1 to rotate at least 90 degrees clockwise and it came to final rest in lanes one and two of the westbound travel lanes.  After the first impact V2 traveled southwest across the center 2-way lane and two eastbound lanes.  V2 came to final rest on top of the south curb edge and sidewalk of the traffic way.  Both vehicles were towed due to damage.The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.  The critical reason for the critical event coded to V1 as a driver related factor: turned with obstructed view.  A non-contact large truck in the number one eastbound travel lane obstructed the view of V2, which was in the number two adjacent eastbound lane, for the driver of V1.  Associative factor driver of V1 may have been upset due to recent divorce, maybe fatigue due to spending most of the day shopping for household furniture brought on by a recent divorce.  The driver had been frustrated waiting at the stop sign to turn left and proceeded to turn left when her passenger said traffic to the right was clear.",
+        "       This two-vehicle crash occurred during morning daylight hours on a curved, two-lane, t-intersection with no controls.  The road runs north and south at the location and has one lane in each direction.  The speed limit is 40 kph (25 mph) road surface level asphalt and there were no adverse weather conditions at the time.       Vehicle #1 (V1), a red 1998 Dodge Stratus 4-door, driven by a 21 year-old female was traveling southbound in lane one. Vehicle #2 (V 2) a 1996 Ford Bronco driven by a 43 year-old female was traveling northbound in lane one. V 1 initiated a left turn just before the intersection the front of V1 collided with left side of Vi.  The impact rotated V1 somewhat counterclockwise and pushed it back and V1 came to rest in the northbound lane facing generally southeast.  V1 was towed due to damage.  The V1 driver stated that she was on her way to get a key to a new apartment that she was planning to move into. She added that she was wearing sunglasses and had the V1 sun visor down, but did not see V2 because the sun glare was blinding her as she began to turn left. V 2  noticed V1 turning into her path and steered to the right but was not able to avoid the collision with V1.  After the impact, V2 came to rest a few meters to the north of the intersection in the original lane of travel against the curb facing generally north.  V2 was towed due to damage.  ",
+        "This two-vehicle crash occurred just past noon on a 6-lane asphalt constructed roadway. At the area of this crash there is a three-legged intersection with a business driveway on the south side. This roadway runs east to west with three lanes on the westbound and two lanes for the eastbound traffic. There is a center left turn only lane and the posted speed limit is 64 kmph (45 mph). The north side entrance road has two lanes and is stop sign controlled. The south side business entrance is not regulated and has a driveway type entrance. This crash occurred during daylight with no adverse weather or sight line obstructions.Vehicle one (V1) was a 1995 Dodge Dakota pickup driven by a 85 year-old male.  V1 was eastbound and entered into the center left turn lane intending to turn left. Vehicle two (V2) was a 1985 Nissan Maxima 4 door sedan driven by a 18 year-old male.  V2 was traveling westbound in the #3 lane approaching the intersection. As V1 entered the left turn lane it slowed down to allow opposite traveling traffic to clear. As a group of vehicles passed, V1 turned left. As V1 crossed into the westbound #3 lane it was impacted on the right side with the front of V2. V1 then rotated clockwise and came to a rest on the northwest corner of this intersection.  V2 had locked up its brakes prior to the impact but could not avoid V1. V2 was disabled and towed from the scene.The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.  The critical reason for the critical event was attributed to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 6
+}

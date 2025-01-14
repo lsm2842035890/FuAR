@@ -1,0 +1,92 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002229442",
+        "2005003498502",
+        "2005004496041"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on late morning on a weekday.Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had been stopped in the northbound  traveling lane waitng for traffic to pass and intending to make a left turn into the parking lot.The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at the scene and refused further medical attention. He stated he was looking at an exterior site, to the right of his vehicle, and did not realize the vehicle in front of him was stopped.",
+        "The crash occurred in the early afternoon of a weekday in the westbound lanes of a divided two-way roadway with three lanes in each direction.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  It was daylight and clear with no adverse conditions.V1, a 1997 Infiniti QX4, was traveling westbound in the right lane (lane one).  V2, a 1990 Ford Crown Victoria, was traveling westbound on the middle lane (lane two).  V2 attempted to make a right turn at the intersection the right side of his vehicle collided with the left front of V1.  V1 then went off the roadway to the right and then the front impacted a breakaway light pole.V1 was driven by a 34 year-old female who sustained minor injuries and was transported to a medical facility.  She was unable to be located for an interview, but she told the police on scene that she was going straight when V2 attempted to make a right turn at the intersection.  The Infiniti was towed due to damage.",
+        "     The crash occurred in the westbound lane of a four-lane roadway with a median and a traffic control signal.  Conditions were daylight and dry in the morning on a weekday.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 1997 Toyota Corolla sedan traveling westbound in the 1st travel lane approaching an intersection controlled by a traffic control signal intending on going straight.  V2, a 2003 Nissan Altima sedan, was decelerating in the 1st travel lane for the amber traffic control signal.  The front of V1 struck the back of V2 in the westbound lane.  Both vehicles came to final rest facing westbound.     A 26-year-old male who was not injured drove V1.  He stated that he was in the right lane when the traffic control turned amber and he thought he had enough time to make a complete stop.  The driver of V1 braked but was unable to avoid V2.  V1 was traveling between 50-64 KMPH (31-40 MPH) at the time of impact.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 6
+}

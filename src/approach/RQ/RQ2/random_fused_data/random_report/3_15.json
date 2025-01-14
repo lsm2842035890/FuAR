@@ -1,0 +1,93 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": 0,
+    "intersection": "no",
+    "T": "yes",
+    "laneCount": 6,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002229482",
+        "2005006445243",
+        "2005006589001"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway intersecting with another two lane undivided roadway with no grade and a posted speed limit of 48KMPH (30MPH). This crash occurred on a weekday evening.Vehicle #1, a 1993 Ford Taurus, was traveling on the two lane undivided roadway behind Vehicle #2, a 1996 Volkswagen Jetta, which was stopped at a red light. Vehicle #1 impacted with the rear of  Vehicle #2 with its front. Both vehicle came to rest in the intersection. Vehicle #2 was towed from the scene.The Ford Taurus (vehicle #1) was driven by a belted 19 year old male who was not injured. The driver stated Vehicle #2 had come to a stop and started to pull forward, but stopped again.",
+        "\tThe crash occurred in the early evening hours while still daylight at a T-intersection.  The main street was an east/west two-lane two-way roadway with no traffic control. The posted speed limit was 40 KMPH (25 MPH). The crossing street ran north/south and ended at the T-intersection.  The north/south roadway was a two-lane two-way roadway controlled by a stop sign. The east west roadway had a shoulder on either side, which diminished as it neared the intersection.  The roadway was divided by two solid yellow lines.  There were no adverse weather conditions that day and both roadways were dry.   \tV1, a 1998 Ford Taurus station wagon, was driven by a 20-year old female. V1 was traveling west on the east/west roadway. V2, a 1994 Pontiac Grand Am, was driven by a 24-year old female. V2 was traveling south on the north/south roadway. According to police and witness reports, the driver of V2 came to a complete stop at her stop sign, facing south.  The driver of V2 then entered the intersection and attempted to turn left to travel east on the east/west roadway.  As V2 entered the intersection, its left side was struck by the front right of V1. The momentum of V1 pushed V2 off of the roadway and down the east/west roadway traveling westbound, coming to rest approximately 51.6m from impact in the eastbound lanes.  V1 rolled off of the sidewalk and came to rest facing south in the middle of the two east/west lanes.\tThe Critical Pre-Crash Event for V1 was coded as \"other vehicle encroachment from crossing street, turning into opposite direction.\" The Critical Reason For the Critical Pre-Crash Event was not coded to V1, although excess speed was coded as an associated factor. A witness who had been traveling behind V1 reported that V1 was traveling at a high rate of speed prior to impact. The extent of damage to V2 and the post-impact trajectory of the vehicles supported the claim of excess speed, as the posted speed limit was 40 KMPH (25 MPH). All other information was unknown due to the lack of an interview with the driver of V1.",
+        "\tThis crash occurred in the evening, the weather that evening was clear with no adverse conditions, the roadway was dry.  It took place on a major highway.  The highway travels east/west.  It consists of six total travel lanes, three in each direction, divided by a physical median with a positive barrier.  The two vehicles contacted in the westbound lanes while coming off the on-ramp, the on-ramp was not a factor (they were both on the roadway at the bottom).  The on-ramp had a yield sign at the bottom where the roadway levels out.\tV2 was stopped at the bottom of the on-ramp waiting for traffic at the yield sign.  V1 was also trying to merge into traffic, but did not notice V2 stopped at the bottom of the ramp due to being distracted by traffic on the roadway, driver of V1 was trying to merge into.  After V1 contacted the rear of V2 with its' front they both came to rest in the merging traffic lane.\tThe operator of V1 states that he thought the operator of V2 had already merged into traffic. Driver of V1 was paying attention to the other traffic and never saw that V2 had not merged into traffic as he had thought.  V1 rear- ended V2 at the bottom of the ramp.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

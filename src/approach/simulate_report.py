@@ -1107,14 +1107,18 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
                 indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
                 choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
             # print(all_vehs_symbol)
-            while len(all_vehs_symbol[choosen_vehicle])==1:
-                print("choosen_vehicle stays still,so change anthor vehicle")
+            print(choosen_vehicle)
+            while len(all_vehs_symbol[choosen_vehicle])==1 or (len(all_vehs_symbol[choosen_vehicle])>1 and all_vehs_symbol[choosen_vehicle][1][0] == "retrograde"):
+                if len(all_vehs_symbol[choosen_vehicle])==1:
+                    print("choosen_vehicle stays still,so change anthor vehicle")
+                else:
+                    print("choosen_vehicle is retrograde,so change anthor vehicle")
                 indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
                 choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
-            while all_vehs_symbol[choosen_vehicle][1][0] == "retrograde":
-                print("choosen_vehicle is retrograde,so change anthor vehicle")
-                indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
-                choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
+            # while len(all_vehs_symbol[choosen_vehicle])>1 and all_vehs_symbol[choosen_vehicle][1][0] == "retrograde":
+            #     print("choosen_vehicle is retrograde,so change anthor vehicle")
+            #     indexx = random.randint(0,len(all_vehs_waypoints.keys())-1)
+            #     choosen_vehicle = list(all_vehs_waypoints.keys())[indexx]
         else:
             print("print your choosen vehicle")
             index = int(input())

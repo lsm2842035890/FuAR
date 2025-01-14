@@ -1,0 +1,97 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 30,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005002229303",
+        "2005003498081",
+        "2005003498181"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway, slightly curving to the right prior to the crash site, with no grade and a posted speed limit of  89 KMPH (55MPH). the weather was clear and the roadway was dry. This crash occurred on a weekday afternoon.Vehicle #2, a 1990 Ford Mustang, was traveling south on the two lane undivided roadway when it proceeded to pass a box truck (as per the driver of vehicle #1). It impacted with Vehicle #1 a 2000 Pontiac Grand Am, head on in the northbound lane. Vehicle #2 came to rest on the east shoulder facing south. Vehicle #1 came to rest on the east shoulder facing north.The Critical Precrash Event coded to Vehicle #2 was This Vehicle Traveling Over the Lane line on Left Side of Travel Lane. The Critical Reason for the Critical Precrash Event was coded as  Driver Related Factor, Inadequate Surveillance (e.g. failed to look, looked but did not see.) There is no evidence of any illegal drug use, however the Police Report for this crash could not be obtained.",
+        "This crash occurred in the right lane of the northbound lanes of an undivided roadway with two lanes in each direction.  The roadway was straight and level, and it was cloudy and raining.  The roadway was wet and had a posted speed limit of 48 kmph (30 mph). The crash occurred at a 4-way signalized intersection.  Vehicle #1 was a 1999 Toyota Camry that stopped for an emergency vehicle traveling westbound with the emergency lights on.  Vehicle #2 was a 2000 Nissan Sentra that was behind Vehicle #1 and could not stop in time.  Vehicle #2 rear-ended Vehicle #1.   The emergency vehicle was crossing over the intersection.A seventy-four year old male who did not sustain any injuries drove the Toyota Camry.  He stated that he saw the emergency vehicle trying to go through the intersection so he slowed down and came to a stop.  As he stopped, he was rear-ended by Vehicle #2. ",
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

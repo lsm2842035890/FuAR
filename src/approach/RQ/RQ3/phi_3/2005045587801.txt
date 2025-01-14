@@ -1,0 +1,28 @@
+
+
+- response: {
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "56kmph (35mph)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into"], ["turn left"], ["stop"]],
+            "direction": "east",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["drive into"], ["turn left"], ["drive off"]],
+            "direction": "west",
+            "laneNumber": 2
+        }
+    }
+}
+
+The crash occurred at the intersection of an east/west two-lane state

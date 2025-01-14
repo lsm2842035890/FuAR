@@ -1,0 +1,123 @@
+{
+    "weather": [
+        "rainy",
+        "cloudy"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 3,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498381",
+        "2005003498501",
+        "2005004112382",
+        "2005005289162"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a two-way roadway with one lane in both the north and south direction and an eastbound one-way roadway.  The roadway was straight and level and had a speed limit of 48 kmph (30 mph).  The road was wet and it was cloudy and raining.Vehicle # 1 was a 2002 Mitsubishi Montero that was traveling eastbound on the one-way roadway and stopped at the stop sign and proceeded through.  Vehicle # 2 was a 1998 Ford E-Series Van that was traveling southbound.  At the intersection, the front of Vehicle # 2 impacted the left side of Vehicle # 1.  A 25 year-old female drove the Mitsubishi Montero (Vehicle # 1) and she did not sustain any injuries.  The 15-month old passenger seated in the second-row center position also did not sustain any injuries.  The driver stated that she was stopped at the stop sign when the driver of Vehicle # 2 was speeding and impacted her vehicle on the left side.  Vehicle # 1 was towed due to damage.  ",
+        "The crash occurred in the intersection of two one-way roadways.  Both roadways had one lane of travel and were straight and level.  The speed limit was 48kmph (30mph) and it was clear with no adverse conditions.Vehicle # 1 was a 2005 Infiniti FX35 that was traveling southbound on a one-way roadway.  Vehicle # 2 was a 1993 Ford F-250 Pick-up truck that was traveling westbound on a one-way roadway, which was controlled by a stop sign.  At the intersection, the front of Vehicle # 1 impacted the right side of Vehicle # 2, and then the left side of Vehicle # 2 impacted the right side of Vehicle # 1.  Vehicle # 1 then departed the roadway on the left side and then impacted a fence and came to a final rest after impacting the side of the building.The Infiniti FX35 (Vehicle # 1) was driven by a 45 year-old male who did not sustain any injuries.  The driver of this vehicle declined to participate in the study.  Vehicle # 1 was towed due to damage.",
+        "     The crash occurred in the southbound lane of a three-lane roadway with a median controlled by a traffic control signal.  Conditions were daylight with rain in the afternoon on a weekday.  The posted speed limit was 80 KMPH (50 MPH) with a -2% downhill grade.     V1 was a 1990 Honda Civic sedan traveling southbound in the second travel lane approaching an intersection controlled by a traffic control signal.  V2, a 1999 Chevy Silverado pick-up, was stopped in traffic in the southbound lane in front of V1.  The front of V1 struck the back of V2 in the southbound lane.  Both vehicles came to final rest facing southbound.     V1 was driven by a 18-year-old female who was not injured.  She stated that she was talking to her friend and did not realize how close she was to V2.  She then braked and swerved right but struck V2 in the rear.  V1 was traveling between 50 and 64 KMPH (31 and 40 MPH) at the time of impact.  V1 was towed due to damage.",
+        "This two-vehicle crash occurred on a two-way, three-lane, not physically divided roadway.  The posted speed limit was 72kph (45mph).  There were no atmospheric conditions at the time of the incident and the roadway was dry.  Vehicle one (V1) was exiting a parking lot, which had a gradient of +2.  Vehicle two (V2) was going straight on a level roadway, passing the parking lot from where V1 was exiting.  There were no traffic control devices present at the location of this crash.    V1 a 1996 Jeep Grand Cherokee was attempting to make a left onto the westbound roadway from a parking lot from a convenience store.  V2 a 1992 Chevy Cavalier was traveling east on the main roadway at approximately 64kph (40mph).  The front left of V2 made contact with the left rear of V1.  The impact caused V1 to spin counter clockwise before coming to final rest in the westbound lane.  V2 continued further ahead before coming to rest in between lanes one and two of the roadway.   Vehicle two was removed from the scene due to moderate damage, whereas vehicle one suffered minor damage and was removed by the owner.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane",
+                    1
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

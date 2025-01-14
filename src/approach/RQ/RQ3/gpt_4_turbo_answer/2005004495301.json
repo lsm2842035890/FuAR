@@ -1,0 +1,44 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "25MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005004495301",
+    "description": "The crash occurred in the eastbound lane of a two-lane intersection controlled by a stop\n                        sign. Conditions were daylight and dry in the morning on a weekday. The eastbound lane had a\n                        posted speed limit of 40 kmph (25 mph) with a stop sign; the southbound lane had a speed limit\n                        of 56 kmph (35 mph).\n\n\n                        V1 was 1999 Pontiac Montana Minivan, which was traveling southbound in the right lane\n                        approaching an intersection. V2, a 1991 Ford Tempo sedan, was traveling eastbound in the right\n                        lane approaching the intersection with a stop sign. V2 stopped at the stop sign and then\n                        proceeded through the intersection. V1's front struck the left side of V2 in the eastbound lane.\n                        V1 came to final rest facing eastbound and V2 came to final rest facing northbound.\n\n\n                        V1 was driven by a 40-year-old female who was not injured. She stated that she was going\n                        straight, saw V2 stopped at the sign, and then saw V2 accelerate into her path. The driver of V1\n                        didn't understand why V2 decided to accelerate. The driver of V1 braked but could not\n                        successfully avoid V2. V1 was traveling between 17-32 kmph (11-20 mph) at the time of impact. V1\n                        was driven from the scene. The driver of V1 did not want me to take any pictures of the vehicle.\n\n\n                        The Critical Pre-crash Event for V1 was when the V2 encroached into V1's lane from the crossing\n                        street, across path. The Critical Reason for the Critical Pre-crash Event was not coded to V1.\n                        The driver of V1 was conversing with the occupants but denied that this contributed to the\n                        crash.\n\n\n                        V2 was driven by a 62-year-old male who was not injured. She stated that she stopped at the stop\n                        sign, looked in both directions, and then proceeded through the intersection and was struck on\n                        the left side by V1. The driver of V2 did not see V1. V2 was traveling less than 16 kmph (10\n                        mph) at the time of impact. V2 was towed due to damage.\n\n\n                        The Critical Pre-crash Event for V2 was This Vehicle Traveling - Passing through the\n                        Intersection. The Critical Reason for the Critical Pre-crash Event was Inadequate Surveillance -\n                        looked but did not see. An associative factor was environment related - the driver's view was\n                        obstructed by other parked vehicles. Contributory factors coded to this driver were the driver\n                        being fatigued, the driver taking medication for a pre-existing health condition, and sight line\n                        restrictions - roadside parking obstructed the view. V2 also failed to stop for a traffic\n                        control device."
+}

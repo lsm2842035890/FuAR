@@ -1,0 +1,71 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002229483",
+        "2005002585744"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.Vehicle #1, a 1988 Ford Mustang, was traveling westbound on the two lane undivided roadway when it observed Vehicle #2, a 1985 Kawasaki motorcycle, in its westbound lane traveling east.  Vehicle #1 crossed over the left lane line into the eastbound lane. The motorcycle returned to its original eastbound lane whereupon Vehicle #1 impacted with Vehicle #2 with its front. Vehicle #1 came to rest in the eastbound land facing west Vehicle #2 was knocked backwards 33meters coming to rest on its side, in the center of the roadway, facing eastward.This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.",
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The weather was clear, the roadway dry and it was daylight at the time of the crash.     Vehicle 1, a 1996 Honda Civic, was traveling east on the roadway behind Vehicle 2, a 2002 GMC Envoy.  Vehicle 2 observes a non-contact vehicle in front of it slowing to make a left into a driveway.  Vehicle 2 decelerates and is struck in the rear by the front of Vehicle 1.  Vehicle 2 is pushed forward and drives off the road to the right coming to rest facing east off the south shoulder.  V1 came to rest facing east off the south shoulder.Vehicle 1 was towed due to damage and Vehicle 2 was driven from the scene.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

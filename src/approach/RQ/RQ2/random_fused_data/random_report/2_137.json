@@ -1,0 +1,77 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585683",
+        "2005003498482"
+    ],
+    "description": [
+        "     The crash occurred on a level four lane undivided roadway at a four-leg intersection controlled by a traffic signal.  The posted speed limit was 35 MPH (56 KPH). The roadway for Vehicle #2 was slightly curved to the right with a radius of curvature of 1,125 meters. The weather was clear, the roadway dry and it was daylight at the time of this afternoon weekday crash.     Vehicle #1, a 1991 Dodge Dynasty, was traveling north in the second straight/left turn lane approaching the intersection.  Vehicle #2, a 1992 Mazda 626, was traveling south in the right hand lane approaching the same intersection. Both vehicles had a green light. Vehicle #1 stopped waiting for traffic to clear prior to making the left hand turn.  Vehicle #1 proceeded to make the left turn and struck Vehicle #2 in its front with front.  Vehicle #1 drove off the road into a driveway.  Vehicle #2 continued a short distance and came to rest facing in a southerly direction in its original lane.  Vehicle #2 was towed due to damage.  Police did not consider either alcohol or drugs to be involved and ordered no tests.     The Dodge Dynasty (Vehicle #1) was driven by a belted 71 year old female who had a bruise to her right forearm from the deployed airbag, but refused treatment.  She stated that she was on an errand for her grandson at her anticipated destination.  She stated that she had stopped waiting for traffic to clear before making the left, thought she had a green light at the time as she made the turn.  As she proceeded to make the turn, she indicated that she saw the other vehicle \"out of the corner of her eye\" at the last second, but the other vehicle was \"right there\" and she was unable to avoid the crash. She also stated that she had just accelerated from a stop and was traveling no more than 5-10 MPH.  She indicated that the other vehicle was traveling pretty fast and that she never saw her until she was right there.",
+        "The crash occurred in the intersection of a southbound one-way and a westbound one-way roadway.   The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway condition was dry.Vehicle # 1 was a 1998 Ford Windstar that was traveling southbound on the right turn lane making a right turn when the front of Vehicle # 1 impacted the right side of Vehicle # 2, a Ford E-Series Van that was traveling on the same roadway and attempting to make a right turn from the left lane.The Ford Windstar (Vehicle # 1) was driven by a 64 year-old male who did not sustain any injuries.  The driver stated that he was making a right turn when the right side of Vehicle # 2 impacted the front of his vehicle.  The Ford Windstar was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 4
+}

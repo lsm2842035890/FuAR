@@ -1,0 +1,66 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005004495301",
+        "2005003498282"
+    ],
+    "description": [
+        "The crash occurred in the eastbound lane of a two-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The eastbound lane had a posted speed limit of 40 kmph (25 mph) with a stop sign; the southbound lane had a speed limit of 56 kmph (35 mph).V1 was 1999 Pontiac Montana Minivan, which was traveling southbound in the right lane approaching an intersection.  V2, a 1991 Ford Tempo sedan, was traveling eastbound in the right lane approaching the intersection with a stop sign.  V2 stopped at the stop sign and then proceeded through the intersection.  V1's front struck the left side of V2 in the eastbound lane.  V1 came to final rest facing eastbound and V2 came to final rest facing northbound.V1 was driven by a 40-year-old female who was not injured.  She stated that she was going straight, saw V2 stopped at the sign, and then saw V2 accelerate into her path.  The driver of V1 didn't understand why V2 decided to accelerate.  The driver of V1 braked but could not successfully avoid V2.  V1 was traveling between 17-32 kmph (11-20 mph) at the time of impact.  V1 was driven from the scene.  The driver of V1 did not want me to take any pictures of the vehicle.",
+        "The crash occurred in the intersection of a two-way north/south road with two lanes in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was daylight and clear with no adverse conditions.  The crash occurred in the morning hours on a weekday.Vehicle #1 was a 2004 Acura MDX that was traveling southbound in the right lane.  Vehicle #2 was 1995 Dodge Neon that was traveling westbound. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2.    The Acura MDX (Vehicle #1) was driven by a 29-year old female who did not sustain any injuries.  She stated that she had come to a rolling stop at a red light and then when her light turned green, she accelerated into the intersection. She stated that Vehicle #2 came from nowhere.  The Acura was not towed."
+    ]
+}

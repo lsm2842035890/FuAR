@@ -1,0 +1,26 @@
+
+
+
+- [response]: {
+    "weather": ["clear"],
+    "lighting": ["daylight"],
+    "speedlimit": "48 KPH (30 MPH)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into", 2], ["turn left", 2], ["turn left", 3], ["drive off", 0]],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["go across", 2]],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    }

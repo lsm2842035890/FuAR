@@ -1,0 +1,98 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 3,
+    "ID": [
+        "2005003498523",
+        "2005008450282",
+        "2005076197801"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "\tThis crash occurred on a dry 2 lane loose dirt-gravel roadway on a weekday night.  The speed limit was 40kmph (25mph) and there was a grade of 8.2%.  The roadway was curved at the point of impact with a hillside obscuring the view of the two drivers.\tVehicle 1 was negotiating and uphill right hand curve.  Vehicle 2 was proceeding opposite vehicle1 and negotiating a downhill left hand curve.  The driver of Vehicle 1 pulled over and stopped the driver of Vehicle 2 crossed over and stuck Vehicle 1's left front with V2's left front.  \tVehicle 1 was a 1993 Cadillac Seville driven by a 45 year old male.  The driver states he was going around the bend when he saw another car coming the opposite way, he stopped and the other car hit him in the door.",
+        "This is a two-vehicle crash occurred in a rural area at a \"T\" type intersection.  The east and westbound 2-lane asphalt roadway is straight, level and is the through street.  The north and southbound 2-lane asphalt roadway is straight, level and is controlled by a stop sign where it dead-ends at the through street.  The speed limit for the through street is 72 kmph (45 mph). The crash occurred during daylight with no adverse weather or road conditions.Vehicle one (V1), a 2000 GMC Jimmy was southbound turning left (east) following a non-contact vehicle that had turned left at the intersection.  Vehicle two (V2), a 2002 Oldsmobile Alero was westbound when its front bumper plane contacted the left side plane of V1.  V1 rolled to rest on the dirt shoulder of the through street facing east.  V2 rotated counter-clockwise and came to rest in the eastbound lane facing south.  Both vehicles were towed due to damage.The driver of V1, a seventeen-year old female was heading from her aunts home back to her house.  This driver was in a hurry as she needed to get home, get some clothes and go back to school for pictures.  This driver had been driving for about fifteen minutes at the time of the crash.  This driver stated that she was on an unknown medication for acne, but the medical records did not indicate any medications.  This driver stated that she stopped behind a non-contact vehicle.  This driver stated that she looked both ways but did not see V2.  She was eating while driving and had been thinking about a future event. This driver drives this vehicle daily and over this road on a weekly basis."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

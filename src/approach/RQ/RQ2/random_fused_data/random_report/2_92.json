@@ -1,0 +1,72 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005003498503",
+        "2005074596001"
+    ],
+    "description": [
+        "This crash occurred in the early afternoon of a weekend in the intersection of a northbound one-way roadway and a two-way east and west roadway.  All roadways were straight and level and had a speed limit of 48kmph (30mph).  The northbound entrance into the intersection was controlled by a stop sign.  It was daylight and clear with no adverse conditions.V1, a 1998 Mercedes-Benz ML320, was traveling westbound approaching the intersection.  V2, a 1999 Chevrolet Lumina, was traveling northbound and stopped at the stop sign.  As V2 proceeded into the intersection, its front impacted the left side of V1.  V1 than yawed counterclockwise and the right-rear wheel impacted the curb.  The right side of V1 then impacted a breakaway light-pole and rolled over one quarter turn before coming to final rest on its right side.V1 was driven by a 35 year-old male who sustained minor injuries and was transported to a medical facility.   A complete interview could not be obtained, but the driver stated that he was going straight when he was impacted by V2, who did not stop at the stop sign.  The Mercedes-Benz was towed due to damage.",
+        "This two vehicle crash occurred during evening hours at a T-intersection with the east/west roadway controlled by a stop sign. The road surface dry,level concrete with overhead lighting. The posted speed limit 64 kmph (40 mph). Vehicle one (V1), a 1984 Buick Park Avenue sedan driven by a 31 year-old female with three passengers, was traveling northbound in lane one. Vehicle two (V2), a 1991 Jeep Cherokee driven by a 17 year-old male, was  traveling south in lane 2 of a 4 lane undivided concrete roadway with a negative grade.   The driver of V2 was traveling the speed limit until the driver decided to turn around and go back the other direction.  The driver of V2 saw a street to turn into, slowed down and turned left.  At this time V2 impacted the front of V 1 with it's front bumper.  V2 rotated counter clockwise and struck the left side of V1 with it's right front tire.  V2 came to final rest  facing northwest in the middle of the intersection.  V1 was traveling north in  lane 1 of a 4 lane undivided concrete roadway with a positive grade.  The driver of V1  was talking to the passengers in the vehicle at the time of the crash.  The driver saw V2 approach the intersection and assumed that the vehicle would stop and wait until traffic had cleared before turning.  After the initial impact V1 rotated counter clockwise and struck the right front tire of V2.  V1 came to final rest facing northwest in the middle of the street.   All occupants were transported to a local medical facility. Both vehicles were towed due to damage.  The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line.  The critical reason was not coded to this vehicle."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 4
+}

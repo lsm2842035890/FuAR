@@ -1,0 +1,42 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005004112182",
+    "description": "The crash occurred in the northbound lane of a two-lane, T-intersection roadway. Conditions\n                        were daylight and dry at 8:58 am on a Monday afternoon. The roadway had a posted speed of 40 MPH\n                        and was level. There was a road department truck in the center of the double-yellow line\n                        approximately 100-150 feet north from point of impact.\n\n\n                        V1 was a 1994 Dodge 350 Ram Van going straight in the northbound lane. V2 was a 1992 Toyota\n                        Camry sedan traveling south in the southbound lane. V2 made a left turn in front of V1 and the\n                        front of V2 struck the left side of V1 in the northbound lane. The impact rotated V2 180 degrees\n                        and came to final rest in the northbound lane. V1 came to final rest against the apex of the\n                        northeast curb.\n\n\n                        V1 was driven by a 55-year-old female who was transported to a local hospital with minor\n                        injuries. She had stated that she was going straight, about 40 MPH, and saw V2 turn into her\n                        direction. She immediately braked. V1 was towed due to damage and had a CDC of 10LYEW1.\n\n\n                        The critical pre-crash event for V1 was when V2 encroached into her lane from the opposite\n                        direction, over the left lane line. The critical reason for the critical event was not coded to\n                        this vehicle. The driver of V1 was not thought to have contributed to the crash. The van also\n                        had two other occupants, both refusing medical attention.\n\n\n                        V1 was driven by an 89-year-old male who was not injured. He had stated that he was going\n                        straight and saw the road department truck and was distracted by them. Soon after, he made a\n                        left turn and struck V1. He was traveling less than 5 MPH at the time of impact. V2 was towed\n                        due to damage and had a CDC of 12FDEW1.\n\n\n                        The critical precrash event for V2 was when V2 was turning left. The critical reason for the\n                        critical event was when V2 had inadequate surveillance (looked but did not see). The driver of\n                        V2 is currently taking four medications (Coamadin, Procardia, Rynotan & Phyllocontin) each\n                        day for high blood pressure and chest decongestion. He was wearing his prescription glasses that\n                        corrected a farsighted condition. He was also wearing his hearing aid in his right ear. The\n                        driver of V2 was not thought to have contributed to the crash."
+}

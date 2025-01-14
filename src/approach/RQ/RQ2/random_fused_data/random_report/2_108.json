@@ -1,0 +1,72 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 1,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 3,
+    "ID": [
+        "2005003498501",
+        "2005006589001"
+    ],
+    "description": [
+        "The crash occurred in the intersection of two one-way roadways.  Both roadways had one lane of travel and were straight and level.  The speed limit was 48kmph (30mph) and it was clear with no adverse conditions.Vehicle # 1 was a 2005 Infiniti FX35 that was traveling southbound on a one-way roadway.  Vehicle # 2 was a 1993 Ford F-250 Pick-up truck that was traveling westbound on a one-way roadway, which was controlled by a stop sign.  At the intersection, the front of Vehicle # 1 impacted the right side of Vehicle # 2, and then the left side of Vehicle # 2 impacted the right side of Vehicle # 1.  Vehicle # 1 then departed the roadway on the left side and then impacted a fence and came to a final rest after impacting the side of the building.The Infiniti FX35 (Vehicle # 1) was driven by a 45 year-old male who did not sustain any injuries.  The driver of this vehicle declined to participate in the study.  Vehicle # 1 was towed due to damage.",
+        "\tThis crash occurred in the evening, the weather that evening was clear with no adverse conditions, the roadway was dry.  It took place on a major highway.  The highway travels east/west.  It consists of six total travel lanes, three in each direction, divided by a physical median with a positive barrier.  The two vehicles contacted in the westbound lanes while coming off the on-ramp, the on-ramp was not a factor (they were both on the roadway at the bottom).  The on-ramp had a yield sign at the bottom where the roadway levels out.\tV2 was stopped at the bottom of the on-ramp waiting for traffic at the yield sign.  V1 was also trying to merge into traffic, but did not notice V2 stopped at the bottom of the ramp due to being distracted by traffic on the roadway, driver of V1 was trying to merge into.  After V1 contacted the rear of V2 with its' front they both came to rest in the merging traffic lane.\tThe operator of V1 states that he thought the operator of V2 had already merged into traffic. Driver of V1 was paying attention to the other traffic and never saw that V2 had not merged into traffic as he had thought.  V1 rear- ended V2 at the bottom of the ramp.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

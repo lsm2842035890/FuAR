@@ -1,0 +1,60 @@
+{
+    "weather": [
+        "rainy",
+        "unknown"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005005447062",
+        "2005002229483"
+    ],
+    "description": [
+        "The crash occurred on a two-way, two-lane, not physically divided roadway.  It was mid-morning and heavy rain was present.  The gradient for both roadways of vehicle 1 and vehicle 2 travel were level.  The posted speed limit on the roadway was 64 kmph (40mph).V1, a 1999 Pontiac Sunfire operated by a 18-year-old male, was traveling westbound.  V2, a 2003 Hyundai Elantra operated by a 24-year-old male, was traveling eastbound.  V1 crossed the centerline, entered the eastbound lane, and impacted V2 head-on.  The impact caused V1 to rotate counterclockwise; V1 came to final rest in the westbound lane facing south.  The driver of V2 was initially traveling straight and then attempted to avoid the collision by steering the vehicle to the right.  V2 rotated clockwise before coming to final rest between a mailbox and telephone pole.  Both vehicles were towed from the scene. The driver of V1 was transported by EMS to a local hospital.  After obtaining the interview from the driver of V1, it is likely that work and sleep patterns contributed to this crash. The driver was traveling home after working the graveyard shift.  ",
+        "This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.Vehicle #1, a 1988 Ford Mustang, was traveling westbound on the two lane undivided roadway when it observed Vehicle #2, a 1985 Kawasaki motorcycle, in its westbound lane traveling east.  Vehicle #1 crossed over the left lane line into the eastbound lane. The motorcycle returned to its original eastbound lane whereupon Vehicle #1 impacted with Vehicle #2 with its front. Vehicle #1 came to rest in the eastbound land facing west Vehicle #2 was knocked backwards 33meters coming to rest on its side, in the center of the roadway, facing eastward.This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon."
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": 30,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005003498081",
+        "2005005447482"
+    ],
+    "description": [
+        "This crash occurred in the right lane of the northbound lanes of an undivided roadway with two lanes in each direction.  The roadway was straight and level, and it was cloudy and raining.  The roadway was wet and had a posted speed limit of 48 kmph (30 mph). The crash occurred at a 4-way signalized intersection.  Vehicle #1 was a 1999 Toyota Camry that stopped for an emergency vehicle traveling westbound with the emergency lights on.  Vehicle #2 was a 2000 Nissan Sentra that was behind Vehicle #1 and could not stop in time.  Vehicle #2 rear-ended Vehicle #1.   The emergency vehicle was crossing over the intersection.A seventy-four year old male who did not sustain any injuries drove the Toyota Camry.  He stated that he saw the emergency vehicle trying to go through the intersection so he slowed down and came to a stop.  As he stopped, he was rear-ended by Vehicle #2. ",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device for this 'T' intersection. The conditions were as follows: late evening, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were both on a -2% roadway. The posted speed limit for vehicle one (V1) and vehicle two (V2) was 72 kph (45 mph). V1 was a 2005 Toyota Tundra, traveling southbound. V1 struck V2 in the center part of V2's rear bumper. The driver side airbags for V1 inflated, and the driver was wearing his seatbelt. The impact caused V1 to push V2 further down the roadway. V1 and V2 came to final rest in the roadway. V1 was towed due to damage. V2 was able to be driven from the scene. The Critical Precrash Event for V1 was coded as other motor vehicle in lane and was stopped. The Critical Reason for the Critical Precrash Event is internal distraction - a driver error. In the PAR the driver stated that items in the front seat area started to fall. He took his eyes off the road to look at the items and when he looked back it was too late to stop. After numerous attempts to try and attain an interview, they were unsuccessful."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

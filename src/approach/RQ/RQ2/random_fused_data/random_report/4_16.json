@@ -1,0 +1,125 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585502",
+        "2005003588341",
+        "2005048103001",
+        "2005048103261"
+    ],
+    "description": [
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 89 KMPH (55 MPH).  The roadway was curved with a radius of curvature of 563 meters and a superelevation of 2.8%.  The weather was clear, the roadway dry and it was daylight at the time of this afternoon weekday crash.     Vehicle #1, a 1992 Toyota 4-Runner, was traveling south on the two-lane roadway negotiating the curve to the right.  Vehicle #2, a 2005 Freightliner School Bus, was traveling north on the same roadway negotiating the curve to the left.  Vehicle #1 crossed the centerline into the northbound lane.  Vehicle #2 attempted to steer right onto the paved shoulder to avoid the collision.  Vehicle #1 continued across the northbound lane onto the paved shoulder and struck Vehicle #2's front with its front.  Vehicle #1 came to rest facing in a southeasterly direction on the east shoulder and Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage.     The Toyota 4-Runner (Vehicle #1) was driven by a belted 27 year old male who received minor bruises, but refused medical treatment.  He stated that as he was negotiating the curve at approximately 64-72 KMPH (40-45 MPH), when his truck pulled to the left and he thought it might have been a wind gust.  He attempted to steer back into his lane, but the steering wheel would not turn.  He was unable to return to his lane and continued to drift into the opposing lane.  He observed the bus coming toward him, but was only able to brake in an attempt to avoid the collision.  The truck left approximately 17 meters of pre-impact skids.  The police issued him a citation for failure to keep right.  He stated that he took no medications and did not wear corrective lenses.  He indicated that he had gotten off work early and was not in a hurry. ",
+        "The crash occurred in the southbound lanes of a two-way roadway that was divided by a raised curb median with two lanes in each direction.  The roadway was straight and level and had a posted speed of 48 kmph (30 mph).  The weather was clear with no adverse conditions.  It was the evening hours of a weekday and it was dark out but the roadway was lighted. The crash occurred at a signalized intersection with an east/west roadway.Vehicle #1 was a 2001 Mitsubishi Mirage that was traveling southbound in the right lane.  Vehicle #2 was a 1995 Ford Probe that was traveling northbound in the left lane and attempting to make a left turn.  At the intersection, the front of Vehicle #1 impacted the right front side of Vehicle #2, and then Vehicle #2 impacted a chain-link fence that was located on the southwest corner of the intersection.The Mitsubishi Mirage (Vehicle #1) was driven by a 40-year old female who was transported to a local medical facility with incapacitating injuries.  A 21-year old female sustained minor injuries and a 12-year old male in her vehicle sustained non-incapacitating injuries and were both transported to a local medical facility.  Vehicle #1 was going straight through the intersection when Vehicle #2 turned in front of it.  The Mirage was towed due to damage.",
+        "This two-vehicle intersection related crash occurred in the morning daylight hours on a two-lane, undivided, two-way, bituminous roadway that intersects at a \"T\" intersection with a two-way two-lane road to the south.  The roadway was wet because it had just started to rain.  The primary roadway runs east/west with one lane in each direction and is slightly curved.  There are no traffic controls for the east/west roadway and a stop sign is posted for the intersecting northbound travel direction.  The posted speed limit on the east/west roadway was 72 kmph (45 mph).Vehicle one (V1) was a 1997 Infinity Q45 that was traveling west and negotiating a curve to the right.  The driver of V1 intended to make a left turn at the intersection.  The driver of V1 stated that as he approached the intersection, his vision shrank to tunnel vision and he blacked out.  V1 crossed the double yellow lane line and its front contacted the front of vehicle two (V2).  V2 was a 2005 Lexus ES330 that was traveling east negotiating the curve to the left.  Post impact V1 rotated clockwise and departed the north side of the roadway and the front of V1 impacted an embankment where it came to rest.  After the first impact V2 deflected to the right and departed the south side of the roadway and came to rest facing east on the upslope of an embankment. Both vehicles were towed due to damage.The driver of V1, and sole occupant, was a 51 year old male.  He had been awake for four hours after adequate sleep. He performed strenuous recreational activities of playing tennis for three hours prior to this trip and takes the medication Mavik for high blood pressure.  He blacked out while driving his vehicle.  Medical records indicated that low blood sugar may have been why the driver blacked out even though he had not been diagnosed as being diabetic.  The driver was very familiar with the vehicle and the roadway.",
+        "This two-vehicle crash occurred at just before midnight at the \"T\" intersection of a two-lane, two-way dry, level, bituminous north/south roadway and a two-lane, two-way, dry, uphill, bituminous roadway that intersects the north/south roadway from the west.  The roadway curves to the right slightly for westbound traffic.  The intersection was controlled by a stop sign for westbound traffic.  The roadway intersects the northbound roadway at a 50-degree angle.  It was dark but lit at the time of the crash and there were no adverse atmospheric conditions.  The posted speed limit for the north/south roadway was 89 kmph (55 mph) and the westbound roadway was 56 kmph (35 mph).Vehicle one (V1), a 2000 Chrysler Cirrus was traveling westbound approaching the intersection.  Vehicle two (V2), a 2002 Ford Explorer was traveling northbound and pulling a trailer loaded with musical equipment.  V1 entered the intersection attempting to turn left while V2 passed through the intersection going straight.  The front of V2 contacted the left side of V1.  V1 deflected to the right and came to rest off of the roadway facing southwest.  V2 rotated counterclockwise and came to rest on the roadway facing south.  While V2 was rotating towards final rest, its trailer contacted the left rear of V2. The driver of V1 was a 19-year old female who maintains a regular sleep schedule of 7 hours of sleep per evening and a normal work schedule of 35 hours per week.  She was fatigued at the time of the crash.  She was familiar with the vehicle and has over 4 years of driving experience.  This was however, her first time on this particular roadway.  The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

@@ -1,0 +1,71 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498501",
+        "2005004112901"
+    ],
+    "description": [
+        "The crash occurred in the intersection of two one-way roadways.  Both roadways had one lane of travel and were straight and level.  The speed limit was 48kmph (30mph) and it was clear with no adverse conditions.Vehicle # 1 was a 2005 Infiniti FX35 that was traveling southbound on a one-way roadway.  Vehicle # 2 was a 1993 Ford F-250 Pick-up truck that was traveling westbound on a one-way roadway, which was controlled by a stop sign.  At the intersection, the front of Vehicle # 1 impacted the right side of Vehicle # 2, and then the left side of Vehicle # 2 impacted the right side of Vehicle # 1.  Vehicle # 1 then departed the roadway on the left side and then impacted a fence and came to a final rest after impacting the side of the building.The Infiniti FX35 (Vehicle # 1) was driven by a 45 year-old male who did not sustain any injuries.  The driver of this vehicle declined to participate in the study.  Vehicle # 1 was towed due to damage.",
+        "     The crash occurred in the northbound lane of a four-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The northbound lane had a posted speed limit of 80 kmph (50 mph) and a 2% uphill grade. The westbound lane had a posted sped limit of 56 kmph (35 mph).     V1 was a 2003 Toyota Camry sedan stopped westbound at the stop sign in the first travel lane.  V2, a 2003 Nissan 350Z coupe, was traveling northbound in the second travel lane intending on going straight.  V1 was waved into the intersection by an unknown vehicle stopped in the 1st travel lane facing northbound.  V1 proceeded thru the intersection and the front of V2 struck the left side of V1 in the 2nd travel lane of the northbound roadway.  The driver of V1 lost consciousness and his vehicle traveled southbound hitting a curb and several signs traveling approximately 115 meters.  V1 came to final rest against a pole facing westbound.  V2 came to final rest facing westbound.     V1 was driven by a 57-year-old male who sustained moderate injuries and was transported to a local hospital.  He stated that he was stopped at the stop sign when an unknown vehicle waved him into the intersection.  The driver of V1 did not see V2.  The driver of V1 was traveling between 18 and 32 kmph (11 and 20 mph) at the time of impact.  V1 was towed due to damage.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 4
+}

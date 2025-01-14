@@ -1,0 +1,27 @@
+
+
+
+- [Response]: {
+    "weather": [],
+    "lighting": ["cloudy"],
+    "speedlimit": "72KMPH (45MPH)",
+    "intersection": "unknown",
+    "T": "unknown",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into", 2], ["turn left", 2], ["drive off", 0]],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["go across", 3], ["turn left", 3]],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    }
+}

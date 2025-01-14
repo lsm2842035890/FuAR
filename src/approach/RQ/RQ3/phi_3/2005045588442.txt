@@ -1,0 +1,36 @@
+
+
+
+- [response]: {
+    "weather": [],
+    "lighting": ["daylight"],
+    "speedlimit": "unknown",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                ["drive into"],
+                ["turn left", 2],
+                ["stop"]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                ["go across"]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    }
+}
+
+
+The crash occurred at a T-intersection

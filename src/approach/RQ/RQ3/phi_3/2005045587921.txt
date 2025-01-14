@@ -1,0 +1,23 @@
+
+
+
+- response: ```json
+{
+    "weather": [],
+    "lighting": ["daylight"],
+    "speedlimit": "72kmph (45mph)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into intersection", 2], ["drive into intersection", 2], ["turn left", 2], ["turn left", 2], ["change lane", 3], ["drive off", 0]],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["go across", 2], ["turn left", 2

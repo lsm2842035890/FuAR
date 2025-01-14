@@ -1,0 +1,25 @@
+
+ {
+     "weather" : ["cloudy"],
+     "lighting": ["dark"],
+     "speedlimit": "89 KMPH",
+     "intersection" : "yes",
+     "T" : "no",
+     "carCount" : 2,
+     "laneCount" : 4,
+     "striker" : "V2 ",
+     "At-Fault-Vehicle" : "V1 ",
+     "impactPart": 2,
+     "carInformation" : {
+         "V1 " : {
+             "behaviors" : [["turn left",  2 ]],
+             "direction" : "west",
+             "laneNumber" : 2
+         },
+         "V2 " : {
+             "behaviors" : [["go across"]],
+             "direction" : "east",
+             "laneNumber" : 2
+         }
+     }
+ }

@@ -1,0 +1,89 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 3,
+    "ID": [
+        "2005003498523",
+        "2005006445022",
+        "2005074596001"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "\tThis crash occurred in the evening with no adverse weather conditions, and the roadway was dry.  It took place on a two-lane undivided roadway that ran east/west.  V2, a 2000 Dodge Stratus, was stopped at the traffic control device (a tri-color light without pedestrian crossing signs).  V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2 from behind.  For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a 43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained from either driver.               The Critical Precrash Event for the driver of V1 was coded as: \"Other motor vehicle in lane, other vehicle stopped.\"  The Critical Reason was coded as \"Type of driver error unknown,\" due to the lack of an interview. An associated factor was alcohol use - the police report indicates that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for alcohol testing. The results of that testing were not made available.",
+        "This two vehicle crash occurred during evening hours at a T-intersection with the east/west roadway controlled by a stop sign. The road surface dry,level concrete with overhead lighting. The posted speed limit 64 kmph (40 mph). Vehicle one (V1), a 1984 Buick Park Avenue sedan driven by a 31 year-old female with three passengers, was traveling northbound in lane one. Vehicle two (V2), a 1991 Jeep Cherokee driven by a 17 year-old male, was  traveling south in lane 2 of a 4 lane undivided concrete roadway with a negative grade.   The driver of V2 was traveling the speed limit until the driver decided to turn around and go back the other direction.  The driver of V2 saw a street to turn into, slowed down and turned left.  At this time V2 impacted the front of V 1 with it's front bumper.  V2 rotated counter clockwise and struck the left side of V1 with it's right front tire.  V2 came to final rest  facing northwest in the middle of the intersection.  V1 was traveling north in  lane 1 of a 4 lane undivided concrete roadway with a positive grade.  The driver of V1  was talking to the passengers in the vehicle at the time of the crash.  The driver saw V2 approach the intersection and assumed that the vehicle would stop and wait until traffic had cleared before turning.  After the initial impact V1 rotated counter clockwise and struck the right front tire of V2.  V1 came to final rest facing northwest in the middle of the street.   All occupants were transported to a local medical facility. Both vehicles were towed due to damage.  The critical pre-crash event for V1 was coded: other vehicle encroachment; from opposite direction, over left lane line.  The critical reason was not coded to this vehicle."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 6
+}

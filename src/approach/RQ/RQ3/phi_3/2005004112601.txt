@@ -1,0 +1,29 @@
+
+
+
+- [response]: {
+    "weather": [],
+    "lighting": ["daylight and dry"],
+    "speedlimit": {
+        "V1": "64 kmph (40 mph)",
+        "V2": "72 kmph (45 mph)"
+    },
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                ["follow lane", 3],
+                ["turn left", 3],
+                ["drive off", 0]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        },
+        "V2": {
+            "behaviors": [

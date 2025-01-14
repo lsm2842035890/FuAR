@@ -1,0 +1,140 @@
+{
+    "weather": [
+        "rainy",
+        "foggy",
+        "cloudy"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "48KMPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498401",
+        "2005003588101",
+        "2005003588341",
+        "2005004112021",
+        "2005072709641"
+    ],
+    "description": [
+        "The crash occurred on the eastbound lane of a two-way road with one lane in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions. There were no traffic control devices and the speed limit was 48kmph (30mph).Vehicle # 1 was a 2004 Mercury Sable that was traveling westbound.  The driver veered into the eastbound lanes and the front of Vehicle # 1 impacted the left side of a legally parked and unoccupied Ford E-Series Van. Vehicle # 1 came to a final rest when it impacted a fence on the sidewalk. The Mercury Sable (Vehicle # 1) was driven by a 55 year-old female who sustained minor injuries and was transported to a local hospital.  The occupant in the front-center seating position did not sustain any injuries but was also transported to a local hospital.  The driver stated that she attempted to stop when she stepped on the accelerator instead of the brake pedal.  The Mercury Sable was towed due to damage and the driver declined to participate in the study.  ",
+        "This crash occurred in the southbound lanes of a two-way roadway with two lanes in each direction.  The roadway was straight with a downhill grade of -2/61.  It was daylight and clear with no adverse conditions.  The speed limit for the roadway was 48kmph (30mph).  On the right of the southbound lanes was a gas station and a carwash. Vehicle # 1 was a 1996 Mitsubishi 3000GT, that was traveling southbound on the right lane.  Vehicle # 2 was a 1996 Ford Windstar that was traveling northbound on the left lane and attempting to turn left into the Gas Station.  Due to a sightline restriction from a non-contact vehicle, the front of Vehicle # 1 contacted the right-front wheel of Vehicle # 2.  The Mitsubishi 3000GT was driven by a 40-year old male who did not sustain any injuries.  He stated that he was traveling approximately 25 mph when a mini-van traveling northbound attempted to make a left-turn.  The driver stated that he tried to brake but it was too late because his sightline was restricted by another vehicle on the left-lane.  The Mitsubishi 3000GT was not towed due to damage. ",
+        "The crash occurred in the southbound lanes of a two-way roadway that was divided by a raised curb median with two lanes in each direction.  The roadway was straight and level and had a posted speed of 48 kmph (30 mph).  The weather was clear with no adverse conditions.  It was the evening hours of a weekday and it was dark out but the roadway was lighted. The crash occurred at a signalized intersection with an east/west roadway.Vehicle #1 was a 2001 Mitsubishi Mirage that was traveling southbound in the right lane.  Vehicle #2 was a 1995 Ford Probe that was traveling northbound in the left lane and attempting to make a left turn.  At the intersection, the front of Vehicle #1 impacted the right front side of Vehicle #2, and then Vehicle #2 impacted a chain-link fence that was located on the southwest corner of the intersection.The Mitsubishi Mirage (Vehicle #1) was driven by a 40-year old female who was transported to a local medical facility with incapacitating injuries.  A 21-year old female sustained minor injuries and a 12-year old male in her vehicle sustained non-incapacitating injuries and were both transported to a local medical facility.  Vehicle #1 was going straight through the intersection when Vehicle #2 turned in front of it.  The Mirage was towed due to damage.",
+        "     The crash occurred in the northbound lane of a T-intersection with a grass median.  There was one northbound left-turn only lane with a traffic control and two eastbound lanes with the same traffic control signal.  Conditions were overcast with rain with light fog in the early afternoon of a weekday.  The roadway had a posted speed of 45 MPH.     Vehicle 1 was a 1988 Mercedes Benz 300SL stopped for the traffic control intending on turning left.  Vehicle 2 was a 2002 Mercury Mountaineer driving eastbound in the right lane approaching the traffic control.  The light for the Mercedes turned green and the vehicle started turning left when the front of the Mercury struck the left-front corner of the Mercedes.  The Mercedes rotated CCW 90 degrees and the vehicle's final rest was facing east in the eastbound lane.  Final rest for the Mercury was facing east in the eastbound lane as well. ",
+        "       This two-vehicle crash occurred in the morning at 0740 hours at a traffic-signal-controlled T-intersection. The north/south roadway is straight, level, dry and has two lanes in each direction that are separated by a painted median. The intersecting roadway (that branches on the west side of the north/south road) is a two-lane, undivided, level, straight east/west roadway. The speed limit on both roadways is 48 kph (30 mph) and there were no adverse atmospheric conditions at the time of the crash.       Vehicle one,(V 1) a 1992 Cadillac Deville, was southbound in the second lane. Vehicle two,(V 2) a 1993 Ford F-150 pickup truck, was eastbound at the intersection. The light turned red for vehicle one and green for vehicle two. As vehicle two turned left at the intersection, the front of vehicle one struck the left side vehicle two. Both vehicles came to rest in the intersection and were towed due to damage. The driver of V 1 a forty-six-year-old female, disregarded the red traffic signal. No information was obtained from this driver. The driver of V 2 a twenty-year-old male, was driving from home to work. He was well rested, familiar with his vehicle and his route, not in a hurry and comfortable with his twenty-year-old male passenger. He was listening to the radio, but this did not distract him from his driving responsibilities.       The pre-event movement for V 1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason driver related factor \"illegal maneuver\" (disregard of traffic control signal)."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V9": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V10": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 10
+}

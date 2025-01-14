@@ -1,0 +1,100 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005003498501",
+        "2005004112921",
+        "2005006445102"
+    ],
+    "description": [
+        "The crash occurred in the intersection of two one-way roadways.  Both roadways had one lane of travel and were straight and level.  The speed limit was 48kmph (30mph) and it was clear with no adverse conditions.Vehicle # 1 was a 2005 Infiniti FX35 that was traveling southbound on a one-way roadway.  Vehicle # 2 was a 1993 Ford F-250 Pick-up truck that was traveling westbound on a one-way roadway, which was controlled by a stop sign.  At the intersection, the front of Vehicle # 1 impacted the right side of Vehicle # 2, and then the left side of Vehicle # 2 impacted the right side of Vehicle # 1.  Vehicle # 1 then departed the roadway on the left side and then impacted a fence and came to a final rest after impacting the side of the building.The Infiniti FX35 (Vehicle # 1) was driven by a 45 year-old male who did not sustain any injuries.  The driver of this vehicle declined to participate in the study.  Vehicle # 1 was towed due to damage.",
+        "       The crash occurred in the northbound lane of a two-lane intersection controlled by a stop sign.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 2002 Mercury Grand Marquis sedan traveling northbound in the 1st travel lane approaching the intersection controlled by a stop sign.  V2, a 2003 Toyota Corolla sedan, was traveling eastbound in the 1st travel lane intending on going straight.  V1 stopped at the stop sign looked both ways but did not see V2.  The front of V2 struck the left side of V1 in the northbound lane.  V1 came to final rest facing northbound and V2 came to final rest facing eastbound.     V1 was driven by a 70-year-old male who was not injured.  He stated that he stopped at the stop sign, looked both ways and proceeded thru the intersection.  He did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage.",
+        "This motor vehicle crash happened on a roadway.  This roadway travels east/west, with two travel lanes westbound and two travel lanes and one left turn lane eastbound.  The roadway is not physically divided.  The crash took place mid-block about 9 meters west of the traffic control signal.The driver of V1 was stopped at a traffic light, when the light turned green the driver proceeded to accelerate, traveling in lane two, in the westbound lanes.  V2 entered the roadway from a parking lot and crossed the path of V1, trying to turn onto the eastbound lanes.  V1 contacted V2 with its left front.  Both cars came to rest at impact.  V1's driver was coming from work and states that they did not see V2 until V2 crossed the path of V1.  The driver states that they were traveling about 40-48 kmph (25-30 mph) at time the of impact and tried to avoid contacting V2 but could not stop in time."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

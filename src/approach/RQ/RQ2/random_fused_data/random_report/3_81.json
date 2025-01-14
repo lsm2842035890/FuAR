@@ -1,0 +1,90 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002585744",
+        "2005005289162",
+        "2005005447482"
+    ],
+    "description": [
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The weather was clear, the roadway dry and it was daylight at the time of the crash.     Vehicle 1, a 1996 Honda Civic, was traveling east on the roadway behind Vehicle 2, a 2002 GMC Envoy.  Vehicle 2 observes a non-contact vehicle in front of it slowing to make a left into a driveway.  Vehicle 2 decelerates and is struck in the rear by the front of Vehicle 1.  Vehicle 2 is pushed forward and drives off the road to the right coming to rest facing east off the south shoulder.  V1 came to rest facing east off the south shoulder.Vehicle 1 was towed due to damage and Vehicle 2 was driven from the scene.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.",
+        "This two-vehicle crash occurred on a two-way, three-lane, not physically divided roadway.  The posted speed limit was 72kph (45mph).  There were no atmospheric conditions at the time of the incident and the roadway was dry.  Vehicle one (V1) was exiting a parking lot, which had a gradient of +2.  Vehicle two (V2) was going straight on a level roadway, passing the parking lot from where V1 was exiting.  There were no traffic control devices present at the location of this crash.    V1 a 1996 Jeep Grand Cherokee was attempting to make a left onto the westbound roadway from a parking lot from a convenience store.  V2 a 1992 Chevy Cavalier was traveling east on the main roadway at approximately 64kph (40mph).  The front left of V2 made contact with the left rear of V1.  The impact caused V1 to spin counter clockwise before coming to final rest in the westbound lane.  V2 continued further ahead before coming to rest in between lanes one and two of the roadway.   Vehicle two was removed from the scene due to moderate damage, whereas vehicle one suffered minor damage and was removed by the owner.  ",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device for this 'T' intersection. The conditions were as follows: late evening, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were both on a -2% roadway. The posted speed limit for vehicle one (V1) and vehicle two (V2) was 72 kph (45 mph). V1 was a 2005 Toyota Tundra, traveling southbound. V1 struck V2 in the center part of V2's rear bumper. The driver side airbags for V1 inflated, and the driver was wearing his seatbelt. The impact caused V1 to push V2 further down the roadway. V1 and V2 came to final rest in the roadway. V1 was towed due to damage. V2 was able to be driven from the scene. The Critical Precrash Event for V1 was coded as other motor vehicle in lane and was stopped. The Critical Reason for the Critical Precrash Event is internal distraction - a driver error. In the PAR the driver stated that items in the front seat area started to fall. He took his eyes off the road to look at the items and when he looked back it was too late to stop. After numerous attempts to try and attain an interview, they were unsuccessful."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane",
+                    1
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

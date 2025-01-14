@@ -1,0 +1,75 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 3,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498503",
+        "2005004112101"
+    ],
+    "description": [
+        "This crash occurred in the early afternoon of a weekend in the intersection of a northbound one-way roadway and a two-way east and west roadway.  All roadways were straight and level and had a speed limit of 48kmph (30mph).  The northbound entrance into the intersection was controlled by a stop sign.  It was daylight and clear with no adverse conditions.V1, a 1998 Mercedes-Benz ML320, was traveling westbound approaching the intersection.  V2, a 1999 Chevrolet Lumina, was traveling northbound and stopped at the stop sign.  As V2 proceeded into the intersection, its front impacted the left side of V1.  V1 than yawed counterclockwise and the right-rear wheel impacted the curb.  The right side of V1 then impacted a breakaway light-pole and rolled over one quarter turn before coming to final rest on its right side.V1 was driven by a 35 year-old male who sustained minor injuries and was transported to a medical facility.   A complete interview could not be obtained, but the driver stated that he was going straight when he was impacted by V2, who did not stop at the stop sign.  The Mercedes-Benz was towed due to damage.",
+        "The crash occurred in the intersection of a five-lane roadway with a traffic control signal.  Conditions were daylight, dry in the early afternoon on a weekday.  The roadway had a posted speed of 81 KPH (50 MPH) and the northbound lane had a positive 3% grade. V2 was a 1992 Ford Escort coupe intending on going straight through the intersection with a green light in the southbound lane.  V1 was a 1999 Chevy Venture minivan intending on turning left at the same intersection with a red light.  V1 was in the northbound lane.  As V1 was turning left, the front of V2 struck the right side of V1.  As a result of the impact, V1 rolled \u00bc turn onto its left side coming to final rest.  V2 came to final rest in the center of the intersection-heading southwest. A 33-year-old male drove V1 and sustained minor injuries but was not transported.    He stated that the light was red as he was turning left.  He saw V2 but thought he was going to stop. After V2 hit V1 the vehicle rolled \u00bc turn on its left side.  V1 was traveling less than 8 KPH (5 MPH) at the time of impact.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,69 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 3,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005004112382",
+        "2005075585221"
+    ],
+    "description": [
+        "     The crash occurred in the southbound lane of a three-lane roadway with a median controlled by a traffic control signal.  Conditions were daylight with rain in the afternoon on a weekday.  The posted speed limit was 80 KMPH (50 MPH) with a -2% downhill grade.     V1 was a 1990 Honda Civic sedan traveling southbound in the second travel lane approaching an intersection controlled by a traffic control signal.  V2, a 1999 Chevy Silverado pick-up, was stopped in traffic in the southbound lane in front of V1.  The front of V1 struck the back of V2 in the southbound lane.  Both vehicles came to final rest facing southbound.     V1 was driven by a 18-year-old female who was not injured.  She stated that she was talking to her friend and did not realize how close she was to V2.  She then braked and swerved right but struck V2 in the rear.  V1 was traveling between 50 and 64 KMPH (31 and 40 MPH) at the time of impact.  V1 was towed due to damage.",
+        "This two-vehicle crash occurred during daylight hours at a three-legged intersection. The north/south roadway was straight, level and undivided with a speed limit of 72 kmph (45 mph).and the east/west roadway is straight, level and undivided with a speed limit of 40 kmph (25 mph). The southbound travel lanes consists of a right turn lane, two through lanes and a left turn lane. The east/west roadway consists of two lanes, one in each direction, with a stop sign controlling the entry to the north/south roadway. There were no adverse weather conditions at the time.Vehicle one, a 2003 Mazda Protege, was eastbound, turning right at the intersection. Vehicle two, a 1995 Jeep Grand Cherokee, was southbound in the right through lane. As vehicle one turned right, the front left was struck by the front of vehicle two. Vehicle one rotated clockwise and vehicle two rotated counterclockwise and the left side of vehicle one struck the right side of vehicle two. Vehicle one came to rest south of the intersection facing northeast. Vehicle two continued to rotate and rolled over four quarter-turns to the right before coming to rest facing northeast. Both vehicles were towed due to damage.The driver of vehicle one, an eighty-two-year-old female, was driving from a financial institution to her home. The vehicle was new to her, but she claimed to be comfortable driving it. She was also quite familiar with the route that she was traveling. She doesn't remember the stop sign, nor does she remember looking left to check for traffic before she made the right turn. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        }
+    },
+    "ID": "2005045706121",
+    "description": "The crash occurred on a two-way two-lane east/west rural arterial road divided by double\n                        yellow lines at a T-intersection with the intersecting road coming from the north side. The\n                        intersecting road was also a two-way, two-lane road that had an incline of -4 percent on the\n                        southbound lane. The rural arterial road was straight and level for the most part but for a\n                        slight curve from the south bending west with a radius of 148 meters. The intersection was\n                        controlled by a one-way stop sign for the intersecting road. There was no traffic control device\n                        for the east/west roadway. The posted speed limit was 64kmph/40mph for both roadways. Conditions\n                        were partly cloudy and dry in the early afternoon on a weekend.\n\n\n                        Vehicle 1, a 2001 Hyundai Santa Fe (SUV 4WD), was southbound on the intersecting road, intending\n                        to make a left turn onto the east/west rural arterial road. As V1 approached the stop sign, the\n                        vehicle came to a rolling stop before it began to ease out into the intersection. It then\n                        contacted the trailer unit of Vehicle 2, a 1995 Ford F-350 that had a modified body with a dump\n                        bed, pulling a two-axle steel framed float equipment trailer. The trailer had a bobcat track hoe\n                        loaded on board that was chained down with two chains. Immediately before impact, V2 swerved\n                        left in an attempt to avoid a collision. After impact it swerved left then right in an attempt\n                        to get the trailer under control with the brakes locked and the tires blown on the trailer. V2\n                        came to rest back in its original travel lane facing west with its load slightly askew but still\n                        intact on the trailer approximately 50 meters west of POI. V1 came to rest after spinning about\n                        100 degrees clockwise and was facing southwest about 4 meters west of impact. V1 was towed due\n                        to damage. V2's trailer was picked up by the wrecker service, but the truck was undamaged.\n\n\n                        Vehicle 1 was driven by a 33-year old belted male whose airbags deployed. He refused treatment\n                        for possible injuries and only went home after the crash. The driver of V1 stated that he had\n                        been reprimanded very recently for tardiness at work and was running tight on time that\n                        afternoon. He also claimed to not get very much sleep regularly (5 hours per day). He said it\n                        had been fourteen days since his last day off, which was a sick day and before that he can't\n                        remember a day that he has been off work in recent memory.\n\n\n                        The Critical Pre-Crash Event for V1 was \"This Vehicle Traveling: Turning Left at Intersection.\"\n                        The Critical Reason for the Critical Pre-Crash Event was a recognition error: inadequate\n                        surveillance (failed to look, looked but did not see). Associated factors coded to this driver\n                        include fatigue, being in a hurry to get to work, a minor sightline restriction due to the heavy\n                        amount of trees and shrubs, a failure to come to a complete stop at the stop sign (an illegal\n                        maneuver), and work stress.\n\n\n                        Vehicle 2 was driven by a 26-year old belted male who was uninjured in the crash. He was on his\n                        way back to the office from a jobsite to check in the equipment and was not in any particular\n                        rush that afternoon.\n\n\n                        The Critical Pre-Crash Event for V2 was \"Other Vehicle Encroachment: From Crossing Street,\n                        Turning Into Opposite Direction.\" The Critical Reason for the Critical Pre-Crash Event was not\n                        coded to this vehicle. Associated factors coded to this driver were a false assumption (assumed\n                        other driver would yield the right-of-way), a sight line restriction (the shrubbery on the side\n                        of the road), conversation with his passenger, and traveling too fast for conditions. As per the\n                        driver of V2, he was traveling between 41-50 mph at the time of the crash. The posted speed\n                        limit was 40 mph."
+}

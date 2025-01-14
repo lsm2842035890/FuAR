@@ -1,0 +1,99 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 0,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498282",
+        "2005003498461",
+        "2005003588241"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a two-way north/south road with two lanes in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was daylight and clear with no adverse conditions.  The crash occurred in the morning hours on a weekday.Vehicle #1 was a 2004 Acura MDX that was traveling southbound in the right lane.  Vehicle #2 was 1995 Dodge Neon that was traveling westbound. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2.    The Acura MDX (Vehicle #1) was driven by a 29-year old female who did not sustain any injuries.  She stated that she had come to a rolling stop at a red light and then when her light turned green, she accelerated into the intersection. She stated that Vehicle #2 came from nowhere.  The Acura was not towed.",
+        "The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway was dry and had a downhill grade of -2/61.Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway.  Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane.  Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1.The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries.  The passenger in the front right seating position also did not sustain any injuries.  The International truck was not towed due to damage.",
+        "The crash occurred in the intersection of a two-way roadway with one lane in each direction and a one-way roadway with one lane of travel.  The roadway was straight and level, and had a posted speed limit of 30mph (48kmph). The east/west roadway had no traffic control device; the southbound roadway was controlled by a stop sign. It was dark but lighted, and clear with no adverse conditions.    Vehicle #1 was a 2002 Lexus SC430 traveling eastbound on the two-way roadway and Vehicle #2 was a 1993 Lexus LS400 traveling south on the one-way roadway.  At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2.  The front of Vehicle #1 then impacted a light-pole on the southeast corner of the intersection.  The Lexus SC430 (Vehicle #1) was driven by a 45-year old male who did not sustain any injuries.  He stated that he was going straight through the intersection when Vehicle #2 ran the stop sign and caused him to impact Vehicle #2 and then into the light-pole.  He stated that he did not perform any avoidance maneuvers.  The Lexus SC430 was towed due to damage.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 6
+}

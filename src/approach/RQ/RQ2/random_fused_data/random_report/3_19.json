@@ -1,0 +1,97 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002229442",
+        "2005003498181",
+        "2005005289182"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on late morning on a weekday.Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had been stopped in the northbound  traveling lane waitng for traffic to pass and intending to make a left turn into the parking lot.The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at the scene and refused further medical attention. He stated he was looking at an exterior site, to the right of his vehicle, and did not realize the vehicle in front of him was stopped.",
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed.",
+        "This crash occurred on a two-way, two-lane, not physically divided roadway.  The posted speed limit was 56 kmph (35 mph) and there were no traffic signals associated with this stretch of roadway.  The roadway was dry and there were no adverse atmospheric conditions at the time of the incident.  The roadway is considered to be level where the crash occurred.  Vehicle one (V1) was a white minivan traveling west and intending to continue straight on the roadway.  Vehicle two (V2) was a red pick-up truck, legally parked on the eastbound shoulder of the roadway.  There was an occupant in the driver's side of the vehicle, however V2 should be considered not in transport.  V1 crossed the double yellow lines and struck a wall first before continuing forward, and making contact with the parked pick-up.  The impact between vehicles caused V2 to be pushed up over the curb before coming to final rest.  V1 had considerable damage to the front and driver side of the vehicle and had to be removed from the scene.  V2 had minor damage and did not have to be removed from the scene.  The driver of V1 was taken to the hospital as a precautionary measure, although injuries were thought to be minor.  The follow up interview with the driver revealed that he might have been talking on the CB radio right before the crash occurred, but he wasn't entirely certain.  He stated that he was traveling approximately 50-64 kmph (31-40 mph) when all of a sudden, he veered left and side swiped a brick wall.  He then applied the foot brakes but could not bring the vehicle to a stop before contacting the pick-up truck that was parked on the shoulder.  No fatigue or health related issues were thought to have contributed to this crash.  The driver did say that he had diabetes and was taking medication to help control that condition.  In addition, he was taking a cholesterol-lowering medication as well.  The Critical Precrash Event was coded as: this vehicle traveling, over the lane line on the left side of travel lane.  The Critical Reason for the Critical Precrash Event was coded as an internal distraction.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ],
+                [
+                    "drive off"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

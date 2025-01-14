@@ -1,0 +1,141 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002229503",
+        "2005003498523",
+        "2005004495301",
+        "2005004496062",
+        "2005005447482"
+    ],
+    "description": [
+        "This crash occurred in the southbound lanes of a two-lane undivided roadway during the mid-afternoon hours. The roadway was straight with a posted speed limit of 89 KMPH (55 MPH). The roadway was wet and the sky was cloudy. This crash occurred on a weekday afternoon.Vehicle #1, a 1995 Toyota Camry station wagon, was traveling on the undivided roadway when it went over the right lane line and its right front impacted the left rear of Vehicle #2, a parked and unoccupied 1993 Oldsmobile Ciera. The Oldsmobile was parked on the right shoulder. The driver of Vehicle #1 then steered to the left across the southbound lane and into the northbound lane, overcorrected, came back across the southbound lane, and went off the roadway on the west side. The front right of Vehicle #1 struck a 15cm tree before coming to final rest against the tree, facing a westerly direction.The Toyota Camry Wagon was driven by a belted 52-year old male who was transported to an area hospital. The driver could not located for an interview and did not return messages left at the residence listed on his driver's license. The police report indicated that the driver of this vehicle might have had a seizure while driving.  A witness to this crash stated that she saw the driver of Vehicle #1 looking down and to his right as if at something inside the vehicle before the crash. ",
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "The crash occurred in the eastbound lane of a two-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The eastbound lane had a posted speed limit of 40 kmph (25 mph) with a stop sign; the southbound lane had a speed limit of 56 kmph (35 mph).V1 was 1999 Pontiac Montana Minivan, which was traveling southbound in the right lane approaching an intersection.  V2, a 1991 Ford Tempo sedan, was traveling eastbound in the right lane approaching the intersection with a stop sign.  V2 stopped at the stop sign and then proceeded through the intersection.  V1's front struck the left side of V2 in the eastbound lane.  V1 came to final rest facing eastbound and V2 came to final rest facing northbound.V1 was driven by a 40-year-old female who was not injured.  She stated that she was going straight, saw V2 stopped at the sign, and then saw V2 accelerate into her path.  The driver of V1 didn't understand why V2 decided to accelerate.  The driver of V1 braked but could not successfully avoid V2.  V1 was traveling between 17-32 kmph (11-20 mph) at the time of impact.  V1 was driven from the scene.  The driver of V1 did not want me to take any pictures of the vehicle.",
+        "     The crash occurred in the intersection of a five-lane roadway controlled by a traffic control signal.  Conditions were dark with minimal lighting in the evening on a weekday.  The posted speed limit was 80 KMPH (50 MPH).  The northbound lane had a  >2% uphill grade.  The southbound lane was level.     V1 was a 1999 Toyota Corolla sedan traveling northbound in the third travel lane approaching an intersection controlled by a traffic control signal intending on turning left at the intersection.  V2, a 2006 Chevy Colorado pickup, was traveling southbound in the 2nd travel lane approaching the same intersection intending on going straight.  The front of V1 struck the front of V2 in the intersection.  Both vehicles came to final rest facing southbound.     V1 was driven by a 51-year-old male who sustained moderate injuries and was transported to a local hospital.  He stated that he did not see V2.  The driver did not take any avoidance actions and was traveling between 11-20 MPH at the time of impact.  V1 was towed due to damage.",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device for this 'T' intersection. The conditions were as follows: late evening, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were both on a -2% roadway. The posted speed limit for vehicle one (V1) and vehicle two (V2) was 72 kph (45 mph). V1 was a 2005 Toyota Tundra, traveling southbound. V1 struck V2 in the center part of V2's rear bumper. The driver side airbags for V1 inflated, and the driver was wearing his seatbelt. The impact caused V1 to push V2 further down the roadway. V1 and V2 came to final rest in the roadway. V1 was towed due to damage. V2 was able to be driven from the scene. The Critical Precrash Event for V1 was coded as other motor vehicle in lane and was stopped. The Critical Reason for the Critical Precrash Event is internal distraction - a driver error. In the PAR the driver stated that items in the front seat area started to fall. He took his eyes off the road to look at the items and when he looked back it was too late to stop. After numerous attempts to try and attain an interview, they were unsuccessful."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "drive off"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V9": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V10": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 10
+}

@@ -1,0 +1,20 @@
+
+ {
+     "weather" : ["clear"],
+     "lighting" : ["bright"],
+     "speedlimit" : "35 MPH",
+     "intersection" : "no",
+     "T" : "no",
+     "carCount" : 2,
+     "laneCount" : 2,
+     "striker" : "V1 ",
+     "At-Fault-Vehicle" : "V1 ",
+     "impactPart" : 1,
+     "carInformation" : {
+         "V1 " : {
+             "behaviors" : [["tailgating",  "passing",  "overcompensating",  "spinning",  "impacting",  "spinning",  "resting"]],
+             "direction" : "east",
+             "laneNumber" : 1
+         },
+         "V2 " : {
+             "behaviors" : [[

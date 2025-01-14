@@ -1,0 +1,44 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "25MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005008450282",
+    "description": "This crash occurred on a dry 2 lane loose dirt-gravel roadway on a weekday night. The speed\n                        limit was 40kmph (25mph) and there was a grade of 8.2%. The roadway was curved at the point of\n                        impact with a hillside obscuring the view of the two drivers.\n\n\n                        Vehicle 1 was negotiating and uphill right hand curve. Vehicle 2 was proceeding opposite\n                        vehicle1 and negotiating a downhill left hand curve. The driver of Vehicle 1 pulled over and\n                        stopped the driver of Vehicle 2 crossed over and stuck Vehicle 1's left front with V2's left\n                        front.\n\n\n                        Vehicle 1 was a 1993 Cadillac Seville driven by a 45 year old male. The driver states he was\n                        going around the bend when he saw another car coming the opposite way, he stopped and the other\n                        car hit him in the door.\n\n\n                        The Critical Pre-crash Event for V1 was other vehicle encroachment from opposite direction over\n                        left lane line. The Critical Reason for the Critical Pre-crash Event was not coded to this\n                        vehicle.\n\n\n                        Vehicle 2 was a 2004 Pontiac Grand Am driven by a 17 year old male. His mother stated that he\n                        was in a hurry becuase he was late for curfew. Another associated factor was that he was an\n                        inexperienced driver.\n\n\n                        The Critical Pre-crash Event for V2 was this vehicle over the lane line on the left side of the\n                        travel lane. The Critical Reason was coded unknown."
+}

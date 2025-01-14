@@ -1,0 +1,17 @@
+
+
+
+- Response: {
+    "weather": ["daylight"],
+    "lighting": ["daylight"],
+    "speedlimit": ["40 kmph", "56 kmph"],
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"], ["drive into"],

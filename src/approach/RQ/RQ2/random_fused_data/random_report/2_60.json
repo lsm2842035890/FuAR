@@ -1,0 +1,67 @@
+{
+    "weather": [
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005005447482",
+        "2005043601461"
+    ],
+    "description": [
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device for this 'T' intersection. The conditions were as follows: late evening, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were both on a -2% roadway. The posted speed limit for vehicle one (V1) and vehicle two (V2) was 72 kph (45 mph). V1 was a 2005 Toyota Tundra, traveling southbound. V1 struck V2 in the center part of V2's rear bumper. The driver side airbags for V1 inflated, and the driver was wearing his seatbelt. The impact caused V1 to push V2 further down the roadway. V1 and V2 came to final rest in the roadway. V1 was towed due to damage. V2 was able to be driven from the scene. The Critical Precrash Event for V1 was coded as other motor vehicle in lane and was stopped. The Critical Reason for the Critical Precrash Event is internal distraction - a driver error. In the PAR the driver stated that items in the front seat area started to fall. He took his eyes off the road to look at the items and when he looked back it was too late to stop. After numerous attempts to try and attain an interview, they were unsuccessful.",
+        "This two-vehicle crash occurred in the early afternoon near a crossover of a multi-lane highway divided by a grass median. The southbound side had three lanes including a left-turn lane; the northbound side had four lanes that included a right and left turn lane at a T-intersection. The posted speed limit for both directions was 89 kmph (55 mph) and weather conditions were cloudy and dry.V1, a 1996 Chevrolet Cavalier driven by a 17-year old male, was traveling south in lane three approaching the T-intersection. V2, a 1995 Honda Accord driven by a 32-year old female, was traveling north in lane 3 approaching the same intersection. V1 entered the crossover area and then initiated a left turn. As V1 crossed into the northbound lanes, it was struck on the right side by the front of V2. V1 came to final rest in northeast roadside of the intersection and V2 came to rest in the same lane it was originally traveling. The driver of V1 was returning home from work and was attempting to make a left turn when he turned in front of the Honda Accord. He reported that there were other vehicles obstructing his view of oncoming traffic but he decided to turn left anyway. He said he never saw the Honda that struck him so he never tried to avoid the collision. He was not injured in the crash."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 3
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 4
+}

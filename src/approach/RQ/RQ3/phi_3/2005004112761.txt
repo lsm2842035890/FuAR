@@ -1,0 +1,30 @@
+
+
+- response: ```json
+{
+    "weather": ["cloudy"],
+    "lighting": ["dry"],
+    "speedlimit": "72",
+    "intersection": "yes",
+    "T": "unknown",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": ["follow lane", "go across"],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": ["stop"],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    }
+}
+```
+
+The processed description includes the weather, lighting, speed limit, and the fact that the accident occurred at an intersection. The "

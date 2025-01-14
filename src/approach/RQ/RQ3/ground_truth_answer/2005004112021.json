@@ -1,0 +1,44 @@
+{
+    "weather": [
+        "rainy",
+        "foggy",
+        "cloudy"
+    ],
+    "lighting": [
+        "normal"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 2
+        }
+    },
+    "ID": "2005004112021",
+    "description": "The crash occurred in the northbound lane of a T-intersection with a grass median. There\n                        was one northbound left-turn only lane with a traffic control and two eastbound lanes with the\n                        same traffic control signal. Conditions were overcast with rain with light fog in the early\n                        afternoon of a weekday. The roadway had a posted speed of 45 MPH.\n\n\n                        Vehicle 1 was a 1988 Mercedes Benz 300SL stopped for the traffic control intending on turning\n                        left. Vehicle 2 was a 2002 Mercury Mountaineer driving eastbound in the right lane approaching\n                        the traffic control. The light for the Mercedes turned green and the vehicle started turning\n                        left when the front of the Mercury struck the left-front corner of the Mercedes. The Mercedes\n                        rotated CCW 90 degrees and the vehicle's final rest was facing east in the eastbound lane. Final\n                        rest for the Mercury was facing east in the eastbound lane as well.\n\n\n                        The driver of V1, a 54-year-old female drove V1 to a local hospital with minor injuries. She\n                        stated she had come to a complete stop at the traffic signal for a few minutes and then began to\n                        turn left with the green light. The crash occurred seconds after she proceeded to turn left and\n                        stated that she was only going about 5 MPH at impact. V1 was towed due to damage and had a CDC\n                        of 11FLEN1.\n\n\n                        The Critical Precrash Event for V1 was when the other vehicle was coming from the crossing\n                        street across her path. The Critical reason for the Critical Event was not coded to this\n                        vehicle.\n\n\n                        A 66-year-old male who was not injured drove the Mercury Mountaineer (V2). Occupant two was a\n                        6-year-old female who was seated in the second row, center seat. She was not restrained in a\n                        child safety seat. The driver said that he was approaching the intersection and did not see the\n                        traffic control. The driver denied any inattention or distractions and he was familiar with his\n                        vehicle and the roadway. Police charged him with disregard of traffic signal. The vehicle was\n                        driven from the scene and had a CDC of 12FDEW1. The driver and the occupant were belted.\n\n\n                        The Critical Precrash Event was when this vehicle was crossing over the intersection. The\n                        Critical Reason for the Critical Event for this vehicle was coded as inadequate surveillance\n                        (looked but did not see). This was chosen because the driver reported that he was looking\n                        straight ahead but did not see the traffic control. The driver also reported that he takes 10mg\n                        of Lipitor for high blood pressure once each evening."
+}

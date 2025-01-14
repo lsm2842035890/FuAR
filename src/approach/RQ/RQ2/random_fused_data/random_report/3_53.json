@@ -1,0 +1,85 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "no",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005004112382",
+        "2005005447262",
+        "2006012695726"
+    ],
+    "description": [
+        "     The crash occurred in the southbound lane of a three-lane roadway with a median controlled by a traffic control signal.  Conditions were daylight with rain in the afternoon on a weekday.  The posted speed limit was 80 KMPH (50 MPH) with a -2% downhill grade.     V1 was a 1990 Honda Civic sedan traveling southbound in the second travel lane approaching an intersection controlled by a traffic control signal.  V2, a 1999 Chevy Silverado pick-up, was stopped in traffic in the southbound lane in front of V1.  The front of V1 struck the back of V2 in the southbound lane.  Both vehicles came to final rest facing southbound.     V1 was driven by a 18-year-old female who was not injured.  She stated that she was talking to her friend and did not realize how close she was to V2.  She then braked and swerved right but struck V2 in the rear.  V1 was traveling between 50 and 64 KMPH (31 and 40 MPH) at the time of impact.  V1 was towed due to damage.",
+        "This crash occurred on a two-way, two-lane roadway. The roadway was not physically divided, and there was no traffic control device involved in this crash.  The conditions were as follows: early morning, clear skies, and the roadway was dry.  The gradient for the two vehicles involved was level.  The posted speed limit for the two vehicles was 56 kmph (35mph).  Vehicle one (V1) was a 2000 Chevy Blazer, traveling westbound.  V1 was driven by a 38-year old male. V1 traveled over the double yellow line to the left into opposing traffic. Vehicle two (V2), a 2001 Ford Taurus, was traveling eastbound.  V2 was driven by a 17-year old male. The left front of V1 struck the left side of V2, pulling the outside of the left front door off.  The police report narrative indicated that after striking V2, V1 left the scene. V1 was pulled over by police shortly after the crash, and the driver of V1 told police that he thought he had hit a curb. Police indicated that the driver of V1 was unsteady on his feet, confused, and lethargic. An ambulance arrived on scene and tested his blood sugar, which was normal. The driver of V1 finally admitted to police that he was taking several prescription medications, including a narcotic pain reliever and a muscle relaxant. Police took the driver of V1 to a hospital for a possible head injury and also for drug and alcohol testing. The results of those tests were not made available.Both V1 and V2 were towed from the scene because they could not be driven.  The driver of V2 was not injured.  ",
+        "\tThis crash occurred in the morning of a weekday in the eastbound lanes of an urban roadway near a T-intersection.  The east/west roadway consisted of two through lanes flanked by a designated right turn lane and a designated left turn lane in the eastbound direction and two through lanes in the westbound direction.  The bituminous roadway was dry, straight, and level, with a posted speed of 72 kmph (45 mph).  Traffic was congested, but flowing and there were no adverse atmospheric conditions at the time of the crash.\tV1, a 1978 Chevrolet Corvette two-door with one occupant was eastbound in lane three.  V2, a 1990 Buick Regal two-door with one occupant was stopped eastbound in lane three ahead of V1 waiting for the light at the intersection ahead of him to turn green and traffic to proceed.  As light turned green and V2 began to accelerate V1 struck V2's rear.  A witness stated that the driver of V1 was traveling between 82-97 kmph (51-60 mph) when he made the avoidance action of steering right but could not avoid V2.  Both vehicles rolled forward and came to final rest near the point of impact.  Both vehicles were towed due to damage.  \tThe driver of V1, an unknown aged male, fled the scene shortly after maneuvering the vehicle off the road.  No further information could be obtained regarding the driver as the owner of the vehicle told the police it had been taken without him knowing."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 6
+}

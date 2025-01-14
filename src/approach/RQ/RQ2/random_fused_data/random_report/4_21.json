@@ -1,0 +1,116 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 1,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498523",
+        "2005003588201",
+        "2005005447482",
+        "2005043601421"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "The crash occurred in the southbound lanes of an undivided two-way roadway, with two lanes of travel in each direction.  The roadway was straight and level and had a posted speed limit of 48 kmph (30 mph).  It was dark out but the roadway was lighted and it was dry.  Vehicle #1 was a 2002 Dodge Stratus, which was traveling southbound on the two-way roadway in the right lane.  Vehicle #2 was a 1993 Nissan Altima that was traveling southbound on the two-way roadway in the left lane.  On this roadway, Vehicle #1 was attempting to make a U-turn to travel northbound when it was contacted on its left plane by Vehicle #2's frontal plane. The crash occurred on a non-junction roadway with no traffic signs or signals. Both vehicles came to final rest on the sidewalk of the northbound lanes. ",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device for this 'T' intersection. The conditions were as follows: late evening, clear skies, the roadway was dry and there were no atmospheric conditions. The gradient for the two vehicles involved were both on a -2% roadway. The posted speed limit for vehicle one (V1) and vehicle two (V2) was 72 kph (45 mph). V1 was a 2005 Toyota Tundra, traveling southbound. V1 struck V2 in the center part of V2's rear bumper. The driver side airbags for V1 inflated, and the driver was wearing his seatbelt. The impact caused V1 to push V2 further down the roadway. V1 and V2 came to final rest in the roadway. V1 was towed due to damage. V2 was able to be driven from the scene. The Critical Precrash Event for V1 was coded as other motor vehicle in lane and was stopped. The Critical Reason for the Critical Precrash Event is internal distraction - a driver error. In the PAR the driver stated that items in the front seat area started to fall. He took his eyes off the road to look at the items and when he looked back it was too late to stop. After numerous attempts to try and attain an interview, they were unsuccessful.",
+        "This 2-vehicle crash occurred in the evening at a T-intersection in a suburban neighborhood. A 2-lane roadway runs east and west with an intersecting road that runs north and south. Both roadways have a posted speed limit of 48 kmph (30 mph) and each are controlled by a stop sign at the intersection where the crash took place. The conditions were dusk, clear, dry and the traffic level was moderate. V1, a 1990 Jeep Cherokee Laredo 4 x4 with one occupant, was traveling east in lane one of 2-lane undivided road approaching an intersecting road to its right. V2, a 1997 Honda CR-V with one occupant, was stopped (facing north) at the intersection waiting to turn left (westbound.) Both vehicles entered the intersection at the same time and collided at a right angle. The front of the Honda CR-V (V2) struck the right side of the Jeep Cherokee (V1) causing it to roll 2-quarter turns to its left and coming to rest on its roof. V1 had to be towed from the scene due to damage but V2 was driven away.V1 was driven by a 25-year-old female without a driver license. She did not speak English but her bilingual boyfriend/husband did speak English and he refused to help with the interview. The investigating officer said she was not cooperative with him or the EMS either, but she reportedly claimed the brakes failed. Once the vehicle was rolled back onto its tires, it was towed to the owner's house without the brakes ever being checked.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

@@ -1,0 +1,97 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005002585224",
+        "2005041508981",
+        "2005043700301"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH).  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.     Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking.  Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway.  Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn.  Vehicle #2 braked and steered left to avoid a collision.  Vehicle #2 struck Vehicle #1 in left side with its front.  Vehicle #2 came to rest facing in a northwesterly direction.  Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm.  He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work.  He stated that he had glanced at the traffic light (behind him) and thought it was red.  He also stated that he had looked, but didn't see the bus.  He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers.  Vehicle #1 was towed due to damage.",
+        "\tThe crash occurred at a T-intersection of an eastbound 5-lane undivided roadway and a northbound driveway exit from a parking lot.  The eastbound roadway was a two-way, five-lane roadway with a two-way left turn lane in the middle.  Both the eastbound roadway and the driveway were straight, level, bituminous roadways.   The posted speed for east/west traffic was 56 kmph (35 mph).  Conditions were daylight on a weekday morning with dry roads and clear skies.  Traffic flow in the eastbound direction was backed up for a light at a signalized intersection up ahead.    \tV1, a 2001 Volkswagen Jetta with one occupant, was stopped at a stop sign at the parking lot exit, waiting to turn left.  V2, a 2002 Dodge Intrepid with two occupants, was traveling eastbound in the two-way left turn lane.  Traffic in the first two eastbound lanes was backed up for a traffic light ahead.  Vehicles in those lanes made space for V1 to pull out.  As V1 pulled out to turn left, the front of V1 made contact with the front of V2 in the third (middle) lane of travel.  Both vehicles were towed due to damage.   \tV1 was driven by a 23-year old female who sustained possible injuries.  She was transported to the hospital from the crash scene by her boyfriend.  She stated that she had stopped at the drug store on her way to the hospice to see her grandmother.  Eastbound traffic was backed up, but the first two lanes left a gap for her to exit.  She said that one of the drivers waved her out.  She stated that she didn't see anything, so she cautiously pulled out.  The driver indicated that she did not know where the other vehicle came from.    ",
+        "\tThe crash occurred at a three-legged intersection in the eastbound lane of a two-lane suburban roadway.  The northbound road approaching the intersection was controlled by a stop sign and had a 4% downhill grade.  The eastbound road curved left at the intersection and had a 3% downhill grade.  The roadway had a posted speed of 56 kmph (35 mph), though the crash occurred during a 40 kmph (25 mph) school zone time.  Conditions were daylight and dry with cloudy skies.  The crash occurred in the mid-afternoon hours of a weekday.  \tVehicle one was a 1991 Acura Integra 3-door hatchback traveling east in lane one.  Vehicle two was a 2000 Honda Civic coupe stopped facing north.  V1 continued through the intersection while V2 proceeded to attempt a left turn.  The two vehicles struck head on.  Both vehicles came to rest in the intersection.  \tV1 was driven by an 18-year old female who was transported to a local hospital with possible injuries.  She stated that it appeared V2 was trying to follow a friend driving in front of V2 who had just completed a left turn in front of this driver.  V2 tried to pull out quickly in front of this driver but mistimed her maneuver.  This driver estimated her travel and impact speeds to be 40 kmph (25 mph), saying she didn't have a chance to slow down.  V1 was towed due to damage. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

@@ -1,0 +1,43 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "ID": "2005003588201",
+    "description": "The crash occurred in the southbound lanes of an undivided two-way roadway, with two lanes\n                        of travel in each direction. The roadway was straight and level and had a posted speed limit of\n                        48 kmph (30 mph). It was dark out but the roadway was lighted and it was dry.\n\n\n                        Vehicle #1 was a 2002 Dodge Stratus, which was traveling southbound on the two-way roadway in\n                        the right lane. Vehicle #2 was a 1993 Nissan Altima that was traveling southbound on the two-way\n                        roadway in the left lane. On this roadway, Vehicle #1 was attempting to make a U-turn to travel\n                        northbound when it was contacted on its left plane by Vehicle #2's frontal plane. The crash\n                        occurred on a non-junction roadway with no traffic signs or signals. Both vehicles came to final\n                        rest on the sidewalk of the northbound lanes.\n\n\n                        A 27-year old male drove Vehicle #1, with no other occupants present. He sustained minor\n                        injuries but was not transported to a medical facility. The Dodge Stratus was towed due to\n                        damage.\n\n\n                        The Critical Pre-Crash Event for Vehicle #1 was coded as: this vehicle traveling over the lane\n                        line on left side of travel lane. The Critical Reason for the Critical Pre-Crash Event was coded\n                        as an illegal maneuver, a decision error. The illegal maneuver was the attempted U-turn. An\n                        associated factor coded to the driver of Vehicle #1 was inadequate surveillance.\n\n\n                        Vehicle #2 was driven by a 22-year old male who had two occupants with him, a 15-year old female\n                        in the front-right position and a 16-year old female in the back-right seat. All three occupants\n                        sustained minor injuries and were transported to a medical facility. The Nissan Altima was also\n                        towed due to damage.\n\n\n                        The Critical Pre-Crash Event for Vehicle #2 was coded as: other vehicle encroachment, from\n                        adjacent lane (same direction)-over right lane line. The Critical Reason for the Critical Event\n                        was not coded to this vehicle. No associated factors were coded to this driver. The driver of\n                        Vehicle #2 could not be located for an interview. He was not thought to have contributed to the\n                        crash."
+}

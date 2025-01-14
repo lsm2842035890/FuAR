@@ -1,0 +1,76 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": 80,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004495041",
+        "2005004496041"
+    ],
+    "description": [
+        "     The crash occurred in the westbound lanes of a three-lane roadway with a T-intersection.  Conditions were dark with lights, dry with cloudy skies in the evening on a weekday.  The westbound lanes had a posted speed of 80 kmph (50 mph), the southbound lane had a speed limit of 56 kmph (35 mph).     V1 was a 1998 Ford Escort sedan traveling southbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Subaru Legacy sedan, was traveling westbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left side of V1 in the westbound lane.  Both vehicles came to final rest facing westbound.  ",
+        "     The crash occurred in the westbound lane of a four-lane roadway with a median and a traffic control signal.  Conditions were daylight and dry in the morning on a weekday.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 1997 Toyota Corolla sedan traveling westbound in the 1st travel lane approaching an intersection controlled by a traffic control signal intending on going straight.  V2, a 2003 Nissan Altima sedan, was decelerating in the 1st travel lane for the amber traffic control signal.  The front of V1 struck the back of V2 in the westbound lane.  Both vehicles came to final rest facing westbound.     A 26-year-old male who was not injured drove V1.  He stated that he was in the right lane when the traffic control turned amber and he thought he had enough time to make a complete stop.  The driver of V1 braked but was unable to avoid V2.  V1 was traveling between 50-64 KMPH (31-40 MPH) at the time of impact.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,25 @@
+
+
+- [Response]: {
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "48kmph (30mph)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 0,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation" : {
+        "V1" : {
+            "behaviors" : [["drive into", 0], ["go across", 0], ["turn left", 2]],
+            "direction" : "west",
+            "laneNumber" : 0
+        },
+        "V2" : {
+            "behaviors" : [["stop", 0], ["turn left", 2]],
+            "direction" : "north",
+            "laneNumber" : 0
+        }
+   

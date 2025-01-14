@@ -1,0 +1,99 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": 0,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004112261",
+        "2005006445022",
+        "200501269401"
+    ],
+    "description": [
+        "The crash occurred in the northbound lane of a two-lane roadway in an intersection controlled by a stop sign.  Conditions were dusk with rain in the evening on a weekday.  Both roads had a posted speed limit of 56 Kph (35 MPH).V1 was a 2005 Dodge Stratus Sedan and was traveling westbound in the right lane approaching an intersection.  V2, a 1993 Chevy Corsica Sedan, was traveling northbound in the right lane approaching the same intersection controlled by a stop sign.  V2 made a complete stop at the stop sign, then continued through the intersection and struck the left side of V1 in the middle of the intersection.  Both vehicles came to final rest facing northwest.A 25-year-old male who was not injured drove V1.  He stated that he was driving westbound when V2 came out from the intersection and struck his vehicle on the left side.  V1 was traveling approximately 56 Kph (35MPH) at the time of impact.  He did not have time to take any avoidance actions.  V1 was towed due to damage.",
+        "\tThis crash occurred in the evening with no adverse weather conditions, and the roadway was dry.  It took place on a two-lane undivided roadway that ran east/west.  V2, a 2000 Dodge Stratus, was stopped at the traffic control device (a tri-color light without pedestrian crossing signs).  V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2 from behind.  For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a 43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained from either driver.               The Critical Precrash Event for the driver of V1 was coded as: \"Other motor vehicle in lane, other vehicle stopped.\"  The Critical Reason was coded as \"Type of driver error unknown,\" due to the lack of an interview. An associated factor was alcohol use - the police report indicates that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for alcohol testing. The results of that testing were not made available.",
+        "The crash occurred in the eastbound lane of a two-lane, two-way asphalt roadway on level grade.  The conditions were daylight and wet with cloudy skies in the early afternoon on a weekday.\tV1, a 1995 Chevrolet Lumina was traveling eastbound.  V2, a 2004 Chevrolet Trailblazer was also traveling eastbound on the same roadway.  V2, was attempting to make a left-hand turn into a private drive on the North side of the roadway.  While turning V1 attempted to pass V2 on the left-hand side contacting it's front to the left side of V2.  Both vehicles came to final rest on the roadway at impact.The driver of V1 fled the scene and was not identified, so no further information could be obtained from him.  The Driver of V2 stated that the driver was a male and had hit his head and was bleeding.  She did not pursue the driver because she thought she saw a gun. The officer said that the car had been reported stolen."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

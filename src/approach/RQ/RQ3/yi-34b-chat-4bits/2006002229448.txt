@@ -1,0 +1,25 @@
+
+ {
+     "weather" : ["clear"],
+     "lighting" : ["bright"],
+     "speedlimit" : "40 MPH",
+     "intersection" : "no",
+     "T" : "no",
+     "carCount" : 2,
+     "laneCount" : 2,
+     "striker" : "V1 ",
+     "At-Fault-Vehicle" : "V1 ",
+     "impactPart" : 2,
+     "carInformation" : {
+         "V1 " : {
+             "behaviors" : [["go across"]],
+             "direction" : "south",
+             "laneNumber" : 1
+         },
+         "V2 " : {
+             "behaviors" : [["go across"]],
+             "direction" : "north",
+             "laneNumber" : 1
+         }
+     }
+ }

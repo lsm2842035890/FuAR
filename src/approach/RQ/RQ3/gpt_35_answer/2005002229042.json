@@ -1,0 +1,44 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "48KPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005002229042",
+    "description": "The crash occurred on a two lane undivided roadway with a posted speed limit of 48 KPH (30\n                        MPH) and a -2.2% grade. There was an intersecting driveway to the right with a -13.3% grade. The\n                        weather was clear, the roadway dry and it was daylight at the time of this early morning weekday\n                        crash.\n\n\n                        Vehicle 1, a 1996 Chevrolet Blazer, was traveling north on the two lane undivided roadway\n                        approaching the driveway. It should be noted that there was a large sign, small hill and\n                        telephone pole to this driver's right, which may have obscured the approach of Vehicle 2.\n                        Vehicle 2, a 2000 Toyota Corolla, was traveling west on the driveway approaching the main\n                        roadway. Vehicle 2 entered the main roadway and was struck in the left side by the front of\n                        Vehicle 1. Vehicle 2 was rotated counterclockwise off the left side of the roadway, over a small\n                        curb, onto a private lawn and came to rest facing east. Vehicle 1 continued and came to rest in\n                        the southbound lane facing north.\n\n\n                        The Chevrolet Blazer (Vehicle 1) was driven by a belted 50-year-old male who was transported,\n                        treated and released for a complaint of pain. Vehicle 1 was traveling north on the roadway and\n                        saw Vehicle 2 coming down the driveway off to the right. He put on his brakes and steered right\n                        but hit Vehicle 2 on the left side. Vehicle 1 was towed due to damage.\n\n\n                        The Critical Precrash Event for Vehicle 1 was the encroachment of the other vehicle from a\n                        driveway, intended path not known. The Critical Reason for the Critical Event was not coded to\n                        this vehicle. A possible contributing factor to this crash may have been the sign, small hill\n                        and pole to this driver's right, which may have limited his sight of Vehicle 2's approach. No\n                        other associated factors were coded to the driver of the Blazer and he was not thought to have\n                        contributed to the crash.\n\n\n                        The Toyota Corolla (Vehicle 2) was driven by a belted 23-year-old female who was transported,\n                        treated and hospitalized for 1 day due to a head injury. The driver of the Corolla stated that\n                        she had \"blacked out\" and did not recall the accident or the events preceding the accident.\n                        Vehicle 2 was towed due to damage.\n\n\n                        The Critical Precrash Event for Vehicle 2 was its unknown travel direction. This was chosen due\n                        to no indication of turning left or right and the incapacitating illness of the driver. The\n                        Critical Reason for the Critical Event was the physical impairment of the ability to act of the\n                        driver. An associated factor coded to this driver was the use of prescription medications. She\n                        was taking two medications: a birth control pill and an antihistamine. They did not contribute\n                        to the crash."
+}

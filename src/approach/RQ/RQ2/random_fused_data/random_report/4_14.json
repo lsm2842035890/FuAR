@@ -1,0 +1,128 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "normal"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005002229483",
+        "2005003588301",
+        "2005048103261",
+        "2005074595061"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.Vehicle #1, a 1988 Ford Mustang, was traveling westbound on the two lane undivided roadway when it observed Vehicle #2, a 1985 Kawasaki motorcycle, in its westbound lane traveling east.  Vehicle #1 crossed over the left lane line into the eastbound lane. The motorcycle returned to its original eastbound lane whereupon Vehicle #1 impacted with Vehicle #2 with its front. Vehicle #1 came to rest in the eastbound land facing west Vehicle #2 was knocked backwards 33meters coming to rest on its side, in the center of the roadway, facing eastward.This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.",
+        "This crash occurred in the intersection of a north/south road with one lane in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was raining and the roadways were wet.  The crash occurred in the morning hours on a weekend.Vehicle #1 was a 2001 Chevrolet Lumina that was traveling southbound. Vehicle #2 was a 2003 Lexus LS430 that was traveling westbound.  At the intersection, the front of Vehicle #2 impacted the left side of Vehicle #1.  The impact spun Vehicle #1 counter-clockwise and the right side impacted a train support pillar.  Vehicle #1 then spun clockwise to its final rest, facing northbound.The Chevrolet Lumina (Vehicle #1) was driven by a 52-year old male who did not sustain any injuries. A 52-year old female occupant in the front-right seat sustained incapacitating injuries and was transported to a local medical facility.  The driver stated that he was going straight and had the green light when Vehicle #2 ran the red light, which caused him to impact the train support pillar.  The Chevrolet Lumina was towed due to damage.",
+        "This two-vehicle crash occurred at just before midnight at the \"T\" intersection of a two-lane, two-way dry, level, bituminous north/south roadway and a two-lane, two-way, dry, uphill, bituminous roadway that intersects the north/south roadway from the west.  The roadway curves to the right slightly for westbound traffic.  The intersection was controlled by a stop sign for westbound traffic.  The roadway intersects the northbound roadway at a 50-degree angle.  It was dark but lit at the time of the crash and there were no adverse atmospheric conditions.  The posted speed limit for the north/south roadway was 89 kmph (55 mph) and the westbound roadway was 56 kmph (35 mph).Vehicle one (V1), a 2000 Chrysler Cirrus was traveling westbound approaching the intersection.  Vehicle two (V2), a 2002 Ford Explorer was traveling northbound and pulling a trailer loaded with musical equipment.  V1 entered the intersection attempting to turn left while V2 passed through the intersection going straight.  The front of V2 contacted the left side of V1.  V1 deflected to the right and came to rest off of the roadway facing southwest.  V2 rotated counterclockwise and came to rest on the roadway facing south.  While V2 was rotating towards final rest, its trailer contacted the left rear of V2. The driver of V1 was a 19-year old female who maintains a regular sleep schedule of 7 hours of sleep per evening and a normal work schedule of 35 hours per week.  She was fatigued at the time of the crash.  She was familiar with the vehicle and has over 4 years of driving experience.  This was however, her first time on this particular roadway.  The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: inadequate surveillance (e.g., failed to look, looked but did not see).",
+        "This two vehicle crash occurred during early evening hours at a T-intersection during dusk, rush hour traffic.  There were no adverse weather conditions at the time of this crash.  The bituminous roadway was dry.  The south roadway  level, undivided, two-way traffic way controlled by a stop sign. The west roadway has a positive 8% sloped, undivided, 5-lane traffic way, with no traffic controls. Posted speed limit 56 kmph (35 mph).Vehicle one (V1), a  2004, 4-door Chrysler Sebring driven by a 44 year-old female with one passenger was stopped at the stop sign for several minutes in the curb lane waiting to turn left across the westbound and center 2-way left turn lane.  Vehicle two (V2), a  1996 4-door Dodge Intrepid driven by a 33 year-old male was approaching the T-intersection in lane 2 going straight.  V1 proceeded its left turn across westbound lanes and its front collided with the front of V2.  V1's left front corner contacted the right front corner of V2.  The force of the impact caused V1 to rotate at least 90 degrees clockwise and it came to final rest in lanes one and two of the westbound travel lanes.  After the first impact V2 traveled southwest across the center 2-way lane and two eastbound lanes.  V2 came to final rest on top of the south curb edge and sidewalk of the traffic way.  Both vehicles were towed due to damage.The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.  The critical reason for the critical event coded to V1 as a driver related factor: turned with obstructed view.  A non-contact large truck in the number one eastbound travel lane obstructed the view of V2, which was in the number two adjacent eastbound lane, for the driver of V1.  Associative factor driver of V1 may have been upset due to recent divorce, maybe fatigue due to spending most of the day shopping for household furniture brought on by a recent divorce.  The driver had been frustrated waiting at the stop sign to turn left and proceeded to turn left when her passenger said traffic to the right was clear."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 8
+}

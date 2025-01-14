@@ -1,0 +1,20 @@
+
+ {
+     "weather" : ["clear"],
+     "lighting" : ["bright"],
+     "speedlimit" : "35 MPH",
+     "intersection" : "no",
+     "T" : "no",
+     "carCount" : 2,
+     "laneCount" : 2,
+     "striker" : "V1 ",
+     "At-Fault-Vehicle" : "V1 ",
+     "impactPart" : 2,
+     "carInformation" : {
+         "V1 " : {
+             "behaviors" : [["traveling westbound",  "over the double yellow line to the left into opposing traffic"]],
+             "direction" : "west",
+             "laneNumber" : 1
+         },
+         "V2 " : {
+             "behaviors" : [["traveling eastbound",  "turned slightly right to try and avoid the crash"]],

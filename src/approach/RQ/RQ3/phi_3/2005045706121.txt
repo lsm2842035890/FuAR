@@ -1,0 +1,29 @@
+
+
+
+- [response]: {
+    "weather": ["partly cloudy"],
+    "lighting": ["dry"],
+    "speedlimit": "40mph",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": "front",
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into intersection", "go across", "drive off"]],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [["drive into intersection", "turn around", "drive into intersection"]],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    }
+}
+
+The crash occurred on a

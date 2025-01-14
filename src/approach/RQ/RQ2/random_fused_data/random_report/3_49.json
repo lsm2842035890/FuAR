@@ -1,0 +1,94 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 0,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005003498361",
+        "2005005289182",
+        "2005045706121"
+    ],
+    "description": [
+        "This crash occurred in the westbound lanes of a not physically divided two-way roadway.  The roadway had a speed limit of 48kmph (30mph) and had a grade of -2/61.  It was dark but lighted, and it was clear with no adverse conditions.  The crash occurred in the early morning hours on a weekend.Vehicle # 1 was a 2000 Mack Dump Truck that was traveling westbound on the roadway.  Vehicle # 2 was a 2003 Chevrolet Trailblazer that was traveling eastbound, when it swerved into the westbound lanes.  The front of Vehicle # 2 impacted the left side of Vehicle # 1.  Vehicle # 2 came to a final rest back on the eastbound lane.The 2000 Mack Truck (Vehicle # 1) was driven by a 28-year old male who did not sustain any injuries.  The Mack Truck was not towed due to damage.",
+        "This crash occurred on a two-way, two-lane, not physically divided roadway.  The posted speed limit was 56 kmph (35 mph) and there were no traffic signals associated with this stretch of roadway.  The roadway was dry and there were no adverse atmospheric conditions at the time of the incident.  The roadway is considered to be level where the crash occurred.  Vehicle one (V1) was a white minivan traveling west and intending to continue straight on the roadway.  Vehicle two (V2) was a red pick-up truck, legally parked on the eastbound shoulder of the roadway.  There was an occupant in the driver's side of the vehicle, however V2 should be considered not in transport.  V1 crossed the double yellow lines and struck a wall first before continuing forward, and making contact with the parked pick-up.  The impact between vehicles caused V2 to be pushed up over the curb before coming to final rest.  V1 had considerable damage to the front and driver side of the vehicle and had to be removed from the scene.  V2 had minor damage and did not have to be removed from the scene.  The driver of V1 was taken to the hospital as a precautionary measure, although injuries were thought to be minor.  The follow up interview with the driver revealed that he might have been talking on the CB radio right before the crash occurred, but he wasn't entirely certain.  He stated that he was traveling approximately 50-64 kmph (31-40 mph) when all of a sudden, he veered left and side swiped a brick wall.  He then applied the foot brakes but could not bring the vehicle to a stop before contacting the pick-up truck that was parked on the shoulder.  No fatigue or health related issues were thought to have contributed to this crash.  The driver did say that he had diabetes and was taking medication to help control that condition.  In addition, he was taking a cholesterol-lowering medication as well.  The Critical Precrash Event was coded as: this vehicle traveling, over the lane line on the left side of travel lane.  The Critical Reason for the Critical Precrash Event was coded as an internal distraction.  ",
+        "                The crash occurred on a two-way two-lane east/west rural arterial road divided by double yellow lines at a T-intersection with the intersecting road coming from the north side.  The intersecting road was also a two-way, two-lane road that had an incline of -4 percent on the southbound lane.  The rural arterial road was straight and level for the most part but for a slight curve from the south bending west with a radius of 148 meters.  The intersection was controlled by a one-way stop sign for the intersecting road.  There was no traffic control device for the east/west roadway. The posted speed limit was 64kmph/40mph for both roadways.  Conditions were partly cloudy and dry in the early afternoon on a weekend.  \tVehicle 1, a 2001 Hyundai Santa Fe (SUV 4WD), was southbound on the intersecting road, intending to make a left turn onto the east/west rural arterial road.  As V1 approached the stop sign, the vehicle came to a rolling stop before it began to ease out into the intersection.  It then contacted the trailer unit of Vehicle 2, a 1995 Ford F-350 that had a modified body with a dump bed, pulling a two-axle steel framed float equipment trailer. The trailer had a bobcat track hoe loaded on board that was chained down with two chains.  Immediately before impact, V2 swerved left in an attempt to avoid a collision.  After impact it swerved left then right in an attempt to get the trailer under control with the brakes locked and the tires blown on the trailer.  V2 came to rest back in its original travel lane facing west with its load slightly askew but still intact on the trailer approximately 50 meters west of POI.  V1 came to rest after spinning about 100 degrees clockwise and was facing southwest about 4 meters west of impact.  V1 was towed due to damage.  V2's trailer was picked up by the wrecker service, but the truck was undamaged.  \tVehicle 1 was driven by a 33-year old belted male whose airbags deployed.   He refused treatment for possible injuries and only went home after the crash.  The driver of V1 stated that he had been reprimanded very recently for tardiness at work and was running tight on time that afternoon.  He also claimed to not get very much sleep regularly (5 hours per day).   He said it had been fourteen days since his last day off, which was a sick day and before that he can't remember a day that he has been off work in recent memory. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ],
+                [
+                    "drive off"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

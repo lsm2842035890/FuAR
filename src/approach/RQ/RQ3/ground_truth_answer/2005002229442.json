@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005002229442",
+    "description": "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed\n                        limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on\n                        late morning on a weekday.\n\n\n                        Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it\n                        impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest\n                        on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had\n                        been stopped in the northbound traveling lane waitng for traffic to pass and intending to make a\n                        left turn into the parking lot.\n\n\n                        The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at\n                        the scene and refused further medical attention. He stated he was looking at an exterior site,\n                        to the right of his vehicle, and did not realize the vehicle in front of him was stopped.\n\n\n                        The Critical Precrash Event coded to Vehicle #1 was coded as Other Motor Vehicle in Lane, Other\n                        vehicle stopped. The Critical Reason for the Critical Precrash Event was coded as Driver Related\n                        Factor, Recognition Error, External Distraction. An associated factor coded to this driver was\n                        the use of prescription medications. He was taking two medications: (a) a depression medication\n                        with the possible side effects of drowsiness and (b) a pain medication also with the possible\n                        side effects of drowsiness.\n\n\n                        The Dodge Ram (Vehicle #2) was driven by a 38 year old belted female with a belted 16 year old\n                        female passenger in the right front seat. The driver stated she was stopped in the roadway\n                        waiting for several vehicles to pass before proceeding to make a left turn into a parking lot.\n                        She stated she did not see Vehicle #2 approaching and had no time to react. No Critical Precrash\n                        Event was coded to this vehicle as the driver was not thought to have contributed to the crash.\n\n\n                        Both Vehicles were towed from the scene. Police did not consider illegal drugs or alcohol to be\n                        involved and ordered no tests for either driver."
+}

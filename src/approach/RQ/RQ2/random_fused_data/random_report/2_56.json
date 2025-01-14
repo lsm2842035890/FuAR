@@ -1,0 +1,68 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002585382",
+        "2005005447202"
+    ],
+    "description": [
+        "     The crash occurred on a two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The roadway was straight with a grade of -2.3%.  There was a black on yellow \"Y\" intersection warning sign for both vehicles.  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.       Vehicle #1, a 1997 Plymouth Neon, was traveling north on the two lane roadway approaching the intersection.  Vehicle #2, a 1987 Ford F-350 stake body, was stopped facing north waiting to make a left hand turn.  Vehicle #1 struck Vehicle #2 in rear with front.  Both vehicles came to rest facing north.  Vehicle #1 was towed due to damage.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device, for a construction zone.  The conditions were as follows: early afternoon, clear skies, the roadway was dry and there were no atmospheric conditions.  The gradient for the two vehicles involved were both on a +6% roadway.  The posted speed limit for vehicle one (V1) and vehicle two (V2) was 64 kph (40 mph). V2 was a 2005 Mercury Sable was traveling northbound and was stopped for a stop/slow sign for the construction zone.  Upon realization of the impending crash, the driver of V2 stated that he could not do anything.  V1 was a 2002 Dodge Neon, traveling northbound.  V1 struck V2 in the center part of V2's rear bumper.  The impact caused V1 to push V2 up the roadway.  V1 and V2 came to final rest in the roadway.  V1 was towed due to damage.  V2 was able to be driven from the scene.I spoke to the construction worker on scene, which was holding the stop sign.  He was only able to give a few words, due to the language barrier.  He attested that V2 was waiting for the sign to change, so V2 could proceed.  He further stated that V1 pushed V2 up the roadway some."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,25 @@
+
+ {
+     "weather" : ["clear"],
+     "lighting": ["bright"],
+     "speedlimit": "unknown",
+     "intersection" : "yes",
+     "T" : "no",
+     "carCount" : 2,
+     "laneCount" : 2,
+     "striker" : "V1 ",
+     "At-Fault-Vehicle" : "V2 ",
+     "impactPart": 2,
+     "carInformation" : {
+         "V1 " : {
+             "behaviors" : [["turn right",  2 ]],
+             "direction" : "south",
+             "laneNumber" : 1
+         },
+         "V2 " : {
+             "behaviors" : [["go across"]],
+             "direction" : "west",
+             "laneNumber" : 0
+         }
+     }
+ }

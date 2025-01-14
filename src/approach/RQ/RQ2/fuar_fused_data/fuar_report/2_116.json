@@ -1,0 +1,62 @@
+{
+    "weather": [
+        "clear",
+        "rainy",
+        "cloudy"
+    ],
+    "lighting": [
+        "dark",
+        "light",
+        "dark"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005003498523",
+        "2005004495861"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "     The crash occurred in the southbound lane of a two-lane roadway.  Conditions were cloudy with rain in the early evening on a weekday.  The posted speed limit was 40 MPH.  The northbound lane had a -3% downhill grade.  The southbound lane had a positive 2 % uphill grade.     V1 was a 1995 Mercedes Benz S420 sedan traveling northbound in the first travel lane negotiating a curve left.  V2, a 2003 Ford Ranger pick-up, was traveling southbound in the first travel lane about to negotiate the curve.  V1 lost control of her vehicle and began to spin in a counterclockwise rotation.  V1 crossed over the centerline and the front of V2 struck the right side of V1 in the southbound lane.  V1 came to final rest facing southeast.  V2 came to final rest facing easr-southeast.     V1 was driven by a 70-year-old female who was not injured.  She refused to be interviewed but a surrogate interview was obtained by the investigating police officer.  He stated that the driver of V1 was speeding while negotiating the curve, which caused the driver to lose control on the wet pavement.  V1 then spun counterclockwise and crossed over the centerline and struck V2.  The driver of V1 did not take any avoidance actions.  The driver of V1 was traveling between 31 and 40 MPH at the time of impact.  V1 was towed due to damage."
+    ]
+}

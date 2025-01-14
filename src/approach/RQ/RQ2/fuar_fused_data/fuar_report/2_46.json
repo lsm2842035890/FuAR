@@ -1,0 +1,64 @@
+{
+    "weather": [
+        "clear",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 4,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn right",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005002229442",
+        "2005012696003"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on late morning on a weekday.Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had been stopped in the northbound  traveling lane waitng for traffic to pass and intending to make a left turn into the parking lot.The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at the scene and refused further medical attention. He stated he was looking at an exterior site, to the right of his vehicle, and did not realize the vehicle in front of him was stopped.",
+        "\tV1, a 1997 Dodge Ram pickup, was traveling eastbound on a three-lane, two-way, dry asphalt roadway in daylight conditions.  V1 was approaching a T-intersection intending to turn right.  V2, a 2003 Pontiac Grand Am, was traveling southbound on a four-lane, two-way, dry asphalt roadway approaching the same intersection.  V2 was intending to go straight.  The posted speed for both roadways was 89 kmph (55 mph). Eastbound traffic was controlled by a stop sign; south and northbound traffic had no traffic control device. V1 stopped at the stop sign for 10 seconds or more.  V1 then made a right-hand turn.  The front of V2 contacted the left of V1 before they both came to final rest in the roadway.\tThe driver of V1 was a 68-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash.  He had no health-related problems and had taken no medication prior to the crash.  He was rested and traveling to the store.  He did not wear corrective lenses.  He was uninjured in the crash and refused treatment.  \tThe Critical Pre-crash Event for the driver of V1 was: this vehicle traveling, turning right at intersection.  The Critical reason for the Critical Pre-crash Event was a recognition error: inadequate surveillance (e.g. failed to look, looked but did not see) because he stated that he had looked both ways but did not see V2."
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003588301",
+        "200501269401"
+    ],
+    "description": [
+        "This crash occurred in the intersection of a north/south road with one lane in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was raining and the roadways were wet.  The crash occurred in the morning hours on a weekend.Vehicle #1 was a 2001 Chevrolet Lumina that was traveling southbound. Vehicle #2 was a 2003 Lexus LS430 that was traveling westbound.  At the intersection, the front of Vehicle #2 impacted the left side of Vehicle #1.  The impact spun Vehicle #1 counter-clockwise and the right side impacted a train support pillar.  Vehicle #1 then spun clockwise to its final rest, facing northbound.The Chevrolet Lumina (Vehicle #1) was driven by a 52-year old male who did not sustain any injuries. A 52-year old female occupant in the front-right seat sustained incapacitating injuries and was transported to a local medical facility.  The driver stated that he was going straight and had the green light when Vehicle #2 ran the red light, which caused him to impact the train support pillar.  The Chevrolet Lumina was towed due to damage.",
+        "The crash occurred in the eastbound lane of a two-lane, two-way asphalt roadway on level grade.  The conditions were daylight and wet with cloudy skies in the early afternoon on a weekday.\tV1, a 1995 Chevrolet Lumina was traveling eastbound.  V2, a 2004 Chevrolet Trailblazer was also traveling eastbound on the same roadway.  V2, was attempting to make a left-hand turn into a private drive on the North side of the roadway.  While turning V1 attempted to pass V2 on the left-hand side contacting it's front to the left side of V2.  Both vehicles came to final rest on the roadway at impact.The driver of V1 fled the scene and was not identified, so no further information could be obtained from him.  The Driver of V2 stated that the driver was a male and had hit his head and was bleeding.  She did not pursue the driver because she thought she saw a gun. The officer said that the car had been reported stolen."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

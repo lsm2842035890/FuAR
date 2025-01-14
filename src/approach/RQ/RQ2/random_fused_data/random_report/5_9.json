@@ -1,0 +1,145 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "64KPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005002229102",
+        "2005002229242",
+        "2005003498461",
+        "2005041508981",
+        "2005076197801"
+    ],
+    "description": [
+        "     This crash occurred on a level two lane undivided roadway with a posted speed limit of 64KPH (40MPH).  There was an intersecting roadway to the left and a driveway to the right. There was a traffic control signal at the intersection. The weather was cloudy, the roadway was dry and it was dark, but lighted at the time of this late night weekday crash.     Vehicle #1, a 1987 Honda Accord, was traveling south on the two lane undivided roadway approaching the intersection. It should be noted that the traffic control signal was lighted red. Vehicle #2, a 1994 Honda Civic was stopped at the signal awaiting a green light, in front of Vehicle #1. Vehicle #1's front impacted Vehicle #2's rear. Vehicle #2 was pushed through the intersection and came to rest facing in a southwesterly direction. Vehicle #1 came to rest facing in a southerly direction.     The Honda Accord (Vehicle #1) was driven by an unbelted 19 year old female who was transported, treated and released for minor bleeding to the head. She stated that she did not see the other vehicle, that she was also looking down to retrieve a dropped water bottle as well as attempting to put on her seat belt. Vehicle #1 was towed due to damage and was destroyed before the inspection could be done.",
+        "This crash occurred on a level two lane undivided straight roadway with a posted speed limit of 48KPH (30mph). The roadway was straight. The intersecting roadway was a two lane undivided roadway Conditions were dry and crash occurred in the early afternoon hours of a weekday.Vehicle #1 was a 1996 Ford  Contour was traveling in the east bound lane, then making a left turn at the intersection after an uninvolved truck had just passed in the westbound lane. Vehicle #2 was a 2004 Honda Motorcycle traveling westbound behind the uninvolved truck.  Vehicle #1, the Ford Contour, made the left turn immediately after the truck and in front of  Vehicle #2, the Honda Motorcycle.  Vehicle #2 impacted Vehicle #1 on the  right front  side with it's front.The Ford Contour (Vehicle #1) was driven by a 43-year old male who was transported to an area hospital with minor injuries. He was wearing his prescription contact lenses and a pair of sunglasses at the time of the crash.  He stated there was a truck in his way and he didn't see the motorcycle. He did not stop before making the turn. He stated he was traveling less than 20 MPH at impact.  This vehicle was towed due to damage.",
+        "The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway was dry and had a downhill grade of -2/61.Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway.  Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane.  Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1.The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries.  The passenger in the front right seating position also did not sustain any injuries.  The International truck was not towed due to damage.",
+        "\tThe crash occurred at a T-intersection of an eastbound 5-lane undivided roadway and a northbound driveway exit from a parking lot.  The eastbound roadway was a two-way, five-lane roadway with a two-way left turn lane in the middle.  Both the eastbound roadway and the driveway were straight, level, bituminous roadways.   The posted speed for east/west traffic was 56 kmph (35 mph).  Conditions were daylight on a weekday morning with dry roads and clear skies.  Traffic flow in the eastbound direction was backed up for a light at a signalized intersection up ahead.    \tV1, a 2001 Volkswagen Jetta with one occupant, was stopped at a stop sign at the parking lot exit, waiting to turn left.  V2, a 2002 Dodge Intrepid with two occupants, was traveling eastbound in the two-way left turn lane.  Traffic in the first two eastbound lanes was backed up for a traffic light ahead.  Vehicles in those lanes made space for V1 to pull out.  As V1 pulled out to turn left, the front of V1 made contact with the front of V2 in the third (middle) lane of travel.  Both vehicles were towed due to damage.   \tV1 was driven by a 23-year old female who sustained possible injuries.  She was transported to the hospital from the crash scene by her boyfriend.  She stated that she had stopped at the drug store on her way to the hospice to see her grandmother.  Eastbound traffic was backed up, but the first two lanes left a gap for her to exit.  She said that one of the drivers waved her out.  She stated that she didn't see anything, so she cautiously pulled out.  The driver indicated that she did not know where the other vehicle came from.    ",
+        "This is a two-vehicle crash occurred in a rural area at a \"T\" type intersection.  The east and westbound 2-lane asphalt roadway is straight, level and is the through street.  The north and southbound 2-lane asphalt roadway is straight, level and is controlled by a stop sign where it dead-ends at the through street.  The speed limit for the through street is 72 kmph (45 mph). The crash occurred during daylight with no adverse weather or road conditions.Vehicle one (V1), a 2000 GMC Jimmy was southbound turning left (east) following a non-contact vehicle that had turned left at the intersection.  Vehicle two (V2), a 2002 Oldsmobile Alero was westbound when its front bumper plane contacted the left side plane of V1.  V1 rolled to rest on the dirt shoulder of the through street facing east.  V2 rotated counter-clockwise and came to rest in the eastbound lane facing south.  Both vehicles were towed due to damage.The driver of V1, a seventeen-year old female was heading from her aunts home back to her house.  This driver was in a hurry as she needed to get home, get some clothes and go back to school for pictures.  This driver had been driving for about fifteen minutes at the time of the crash.  This driver stated that she was on an unknown medication for acne, but the medical records did not indicate any medications.  This driver stated that she stopped behind a non-contact vehicle.  This driver stated that she looked both ways but did not see V2.  She was eating while driving and had been thinking about a future event. This driver drives this vehicle daily and over this road on a weekly basis."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        },
+        "V9": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V10": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 10
+}

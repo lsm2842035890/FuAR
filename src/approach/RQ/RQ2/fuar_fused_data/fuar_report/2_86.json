@@ -1,0 +1,61 @@
+{
+    "weather": [
+        "clear",
+        "cloudy"
+    ],
+    "lighting": [
+        "bright",
+        "unknown"
+    ],
+    "speedlimit": 55,
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 3,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "2005004112161",
+        "2005002585263"
+    ],
+    "description": [
+        "The crash occurred in the westbound lane of a two-lane roadway with an adjacent T-intersection.  Conditions were daylight and dry and EMS was dispatched in the early evening of a weekday.  The roadway had a posted speed of 40 MPH and a 1% uphill grade.V1 was a 2002 Lexus RX 300 SUV that was initially traveling before coming to a complete stop at the intersection and intending on turning left.  V2 was a 1994 Ford Taurus sedan directly in back of V2 intending on going straight.  The driver of V2 was looking to the left then looked straight ahead.  V2 tried to steer left and brake to avoid V1.  The front of V2 struck the back of V1 in the westbound lane.  Both vehicles came to final rest facing west.",
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The road was curved left with a radius of curvature of 375 meters and a superelevation of 1.8% for Vehicle #2. The road was curved right with a radius of curvature of 1875 meters and no superelevation for Vehicle #1.  Both vehicles had black on yellow curve warning signs with a suggested speed of 50 MPH.  The weather was cloudy.     Vehicle #1, a 2000 Chevrolet Cavalier, was traveling west on the two-lane roadway negotiating a curve to the right approaching a driveway.  Vehicle #2, a 1995 Dodge Intrepid, was traveling east on the same roadway negotiating the curve to the left.  Vehicle #1 attempted a left hand turn into the driveway and was struck in the front by Vehicle #2's front.  Vehicle #1 was rotated counterclockwise back across both lanes and came to rest in the westbound lane facing east.  Vehicle #2 continued off the right side of the roadway, came back on the roadway crossed both lanes, off the north side of the road and struck a 25cm pole with its front.  Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Chevrolet Cavalier (Vehicle #1) was driven by a belted 80 year old male who was transported, treated and released for minor injuries.  The right front seat passenger was a belted 72-year-old female who was also transported, treated and released for minor injuries. Both driver and passenger airbags deployed. The interview was refused and no information obtained from the driver. "
+    ]
+}

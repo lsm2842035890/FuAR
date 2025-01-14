@@ -1,0 +1,25 @@
+
+
+- Response: {
+    "weather": ["overcast with rain and light fog"],
+    "lighting": ["at daylight"],
+    "speedlimit": "45 MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 3,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into"], ["stop"], ["turn left"], ["hit", 2]],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [["go across"], ["drive off"], ["turn left"], ["hit", 2]],
+            "direction": "east",
+            "laneNumber": 2
+        }
+    }

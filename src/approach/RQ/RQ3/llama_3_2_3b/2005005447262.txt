@@ -1,0 +1,31 @@
+
+import json
+import re
+from collections import defaultdict
+from typing import List, Dict, Any, Tuple
+
+def process_description(description: str) -> Dict[str, Any]:
+    """
+    Process a car accident description.
+    You should analyse each sentence in the description.
+    Once you found a sentence that contains impact actions, then drop all the sentences after.
+    Output the processed description.
+    """
+    # 1. split the description into sentences
+    sentences = description.split(".")
+    # 2. extract the impact actions from each sentence
+    impact_actions = extract_impact_actions(sentences)
+    # 3. process the impact actions
+    processed_impact_actions = process_impact_actions(impact_actions)
+    # 4. output the processed description
+    return output_processed_description(processed_impact_actions)
+
+def extract_impact_actions(sentences: List[str]) -> List[str]:
+    """
+    Extract the impact actions from each sentence.
+    """
+    impact_actions = []
+    for sentence in sentences:
+        # 1. split the sentence into words
+        words = sentence.split()
+        # 2. check if

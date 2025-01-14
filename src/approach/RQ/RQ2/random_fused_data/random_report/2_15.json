@@ -1,0 +1,72 @@
+{
+    "weather": [
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002229303",
+        "2005045706121"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway, slightly curving to the right prior to the crash site, with no grade and a posted speed limit of  89 KMPH (55MPH). the weather was clear and the roadway was dry. This crash occurred on a weekday afternoon.Vehicle #2, a 1990 Ford Mustang, was traveling south on the two lane undivided roadway when it proceeded to pass a box truck (as per the driver of vehicle #1). It impacted with Vehicle #1 a 2000 Pontiac Grand Am, head on in the northbound lane. Vehicle #2 came to rest on the east shoulder facing south. Vehicle #1 came to rest on the east shoulder facing north.The Critical Precrash Event coded to Vehicle #2 was This Vehicle Traveling Over the Lane line on Left Side of Travel Lane. The Critical Reason for the Critical Precrash Event was coded as  Driver Related Factor, Inadequate Surveillance (e.g. failed to look, looked but did not see.) There is no evidence of any illegal drug use, however the Police Report for this crash could not be obtained.",
+        "                The crash occurred on a two-way two-lane east/west rural arterial road divided by double yellow lines at a T-intersection with the intersecting road coming from the north side.  The intersecting road was also a two-way, two-lane road that had an incline of -4 percent on the southbound lane.  The rural arterial road was straight and level for the most part but for a slight curve from the south bending west with a radius of 148 meters.  The intersection was controlled by a one-way stop sign for the intersecting road.  There was no traffic control device for the east/west roadway. The posted speed limit was 64kmph/40mph for both roadways.  Conditions were partly cloudy and dry in the early afternoon on a weekend.  \tVehicle 1, a 2001 Hyundai Santa Fe (SUV 4WD), was southbound on the intersecting road, intending to make a left turn onto the east/west rural arterial road.  As V1 approached the stop sign, the vehicle came to a rolling stop before it began to ease out into the intersection.  It then contacted the trailer unit of Vehicle 2, a 1995 Ford F-350 that had a modified body with a dump bed, pulling a two-axle steel framed float equipment trailer. The trailer had a bobcat track hoe loaded on board that was chained down with two chains.  Immediately before impact, V2 swerved left in an attempt to avoid a collision.  After impact it swerved left then right in an attempt to get the trailer under control with the brakes locked and the tires blown on the trailer.  V2 came to rest back in its original travel lane facing west with its load slightly askew but still intact on the trailer approximately 50 meters west of POI.  V1 came to rest after spinning about 100 degrees clockwise and was facing southwest about 4 meters west of impact.  V1 was towed due to damage.  V2's trailer was picked up by the wrecker service, but the truck was undamaged.  \tVehicle 1 was driven by a 33-year old belted male whose airbags deployed.   He refused treatment for possible injuries and only went home after the crash.  The driver of V1 stated that he had been reprimanded very recently for tardiness at work and was running tight on time that afternoon.  He also claimed to not get very much sleep regularly (5 hours per day).   He said it had been fourteen days since his last day off, which was a sick day and before that he can't remember a day that he has been off work in recent memory. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,73 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004112901",
+        "200501269401"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a four-lane intersection controlled by a stop sign.  Conditions were daylight and dry in the morning on a weekday.  The northbound lane had a posted speed limit of 80 kmph (50 mph) and a 2% uphill grade. The westbound lane had a posted sped limit of 56 kmph (35 mph).     V1 was a 2003 Toyota Camry sedan stopped westbound at the stop sign in the first travel lane.  V2, a 2003 Nissan 350Z coupe, was traveling northbound in the second travel lane intending on going straight.  V1 was waved into the intersection by an unknown vehicle stopped in the 1st travel lane facing northbound.  V1 proceeded thru the intersection and the front of V2 struck the left side of V1 in the 2nd travel lane of the northbound roadway.  The driver of V1 lost consciousness and his vehicle traveled southbound hitting a curb and several signs traveling approximately 115 meters.  V1 came to final rest against a pole facing westbound.  V2 came to final rest facing westbound.     V1 was driven by a 57-year-old male who sustained moderate injuries and was transported to a local hospital.  He stated that he was stopped at the stop sign when an unknown vehicle waved him into the intersection.  The driver of V1 did not see V2.  The driver of V1 was traveling between 18 and 32 kmph (11 and 20 mph) at the time of impact.  V1 was towed due to damage.  ",
+        "The crash occurred in the eastbound lane of a two-lane, two-way asphalt roadway on level grade.  The conditions were daylight and wet with cloudy skies in the early afternoon on a weekday.\tV1, a 1995 Chevrolet Lumina was traveling eastbound.  V2, a 2004 Chevrolet Trailblazer was also traveling eastbound on the same roadway.  V2, was attempting to make a left-hand turn into a private drive on the North side of the roadway.  While turning V1 attempted to pass V2 on the left-hand side contacting it's front to the left side of V2.  Both vehicles came to final rest on the roadway at impact.The driver of V1 fled the scene and was not identified, so no further information could be obtained from him.  The Driver of V2 stated that the driver was a male and had hit his head and was bleeding.  She did not pursue the driver because she thought she saw a gun. The officer said that the car had been reported stolen."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

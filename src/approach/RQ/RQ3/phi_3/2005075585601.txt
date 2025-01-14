@@ -1,0 +1,31 @@
+
+
+
+- Response: ```json
+{
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "40 kph (25 mph)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into intersection", 1], ["turn left", 1]],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [["go across", 1]],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    }
+}
+```
+
+The report provided gives a clear description of a two

@@ -1,0 +1,66 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "48KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 3,
+    "ID": [
+        "2005006445022",
+        "2005045587921"
+    ],
+    "description": [
+        "\tThis crash occurred in the evening with no adverse weather conditions, and the roadway was dry.  It took place on a two-lane undivided roadway that ran east/west.  V2, a 2000 Dodge Stratus, was stopped at the traffic control device (a tri-color light without pedestrian crossing signs).  V1, a 1997 Honda Accord, was traveling on the same roadway in the same direction, approaching V2 from behind.  For an unknown reason, the front of V1 struck the rear of V2. V1 was driven by a 43-year old female. V2 was driven by a 24-year old female. The interviews could not be obtained from either driver.               The Critical Precrash Event for the driver of V1 was coded as: \"Other motor vehicle in lane, other vehicle stopped.\"  The Critical Reason was coded as \"Type of driver error unknown,\" due to the lack of an interview. An associated factor was alcohol use - the police report indicates that the driver of V1 was intoxicated at the time of the crash and was taken from the scene for alcohol testing. The results of that testing were not made available.",
+        "    The crash occurred at the T-intersection of an east/west two-lane secondary arterial road and a north/south two-lane local road.  The arterial curves to the south (left) as it approaches the intersection from the east with a radius of curvature of 375m.  Traffic counts indicate it carries 9,036 vehicles per day with a posted speed limit of 72kmph (45mph).  The local road is straight and is controlled by a stop sign with a posted speed of 48kmph (30mph).  Conditions were daylight and dry on a weekday morning.    Vehicle #1 was a 1999 Ford F-250 pickup pulling a trailer loaded with four horses westbound on the two lane arterial road.  Vehicle #2, a 1999 Toyota Corolla, was southbound on the local road.  Vehicle #2 attempted to make a left turn to go east when its left side was struck by the front of Vehicle #1.   After impact the F-250 (V1) rotated counterclockwise and jackknifed with the truck coming to rest partially off the south side of the intersection facing southeast.  The trailer remained on the road and came to rest facing southwest.  The Corolla (V2) rotated clockwise and came to rest just off the south side of the road facing southwest.    Vehicle #1 was driven by a 25-year-old female that was belted with no deployed airbags and not injured in the crash.    She stated that she began to decelerate as she approached because the other vehicle appeared to be easing out into the intersection.  However, she didn't believe the Corolla (V2) would continue because of lack of gap distance.  Once she realized Vehicle #2 was beginning to turn she applied her brakes, honked the horn and steered to the left in an attempt to avoid a collision.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

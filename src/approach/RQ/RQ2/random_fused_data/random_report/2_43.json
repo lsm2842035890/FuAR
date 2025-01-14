@@ -1,0 +1,72 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 1,
+    "ID": [
+        "2005002229303",
+        "2005075585221"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway, slightly curving to the right prior to the crash site, with no grade and a posted speed limit of  89 KMPH (55MPH). the weather was clear and the roadway was dry. This crash occurred on a weekday afternoon.Vehicle #2, a 1990 Ford Mustang, was traveling south on the two lane undivided roadway when it proceeded to pass a box truck (as per the driver of vehicle #1). It impacted with Vehicle #1 a 2000 Pontiac Grand Am, head on in the northbound lane. Vehicle #2 came to rest on the east shoulder facing south. Vehicle #1 came to rest on the east shoulder facing north.The Critical Precrash Event coded to Vehicle #2 was This Vehicle Traveling Over the Lane line on Left Side of Travel Lane. The Critical Reason for the Critical Precrash Event was coded as  Driver Related Factor, Inadequate Surveillance (e.g. failed to look, looked but did not see.) There is no evidence of any illegal drug use, however the Police Report for this crash could not be obtained.",
+        "This two-vehicle crash occurred during daylight hours at a three-legged intersection. The north/south roadway was straight, level and undivided with a speed limit of 72 kmph (45 mph).and the east/west roadway is straight, level and undivided with a speed limit of 40 kmph (25 mph). The southbound travel lanes consists of a right turn lane, two through lanes and a left turn lane. The east/west roadway consists of two lanes, one in each direction, with a stop sign controlling the entry to the north/south roadway. There were no adverse weather conditions at the time.Vehicle one, a 2003 Mazda Protege, was eastbound, turning right at the intersection. Vehicle two, a 1995 Jeep Grand Cherokee, was southbound in the right through lane. As vehicle one turned right, the front left was struck by the front of vehicle two. Vehicle one rotated clockwise and vehicle two rotated counterclockwise and the left side of vehicle one struck the right side of vehicle two. Vehicle one came to rest south of the intersection facing northeast. Vehicle two continued to rotate and rolled over four quarter-turns to the right before coming to rest facing northeast. Both vehicles were towed due to damage.The driver of vehicle one, an eighty-two-year-old female, was driving from a financial institution to her home. The vehicle was new to her, but she claimed to be comfortable driving it. She was also quite familiar with the route that she was traveling. She doesn't remember the stop sign, nor does she remember looking left to check for traffic before she made the right turn. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 4
+}

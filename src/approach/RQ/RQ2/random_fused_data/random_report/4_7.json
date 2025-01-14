@@ -1,0 +1,129 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005003498181",
+        "2005004495863",
+        "2005005289222",
+        "200501269401"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed.",
+        "     The crash occurred in the northbound lane of a two-lane roadway with a driveway related intersection.  Conditions were daylight in the morning on a weekend.  The posted speed limit for the northbound lane was 35 MPH.  There was no posted speed limit for the driveway.     V1 was a 2001 Buick Century sedan turning left out of the driveway facing westbound.  V2, a 2005 Toyota Tundra pick-up, was traveling northbound in the 1st travel lane approaching the driveway intending on going straight.  V1 made a left turn and the front of V2 struck the left side of V1 in the northbound lane.  Both vehicles came to final rest facing northbound.     V1 was driven by a 76-year-old female who sustained moderate injuries and was transported to a local hospital.  She stated that prior to exiting the driveway, she looked both ways and couldn't see to her left because of a big sign.  She proceeded to turn left and struck V2.  V1 did not take any avoidance actions and was traveling less than 10 MPH at the time of impact.  V1 was towed due to damage.",
+        "This late-night, two-vehicle crash occurred on a two-way, two-lane, not physically divided roadway.  The posted speed limit was 56kph (35mph) and there were no atmospheric conditions at the time of the incident.  The gradient for both vehicles involved was level.  No traffic control devices were associated with this crash.  Vehicle one (V1) was traveling eastbound and had just negotiated a right curve.  For unknown reasons, V1 partially left the right side of the roadway and overcompensated the vehicle when trying to return.  This caused V1 to spin laterally in a counterclockwise direction.  After loosing control of the vehicle, the passenger side of V1 made contact with the front of vehicle two (V2), which was traveling in the opposite direction.  The impact caused V1 to spin in a clockwise direction, approximately 180 degrees, before coming to final rest entirely off of the roadway on the property of a nearby house.  After colliding with V1, V2 spun clockwise, also approximately 180 degrees, before coming to rest partially off of the roadway on the same property as V1.  The travel speeds of both vehicles could not be determined.  All three occupants involved were airlifted to nearby hospitals due to injuries.  Unfortunately, the interviews of the drivers could not be obtained.  Therefore, some pertinent information could not be acquired, thus giving an incomplete synopsis of events.  There was however, some witness information given to the officers that help complete the scenario.  ",
+        "The crash occurred in the eastbound lane of a two-lane, two-way asphalt roadway on level grade.  The conditions were daylight and wet with cloudy skies in the early afternoon on a weekday.\tV1, a 1995 Chevrolet Lumina was traveling eastbound.  V2, a 2004 Chevrolet Trailblazer was also traveling eastbound on the same roadway.  V2, was attempting to make a left-hand turn into a private drive on the North side of the roadway.  While turning V1 attempted to pass V2 on the left-hand side contacting it's front to the left side of V2.  Both vehicles came to final rest on the roadway at impact.The driver of V1 fled the scene and was not identified, so no further information could be obtained from him.  The Driver of V2 stated that the driver was a male and had hit his head and was bleeding.  She did not pursue the driver because she thought she saw a gun. The officer said that the car had been reported stolen."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "drive off"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

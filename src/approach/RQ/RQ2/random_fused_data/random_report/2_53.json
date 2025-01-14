@@ -1,0 +1,65 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005003498401",
+        "2005041508981"
+    ],
+    "description": [
+        "The crash occurred on the eastbound lane of a two-way road with one lane in each direction.  The roadway was straight and level, and it was daylight and clear with no adverse conditions. There were no traffic control devices and the speed limit was 48kmph (30mph).Vehicle # 1 was a 2004 Mercury Sable that was traveling westbound.  The driver veered into the eastbound lanes and the front of Vehicle # 1 impacted the left side of a legally parked and unoccupied Ford E-Series Van. Vehicle # 1 came to a final rest when it impacted a fence on the sidewalk. The Mercury Sable (Vehicle # 1) was driven by a 55 year-old female who sustained minor injuries and was transported to a local hospital.  The occupant in the front-center seating position did not sustain any injuries but was also transported to a local hospital.  The driver stated that she attempted to stop when she stepped on the accelerator instead of the brake pedal.  The Mercury Sable was towed due to damage and the driver declined to participate in the study.  ",
+        "\tThe crash occurred at a T-intersection of an eastbound 5-lane undivided roadway and a northbound driveway exit from a parking lot.  The eastbound roadway was a two-way, five-lane roadway with a two-way left turn lane in the middle.  Both the eastbound roadway and the driveway were straight, level, bituminous roadways.   The posted speed for east/west traffic was 56 kmph (35 mph).  Conditions were daylight on a weekday morning with dry roads and clear skies.  Traffic flow in the eastbound direction was backed up for a light at a signalized intersection up ahead.    \tV1, a 2001 Volkswagen Jetta with one occupant, was stopped at a stop sign at the parking lot exit, waiting to turn left.  V2, a 2002 Dodge Intrepid with two occupants, was traveling eastbound in the two-way left turn lane.  Traffic in the first two eastbound lanes was backed up for a traffic light ahead.  Vehicles in those lanes made space for V1 to pull out.  As V1 pulled out to turn left, the front of V1 made contact with the front of V2 in the third (middle) lane of travel.  Both vehicles were towed due to damage.   \tV1 was driven by a 23-year old female who sustained possible injuries.  She was transported to the hospital from the crash scene by her boyfriend.  She stated that she had stopped at the drug store on her way to the hospice to see her grandmother.  Eastbound traffic was backed up, but the first two lanes left a gap for her to exit.  She said that one of the drivers waved her out.  She stated that she didn't see anything, so she cautiously pulled out.  The driver indicated that she did not know where the other vehicle came from.    "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 4
+}

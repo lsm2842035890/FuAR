@@ -1,0 +1,48 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "25MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005075585601",
+    "description": "This two-vehicle crash occurred during morning daylight hours on a curved, two-lane,\n                        t-intersection with no controls. The road runs north and south at the location and has one lane\n                        in each direction. The speed limit is 40 kph (25 mph) road surface level asphalt and there were\n                        no adverse weather conditions at the time.\n\n\n                        Vehicle #1 (V1), a red 1998 Dodge Stratus 4-door, driven by a 21 year-old female was traveling\n                        southbound in lane one. Vehicle #2 (V 2) a 1996 Ford Bronco driven by a 43 year-old female was\n                        traveling northbound in lane one. V 1 initiated a left turn just before the intersection the\n                        front of V1 collided with left side of Vi. The impact rotated V1 somewhat counterclockwise and\n                        pushed it back and V1 came to rest in the northbound lane facing generally southeast. V1 was\n                        towed due to damage.\n\n\n                        The V1 driver stated that she was on her way to get a key to a new apartment that she was\n                        planning to move into. She added that she was wearing sunglasses and had the V1 sun visor down,\n                        but did not see V2 because the sun glare was blinding her as she began to turn left. V 2 noticed\n                        V1 turning into her path and steered to the right but was not able to avoid the collision with\n                        V1. After the impact, V2 came to rest a few meters to the north of the intersection in the\n                        original lane of travel against the curb facing generally north. V2 was towed due to damage.\n\n\n                        The Pre-event Movement for V 1 was coded as \"Negotiating a curve.\" The Critical Event was coded\n                        as \"This Vehicle Traveling - turning left at intersection\" The Critical Reason coded as\n                        \"Environment Related Factor - Glare.\"\n\n\n                        The Pre-event Movement was coded as \"Negotiating a curve.\" The Critical Event was coded as\n                        \"Other Vehicle Encroachment - from opposite direction - over left lane line. The Critical Reason\n                        was not coded to this vehicle.\n\n\n                        Associative factors are: 1) The V1 driver was excited about moving from her parent's home into\n                        her own apartment; 2) Possible fatigue from packing and loading household goods the previous\n                        evening; 3) possible side effects from Synthroid; 4) the V1 driver was drinking a cup of coffee\n                        while driving."
+}

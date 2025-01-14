@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005003498481",
+    "description": "This crash occurred at the intersection of a two-way roadway with one lane in each\n                        direction and a one-lane, one-way roadway. It was daylight and the roadway was straight and\n                        level and it was clear with patches of ice that formed from the night before. The speed limit\n                        was 48kph (30mph).\n\n\n                        Vehicle #1, a 1999 Ford Crown Victoria, was traveling westbound on the two-way roadway. Vehicle\n                        #2, a 1993 Ford Crown Victoria, was traveling northbound on the one-way roadway. At the\n                        intersection, the front of Vehicle #2 contacted the left side of Vehicle #1. Vehicle #1 then\n                        struck a pedestrian standing on the northwest corner of the intersection. The pedestrian\n                        sustained no injuries.\n\n\n                        The 1999 Ford Crown Victoria was driven by a 48-year old male who sustained no injuries and was\n                        not transported to the hospital. The vehicle was used as a livery taxicab, and he was\n                        transporting one passenger. He stated that he had the green light and was trying to avoid\n                        Vehicle #2 by steering right. The driver also stated that Vehicle #2 was traveling at a high\n                        rate of speed and disregarded the traffic control signal. This vehicle was driven from the\n                        scene. The driver of Vehicle #1 was not thought to have contributed to the crash.\n\n\n                        The Critical Pre-crash Event for Vehicle #1 was coded, other vehicle encroachment, from crossing\n                        street; turning into same direction. The Critical Event was not coded for this vehicle.\n\n\n                        The 1993 Ford Crown Victoria was driven by a 33-year old who sustained no injuries and was not\n                        transported to the hospital. He stated that he was attempting to make a left turn at the\n                        intersection and slid on ice patches and lost control. He wears glasses to correct his myopic\n                        (near sighted) condition, and does not have any health problems.\n\n\n                        The Critical Pre-crash Event for Vehicle # 2 was coded as this vehicle control loss due to; poor\n                        road conditions. The Critical Reason for the Critical Pre-crash Event was coded as decision\n                        errors too fast for conditions. An associated factor was coded as environment related factor;\n                        slick roads."
+}

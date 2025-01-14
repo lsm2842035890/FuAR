@@ -1,0 +1,46 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "80KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 3
+        }
+    },
+    "ID": "2005004112862",
+    "description": "The crash occurred in the southbound lane of a five-lane intersection with a median controlled\n                        by a traffic control signal. Conditions were dusk with minimal light in the evening on a\n                        weekday. The posted speed limit was 80 KMPH (50 MPH).\n\n\n                        V1 was a 2003 Honda Civic Coupe traveling northbound in the third travel lane approaching an\n                        intersection controlled by a traffic control signal intending on turning left. V2, a 1999 Chevy\n                        Malibu sedan, was traveling southbound in the third travel lane approaching the same\n                        intersection intending on going straight. As V1 was making a left turn, the front of V1 struck\n                        the front of V2 in the southbound lane. V1 came to final rest facing westbound and V2 came to\n                        final rest facing southbound.\n\n\n                        V1 was driven by a 29-year-old female who sustained moderate injuries and was transported to a\n                        local hospital. She stated that she looked prior to turning left and did not see V2. The driver\n                        of V1 did not take any avoidance actions. V1 was traveling between 11-20 MPH at the time of\n                        impact. V1 was towed due to damage.\n\n\n                        The critical precrash event for V1 was this vehicle traveling, turning left at the intersection.\n                        The critical reason for the critical precrash event was a driver related factor, inattention\n                        (i.e., driver thinking about personal problem). Associated factors coded to this driver were\n                        inadequate surveillance (looked, but did not see) and the driver being fatigued.\n\n\n                        V2 was driven by a 22-year-old male who was not injured. V2 was towed due to damage. We\n                        attempted to interview the driver of V2 several times but he never returned our calls.\n\n\n                        The critical precrash event for V2 was the other vehicle encroachment, from opposite direction,\n                        over left lane line. No critical reason for the critical precrash event was coded to this\n                        vehicle."
+}

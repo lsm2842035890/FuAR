@@ -1,0 +1,109 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002229442",
+        "2005002585263",
+        "2005005289822",
+        "2005005447202"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on late morning on a weekday.Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had been stopped in the northbound  traveling lane waitng for traffic to pass and intending to make a left turn into the parking lot.The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at the scene and refused further medical attention. He stated he was looking at an exterior site, to the right of his vehicle, and did not realize the vehicle in front of him was stopped.",
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The road was curved left with a radius of curvature of 375 meters and a superelevation of 1.8% for Vehicle #2. The road was curved right with a radius of curvature of 1875 meters and no superelevation for Vehicle #1.  Both vehicles had black on yellow curve warning signs with a suggested speed of 50 MPH.  The weather was cloudy.     Vehicle #1, a 2000 Chevrolet Cavalier, was traveling west on the two-lane roadway negotiating a curve to the right approaching a driveway.  Vehicle #2, a 1995 Dodge Intrepid, was traveling east on the same roadway negotiating the curve to the left.  Vehicle #1 attempted a left hand turn into the driveway and was struck in the front by Vehicle #2's front.  Vehicle #1 was rotated counterclockwise back across both lanes and came to rest in the westbound lane facing east.  Vehicle #2 continued off the right side of the roadway, came back on the roadway crossed both lanes, off the north side of the road and struck a 25cm pole with its front.  Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Chevrolet Cavalier (Vehicle #1) was driven by a belted 80 year old male who was transported, treated and released for minor injuries.  The right front seat passenger was a belted 72-year-old female who was also transported, treated and released for minor injuries. Both driver and passenger airbags deployed. The interview was refused and no information obtained from the driver. ",
+        "This two-vehicle crash occurred in the evening hours in the middle of the two northbound lanes of a physically divided (concrete barrier) bridge.  There were no adverse atmospheric conditions at the time of the crash, although it was dark and no streetlights were present.  The roadway was dry, straight, and level with a posted speed limit of the roadway was 72kph (45mph).  V1, a 2005 Mazda 626, was northbound in lane one on the bridge.  V2, a 1995 Ford Windstar, was disabled on the bridge in lane one ahead of vehicle one.  V1 failed to stop and the front of V1 contacted the back of V2 the impact pushed V2 forward and its right side contacted the right concrete barrier before coming to final rest.  Both vehicles had to be towed from the scene due to vehicle damage.V1 was driven by a 22 year-old female who suffered minor injuries as a result of the collision, but did not require transport to a medical facility.  After numerous attempts, an interview could not be obtained from the driver of vehicle one.  From statements given to the police on scene the driver of V1 had consumed alcoholic beverages prior to the crash but sobriety tests confirmed she was still within the legal limit to operate a motor vehicle.  V1 was towed due to damage.",
+        "This crash occurred on a two-way, two-lane roadway. It was not physically divided, and had a traffic-control device, for a construction zone.  The conditions were as follows: early afternoon, clear skies, the roadway was dry and there were no atmospheric conditions.  The gradient for the two vehicles involved were both on a +6% roadway.  The posted speed limit for vehicle one (V1) and vehicle two (V2) was 64 kph (40 mph). V2 was a 2005 Mercury Sable was traveling northbound and was stopped for a stop/slow sign for the construction zone.  Upon realization of the impending crash, the driver of V2 stated that he could not do anything.  V1 was a 2002 Dodge Neon, traveling northbound.  V1 struck V2 in the center part of V2's rear bumper.  The impact caused V1 to push V2 up the roadway.  V1 and V2 came to final rest in the roadway.  V1 was towed due to damage.  V2 was able to be driven from the scene.I spoke to the construction worker on scene, which was holding the stop sign.  He was only able to give a few words, due to the language barrier.  He attested that V2 was waiting for the sign to change, so V2 could proceed.  He further stated that V1 pushed V2 up the roadway some."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

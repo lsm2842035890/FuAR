@@ -1,0 +1,69 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "72KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005002585224",
+        "2005048103001"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH).  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.     Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking.  Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway.  Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn.  Vehicle #2 braked and steered left to avoid a collision.  Vehicle #2 struck Vehicle #1 in left side with its front.  Vehicle #2 came to rest facing in a northwesterly direction.  Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm.  He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work.  He stated that he had glanced at the traffic light (behind him) and thought it was red.  He also stated that he had looked, but didn't see the bus.  He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers.  Vehicle #1 was towed due to damage.",
+        "This two-vehicle intersection related crash occurred in the morning daylight hours on a two-lane, undivided, two-way, bituminous roadway that intersects at a \"T\" intersection with a two-way two-lane road to the south.  The roadway was wet because it had just started to rain.  The primary roadway runs east/west with one lane in each direction and is slightly curved.  There are no traffic controls for the east/west roadway and a stop sign is posted for the intersecting northbound travel direction.  The posted speed limit on the east/west roadway was 72 kmph (45 mph).Vehicle one (V1) was a 1997 Infinity Q45 that was traveling west and negotiating a curve to the right.  The driver of V1 intended to make a left turn at the intersection.  The driver of V1 stated that as he approached the intersection, his vision shrank to tunnel vision and he blacked out.  V1 crossed the double yellow lane line and its front contacted the front of vehicle two (V2).  V2 was a 2005 Lexus ES330 that was traveling east negotiating the curve to the left.  Post impact V1 rotated clockwise and departed the north side of the roadway and the front of V1 impacted an embankment where it came to rest.  After the first impact V2 deflected to the right and departed the south side of the roadway and came to rest facing east on the upslope of an embankment. Both vehicles were towed due to damage.The driver of V1, and sole occupant, was a 51 year old male.  He had been awake for four hours after adequate sleep. He performed strenuous recreational activities of playing tennis for three hours prior to this trip and takes the medication Mavik for high blood pressure.  He blacked out while driving his vehicle.  Medical records indicated that low blood sugar may have been why the driver blacked out even though he had not been diagnosed as being diabetic.  The driver was very familiar with the vehicle and the roadway."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 4
+}

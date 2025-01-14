@@ -1,0 +1,92 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005004112541",
+        "2005048103001",
+        "2006012695726"
+    ],
+    "description": [
+        "     The crash occurred in the southbound lane of a two-lane roadway with a T-intersection.  Conditions were daylight with cloudy skies and rain in the morning on a weekday.  The posted speed limit was 72 kmph (45 mph).     V1 was a 2003 Acura 3.2 TL sedan traveling eastbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Ford Aerostar minivan, was traveling southbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left front corner of V1 in the southbound lane.  V1 spun clockwise and came to final rest facing westbound.  V2 came to final rest facing southbound.",
+        "This two-vehicle intersection related crash occurred in the morning daylight hours on a two-lane, undivided, two-way, bituminous roadway that intersects at a \"T\" intersection with a two-way two-lane road to the south.  The roadway was wet because it had just started to rain.  The primary roadway runs east/west with one lane in each direction and is slightly curved.  There are no traffic controls for the east/west roadway and a stop sign is posted for the intersecting northbound travel direction.  The posted speed limit on the east/west roadway was 72 kmph (45 mph).Vehicle one (V1) was a 1997 Infinity Q45 that was traveling west and negotiating a curve to the right.  The driver of V1 intended to make a left turn at the intersection.  The driver of V1 stated that as he approached the intersection, his vision shrank to tunnel vision and he blacked out.  V1 crossed the double yellow lane line and its front contacted the front of vehicle two (V2).  V2 was a 2005 Lexus ES330 that was traveling east negotiating the curve to the left.  Post impact V1 rotated clockwise and departed the north side of the roadway and the front of V1 impacted an embankment where it came to rest.  After the first impact V2 deflected to the right and departed the south side of the roadway and came to rest facing east on the upslope of an embankment. Both vehicles were towed due to damage.The driver of V1, and sole occupant, was a 51 year old male.  He had been awake for four hours after adequate sleep. He performed strenuous recreational activities of playing tennis for three hours prior to this trip and takes the medication Mavik for high blood pressure.  He blacked out while driving his vehicle.  Medical records indicated that low blood sugar may have been why the driver blacked out even though he had not been diagnosed as being diabetic.  The driver was very familiar with the vehicle and the roadway.",
+        "\tThis crash occurred in the morning of a weekday in the eastbound lanes of an urban roadway near a T-intersection.  The east/west roadway consisted of two through lanes flanked by a designated right turn lane and a designated left turn lane in the eastbound direction and two through lanes in the westbound direction.  The bituminous roadway was dry, straight, and level, with a posted speed of 72 kmph (45 mph).  Traffic was congested, but flowing and there were no adverse atmospheric conditions at the time of the crash.\tV1, a 1978 Chevrolet Corvette two-door with one occupant was eastbound in lane three.  V2, a 1990 Buick Regal two-door with one occupant was stopped eastbound in lane three ahead of V1 waiting for the light at the intersection ahead of him to turn green and traffic to proceed.  As light turned green and V2 began to accelerate V1 struck V2's rear.  A witness stated that the driver of V1 was traveling between 82-97 kmph (51-60 mph) when he made the avoidance action of steering right but could not avoid V2.  Both vehicles rolled forward and came to final rest near the point of impact.  Both vehicles were towed due to damage.  \tThe driver of V1, an unknown aged male, fled the scene shortly after maneuvering the vehicle off the road.  No further information could be obtained regarding the driver as the owner of the vehicle told the police it had been taken without him knowing."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 6
+}

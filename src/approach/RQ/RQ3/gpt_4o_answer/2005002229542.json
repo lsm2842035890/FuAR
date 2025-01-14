@@ -1,0 +1,45 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": 55,
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005002229542",
+    "description": "This crash occurred on a two-lane undivided roadway that curved to the right with a super\n                        elevation of 6.3 percent. The roadway at this point had a downhill grade of 4.9 percent and\n                        there was an intersecting side road on the left. The posted speed limit was 89KMPH (55MPH). The\n                        roadway was dry and the weather was cloudy. This crash occurred on a weekday in the early hours\n                        of the morning before dawn. The roadway was not illuminated.\n\n\n                        Vehicle #1, a 2000 Peterbilt tractor-trailer, was traveling north on the two-lane roadway when\n                        it came up upon Vehicle #2, a 1998 Chevrolet pickup truck, which was facing north getting ready\n                        to make a left turn onto the side road. In an attempt to avoid a collision, the driver of\n                        Vehicle #1 steered to the left while locking up his brakes. As he did this, Vehicle #2 initiated\n                        its left turn. Vehicle #1 struck Vehicle #2 on the left side passenger compartment with its\n                        front right. Vehicle #1 skidded off the roadway to the left, impacting a road sign and came to\n                        rest off the roadway on the west side, north of the side road. Vehicle #2 continued off the\n                        roadway to the northwest and came to final rest in front of Vehicle #1.\n\n\n                        Vehicle #1 was driven by a belted 43-year old male who was not injured. This driver stated that\n                        Vehicle #2 was stopped in the roadway and he steered to the left to avoid striking it, as he had\n                        no room to maneuver to the right of Vehicle #2.\n\n\n                        The Critical Pre-crash Event for this vehicle was: this vehicle traveling over the lane line on\n                        left side of travel lane. The Critical Reason for the Critical Pre-crash Event was coded as \"too\n                        fast to be able to respond to unexpected actions of others,\" a driver-related decision error.\n                        Associated factors coded to this driver include traveling too fast for conditions and the fact\n                        that the driver chose an inappropriate/unsuccessful evasive action. Had the driver simply braked\n                        in his lane without steering to the left, it is likely that V2 would have completed its turn\n                        with no impact.\n\n\n                        Vehicle #2 was driven by a belted 32-year old female who was transported to an area hospital,\n                        treated and released. The driver stated she had not stopped in the roadway, as there was no\n                        oncoming traffic. She said that she decelerated in her lane to between 1-10 MPH and then\n                        initiated her turn. She further stated that before she had turned, she had seen the truck in her\n                        rearview mirror and it was \"tiny\" in her mirror. She could not understand how the truck came\n                        down the hill so quickly.\n\n\n                        The Critical Pre-crash Event for this vehicle was: other vehicle encroachment from adjacent lane\n                        (same direction)-over left lane line. The Critical Reason for the Critical Pre-crash Event was\n                        not coded to this vehicle.\n\n\n                        Police did not consider alcohol or illegal drugs to be a factor and did not order a test for\n                        either driver."
+}

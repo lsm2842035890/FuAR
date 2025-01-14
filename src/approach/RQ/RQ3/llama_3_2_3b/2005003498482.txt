@@ -1,0 +1,38 @@
+
+import json
+import re
+from collections import Counter
+
+def get_weather(line):
+    weather = []
+    if'sunny' in line:
+        weather.append('sunny')
+    elif 'clear' in line:
+        weather.append('clear')
+    elif 'rainy' in line:
+        weather.append('rainy')
+    elif 'foggy' in line:
+        weather.append('foggy')
+    elif'snowy' in line:
+        weather.append('snowy')
+    elif 'windy' in line:
+        weather.append('windy')
+    elif 'cloudy' in line:
+        weather.append('cloudy')
+    else:
+        weather.append('unknown')
+    return weather
+
+def get_lighting(line):
+    lighting = []
+    if 'bright' in line:
+        lighting.append('bright')
+    elif 'normal' in line:
+        lighting.append('normal')
+    elif 'dark' in line:
+        lighting.append('dark')
+    elif 'dusk' in line:
+        lighting.append('dark')
+    elif 'night' in line:
+        lighting.append('dark')
+    elif 'light

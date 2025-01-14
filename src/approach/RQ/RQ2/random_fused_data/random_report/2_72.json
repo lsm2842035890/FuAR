@@ -1,0 +1,69 @@
+{
+    "weather": [
+        "cloudy"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005002229102",
+        "2005005289222"
+    ],
+    "description": [
+        "     This crash occurred on a level two lane undivided roadway with a posted speed limit of 64KPH (40MPH).  There was an intersecting roadway to the left and a driveway to the right. There was a traffic control signal at the intersection. The weather was cloudy, the roadway was dry and it was dark, but lighted at the time of this late night weekday crash.     Vehicle #1, a 1987 Honda Accord, was traveling south on the two lane undivided roadway approaching the intersection. It should be noted that the traffic control signal was lighted red. Vehicle #2, a 1994 Honda Civic was stopped at the signal awaiting a green light, in front of Vehicle #1. Vehicle #1's front impacted Vehicle #2's rear. Vehicle #2 was pushed through the intersection and came to rest facing in a southwesterly direction. Vehicle #1 came to rest facing in a southerly direction.     The Honda Accord (Vehicle #1) was driven by an unbelted 19 year old female who was transported, treated and released for minor bleeding to the head. She stated that she did not see the other vehicle, that she was also looking down to retrieve a dropped water bottle as well as attempting to put on her seat belt. Vehicle #1 was towed due to damage and was destroyed before the inspection could be done.",
+        "This late-night, two-vehicle crash occurred on a two-way, two-lane, not physically divided roadway.  The posted speed limit was 56kph (35mph) and there were no atmospheric conditions at the time of the incident.  The gradient for both vehicles involved was level.  No traffic control devices were associated with this crash.  Vehicle one (V1) was traveling eastbound and had just negotiated a right curve.  For unknown reasons, V1 partially left the right side of the roadway and overcompensated the vehicle when trying to return.  This caused V1 to spin laterally in a counterclockwise direction.  After loosing control of the vehicle, the passenger side of V1 made contact with the front of vehicle two (V2), which was traveling in the opposite direction.  The impact caused V1 to spin in a clockwise direction, approximately 180 degrees, before coming to final rest entirely off of the roadway on the property of a nearby house.  After colliding with V1, V2 spun clockwise, also approximately 180 degrees, before coming to rest partially off of the roadway on the same property as V1.  The travel speeds of both vehicles could not be determined.  All three occupants involved were airlifted to nearby hospitals due to injuries.  Unfortunately, the interviews of the drivers could not be obtained.  Therefore, some pertinent information could not be acquired, thus giving an incomplete synopsis of events.  There was however, some witness information given to the officers that help complete the scenario.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "drive off"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

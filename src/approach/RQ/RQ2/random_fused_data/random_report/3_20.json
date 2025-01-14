@@ -1,0 +1,99 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "50MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "unknown",
+    "impactPart": 2,
+    "ID": [
+        "2005004112402",
+        "2005004112921",
+        "2005004496062"
+    ],
+    "description": [
+        "     The crash occurred in the eastbound lane of a two-lane roadway with a T-intersection.  Conditions were dusk and dry in the evening on a weekend.  The northbound lane had a posted speed limit of 40 kmph (25 mph) and the eastbound lane had a posted speed limit of 56 kmph (35 mph).     V1 was a 2003 Hyundai Elantra sedan traveling eastbound in the right lane approaching a T-intersection.  V2, a 1998 Ford Taurus sedan, was traveling northbound in the right lane approaching a stop sign intending on turning left.  V2 stopped at the stop sign, looked in both directions but there was landscaping and a fence obstructing V2's view.  V2 then proceeded to turn left and the front of V1 struck the left side of V2 in the intersection., as V1 passed by V2, V2's right front contacted the back of V1.  V1 continued on and struck a curb and a tree.  V1 came to final rest facing eastbound.  V2 continued on and struck a curb and came to final rest facing northwest.",
+        "       The crash occurred in the northbound lane of a two-lane intersection controlled by a stop sign.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 2002 Mercury Grand Marquis sedan traveling northbound in the 1st travel lane approaching the intersection controlled by a stop sign.  V2, a 2003 Toyota Corolla sedan, was traveling eastbound in the 1st travel lane intending on going straight.  V1 stopped at the stop sign looked both ways but did not see V2.  The front of V2 struck the left side of V1 in the northbound lane.  V1 came to final rest facing northbound and V2 came to final rest facing eastbound.     V1 was driven by a 70-year-old male who was not injured.  He stated that he stopped at the stop sign, looked both ways and proceeded thru the intersection.  He did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage.",
+        "     The crash occurred in the intersection of a five-lane roadway controlled by a traffic control signal.  Conditions were dark with minimal lighting in the evening on a weekday.  The posted speed limit was 80 KMPH (50 MPH).  The northbound lane had a  >2% uphill grade.  The southbound lane was level.     V1 was a 1999 Toyota Corolla sedan traveling northbound in the third travel lane approaching an intersection controlled by a traffic control signal intending on turning left at the intersection.  V2, a 2006 Chevy Colorado pickup, was traveling southbound in the 2nd travel lane approaching the same intersection intending on going straight.  The front of V1 struck the front of V2 in the intersection.  Both vehicles came to final rest facing southbound.     V1 was driven by a 51-year-old male who sustained moderate injuries and was transported to a local hospital.  He stated that he did not see V2.  The driver did not take any avoidance actions and was traveling between 11-20 MPH at the time of impact.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 6
+}

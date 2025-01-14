@@ -1,0 +1,72 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 5,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005004495863",
+        "2005006445102"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a two-lane roadway with a driveway related intersection.  Conditions were daylight in the morning on a weekend.  The posted speed limit for the northbound lane was 35 MPH.  There was no posted speed limit for the driveway.     V1 was a 2001 Buick Century sedan turning left out of the driveway facing westbound.  V2, a 2005 Toyota Tundra pick-up, was traveling northbound in the 1st travel lane approaching the driveway intending on going straight.  V1 made a left turn and the front of V2 struck the left side of V1 in the northbound lane.  Both vehicles came to final rest facing northbound.     V1 was driven by a 76-year-old female who sustained moderate injuries and was transported to a local hospital.  She stated that prior to exiting the driveway, she looked both ways and couldn't see to her left because of a big sign.  She proceeded to turn left and struck V2.  V1 did not take any avoidance actions and was traveling less than 10 MPH at the time of impact.  V1 was towed due to damage.",
+        "This motor vehicle crash happened on a roadway.  This roadway travels east/west, with two travel lanes westbound and two travel lanes and one left turn lane eastbound.  The roadway is not physically divided.  The crash took place mid-block about 9 meters west of the traffic control signal.The driver of V1 was stopped at a traffic light, when the light turned green the driver proceeded to accelerate, traveling in lane two, in the westbound lanes.  V2 entered the roadway from a parking lot and crossed the path of V1, trying to turn onto the eastbound lanes.  V1 contacted V2 with its left front.  Both cars came to rest at impact.  V1's driver was coming from work and states that they did not see V2 until V2 crossed the path of V1.  The driver states that they were traveling about 40-48 kmph (25-30 mph) at time the of impact and tried to avoid contacting V2 but could not stop in time."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

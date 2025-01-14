@@ -1,0 +1,113 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark",
+        "light"
+    ],
+    "speedlimit": 48,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 0,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005003498361",
+        "2005003588341",
+        "2005003588441",
+        "2005048103001"
+    ],
+    "description": [
+        "This crash occurred in the westbound lanes of a not physically divided two-way roadway.  The roadway had a speed limit of 48kmph (30mph) and had a grade of -2/61.  It was dark but lighted, and it was clear with no adverse conditions.  The crash occurred in the early morning hours on a weekend.Vehicle # 1 was a 2000 Mack Dump Truck that was traveling westbound on the roadway.  Vehicle # 2 was a 2003 Chevrolet Trailblazer that was traveling eastbound, when it swerved into the westbound lanes.  The front of Vehicle # 2 impacted the left side of Vehicle # 1.  Vehicle # 2 came to a final rest back on the eastbound lane.The 2000 Mack Truck (Vehicle # 1) was driven by a 28-year old male who did not sustain any injuries.  The Mack Truck was not towed due to damage.",
+        "The crash occurred in the southbound lanes of a two-way roadway that was divided by a raised curb median with two lanes in each direction.  The roadway was straight and level and had a posted speed of 48 kmph (30 mph).  The weather was clear with no adverse conditions.  It was the evening hours of a weekday and it was dark out but the roadway was lighted. The crash occurred at a signalized intersection with an east/west roadway.Vehicle #1 was a 2001 Mitsubishi Mirage that was traveling southbound in the right lane.  Vehicle #2 was a 1995 Ford Probe that was traveling northbound in the left lane and attempting to make a left turn.  At the intersection, the front of Vehicle #1 impacted the right front side of Vehicle #2, and then Vehicle #2 impacted a chain-link fence that was located on the southwest corner of the intersection.The Mitsubishi Mirage (Vehicle #1) was driven by a 40-year old female who was transported to a local medical facility with incapacitating injuries.  A 21-year old female sustained minor injuries and a 12-year old male in her vehicle sustained non-incapacitating injuries and were both transported to a local medical facility.  Vehicle #1 was going straight through the intersection when Vehicle #2 turned in front of it.  The Mirage was towed due to damage.",
+        "The crash occurred in the eastbound lanes of a two-way roadway that is divided by a center median with three lanes in each direction.  It was daylight and clear and the ground was wet from a previous rainstorm.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph). V1 was a 2000 Mercedes-Benz ML320 that was stopped for the Traffic control device when it was rear-ended by V2, a 1996 Toyota Corolla.  Both vehicles came to final rest in the roadway.V1 was driven by a 42 year-old male who did not sustain any injuries and was unable to be located for an interview.  V1 was driven away before it could be inspected.",
+        "This two-vehicle intersection related crash occurred in the morning daylight hours on a two-lane, undivided, two-way, bituminous roadway that intersects at a \"T\" intersection with a two-way two-lane road to the south.  The roadway was wet because it had just started to rain.  The primary roadway runs east/west with one lane in each direction and is slightly curved.  There are no traffic controls for the east/west roadway and a stop sign is posted for the intersecting northbound travel direction.  The posted speed limit on the east/west roadway was 72 kmph (45 mph).Vehicle one (V1) was a 1997 Infinity Q45 that was traveling west and negotiating a curve to the right.  The driver of V1 intended to make a left turn at the intersection.  The driver of V1 stated that as he approached the intersection, his vision shrank to tunnel vision and he blacked out.  V1 crossed the double yellow lane line and its front contacted the front of vehicle two (V2).  V2 was a 2005 Lexus ES330 that was traveling east negotiating the curve to the left.  Post impact V1 rotated clockwise and departed the north side of the roadway and the front of V1 impacted an embankment where it came to rest.  After the first impact V2 deflected to the right and departed the south side of the roadway and came to rest facing east on the upslope of an embankment. Both vehicles were towed due to damage.The driver of V1, and sole occupant, was a 51 year old male.  He had been awake for four hours after adequate sleep. He performed strenuous recreational activities of playing tennis for three hours prior to this trip and takes the medication Mavik for high blood pressure.  He blacked out while driving his vehicle.  Medical records indicated that low blood sugar may have been why the driver blacked out even though he had not been diagnosed as being diabetic.  The driver was very familiar with the vehicle and the roadway."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 8
+}

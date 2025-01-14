@@ -1,0 +1,70 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004112402",
+        "2005043601461"
+    ],
+    "description": [
+        "     The crash occurred in the eastbound lane of a two-lane roadway with a T-intersection.  Conditions were dusk and dry in the evening on a weekend.  The northbound lane had a posted speed limit of 40 kmph (25 mph) and the eastbound lane had a posted speed limit of 56 kmph (35 mph).     V1 was a 2003 Hyundai Elantra sedan traveling eastbound in the right lane approaching a T-intersection.  V2, a 1998 Ford Taurus sedan, was traveling northbound in the right lane approaching a stop sign intending on turning left.  V2 stopped at the stop sign, looked in both directions but there was landscaping and a fence obstructing V2's view.  V2 then proceeded to turn left and the front of V1 struck the left side of V2 in the intersection., as V1 passed by V2, V2's right front contacted the back of V1.  V1 continued on and struck a curb and a tree.  V1 came to final rest facing eastbound.  V2 continued on and struck a curb and came to final rest facing northwest.",
+        "This two-vehicle crash occurred in the early afternoon near a crossover of a multi-lane highway divided by a grass median. The southbound side had three lanes including a left-turn lane; the northbound side had four lanes that included a right and left turn lane at a T-intersection. The posted speed limit for both directions was 89 kmph (55 mph) and weather conditions were cloudy and dry.V1, a 1996 Chevrolet Cavalier driven by a 17-year old male, was traveling south in lane three approaching the T-intersection. V2, a 1995 Honda Accord driven by a 32-year old female, was traveling north in lane 3 approaching the same intersection. V1 entered the crossover area and then initiated a left turn. As V1 crossed into the northbound lanes, it was struck on the right side by the front of V2. V1 came to final rest in northeast roadside of the intersection and V2 came to rest in the same lane it was originally traveling. The driver of V1 was returning home from work and was attempting to make a left turn when he turned in front of the Honda Accord. He reported that there were other vehicles obstructing his view of oncoming traffic but he decided to turn left anyway. He said he never saw the Honda that struck him so he never tried to avoid the collision. He was not injured in the crash."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 3
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 3
+        }
+    },
+    "carCount": 4
+}

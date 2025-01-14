@@ -1,0 +1,62 @@
+{
+    "weather": [
+        "cloudy",
+        "clear"
+    ],
+    "lighting": [
+        "bright",
+        "dark"
+    ],
+    "speedlimit": 0,
+    "intersection": "no",
+    "T": "no",
+    "carCount": 3,
+    "laneCount": 6,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "ID": [
+        "200501269401",
+        "2005006589001"
+    ],
+    "description": [
+        "The crash occurred in the eastbound lane of a two-lane, two-way asphalt roadway on level grade.  The conditions were daylight and wet with cloudy skies in the early afternoon on a weekday.\tV1, a 1995 Chevrolet Lumina was traveling eastbound.  V2, a 2004 Chevrolet Trailblazer was also traveling eastbound on the same roadway.  V2, was attempting to make a left-hand turn into a private drive on the North side of the roadway.  While turning V1 attempted to pass V2 on the left-hand side contacting it's front to the left side of V2.  Both vehicles came to final rest on the roadway at impact.The driver of V1 fled the scene and was not identified, so no further information could be obtained from him.  The Driver of V2 stated that the driver was a male and had hit his head and was bleeding.  She did not pursue the driver because she thought she saw a gun. The officer said that the car had been reported stolen.",
+        "\tThis crash occurred in the evening, the weather that evening was clear with no adverse conditions, the roadway was dry.  It took place on a major highway.  The highway travels east/west.  It consists of six total travel lanes, three in each direction, divided by a physical median with a positive barrier.  The two vehicles contacted in the westbound lanes while coming off the on-ramp, the on-ramp was not a factor (they were both on the roadway at the bottom).  The on-ramp had a yield sign at the bottom where the roadway levels out.\tV2 was stopped at the bottom of the on-ramp waiting for traffic at the yield sign.  V1 was also trying to merge into traffic, but did not notice V2 stopped at the bottom of the ramp due to being distracted by traffic on the roadway, driver of V1 was trying to merge into.  After V1 contacted the rear of V2 with its' front they both came to rest in the merging traffic lane.\tThe operator of V1 states that he thought the operator of V2 had already merged into traffic. Driver of V1 was paying attention to the other traffic and never saw that V2 had not merged into traffic as he had thought.  V1 rear- ended V2 at the bottom of the ramp.  "
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": 40,
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2006002229448",
+    "description": "This crash occurred on a two lane undivided roadway between a left and right curve with a\n                        grade of + 4.0% for Vehicle 1 and - 2.9% for Vehicle 2. The posted speed limit was 64 KMPH\n                        (40MPH). The weather was clear and the roadway was dry. This crash occurred on a late weekday\n                        afternoon.\n\n\n                        Vehicle 1, a 2003 Honda Pilot was traveling south on the two lane roadway when it went over the\n                        left lane line, completely into the northbound lane, impacting with the left rear of Vehicle 2,\n                        a 2006 GMC Yukon, which was heading north. The impact pushed Vehicle 2 into a 1 meter wide tree\n                        where it impacted with the tree with its right side.\n\n\n                        Vehicle 1, (the Honda Pilot) was driven by a belted 37 year old male who was not injured. There\n                        was a belted 27 year old female in the front right seat and a child in the second row center,\n                        belted into a child seat. The passengers in this vehicle were not injured. The driver of this\n                        vehicle stated he was blinded by sun glare and did not realize he had gone over the left lane\n                        line. This driver refused inspection of his vehicle.\n\n\n                        The Critical Precrash Event coded to this Vehicle 1 was: This Vehicle Traveling, Over the Lane\n                        Line on Left Side of Travel Lane. The Critical Reason for the Critical Precrash Event was coded\n                        as: Internal distraction.\n\n\n                        Vehicle 2 (the GMC Yukon) was driven by a belted 27 year old male who was transported to an area\n                        hospital, treated and released. There was a belted 22 year old male in the front right seat who\n                        was also transported to an area hospital, treated and released. This driver stated he had moved\n                        over onto the east side shoulder of the roadway to avoid impact but ran out of room due to the\n                        line of large trees. He stated he saw no attempt on the other vehicle to go back into its lane\n                        but he thought it would. He further stated the impact with Vehicle 1 pushed his vehicle into a\n                        large tree on his right side.\n\n\n                        The Critical Precrash Event coded to Vehicle 2 was: Other Motor Vehicle in Lane, Traveling in\n                        Opposite Direction. The Critical Reason for the Critical Precrash Event was not coded to this\n                        vehicle.\n\n\n                        Police did not consider alcohol or illegal drugs to be a factor in this crash and ordered no\n                        tests for either driver. Vehicle 1 was issued a summons for 'failure to keep right'."
+}

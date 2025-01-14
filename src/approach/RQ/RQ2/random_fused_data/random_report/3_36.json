@@ -1,0 +1,95 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "48KMPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002229442",
+        "2005003588201",
+        "2005004112261"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided straight roadway with no grade and a posted speed limit of 89 KMPH (55 MPH). The weather was clear and the roadway was dry. This crash occurred on late morning on a weekday.Vehicle #1,2000 Ford Expedition was traveling south on the two lane undivided roadway when it impacted the rear of Vehicle #2, a 2004 Dodge Ram 1500, with its front. Vehicle # 1 came to rest on the southbound shoulder. Vehicle #2 came to rest in a north side parking lot. Vehicle #2 had been stopped in the northbound  traveling lane waitng for traffic to pass and intending to make a left turn into the parking lot.The Ford Expedition, (Vehicle #1) was driven by a 34 year old belted male who was examined at the scene and refused further medical attention. He stated he was looking at an exterior site, to the right of his vehicle, and did not realize the vehicle in front of him was stopped.",
+        "The crash occurred in the southbound lanes of an undivided two-way roadway, with two lanes of travel in each direction.  The roadway was straight and level and had a posted speed limit of 48 kmph (30 mph).  It was dark out but the roadway was lighted and it was dry.  Vehicle #1 was a 2002 Dodge Stratus, which was traveling southbound on the two-way roadway in the right lane.  Vehicle #2 was a 1993 Nissan Altima that was traveling southbound on the two-way roadway in the left lane.  On this roadway, Vehicle #1 was attempting to make a U-turn to travel northbound when it was contacted on its left plane by Vehicle #2's frontal plane. The crash occurred on a non-junction roadway with no traffic signs or signals. Both vehicles came to final rest on the sidewalk of the northbound lanes. ",
+        "The crash occurred in the northbound lane of a two-lane roadway in an intersection controlled by a stop sign.  Conditions were dusk with rain in the evening on a weekday.  Both roads had a posted speed limit of 56 Kph (35 MPH).V1 was a 2005 Dodge Stratus Sedan and was traveling westbound in the right lane approaching an intersection.  V2, a 1993 Chevy Corsica Sedan, was traveling northbound in the right lane approaching the same intersection controlled by a stop sign.  V2 made a complete stop at the stop sign, then continued through the intersection and struck the left side of V1 in the middle of the intersection.  Both vehicles came to final rest facing northwest.A 25-year-old male who was not injured drove V1.  He stated that he was driving westbound when V2 came out from the intersection and struck his vehicle on the left side.  V1 was traveling approximately 56 Kph (35MPH) at the time of impact.  He did not have time to take any avoidance actions.  V1 was towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 6
+}

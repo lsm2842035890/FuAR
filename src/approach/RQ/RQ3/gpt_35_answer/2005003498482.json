@@ -1,0 +1,40 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 0,
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "unknown",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "turn right",
+                    2
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005003498482",
+    "description": "The crash occurred in the intersection of a southbound one-way and a westbound one-way\n                        roadway. The roadway was straight and level, and it was clear with no adverse conditions. It was\n                        daylight and the roadway condition was dry.\n\n\n                        Vehicle # 1 was a 1998 Ford Windstar that was traveling southbound on the right turn lane making\n                        a right turn when the front of Vehicle # 1 impacted the right side of Vehicle # 2, a Ford\n                        E-Series Van that was traveling on the same roadway and attempting to make a right turn from the\n                        left lane.\n\n\n                        The Ford Windstar (Vehicle # 1) was driven by a 64 year-old male who did not sustain any\n                        injuries. The driver stated that he was making a right turn when the right side of Vehicle # 2\n                        impacted the front of his vehicle. The Ford Windstar was towed due to damage.\n\n\n                        The Critical Pre-crash event for Vehicle # 1 was coded as: Other vehicle encroaching into lane,\n                        from adjacent lane (same direction) over the left lane line. The Critical Reason for the\n                        Critical event was not coded to the driver. He was wearing sunglasses and prescription contacts\n                        that corrected a hyperopic (far-sighted) condition. The driver of the Windstar was not thought\n                        to have contributed to the crash.\n\n\n                        The Ford E-Series Van (Vehicle # 2) was driven by a 35 year-old male who did not sustain any\n                        injuries. Vehicle # 2 was occupied by seven passengers who also did not sustain any injuries.\n                        The driver declined to participate in the study.\n\n\n                        The Critical Pre-crash event for Vehicle # 2 was coded as: This vehicle traveling, over the lane\n                        line on the right side of travel lane. The Critical Reason for the Critical Event was coded as\n                        an illegal maneuver. The associated factors were all coded as unknown."
+}

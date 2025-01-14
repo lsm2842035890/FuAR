@@ -1,0 +1,99 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "64KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585382",
+        "2005004112561",
+        "2005006445243"
+    ],
+    "description": [
+        "     The crash occurred on a two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The roadway was straight with a grade of -2.3%.  There was a black on yellow \"Y\" intersection warning sign for both vehicles.  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.       Vehicle #1, a 1997 Plymouth Neon, was traveling north on the two lane roadway approaching the intersection.  Vehicle #2, a 1987 Ford F-350 stake body, was stopped facing north waiting to make a left hand turn.  Vehicle #1 struck Vehicle #2 in rear with front.  Both vehicles came to rest facing north.  Vehicle #1 was towed due to damage.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.",
+        "     The crash occurred in the westbound lanes of a four-lane roadway separated by a raised curb median (two lanes each direction) at an intersection controlled by a traffic signal.  Conditions were daylight with clouds in the afternoon on a weekday.  The posted speed limit was 64 kmph (40 MPH).  The westbound lanes had a negative 2 percent slope.     V1 was a 2004 Chevy Cavalier sedan traveling around a jug-handle intending to turn left at the intersection with the east/west roadway.  V2, a 2002 Buick Century sedan, was traveling westbound in the left lane intending on continuing straight through the intersection with a green traffic control signal.  The driver of V1 stated that she stopped for a red traffic signal, and when she thought that her light had changed to green, she entered the intersection. The front of V1 struck the right front side of V2.  V2 was deflected to the left and onto the grass median where the front of V2 struck a traffic control signal post.  V1 came to final rest facing southeast and V2 came to final rest facing southwest.  A witness that was identified on the police report as traveling to the right of and behind V2 indicated that the traffic signal for westbound traffic had been green. The county's highway department reviewed the tripped curcuit and verified that traffic on the jug-handle (V1) had a red light.     A 41-year old female drove V1 and was not injured.  She stated that she was traveling around the jug-handle intending on turning left at the intersection with a possible green traffic control signal when V2 struck the front of her vehicle.  The driver of V1 did not have time to take any avoidance actions.  V1 was traveling between 11-20 MPH at the time of impact.  V1 was towed due to damage.",
+        "\tThe crash occurred in the early evening hours while still daylight at a T-intersection.  The main street was an east/west two-lane two-way roadway with no traffic control. The posted speed limit was 40 KMPH (25 MPH). The crossing street ran north/south and ended at the T-intersection.  The north/south roadway was a two-lane two-way roadway controlled by a stop sign. The east west roadway had a shoulder on either side, which diminished as it neared the intersection.  The roadway was divided by two solid yellow lines.  There were no adverse weather conditions that day and both roadways were dry.   \tV1, a 1998 Ford Taurus station wagon, was driven by a 20-year old female. V1 was traveling west on the east/west roadway. V2, a 1994 Pontiac Grand Am, was driven by a 24-year old female. V2 was traveling south on the north/south roadway. According to police and witness reports, the driver of V2 came to a complete stop at her stop sign, facing south.  The driver of V2 then entered the intersection and attempted to turn left to travel east on the east/west roadway.  As V2 entered the intersection, its left side was struck by the front right of V1. The momentum of V1 pushed V2 off of the roadway and down the east/west roadway traveling westbound, coming to rest approximately 51.6m from impact in the eastbound lanes.  V1 rolled off of the sidewalk and came to rest facing south in the middle of the two east/west lanes.\tThe Critical Pre-Crash Event for V1 was coded as \"other vehicle encroachment from crossing street, turning into opposite direction.\" The Critical Reason For the Critical Pre-Crash Event was not coded to V1, although excess speed was coded as an associated factor. A witness who had been traveling behind V1 reported that V1 was traveling at a high rate of speed prior to impact. The extent of damage to V2 and the post-impact trajectory of the vehicles supported the claim of excess speed, as the posted speed limit was 40 KMPH (25 MPH). All other information was unknown due to the lack of an interview with the driver of V1."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

@@ -1,0 +1,103 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585683",
+        "2005004112541",
+        "2005075585381"
+    ],
+    "description": [
+        "     The crash occurred on a level four lane undivided roadway at a four-leg intersection controlled by a traffic signal.  The posted speed limit was 35 MPH (56 KPH). The roadway for Vehicle #2 was slightly curved to the right with a radius of curvature of 1,125 meters. The weather was clear, the roadway dry and it was daylight at the time of this afternoon weekday crash.     Vehicle #1, a 1991 Dodge Dynasty, was traveling north in the second straight/left turn lane approaching the intersection.  Vehicle #2, a 1992 Mazda 626, was traveling south in the right hand lane approaching the same intersection. Both vehicles had a green light. Vehicle #1 stopped waiting for traffic to clear prior to making the left hand turn.  Vehicle #1 proceeded to make the left turn and struck Vehicle #2 in its front with front.  Vehicle #1 drove off the road into a driveway.  Vehicle #2 continued a short distance and came to rest facing in a southerly direction in its original lane.  Vehicle #2 was towed due to damage.  Police did not consider either alcohol or drugs to be involved and ordered no tests.     The Dodge Dynasty (Vehicle #1) was driven by a belted 71 year old female who had a bruise to her right forearm from the deployed airbag, but refused treatment.  She stated that she was on an errand for her grandson at her anticipated destination.  She stated that she had stopped waiting for traffic to clear before making the left, thought she had a green light at the time as she made the turn.  As she proceeded to make the turn, she indicated that she saw the other vehicle \"out of the corner of her eye\" at the last second, but the other vehicle was \"right there\" and she was unable to avoid the crash. She also stated that she had just accelerated from a stop and was traveling no more than 5-10 MPH.  She indicated that the other vehicle was traveling pretty fast and that she never saw her until she was right there.",
+        "     The crash occurred in the southbound lane of a two-lane roadway with a T-intersection.  Conditions were daylight with cloudy skies and rain in the morning on a weekday.  The posted speed limit was 72 kmph (45 mph).     V1 was a 2003 Acura 3.2 TL sedan traveling eastbound in the right lane approaching a T-intersection with a stop sign.  V2, a 1993 Ford Aerostar minivan, was traveling southbound in the right lane approaching the T-intersection.  V1 made a left turn at the stop sign and the front of V2 struck the left front corner of V1 in the southbound lane.  V1 spun clockwise and came to final rest facing westbound.  V2 came to final rest facing southbound.",
+        "This two-vehicle crash occurred during daylight hours a traffic light controlled, three-legged intersection. The east/west roadway is divided, straight, level and the westbound lanes consist of one right turn lane, two through lanes and a left turn lane into a private driveway. The north/south roadway is divided and is a controlled-access highway ramp; in the southbound direction, the lanes are straight and downhill. The speed limit for both roadways is 56 kmph (35 mph) and it was raining at the time of the crash.Vehicle one (V1), a 1991 Mazda Protege was southbound on the exit ramp from an interstate in lane two, the left turn lane. Vehicle two (V2), a 1999 Mercury Sable, was westbound in lane two, the right through lane. The driver of V1 thought she had the green light and started to make a left turn. V2, who actually had the green light, proceeded into the intersection and the front struck the left side of V1. V1 was pushed slightly clockwise and came to rest facing southwest in the middle of the intersection. V2 rotated slightly counterclockwise and came to rest next to V1 facing southwest in the middle of the intersection. V1 was towed due to damage.The driver of V1, a forty-two-year-old female, was driving from her home to an RV park to visit a friend. She was familiar with the route and the vehicle. She took ibuprofen and an unknown brand of medication for a sinus headache several hours prior to the crash. She claimed that she had a green light, that \"the light usually stays red for 10 years.\"  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 6
+}

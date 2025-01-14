@@ -1,0 +1,69 @@
+{
+    "weather": [
+        "rainy"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 55,
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005002585263",
+        "2005005447062"
+    ],
+    "description": [
+        "     The crash occurred on a level two lane undivided roadway with a posted speed limit of 55 MPH (89 KPH).  The road was curved left with a radius of curvature of 375 meters and a superelevation of 1.8% for Vehicle #2. The road was curved right with a radius of curvature of 1875 meters and no superelevation for Vehicle #1.  Both vehicles had black on yellow curve warning signs with a suggested speed of 50 MPH.  The weather was cloudy.     Vehicle #1, a 2000 Chevrolet Cavalier, was traveling west on the two-lane roadway negotiating a curve to the right approaching a driveway.  Vehicle #2, a 1995 Dodge Intrepid, was traveling east on the same roadway negotiating the curve to the left.  Vehicle #1 attempted a left hand turn into the driveway and was struck in the front by Vehicle #2's front.  Vehicle #1 was rotated counterclockwise back across both lanes and came to rest in the westbound lane facing east.  Vehicle #2 continued off the right side of the roadway, came back on the roadway crossed both lanes, off the north side of the road and struck a 25cm pole with its front.  Vehicle #2 came to rest facing in a northerly direction.  Both vehicles were towed due to damage. Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Chevrolet Cavalier (Vehicle #1) was driven by a belted 80 year old male who was transported, treated and released for minor injuries.  The right front seat passenger was a belted 72-year-old female who was also transported, treated and released for minor injuries. Both driver and passenger airbags deployed. The interview was refused and no information obtained from the driver. ",
+        "The crash occurred on a two-way, two-lane, not physically divided roadway.  It was mid-morning and heavy rain was present.  The gradient for both roadways of vehicle 1 and vehicle 2 travel were level.  The posted speed limit on the roadway was 64 kmph (40mph).V1, a 1999 Pontiac Sunfire operated by a 18-year-old male, was traveling westbound.  V2, a 2003 Hyundai Elantra operated by a 24-year-old male, was traveling eastbound.  V1 crossed the centerline, entered the eastbound lane, and impacted V2 head-on.  The impact caused V1 to rotate counterclockwise; V1 came to final rest in the westbound lane facing south.  The driver of V2 was initially traveling straight and then attempted to avoid the collision by steering the vehicle to the right.  V2 rotated clockwise before coming to final rest between a mailbox and telephone pole.  Both vehicles were towed from the scene. The driver of V1 was transported by EMS to a local hospital.  After obtaining the interview from the driver of V1, it is likely that work and sleep patterns contributed to this crash. The driver was traveling home after working the graveyard shift.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

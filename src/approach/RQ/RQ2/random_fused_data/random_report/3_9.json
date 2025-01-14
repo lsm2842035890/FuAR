@@ -1,0 +1,95 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": 35,
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005002229242",
+        "2005004112161",
+        "2005009501162"
+    ],
+    "description": [
+        "This crash occurred on a level two lane undivided straight roadway with a posted speed limit of 48KPH (30mph). The roadway was straight. The intersecting roadway was a two lane undivided roadway Conditions were dry and crash occurred in the early afternoon hours of a weekday.Vehicle #1 was a 1996 Ford  Contour was traveling in the east bound lane, then making a left turn at the intersection after an uninvolved truck had just passed in the westbound lane. Vehicle #2 was a 2004 Honda Motorcycle traveling westbound behind the uninvolved truck.  Vehicle #1, the Ford Contour, made the left turn immediately after the truck and in front of  Vehicle #2, the Honda Motorcycle.  Vehicle #2 impacted Vehicle #1 on the  right front  side with it's front.The Ford Contour (Vehicle #1) was driven by a 43-year old male who was transported to an area hospital with minor injuries. He was wearing his prescription contact lenses and a pair of sunglasses at the time of the crash.  He stated there was a truck in his way and he didn't see the motorcycle. He did not stop before making the turn. He stated he was traveling less than 20 MPH at impact.  This vehicle was towed due to damage.",
+        "The crash occurred in the westbound lane of a two-lane roadway with an adjacent T-intersection.  Conditions were daylight and dry and EMS was dispatched in the early evening of a weekday.  The roadway had a posted speed of 40 MPH and a 1% uphill grade.V1 was a 2002 Lexus RX 300 SUV that was initially traveling before coming to a complete stop at the intersection and intending on turning left.  V2 was a 1994 Ford Taurus sedan directly in back of V2 intending on going straight.  The driver of V2 was looking to the left then looked straight ahead.  V2 tried to steer left and brake to avoid V1.  The front of V2 struck the back of V1 in the westbound lane.  Both vehicles came to final rest facing west.",
+        "   This crash took place on a two lane undivided roadway near a T-intersection.  Conditions were daylight and dry with clear skies shortly after noon on a weekend.  The roadway had a posted speed limit of 56 kmph (35 mph).   V1, a 1997 Chevrolet 300 conversion van, was traveling east on the roadway.  V2, a 1999 Infinity QX sport utility vehicle, was traveling west on the same roadway.  The vehicle traveling directly in front of V1 slowed quickly and to avoid making contact, the driver of V1 steered left, made a lane departure to the left, and this vehicle's right front made contact to the front right of V2.  The critical pre-crash event for V1 was when it traveled over the lane line on the left side of the travel lane.  The critical reason for the critical pre-crash event was coded as an incorrect evasive action. One associated factor coded to the driver of V1 was inattention. He reported that he had been thinking about some concerns immediately before the crash. V1 was driven by a 60 year-old male who was not injured.  V1 was towed due to damage.  The critical pre-crash event for the driver of V2 was when another vehicle encroached into her lane from the opposite direction-over the left lane line. The critical reason was not coded to the driver of V2 and no associated factors were coded to her. V2 was driven by a 42 year-old female who was not injured.  V2 was also towed due to damage."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 6
+}

@@ -1,0 +1,28 @@
+
+
+response: {
+    "weather": [],
+    "lighting": [],
+    "speedlimit": "48kmph (30mph)",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 1,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into intersection"], ["turn left"], ["turn left", 2]],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [["go across"], ["turn right"], ["turn right", 3]],
+            "direction": "west",
+            "laneNumber": 1
+        }
+    }
+}
+
+The crash occurred in the intersection of two one

@@ -1,0 +1,95 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498461",
+        "2005005447262",
+        "2005045706121"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a signalized one-way roadway and a two-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was daylight and the roadway was dry and had a downhill grade of -2/61.Vehicle # 1 was a 1999 International M/H Truck that was traveling westbound on the middle lane of the roadway.  Vehicle # 2 was a 2002 Saturn SL that was traveling westbound on the right lane.  Vehicle # 1 was making a right turn at the intersection when he was impacted on the right side by the front of Vehicle # 1.The International truck (Vehicle # 1) was driven by a 29 year-old male who did not sustain any injuries.  The passenger in the front right seating position also did not sustain any injuries.  The International truck was not towed due to damage.",
+        "This crash occurred on a two-way, two-lane roadway. The roadway was not physically divided, and there was no traffic control device involved in this crash.  The conditions were as follows: early morning, clear skies, and the roadway was dry.  The gradient for the two vehicles involved was level.  The posted speed limit for the two vehicles was 56 kmph (35mph).  Vehicle one (V1) was a 2000 Chevy Blazer, traveling westbound.  V1 was driven by a 38-year old male. V1 traveled over the double yellow line to the left into opposing traffic. Vehicle two (V2), a 2001 Ford Taurus, was traveling eastbound.  V2 was driven by a 17-year old male. The left front of V1 struck the left side of V2, pulling the outside of the left front door off.  The police report narrative indicated that after striking V2, V1 left the scene. V1 was pulled over by police shortly after the crash, and the driver of V1 told police that he thought he had hit a curb. Police indicated that the driver of V1 was unsteady on his feet, confused, and lethargic. An ambulance arrived on scene and tested his blood sugar, which was normal. The driver of V1 finally admitted to police that he was taking several prescription medications, including a narcotic pain reliever and a muscle relaxant. Police took the driver of V1 to a hospital for a possible head injury and also for drug and alcohol testing. The results of those tests were not made available.Both V1 and V2 were towed from the scene because they could not be driven.  The driver of V2 was not injured.  ",
+        "                The crash occurred on a two-way two-lane east/west rural arterial road divided by double yellow lines at a T-intersection with the intersecting road coming from the north side.  The intersecting road was also a two-way, two-lane road that had an incline of -4 percent on the southbound lane.  The rural arterial road was straight and level for the most part but for a slight curve from the south bending west with a radius of 148 meters.  The intersection was controlled by a one-way stop sign for the intersecting road.  There was no traffic control device for the east/west roadway. The posted speed limit was 64kmph/40mph for both roadways.  Conditions were partly cloudy and dry in the early afternoon on a weekend.  \tVehicle 1, a 2001 Hyundai Santa Fe (SUV 4WD), was southbound on the intersecting road, intending to make a left turn onto the east/west rural arterial road.  As V1 approached the stop sign, the vehicle came to a rolling stop before it began to ease out into the intersection.  It then contacted the trailer unit of Vehicle 2, a 1995 Ford F-350 that had a modified body with a dump bed, pulling a two-axle steel framed float equipment trailer. The trailer had a bobcat track hoe loaded on board that was chained down with two chains.  Immediately before impact, V2 swerved left in an attempt to avoid a collision.  After impact it swerved left then right in an attempt to get the trailer under control with the brakes locked and the tires blown on the trailer.  V2 came to rest back in its original travel lane facing west with its load slightly askew but still intact on the trailer approximately 50 meters west of POI.  V1 came to rest after spinning about 100 degrees clockwise and was facing southwest about 4 meters west of impact.  V1 was towed due to damage.  V2's trailer was picked up by the wrecker service, but the truck was undamaged.  \tVehicle 1 was driven by a 33-year old belted male whose airbags deployed.   He refused treatment for possible injuries and only went home after the crash.  The driver of V1 stated that he had been reprimanded very recently for tardiness at work and was running tight on time that afternoon.  He also claimed to not get very much sleep regularly (5 hours per day).   He said it had been fourteen days since his last day off, which was a sick day and before that he can't remember a day that he has been off work in recent memory. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 6
+}

@@ -1,0 +1,29 @@
+
+
+
+- response: {
+    "weather": [],
+    "lighting": ["daylight"],
+    "speedlimit": 0,
+    "intersection": "yes",
+    "T": 0,
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": ["follow lane", "turn right", 2],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": ["follow lane", "turn right", 2],
+            "direction": "west",
+            "laneNumber": 2
+        }
+    }
+}
+
+The crash occurred in the intersection of a southbound one-way and a westbound one-way road

@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005002585683",
+    "description": "The crash occurred on a level four lane undivided roadway at a four-leg intersection controlled\n                        by a traffic signal. The posted speed limit was 35 MPH (56 KPH). The roadway for Vehicle #2 was\n                        slightly curved to the right with a radius of curvature of 1,125 meters. The weather was clear,\n                        the roadway dry and it was daylight at the time of this afternoon weekday crash.\n\n\n                        Vehicle #1, a 1991 Dodge Dynasty, was traveling north in the second straight/left turn lane\n                        approaching the intersection. Vehicle #2, a 1992 Mazda 626, was traveling south in the right\n                        hand lane approaching the same intersection. Both vehicles had a green light. Vehicle #1 stopped\n                        waiting for traffic to clear prior to making the left hand turn. Vehicle #1 proceeded to make\n                        the left turn and struck Vehicle #2 in its front with front. Vehicle #1 drove off the road into\n                        a driveway. Vehicle #2 continued a short distance and came to rest facing in a southerly\n                        direction in its original lane. Vehicle #2 was towed due to damage. Police did not consider\n                        either alcohol or drugs to be involved and ordered no tests.\n\n\n                        The Dodge Dynasty (Vehicle #1) was driven by a belted 71 year old female who had a bruise to her\n                        right forearm from the deployed airbag, but refused treatment. She stated that she was on an\n                        errand for her grandson at her anticipated destination. She stated that she had stopped waiting\n                        for traffic to clear before making the left, thought she had a green light at the time as she\n                        made the turn. As she proceeded to make the turn, she indicated that she saw the other vehicle\n                        \u201cout of the corner of her eye\u201d at the last second, but the other vehicle was \u201cright there\u201d and\n                        she was unable to avoid the crash. She also stated that she had just accelerated from a stop and\n                        was traveling no more than 5-10 MPH. She indicated that the other vehicle was traveling pretty\n                        fast and that she never saw her until she was right there.\n\n\n                        The Critical Precrash Event for Vehicle #1 was that this vehicle was traveling, turning left at\n                        the intersection. The Critical Reason for the Critical Even was inadequate surveillance, failed\n                        to look, looked but did not see, a recognition error. This was chosen because the driver stated\n                        that she never saw Vehicle #2 until she was right there. An associated factor coded to this\n                        driver was the use of prescription and non-prescription medications: (a) a blood pressure\n                        medication, (b) a diabetic medication, (c) an asthma medication, (d) a pain reliever and (e) 2\n                        unknown additional medications. The driver did not wear corrective lenses nor have a hearing\n                        impairment.\n\n\n                        The Mazda 626 (Vehicle #2) was driven by a belted 32-year-old female who was not injured. She\n                        stated, \u201cShe pulled in front of me\u201d. No additional information was obtained due to the driver\n                        being unable to be contacted or located.\n\n\n                        The Critical Precrash Event for Vehicle #2 was other vehicle encroachment from opposite\n                        direction over left lane line. The Critical Reason for the Critical Event was not coded to this\n                        vehicle."
+}

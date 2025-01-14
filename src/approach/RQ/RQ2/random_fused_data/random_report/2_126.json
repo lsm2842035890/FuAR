@@ -1,0 +1,62 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 6,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 3,
+    "ID": [
+        "2005003588441",
+        "2005006445302"
+    ],
+    "description": [
+        "The crash occurred in the eastbound lanes of a two-way roadway that is divided by a center median with three lanes in each direction.  It was daylight and clear and the ground was wet from a previous rainstorm.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph). V1 was a 2000 Mercedes-Benz ML320 that was stopped for the Traffic control device when it was rear-ended by V2, a 1996 Toyota Corolla.  Both vehicles came to final rest in the roadway.V1 was driven by a 42 year-old male who did not sustain any injuries and was unable to be located for an interview.  V1 was driven away before it could be inspected.",
+        "\tThe crash occurred in the northbound side of a six lane physically divided north/southbound highway, three southbound and three northbound lanes. During the time of the crash the highway was under construction, approaching a work zone, lane three was closed allowing access to lanes one and two. There were traffic barricades blocking lane one.  \tThe concrete highway was dry, level, and there was no adverse weather conditions. The posted speed limit was 89kmph (55mph). The crash occurred early afternoon and the full access controlled highway had a consistent flow of traffic. \tV1, a 2005 Mitsubishi Lancer was traveling north and had entered lane two of the work zone when its front-end struck the rear of V2, a, 1999 Ford F-350 pick-up. The driver of V1,a 56 year old male stated that he had merged into lane two and preceded driving several feet when V2 suddenly stopped in front of him causing V1 to rear-end V2. The driver of V2, a 49-year-old female said that she was traveling at a consistent speed of approximately 64 kmph (40 mph) when she was rear-ended by V1. V1 was towed due to damages and all three occupants were transported to the hospital for minor injuries."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 4
+}

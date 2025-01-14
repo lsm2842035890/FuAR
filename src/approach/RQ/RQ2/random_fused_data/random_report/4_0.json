@@ -1,0 +1,122 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": 0,
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "ID": [
+        "2005003498081",
+        "2005003498282",
+        "200501269401",
+        "2005076197381"
+    ],
+    "description": [
+        "This crash occurred in the right lane of the northbound lanes of an undivided roadway with two lanes in each direction.  The roadway was straight and level, and it was cloudy and raining.  The roadway was wet and had a posted speed limit of 48 kmph (30 mph). The crash occurred at a 4-way signalized intersection.  Vehicle #1 was a 1999 Toyota Camry that stopped for an emergency vehicle traveling westbound with the emergency lights on.  Vehicle #2 was a 2000 Nissan Sentra that was behind Vehicle #1 and could not stop in time.  Vehicle #2 rear-ended Vehicle #1.   The emergency vehicle was crossing over the intersection.A seventy-four year old male who did not sustain any injuries drove the Toyota Camry.  He stated that he saw the emergency vehicle trying to go through the intersection so he slowed down and came to a stop.  As he stopped, he was rear-ended by Vehicle #2. ",
+        "The crash occurred in the intersection of a two-way north/south road with two lanes in each direction and an east/west road with one lane in each direction.  The roadways were straight and level and each had a speed limit of 48 kmph (30 mph).  It was daylight and clear with no adverse conditions.  The crash occurred in the morning hours on a weekday.Vehicle #1 was a 2004 Acura MDX that was traveling southbound in the right lane.  Vehicle #2 was 1995 Dodge Neon that was traveling westbound. At the intersection, the front of Vehicle #1 impacted the right side of Vehicle #2.    The Acura MDX (Vehicle #1) was driven by a 29-year old female who did not sustain any injuries.  She stated that she had come to a rolling stop at a red light and then when her light turned green, she accelerated into the intersection. She stated that Vehicle #2 came from nowhere.  The Acura was not towed.",
+        "The crash occurred in the eastbound lane of a two-lane, two-way asphalt roadway on level grade.  The conditions were daylight and wet with cloudy skies in the early afternoon on a weekday.\tV1, a 1995 Chevrolet Lumina was traveling eastbound.  V2, a 2004 Chevrolet Trailblazer was also traveling eastbound on the same roadway.  V2, was attempting to make a left-hand turn into a private drive on the North side of the roadway.  While turning V1 attempted to pass V2 on the left-hand side contacting it's front to the left side of V2.  Both vehicles came to final rest on the roadway at impact.The driver of V1 fled the scene and was not identified, so no further information could be obtained from him.  The Driver of V2 stated that the driver was a male and had hit his head and was bleeding.  She did not pursue the driver because she thought she saw a gun. The officer said that the car had been reported stolen.",
+        "     This two-vehicle crash occurred mid-morning hours during daylight hours in a rural residential area in a type T intersection. The north/south bound two-lane roadway is straight, level and without traffic control devices.  The west/east bound two-lane roadway is straight and downhill for westbound travel and controlled by a stop sign where it dead-ends with the other roadway. The speed limit for the area is 40 kph (25 mph). with no adverse weather or road conditions present.     Vehicle one (V1) a 1972 Ford Galaxie 4-door sedan driven by a 35 year-old male was traveling westbound approaching the stop sign when the driver discovered the brakes were inoperative.  Vehicle #1 steered to the left slightly before it entered the intersection without stopping.  Vehicle two (V2) a 1997 Ford F-150 pickup driven by a 48 year-old male was traveling northbound when it's front right side plane was contacted by the front bumper V1. V1 came to rest facing west. V2 came to rest in the south bound lane facing north. Both vehicles were towed due to damage.     The pre-event movement for V1 coded going straight, category this vehicle control loss due to disabling vehicle failure (brakes). Critical reason for the critical event vehicle related factor \"brakes failed\"."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "change lane",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

@@ -1,0 +1,99 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "35MPH",
+    "intersection": "yes",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005003588341",
+        "2005005289222",
+        "2005078436445"
+    ],
+    "description": [
+        "The crash occurred in the southbound lanes of a two-way roadway that was divided by a raised curb median with two lanes in each direction.  The roadway was straight and level and had a posted speed of 48 kmph (30 mph).  The weather was clear with no adverse conditions.  It was the evening hours of a weekday and it was dark out but the roadway was lighted. The crash occurred at a signalized intersection with an east/west roadway.Vehicle #1 was a 2001 Mitsubishi Mirage that was traveling southbound in the right lane.  Vehicle #2 was a 1995 Ford Probe that was traveling northbound in the left lane and attempting to make a left turn.  At the intersection, the front of Vehicle #1 impacted the right front side of Vehicle #2, and then Vehicle #2 impacted a chain-link fence that was located on the southwest corner of the intersection.The Mitsubishi Mirage (Vehicle #1) was driven by a 40-year old female who was transported to a local medical facility with incapacitating injuries.  A 21-year old female sustained minor injuries and a 12-year old male in her vehicle sustained non-incapacitating injuries and were both transported to a local medical facility.  Vehicle #1 was going straight through the intersection when Vehicle #2 turned in front of it.  The Mirage was towed due to damage.",
+        "This late-night, two-vehicle crash occurred on a two-way, two-lane, not physically divided roadway.  The posted speed limit was 56kph (35mph) and there were no atmospheric conditions at the time of the incident.  The gradient for both vehicles involved was level.  No traffic control devices were associated with this crash.  Vehicle one (V1) was traveling eastbound and had just negotiated a right curve.  For unknown reasons, V1 partially left the right side of the roadway and overcompensated the vehicle when trying to return.  This caused V1 to spin laterally in a counterclockwise direction.  After loosing control of the vehicle, the passenger side of V1 made contact with the front of vehicle two (V2), which was traveling in the opposite direction.  The impact caused V1 to spin in a clockwise direction, approximately 180 degrees, before coming to final rest entirely off of the roadway on the property of a nearby house.  After colliding with V1, V2 spun clockwise, also approximately 180 degrees, before coming to rest partially off of the roadway on the same property as V1.  The travel speeds of both vehicles could not be determined.  All three occupants involved were airlifted to nearby hospitals due to injuries.  Unfortunately, the interviews of the drivers could not be obtained.  Therefore, some pertinent information could not be acquired, thus giving an incomplete synopsis of events.  There was however, some witness information given to the officers that help complete the scenario.  ",
+        "This crash occurred on an urban intersection and involved two vehicles.  The crash occurred at a T-intersection. Traffic approaching the intersection traveling northbound is controlled by a stop sign located at the southeast corner of the intersection.  The weather at the time of the crash was clear.  The speed limit on the east/west through street, which has one lane in each direction and is undivided,  is posted 64 kmph (40 mph).  The speed limit on the north/south cross street, which also has one lane in each direction and is undivided, is posted 40 kmph (25 mph).  Vehicle one (V1) was a 2001 Toyota Tacoma 2wd pickup truck that was stopped facing north at the stop sign.  Vehicle two (V2) was a 1998 Honda Accord 4 door sedan. V2 was traveling E/B on the through street, which is a two-lane dry level, asphalt roadway, in the number one lane.  V1 was stopped for approximately 10 seconds on the intersecting roadway in the number one lane waiting to turn left.  A non-contact vehicle that wasforward of V2 but in the same lane as V2, made a right turn onto the street that V1 was stopped on.  There was a sight line restriction for the drivers of V1 and V2 created by the non-contact vehicle turning right.  The driver of V1 began to make a left turn onto the through street into path of V2.  The front of V1 impacted with V2's right front corner. The impact caused V1 to rotate clockwise coming to rest facing east in the eastbound number one eastbound travel lane facing east. V2 moved forward after impact and also came to rest in the number one eastbound travel lane facing east.  Both vehicles were towed from the scene.The critical pre crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: turned with obstructed view. The driver looked but did not see V2 prior to impact. The sight line was blocked by the non-contact vehicle turning right onto the cross street. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "drive off"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 6
+}

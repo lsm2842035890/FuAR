@@ -1,0 +1,74 @@
+{
+    "weather": [
+        "unknown"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "ID": [
+        "2005002229483",
+        "2005008450282"
+    ],
+    "description": [
+        "This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.Vehicle #1, a 1988 Ford Mustang, was traveling westbound on the two lane undivided roadway when it observed Vehicle #2, a 1985 Kawasaki motorcycle, in its westbound lane traveling east.  Vehicle #1 crossed over the left lane line into the eastbound lane. The motorcycle returned to its original eastbound lane whereupon Vehicle #1 impacted with Vehicle #2 with its front. Vehicle #1 came to rest in the eastbound land facing west Vehicle #2 was knocked backwards 33meters coming to rest on its side, in the center of the roadway, facing eastward.This crash occurred on a two lane undivided roadway slightly curving to the left with no grade and a posted speed limit of  72KMPH (45MPH). This crash occurred on a weekday afternoon.",
+        "\tThis crash occurred on a dry 2 lane loose dirt-gravel roadway on a weekday night.  The speed limit was 40kmph (25mph) and there was a grade of 8.2%.  The roadway was curved at the point of impact with a hillside obscuring the view of the two drivers.\tVehicle 1 was negotiating and uphill right hand curve.  Vehicle 2 was proceeding opposite vehicle1 and negotiating a downhill left hand curve.  The driver of Vehicle 1 pulled over and stopped the driver of Vehicle 2 crossed over and stuck Vehicle 1's left front with V2's left front.  \tVehicle 1 was a 1993 Cadillac Seville driven by a 45 year old male.  The driver states he was going around the bend when he saw another car coming the opposite way, he stopped and the other car hit him in the door."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

@@ -1,0 +1,20 @@
+
+
+
+
+- [response]: {
+    "weather": ["clear"],
+    "lighting": ["daylight"],
+    "speedlimit": "89 KMPH (55 MPH)",
+    "intersection": "unknown",
+    "T": "unknown",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [["drive into", 2], ["drive off", 0], ["drive into", 1], ["drive off", 0], ["drive into", 2], ["drive off", 0], ["drive into", 1], ["drive off", 0], ["drive into", 2], ["drive off", 0], ["drive into", 1]],
+            "direction": "south",
+            "laneNumber

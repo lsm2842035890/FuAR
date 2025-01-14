@@ -1,0 +1,117 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40KMPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005002585224",
+        "2005006445102",
+        "2005072709641",
+        "2005078436445"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH).  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.     Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking.  Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway.  Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn.  Vehicle #2 braked and steered left to avoid a collision.  Vehicle #2 struck Vehicle #1 in left side with its front.  Vehicle #2 came to rest facing in a northwesterly direction.  Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm.  He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work.  He stated that he had glanced at the traffic light (behind him) and thought it was red.  He also stated that he had looked, but didn't see the bus.  He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers.  Vehicle #1 was towed due to damage.",
+        "This motor vehicle crash happened on a roadway.  This roadway travels east/west, with two travel lanes westbound and two travel lanes and one left turn lane eastbound.  The roadway is not physically divided.  The crash took place mid-block about 9 meters west of the traffic control signal.The driver of V1 was stopped at a traffic light, when the light turned green the driver proceeded to accelerate, traveling in lane two, in the westbound lanes.  V2 entered the roadway from a parking lot and crossed the path of V1, trying to turn onto the eastbound lanes.  V1 contacted V2 with its left front.  Both cars came to rest at impact.  V1's driver was coming from work and states that they did not see V2 until V2 crossed the path of V1.  The driver states that they were traveling about 40-48 kmph (25-30 mph) at time the of impact and tried to avoid contacting V2 but could not stop in time.",
+        "       This two-vehicle crash occurred in the morning at 0740 hours at a traffic-signal-controlled T-intersection. The north/south roadway is straight, level, dry and has two lanes in each direction that are separated by a painted median. The intersecting roadway (that branches on the west side of the north/south road) is a two-lane, undivided, level, straight east/west roadway. The speed limit on both roadways is 48 kph (30 mph) and there were no adverse atmospheric conditions at the time of the crash.       Vehicle one,(V 1) a 1992 Cadillac Deville, was southbound in the second lane. Vehicle two,(V 2) a 1993 Ford F-150 pickup truck, was eastbound at the intersection. The light turned red for vehicle one and green for vehicle two. As vehicle two turned left at the intersection, the front of vehicle one struck the left side vehicle two. Both vehicles came to rest in the intersection and were towed due to damage. The driver of V 1 a forty-six-year-old female, disregarded the red traffic signal. No information was obtained from this driver. The driver of V 2 a twenty-year-old male, was driving from home to work. He was well rested, familiar with his vehicle and his route, not in a hurry and comfortable with his twenty-year-old male passenger. He was listening to the radio, but this did not distract him from his driving responsibilities.       The pre-event movement for V 1 coded going straight, category this vehicle traveling crossing over passing through intersection. Critical reason driver related factor \"illegal maneuver\" (disregard of traffic control signal).",
+        "This crash occurred on an urban intersection and involved two vehicles.  The crash occurred at a T-intersection. Traffic approaching the intersection traveling northbound is controlled by a stop sign located at the southeast corner of the intersection.  The weather at the time of the crash was clear.  The speed limit on the east/west through street, which has one lane in each direction and is undivided,  is posted 64 kmph (40 mph).  The speed limit on the north/south cross street, which also has one lane in each direction and is undivided, is posted 40 kmph (25 mph).  Vehicle one (V1) was a 2001 Toyota Tacoma 2wd pickup truck that was stopped facing north at the stop sign.  Vehicle two (V2) was a 1998 Honda Accord 4 door sedan. V2 was traveling E/B on the through street, which is a two-lane dry level, asphalt roadway, in the number one lane.  V1 was stopped for approximately 10 seconds on the intersecting roadway in the number one lane waiting to turn left.  A non-contact vehicle that wasforward of V2 but in the same lane as V2, made a right turn onto the street that V1 was stopped on.  There was a sight line restriction for the drivers of V1 and V2 created by the non-contact vehicle turning right.  The driver of V1 began to make a left turn onto the through street into path of V2.  The front of V1 impacted with V2's right front corner. The impact caused V1 to rotate clockwise coming to rest facing east in the eastbound number one eastbound travel lane facing east. V2 moved forward after impact and also came to rest in the number one eastbound travel lane facing east.  Both vehicles were towed from the scene.The critical pre crash event for V1 was coded: this vehicle traveling, turning left at intersection.   The critical reason for the critical event was coded to V1 as a driver related factor: turned with obstructed view. The driver looked but did not see V2 prior to impact. The sight line was blocked by the non-contact vehicle turning right onto the cross street. "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 8
+}

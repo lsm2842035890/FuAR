@@ -1,0 +1,124 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "40KMPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005003498181",
+        "2005006445082",
+        "2005008450282",
+        "2005075585381"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed.",
+        "\tThis motor vehicle crash took place on a two-lane roadway.  This roadway has a set of rail tracks dividing the two lanes.  The roadway runs north/south with one lane in each direction and the posted speed limit was 40 kmph (25 mph).  The north/south roadway was not controlled by any TCD's (traffic control devices).\tV1, a 1995 Jeep Grand Cherokee Sport Utility Vehicle, was traveling northbound in lane one.  V2, a 2001 Hyundai Sonata, came out of a parking lot onto northbound lane one, attempting to turn right.  V1 was unable to stop and ended up striking the left side of V2 with its front end.  Both vehicles came to rest.\tNo interview was obtained from the driver of V1, a 26-year old female. According to an eyewitness account, V1 was traveling at about 30mph. V2 pulled out of the lot carelessly, not looking in either direction nor making a full stop at the stop sign while exiting the parking lot. The eyewitness was in a vehicle traveling behind V1 at time of the crash.",
+        "\tThis crash occurred on a dry 2 lane loose dirt-gravel roadway on a weekday night.  The speed limit was 40kmph (25mph) and there was a grade of 8.2%.  The roadway was curved at the point of impact with a hillside obscuring the view of the two drivers.\tVehicle 1 was negotiating and uphill right hand curve.  Vehicle 2 was proceeding opposite vehicle1 and negotiating a downhill left hand curve.  The driver of Vehicle 1 pulled over and stopped the driver of Vehicle 2 crossed over and stuck Vehicle 1's left front with V2's left front.  \tVehicle 1 was a 1993 Cadillac Seville driven by a 45 year old male.  The driver states he was going around the bend when he saw another car coming the opposite way, he stopped and the other car hit him in the door.",
+        "This two-vehicle crash occurred during daylight hours a traffic light controlled, three-legged intersection. The east/west roadway is divided, straight, level and the westbound lanes consist of one right turn lane, two through lanes and a left turn lane into a private driveway. The north/south roadway is divided and is a controlled-access highway ramp; in the southbound direction, the lanes are straight and downhill. The speed limit for both roadways is 56 kmph (35 mph) and it was raining at the time of the crash.Vehicle one (V1), a 1991 Mazda Protege was southbound on the exit ramp from an interstate in lane two, the left turn lane. Vehicle two (V2), a 1999 Mercury Sable, was westbound in lane two, the right through lane. The driver of V1 thought she had the green light and started to make a left turn. V2, who actually had the green light, proceeded into the intersection and the front struck the left side of V1. V1 was pushed slightly clockwise and came to rest facing southwest in the middle of the intersection. V2 rotated slightly counterclockwise and came to rest next to V1 facing southwest in the middle of the intersection. V1 was towed due to damage.The driver of V1, a forty-two-year-old female, was driving from her home to an RV park to visit a friend. She was familiar with the route and the vehicle. She took ibuprofen and an unknown brand of medication for a sinus headache several hours prior to the crash. She claimed that she had a green light, that \"the light usually stays red for 10 years.\"  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        }
+    },
+    "carCount": 8
+}

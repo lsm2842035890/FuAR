@@ -1,0 +1,65 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "55MPH",
+    "intersection": "no",
+    "T": "no",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 3,
+    "ID": [
+        "2005002229102",
+        "2005002229303"
+    ],
+    "description": [
+        "     This crash occurred on a level two lane undivided roadway with a posted speed limit of 64KPH (40MPH).  There was an intersecting roadway to the left and a driveway to the right. There was a traffic control signal at the intersection. The weather was cloudy, the roadway was dry and it was dark, but lighted at the time of this late night weekday crash.     Vehicle #1, a 1987 Honda Accord, was traveling south on the two lane undivided roadway approaching the intersection. It should be noted that the traffic control signal was lighted red. Vehicle #2, a 1994 Honda Civic was stopped at the signal awaiting a green light, in front of Vehicle #1. Vehicle #1's front impacted Vehicle #2's rear. Vehicle #2 was pushed through the intersection and came to rest facing in a southwesterly direction. Vehicle #1 came to rest facing in a southerly direction.     The Honda Accord (Vehicle #1) was driven by an unbelted 19 year old female who was transported, treated and released for minor bleeding to the head. She stated that she did not see the other vehicle, that she was also looking down to retrieve a dropped water bottle as well as attempting to put on her seat belt. Vehicle #1 was towed due to damage and was destroyed before the inspection could be done.",
+        "This crash occurred on a two lane undivided roadway, slightly curving to the right prior to the crash site, with no grade and a posted speed limit of  89 KMPH (55MPH). the weather was clear and the roadway was dry. This crash occurred on a weekday afternoon.Vehicle #2, a 1990 Ford Mustang, was traveling south on the two lane undivided roadway when it proceeded to pass a box truck (as per the driver of vehicle #1). It impacted with Vehicle #1 a 2000 Pontiac Grand Am, head on in the northbound lane. Vehicle #2 came to rest on the east shoulder facing south. Vehicle #1 came to rest on the east shoulder facing north.The Critical Precrash Event coded to Vehicle #2 was This Vehicle Traveling Over the Lane line on Left Side of Travel Lane. The Critical Reason for the Critical Precrash Event was coded as  Driver Related Factor, Inadequate Surveillance (e.g. failed to look, looked but did not see.) There is no evidence of any illegal drug use, however the Police Report for this crash could not be obtained."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        }
+    },
+    "carCount": 4
+}

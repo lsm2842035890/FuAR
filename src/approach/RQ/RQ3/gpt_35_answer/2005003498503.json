@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "48KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 1,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005003498503",
+    "description": "This crash occurred in the early afternoon of a weekend in the intersection of a northbound\n                        one-way roadway and a two-way east and west roadway. All roadways were straight and level and\n                        had a speed limit of 48kmph (30mph). The northbound entrance into the intersection was\n                        controlled by a stop sign. It was daylight and clear with no adverse conditions.\n\n\n                        V1, a 1998 Mercedes-Benz ML320, was traveling westbound approaching the intersection. V2, a 1999\n                        Chevrolet Lumina, was traveling northbound and stopped at the stop sign. As V2 proceeded into\n                        the intersection, its front impacted the left side of V1. V1 than yawed counterclockwise and the\n                        right-rear wheel impacted the curb. The right side of V1 then impacted a breakaway light-pole\n                        and rolled over one quarter turn before coming to final rest on its right side.\n\n\n                        V1 was driven by a 35 year-old male who sustained minor injuries and was transported to a\n                        medical facility. A complete interview could not be obtained, but the driver stated that he was\n                        going straight when he was impacted by V2, who did not stop at the stop sign. The Mercedes-Benz\n                        was towed due to damage.\n\n\n                        The Critical Pre-crash Event for V1 was coded as: Other vehicle encroaching into lane, from\n                        crossing street across path. The Critical Reason for the Critical event was not coded to the\n                        driver. An associated factor coded to the driver was a decision error, traveling too fast for\n                        conditions, too fast reason unknown.\n\n\n                        The Chevrolet Lumina (Vehicle # 2) was driven by a 39 year-old female who did not sustain any\n                        injuries. The driver stated that she stopped at the stop sign before proceeding through the\n                        intersection. The driver declined to participate in the study. The Chevrolet was towed due to\n                        damage.\n\n\n                        The Critical Pre-Crash Event was coded as: This vehicle traveling, crossing over (passing\n                        through) intersection. The Critical Reason for the Critical Event was coded as a driver related\n                        factor, a decision error, driver crossed with obstructed view. The associated factors coded to\n                        the driver were, other decision factor, that she crossed with obstructed view and a sightline\n                        restriction caused by legally parked vehicles."
+}

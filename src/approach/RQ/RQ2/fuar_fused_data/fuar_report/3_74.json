@@ -1,0 +1,75 @@
+{
+    "weather": [
+        "clear",
+        "clear",
+        "unknown"
+    ],
+    "lighting": [
+        "dark",
+        "light",
+        "bright",
+        "unknown"
+    ],
+    "speedlimit": "40KMPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 4,
+    "laneCount": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "drive into"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        }
+    },
+    "striker": "V1",
+    "At-Fault-Vehicle": "",
+    "ID": [
+        "2005003498523",
+        "2005002585224",
+        "2005006445082"
+    ],
+    "description": [
+        "This crash occurred in the left lane of a one-way roadway.  The roadway was straight and level, and it was clear with no adverse conditions.  It was dark but lighted and the roadway had a speed limit of 48kmph (30mph).Vehicle # 2 was a 2001 Suzuki Grand Vitara that was traveling northbound approaching the intersection and slowed down for an emergency fire truck with the emergency lights and sirens attempting to go eastbound on a two-way roadway.  Vehicle # 1 was a Lincoln Navigator that was traveling northbound behind Vehicle # 2.  The front of Vehicle # 1 impacted the rear of Vehicle # 2.  Vehicle # 2 then continued forward and impacted a fence that was located on the northwest corner.  The Lincoln Navigator (Vehicle # 1) was driven by a 27-year old male who sustained incapacitating injuries and was transported to a medical facility.  The Lincoln was towed due to damage.",
+        "     The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH).  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.     Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking.  Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway.  Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn.  Vehicle #2 braked and steered left to avoid a collision.  Vehicle #2 struck Vehicle #1 in left side with its front.  Vehicle #2 came to rest facing in a northwesterly direction.  Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm.  He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work.  He stated that he had glanced at the traffic light (behind him) and thought it was red.  He also stated that he had looked, but didn't see the bus.  He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers.  Vehicle #1 was towed due to damage.",
+        "\tThis motor vehicle crash took place on a two-lane roadway.  This roadway has a set of rail tracks dividing the two lanes.  The roadway runs north/south with one lane in each direction and the posted speed limit was 40 kmph (25 mph).  The north/south roadway was not controlled by any TCD's (traffic control devices).\tV1, a 1995 Jeep Grand Cherokee Sport Utility Vehicle, was traveling northbound in lane one.  V2, a 2001 Hyundai Sonata, came out of a parking lot onto northbound lane one, attempting to turn right.  V1 was unable to stop and ended up striking the left side of V2 with its front end.  Both vehicles came to rest.\tNo interview was obtained from the driver of V1, a 26-year old female. According to an eyewitness account, V1 was traveling at about 30mph. V2 pulled out of the lot carelessly, not looking in either direction nor making a full stop at the stop sign while exiting the parking lot. The eyewitness was in a vehicle traveling behind V1 at time of the crash."
+    ]
+}

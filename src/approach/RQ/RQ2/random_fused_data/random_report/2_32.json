@@ -1,0 +1,75 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "30MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V2",
+    "impactPart": 2,
+    "ID": [
+        "2005003498181",
+        "2005045587921"
+    ],
+    "description": [
+        "The crash occurred in the intersection of a one-way North-South road and a two-way East-West road.  The roadway was straight and level and had a posted speed limit of 48kmph (30mph).  The conditions were daylight and the roadway was dry.  Vehicle # 1 was a Chevrolet Malibu, which was traveling northbound on a one-way roadway with one lane.  Vehicle # 2 was a Chevrolet G-Series Van that was traveling eastbound on a two-way roadway with one-lane in each direction and stopped for the stop sign.  At the intersection, Vehicle # 1 proceeded through and the front of Vehicle # 2 contacted the left side of Vehicle # 1.Vehicle # 1 was driven by a 37-year old male, who had two occupants, an 11 year-old female in the front-right position and a 10-year old female in the back-right seat.  The 11-year old female and the 10-year old female both sustained minor injuries and were transported to a medical facility.  The Chevrolet Malibu was towed.",
+        "    The crash occurred at the T-intersection of an east/west two-lane secondary arterial road and a north/south two-lane local road.  The arterial curves to the south (left) as it approaches the intersection from the east with a radius of curvature of 375m.  Traffic counts indicate it carries 9,036 vehicles per day with a posted speed limit of 72kmph (45mph).  The local road is straight and is controlled by a stop sign with a posted speed of 48kmph (30mph).  Conditions were daylight and dry on a weekday morning.    Vehicle #1 was a 1999 Ford F-250 pickup pulling a trailer loaded with four horses westbound on the two lane arterial road.  Vehicle #2, a 1999 Toyota Corolla, was southbound on the local road.  Vehicle #2 attempted to make a left turn to go east when its left side was struck by the front of Vehicle #1.   After impact the F-250 (V1) rotated counterclockwise and jackknifed with the truck coming to rest partially off the south side of the intersection facing southeast.  The trailer remained on the road and came to rest facing southwest.  The Corolla (V2) rotated clockwise and came to rest just off the south side of the road facing southwest.    Vehicle #1 was driven by a 25-year-old female that was belted with no deployed airbags and not injured in the crash.    She stated that she began to decelerate as she approached because the other vehicle appeared to be easing out into the intersection.  However, she didn't believe the Corolla (V2) would continue because of lack of gap distance.  Once she realized Vehicle #2 was beginning to turn she applied her brakes, honked the horn and steered to the left in an attempt to avoid a collision.  "
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

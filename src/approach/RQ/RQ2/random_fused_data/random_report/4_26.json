@@ -1,0 +1,124 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "25MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005004112921",
+        "2005004113122",
+        "2005074595061",
+        "2005076197381"
+    ],
+    "description": [
+        "       The crash occurred in the northbound lane of a two-lane intersection controlled by a stop sign.  The posted speed limit was 80 KMPH (50 MPH).     V1 was a 2002 Mercury Grand Marquis sedan traveling northbound in the 1st travel lane approaching the intersection controlled by a stop sign.  V2, a 2003 Toyota Corolla sedan, was traveling eastbound in the 1st travel lane intending on going straight.  V1 stopped at the stop sign looked both ways but did not see V2.  The front of V2 struck the left side of V1 in the northbound lane.  V1 came to final rest facing northbound and V2 came to final rest facing eastbound.     V1 was driven by a 70-year-old male who was not injured.  He stated that he stopped at the stop sign, looked both ways and proceeded thru the intersection.  He did not see V2 at all.  The driver of V1 did not take any avoidance actions.  V1 was towed due to damage.",
+        "     The crash occurred in the intersection of a two-lane roadway controlled by a stop sign.  Conditions were daylight and dry in the afternoon on a weekday.  The posted speed limit for both roads was 25 MPH.    V1 was a 2003 Saturn LW 300 station wagon traveling eastbound in the 1st travel lane approaching an intersection controlled by a stop sign intending on going straight.  V2, a 2004 Ford Explorer SUV, was traveling northbound in the 1st travel lane approaching the same intersection intending on going straight.  V1 drove thru the intersection and the front of V2 struck the right side of V1 in the intersection.  V2 then struck a curb.  V1 and V2 came to final rest facing northeast.     V1 was driven by a 56-year-old female who sustained minor injuries but was not transported.  She stated that she was not familiar with this roadway.  As she approached the intersection she was distracted by an ambulance and did not see the stop sign.  She failed to stop for the TCD and struck the front of V2 in the intersection.  The driver of V1 did not take any avoidance actions and was traveling between 21-30 MPH at the time of impact.  V1 was towed due to damage.",
+        "This two vehicle crash occurred during early evening hours at a T-intersection during dusk, rush hour traffic.  There were no adverse weather conditions at the time of this crash.  The bituminous roadway was dry.  The south roadway  level, undivided, two-way traffic way controlled by a stop sign. The west roadway has a positive 8% sloped, undivided, 5-lane traffic way, with no traffic controls. Posted speed limit 56 kmph (35 mph).Vehicle one (V1), a  2004, 4-door Chrysler Sebring driven by a 44 year-old female with one passenger was stopped at the stop sign for several minutes in the curb lane waiting to turn left across the westbound and center 2-way left turn lane.  Vehicle two (V2), a  1996 4-door Dodge Intrepid driven by a 33 year-old male was approaching the T-intersection in lane 2 going straight.  V1 proceeded its left turn across westbound lanes and its front collided with the front of V2.  V1's left front corner contacted the right front corner of V2.  The force of the impact caused V1 to rotate at least 90 degrees clockwise and it came to final rest in lanes one and two of the westbound travel lanes.  After the first impact V2 traveled southwest across the center 2-way lane and two eastbound lanes.  V2 came to final rest on top of the south curb edge and sidewalk of the traffic way.  Both vehicles were towed due to damage.The critical pre-crash event for V1 was coded: this vehicle traveling, turning left at intersection.  The critical reason for the critical event coded to V1 as a driver related factor: turned with obstructed view.  A non-contact large truck in the number one eastbound travel lane obstructed the view of V2, which was in the number two adjacent eastbound lane, for the driver of V1.  Associative factor driver of V1 may have been upset due to recent divorce, maybe fatigue due to spending most of the day shopping for household furniture brought on by a recent divorce.  The driver had been frustrated waiting at the stop sign to turn left and proceeded to turn left when her passenger said traffic to the right was clear.",
+        "     This two-vehicle crash occurred mid-morning hours during daylight hours in a rural residential area in a type T intersection. The north/south bound two-lane roadway is straight, level and without traffic control devices.  The west/east bound two-lane roadway is straight and downhill for westbound travel and controlled by a stop sign where it dead-ends with the other roadway. The speed limit for the area is 40 kph (25 mph). with no adverse weather or road conditions present.     Vehicle one (V1) a 1972 Ford Galaxie 4-door sedan driven by a 35 year-old male was traveling westbound approaching the stop sign when the driver discovered the brakes were inoperative.  Vehicle #1 steered to the left slightly before it entered the intersection without stopping.  Vehicle two (V2) a 1997 Ford F-150 pickup driven by a 48 year-old male was traveling northbound when it's front right side plane was contacted by the front bumper V1. V1 came to rest facing west. V2 came to rest in the south bound lane facing north. Both vehicles were towed due to damage.     The pre-event movement for V1 coded going straight, category this vehicle control loss due to disabling vehicle failure (brakes). Critical reason for the critical event vehicle related factor \"brakes failed\"."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V5": {
+            "behaviors": [
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V6": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 2
+        },
+        "V7": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "west",
+            "laneNumber": 0
+        },
+        "V8": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 8
+}

@@ -1,0 +1,76 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40MPH",
+    "intersection": "no",
+    "T": "yes",
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "ID": [
+        "2005002585224",
+        "2005012696003"
+    ],
+    "description": [
+        "     The crash occurred in the northbound lane of a level two lane undivided roadway with a posted speed limit of 40 MPH (64KPH).  The weather was clear, the roadway dry and it was daylight at the time of this weekday afternoon crash.     Vehicle #1, a 2002 Acura MDX, was parked off the right side of the roadway in an unimproved area used by a business for parking.  Vehicle #2, a 1992 GMC Vandura designated as a school bus, was traveling north on the two lane undivided roadway.  Vehicle #1 entered the roadway from the right into path of Vehicle #2 to execute an illegal U-turn.  Vehicle #2 braked and steered left to avoid a collision.  Vehicle #2 struck Vehicle #1 in left side with its front.  Vehicle #2 came to rest facing in a northwesterly direction.  Vehicle #1 was rotated slightly clockwise and came to rest facing in a northerly direction.  Police did not consider either alcohol or illegal drugs to be involved and ordered no tests.     The Acura MDX (Vehicle #1) was driven by a belted 51 year old male who was treated at the scene for a laceration to his arm.  He stated that he had stopped to pick up lunch for his co-workers and was going to make a U-turn to return to work.  He stated that he had glanced at the traffic light (behind him) and thought it was red.  He also stated that he had looked, but didn't see the bus.  He estimated that he was traveling less than 10 MPH at the time of impact and made no avoidance maneuvers.  Vehicle #1 was towed due to damage.",
+        "\tV1, a 1997 Dodge Ram pickup, was traveling eastbound on a three-lane, two-way, dry asphalt roadway in daylight conditions.  V1 was approaching a T-intersection intending to turn right.  V2, a 2003 Pontiac Grand Am, was traveling southbound on a four-lane, two-way, dry asphalt roadway approaching the same intersection.  V2 was intending to go straight.  The posted speed for both roadways was 89 kmph (55 mph). Eastbound traffic was controlled by a stop sign; south and northbound traffic had no traffic control device. V1 stopped at the stop sign for 10 seconds or more.  V1 then made a right-hand turn.  The front of V2 contacted the left of V1 before they both came to final rest in the roadway.\tThe driver of V1 was a 68-year old male who reported that he had been traveling between 2-16 kmph (1-10 mph) prior to the crash.  He had no health-related problems and had taken no medication prior to the crash.  He was rested and traveling to the store.  He did not wear corrective lenses.  He was uninjured in the crash and refused treatment.  \tThe Critical Pre-crash Event for the driver of V1 was: this vehicle traveling, turning right at intersection.  The Critical reason for the Critical Pre-crash Event was a recognition error: inadequate surveillance (e.g. failed to look, looked but did not see) because he stated that he had looked both ways but did not see V2."
+    ],
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "drive into"
+                ],
+                [
+                    "turn around",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V3": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn right",
+                    3
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V4": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "carCount": 4
+}

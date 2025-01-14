@@ -1,0 +1,24 @@
+
+
+
+{
+    "weather" : [],
+    "lighting": [],
+    "speedlimit": "48 KMPH (30 MPH)",
+    "intersection" : "yes",
+    "T" : "no",
+    "carCount" : 2,
+    "laneCount" : 5,
+    "striker" : "V1",
+    "At-Fault-Vehicle" : "V1",
+    "impactPart": "front",
+    "carInformation" : {
+        "V1" : {
+            "behaviors" : [["braking", "look left", "misjudge gap distance", "inadequate evasive action"]],
+            "direction" : "unknown",
+            "laneNumber" : 1
+        },
+        "V2" : {
+            "behaviors" : [["waiting for light", "talking to passenger"]],
+            "direction" : "northbound",
+           
