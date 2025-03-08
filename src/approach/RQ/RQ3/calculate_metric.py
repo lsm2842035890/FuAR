@@ -208,6 +208,6 @@ def compute_metrics_for_files(ground_truth_folder, generated_text_folder):
 
 # Example usage
 ground_truth_folder = '/home/lsm/SFTSG_NME/src/approach/RQ/RQ3/gpt_35_answer'
-generated_text_folder = '/home/lsm/SFTSG_NME/src/approach/RQ/RQ3/phi_3'
+generated_text_folder = '/home/lsm/SFTSG_NME/src/approach/RQ/RQ3/deepseek_r1_answer'
 
 metrics_results = compute_metrics_for_files(ground_truth_folder, generated_text_folder)

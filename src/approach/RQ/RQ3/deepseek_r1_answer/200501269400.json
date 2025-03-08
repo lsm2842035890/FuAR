@@ -1,0 +1,46 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "80KMPH",
+    "intersection": "yes",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 5,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    3
+                ],
+                [
+                    "change lane",
+                    2
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 3
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        }
+    },
+    "ID": "200501269400",
+    "description": "V1, a 2000 Pontiac Montana minivan, made a left turn from a private driveway onto a\n                        northbound 5-lane two-way, dry asphalt roadway on a downhill grade. The posted speed limit on\n                        this roadway was 80 kmph (50 MPH). V1 entered the roadway by crossing over the two southbound\n                        lanes and then entering the third northbound lane, which was a left turn-only lane at a 4-way\n                        intersection. The driver of V1 intended to travel straight through the intersection, and so he\n                        began to change lanes to the right. He did not see V2, a 1994 Pontiac Grand Am, that was\n                        traveling in the second northbound lane. The northbound roadway had curved to the right prior to\n                        the private driveway that V1 had exited. As V1 began to change lanes to the right, the front of\n                        V1 contacted the left rear of V2 before coming to final rest on the roadway.\n\n\n                        The driver of V1 was a 60-year old male who reported that he had been traveling between 2-17\n                        kmph (1-10 mph) prior to the crash. He had no health-related problems, and had taken no\n                        medication prior to the crash. He was rested and traveling back home. He was wearing his\n                        prescribed lenses that corrected a myopic (nearsighted) condition. He did not sustain any\n                        injuries from the crash and refused treatment.\n\n\n                        The Critical Precrash Event for the driver of V1 was when he began to travel over the lane line\n                        on the right side of the travel lane. The Critical Reason for the Critical Precrash Event was\n                        inadequate surveillance (failed to look, looked but did not see). Associated factors coded to\n                        the driver of V1 include an illegal use of a left turn lane (cited by police) and an\n                        unfamiliarity with the roadway. As per the driver of V1, this was the first time he had driven\n                        on this roadway.\n\n\n                        The driver of V2 was a 28-year old woman who reported that she had been traveling between 66-80\n                        kmph (41-50 mph) prior to the crash. She had no health-related problems, and had taken no\n                        medication prior to the crash. She was rested and on her way home. She does not wear corrective\n                        lenses. She sustained minor injuries and was transported to a local trauma facility.\n\n\n                        The Critical Precrash Event for the driver of V2 was when the other vehicle encroached into her\n                        lane, from an adjacent lane (same direction) over the left lane line. The Critical Reason for\n                        the Critical Precrash Event was not coded to the driver of V2 and no associated factors were\n                        coded to her."
+}

@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "56KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005012695903",
+    "description": "V1, a 1997 Pontiac Grand Am, was traveling eastbound on a 4-lane, 2-way, dry asphalt\n                        roadway in daylight conditions. V1 was traveling in lane one intending to turn right at a\n                        T-intersection. V2, a 2005 Dodge Grand Caravan, was stopped for a red light in lane one in front\n                        of V1 on the same roadway, also intending to turn right. The posted speed limit was 56 kmph (35\n                        mph). The front of V1 contacted the back of V2. Both vehicles came to final rest off the south\n                        road edge.\n\n\n                        The driver of V1 was a 21-year old male who had reported that he had been traveling between\n                        18-32 kmph (11-20mph) prior to the crash. He had no health related problems and had taken no\n                        medication prior to the crash. He was rested and traveling to a restaurant. He does not wear\n                        corrective lenses. He was uninjured and refused treatment.\n\n\n                        The Critical Precrash Event for the driver of V1 was other motor vehicle in lane, other vehicle\n                        stopped. The Critical Reason for the Critical Precrash Event was a recognition error, an\n                        external distraction, because he stated that he was looking at approaching traffic to his left\n                        and did not realize that the vehicle ahead of him had stopped.\n\n\n                        The driver of V2 was a 70-year old male who had reported that he had been stopped at the red\n                        light prior to the crash. He had no health related problems and had taken no medication prior to\n                        the crash. He was rested and traveling to a restaurant. He was wearing corrective lenses for\n                        astigmatism. He was uninjured and refused treatment.\n\n\n                        The Critical Precrash Event for the driver of V1 was other motor vehicle in lane, traveling in\n                        same direction with higher speed. The Critical Reason for the Critical Precrash Event was not\n                        coded to the driver of V2 and he was not thought to have contributed to the crash."
+}

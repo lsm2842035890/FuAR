@@ -1,0 +1,49 @@
+{
+    "weather": [
+        "clear",
+        "cloudy"
+    ],
+    "lighting": [
+        "unknown"
+    ],
+    "speedlimit": "48KMPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ],
+                [
+                    "turn left",
+                    0
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005005289642",
+    "description": "This two-vehicle crash occurred on a two-lane undivided level roadway. The posted speed\n                        limit on the roadway was 48 kmph (30 mph). There were no adverse atmospheric conditions at the\n                        time of the incident, although it was slightly cloudy.\n\n\n                        Vehicle one (V1), a 1995 Chevrolet Camaro, was driven by a 20-year old male. Vehicle two (V2), a\n                        2002 Ford Windstar, was driven by a 26-year old female. V1 and V2 were both traveling south on\n                        the same roadway, with V1 coming up behind V2 at approximately 80 kmph (50 mph). The driver of\n                        V2 had decelerated and then stopped in her lane while waiting for an oncoming vehicle to pass so\n                        that she could turn left into a driveway. For unknown reasons, V1 attempted to pass V2 on the\n                        left, ignoring the double yellow line. As V1 was passing V2, V2 started to make a left into the\n                        driveway. The right side of V1 contacted the left front of V2. Vehicle one then continued\n                        forward and made contact with the northbound curb before crossing the southbound lane again, and\n                        running into an embankment. Finally, before coming to final rest, the front of V1 made contact\n                        with a mailbox on the property of the southbound side of the roadway. After the initial impact,\n                        V2 continued forward approximately 20 feet before coming to final rest.\n\n\n                        The driver of V1 was taken to the hospital for possible injuries. A phone interview could not be\n                        obtained from the driver of V1. According to the police officer, the driver did not have a\n                        license to operate a motor vehicle and spoke very little English. V1 had to be towed from the\n                        scene as a result of damage to the undercarriage. Through information obtained from the police\n                        accident report, the Critical Pre-crash Event for V1 was coded as this vehicle traveling over\n                        the left side of travel lane. The reason for the Critical Pre-crash Event was coded as an\n                        illegal maneuver, in that the driver ignored the double yellow lines. Associated factors coded\n                        to this driver include excess speed, aggressive driving, and a false assumption of other road\n                        user's actions in that the driver of V1 assumed that V2 would stay in her lane.\n\n\n                        The driver of V2 was also taken to the hospital as a precautionary measure. Numerous attempts at\n                        obtaining the interview were unsuccessful. According to information relayed to the researcher by\n                        the police officer, the driver of V2 was waiting for an oncoming vehicle to pass before making a\n                        left into a driveway. As the driver was making the left, V1 attempted to pass V2 illegally. The\n                        Critical Pre-crash Event for V2 was coded as this vehicle turning left at intersection. The\n                        reason for the Critical Pre-crash Event was not coded to this vehicle. No associated factors\n                        could be coded due to the lack of an interview."
+}

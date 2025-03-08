@@ -1,0 +1,39 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "48KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 2,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "turn left",
+                    2
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005072709641",
+    "description": "This two-vehicle crash occurred in the morning at 0740 hours at a traffic-signal-controlled\n                        T-intersection. The north/south roadway is straight, level, dry and has two lanes in each\n                        direction that are separated by a painted median. The intersecting roadway (that branches on the\n                        west side of the north/south road) is a two-lane, undivided, level, straight east/west roadway.\n                        The speed limit on both roadways is 48 kph (30 mph) and there were no adverse atmospheric\n                        conditions at the time of the crash.\n\n\n                        Vehicle one,(V 1) a 1992 Cadillac Deville, was southbound in the second lane. Vehicle two,(V 2)\n                        a 1993 Ford F-150 pickup truck, was eastbound at the intersection. The light turned red for\n                        vehicle one and green for vehicle two. As vehicle two turned left at the intersection, the front\n                        of vehicle one struck the left side vehicle two. Both vehicles came to rest in the intersection\n                        and were towed due to damage. The driver of V 1 a forty-six-year-old female, disregarded the red\n                        traffic signal. No information was obtained from this driver. The driver of V 2 a\n                        twenty-year-old male, was driving from home to work. He was well rested, familiar with his\n                        vehicle and his route, not in a hurry and comfortable with his twenty-year-old male passenger.\n                        He was listening to the radio, but this did not distract him from his driving responsibilities.\n\n\n                        The pre-event movement for V 1 coded going straight, category this vehicle traveling crossing\n                        over passing through intersection. Critical reason driver related factor \"illegal maneuver\"\n                        (disregard of traffic control signal).\n\n\n                        The pre-event movement for V 2 coded stopped in traffic lane, category this vehicle traveling\n                        turning left at intersection. Critical reason not coded to this vehicle."
+}

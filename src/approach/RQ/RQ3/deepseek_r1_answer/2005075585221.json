@@ -1,0 +1,39 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "40KMPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 4,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "turn right",
+                    1
+                ]
+            ],
+            "direction": "east",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 2
+        }
+    },
+    "ID": "2005075585221",
+    "description": "This two-vehicle crash occurred during daylight hours at a three-legged intersection. The\n                        north/south roadway was straight, level and undivided with a speed limit of 72 kmph (45 mph).and\n                        the east/west roadway is straight, level and undivided with a speed limit of 40 kmph (25 mph).\n                        The southbound travel lanes consists of a right turn lane, two through lanes and a left turn\n                        lane. The east/west roadway consists of two lanes, one in each direction, with a stop sign\n                        controlling the entry to the north/south roadway. There were no adverse weather conditions at\n                        the time.\n\n\n                        Vehicle one, a 2003 Mazda Protege, was eastbound, turning right at the intersection. Vehicle\n                        two, a 1995 Jeep Grand Cherokee, was southbound in the right through lane. As vehicle one turned\n                        right, the front left was struck by the front of vehicle two. Vehicle one rotated clockwise and\n                        vehicle two rotated counterclockwise and the left side of vehicle one struck the right side of\n                        vehicle two. Vehicle one came to rest south of the intersection facing northeast. Vehicle two\n                        continued to rotate and rolled over four quarter-turns to the right before coming to rest facing\n                        northeast. Both vehicles were towed due to damage.\n\n\n                        The driver of vehicle one, an eighty-two-year-old female, was driving from a financial\n                        institution to her home. The vehicle was new to her, but she claimed to be comfortable driving\n                        it. She was also quite familiar with the route that she was traveling. She doesn't remember the\n                        stop sign, nor does she remember looking left to check for traffic before she made the right\n                        turn.\n\n\n                        The driver of vehicle two, a twenty-nine-year old female, was returning to her office from lunch\n                        and had just stopped at a gas station. She was comfortable with the vehicle and the route. She\n                        was adjusting the radio just prior to her recognition of an imminent crash, but braked and\n                        steered left in an attempt to avoid vehicle one.\n\n\n                        The critical pre-crash event for vehicle one was coded: this vehicle traveling, turning right at\n                        intersection. The critical reason was attributed to vehicle one and was coded as: unknown\n                        recognition error.\n\n\n                        The critical pre-crash event for vehicle two was coded: other motor vehicle encroaching; from\n                        crossing street, turning into same direction. The critical reason was not coded to this vehicle."
+}

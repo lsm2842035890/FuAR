@@ -1,0 +1,41 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "dark"
+    ],
+    "speedlimit": "72KPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "stop"
+                ]
+            ],
+            "direction": "unknown",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005005289822",
+    "description": "This two-vehicle crash occurred in the evening hours in the middle of the two northbound\n                        lanes of a physically divided (concrete barrier) bridge. There were no adverse atmospheric\n                        conditions at the time of the crash, although it was dark and no streetlights were present. The\n                        roadway was dry, straight, and level with a posted speed limit of the roadway was 72kph (45mph).\n\n\n                        V1, a 2005 Mazda 626, was northbound in lane one on the bridge. V2, a 1995 Ford Windstar, was\n                        disabled on the bridge in lane one ahead of vehicle one. V1 failed to stop and the front of V1\n                        contacted the back of V2 the impact pushed V2 forward and its right side contacted the right\n                        concrete barrier before coming to final rest. Both vehicles had to be towed from the scene due\n                        to vehicle damage.\n\n\n                        V1 was driven by a 22 year-old female who suffered minor injuries as a result of the collision,\n                        but did not require transport to a medical facility. After numerous attempts, an interview could\n                        not be obtained from the driver of vehicle one. From statements given to the police on scene the\n                        driver of V1 had consumed alcoholic beverages prior to the crash but sobriety tests confirmed\n                        she was still within the legal limit to operate a motor vehicle. V1 was towed due to damage.\n\n\n                        The Critical Precrash Event coded to this vehicle was other motor vehicle in lane, other vehicle\n                        stopped. The Critical Reason for the Critical Precrash Event was coded as an unknown recognition\n                        error since an interview could not be obtained. The only know associated factor was the presence\n                        of alcohol however, this was not thought to have contributed to the crash.\n\n\n                        V2 was driven by a 22 year-old female who was not injured as a result of the collision. After\n                        numerous attempts, an interview could not be obtained from the driver due to the fact she could\n                        not be located. V2 was towed from the scene.\n\n\n                        The reason for the Critical Precrash Event coded to this vehicle was other motor vehicle in\n                        lane, traveling in same direction with higher speed. The Critical Reason for the Critical\n                        Precrash Event was not coded to this vehicle. The driver of V2 was not thought to have\n                        contributed to the crash."
+}

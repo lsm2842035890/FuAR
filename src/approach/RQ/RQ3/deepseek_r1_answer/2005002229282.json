@@ -1,0 +1,41 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "89KMPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "retrograde"
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 0
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005002229282",
+    "description": "This crash occurred on a curve of a two-lane undivided roadway with a posted speed limit of\n                        89 KMPH (55 MPH). The weather was clear and the roadway was dry and level. This crash occurred\n                        on a weekend afternoon.\n\n\n                        Vehicle #1, a red 2003 Buick Century, was traveling south on the two-lane undivided roadway\n                        negotiating a curve to the right when it went over the left side double yellow lines into the\n                        northbound lane. Vehicle #2, a white 1992 Nissan Sentra, was traveling north on the same roadway\n                        negotiating the same curve. Vehicle #1 impacted the front left of Vehicle #2 with its front\n                        left. Vehicle #1 spun counter-clockwise and came to rest facing north on the southbound\n                        shoulder. Vehicle #2 spun counter-clockwise and came to rest on the northbound shoulder facing\n                        south.\n\n\n                        The Buick Century (Vehicle #1) was driven by a belted 58-year old female who was airlifted to a\n                        trauma center and hospitalized due to left leg and abdominal injuries. She stated that she could\n                        not remember the actual crash but does remember talking with her passenger and then waking up to\n                        see dirt, a broken window and the airbag. The right front passenger in this vehicle was a\n                        relative of the driver, a belted 80-year old male with a previous diagnosis of dementia. He was\n                        transported to an area hospital. The driver of this vehicle takes several medications for\n                        diabetes, high blood pressure, and depression. She also has been diagnosed with sleep apnea.\n                        Possible side effects of these medications include drowsiness and lethargy. It should be noted\n                        here that a witness described this driver as looking \u201clike she fell asleep.\u201d Vehicle 1 was towed\n                        due to damage.\n\n\n                        The Critical Pre-crash Event coded to Vehicle #1 was this vehicle traveling over the lane line\n                        on the left side of the travel lane. The Critical Reason for the Critical Pre-crash Event was\n                        coded as an unknown critical non-performance error. It was possible that the driver fell asleep\n                        or that she passed out - medical records did not indicate a cause for the crash. Associated\n                        factors coded to this driver include her previous medical conditions (sleep apnea, diabetes,\n                        high blood pressure, depression), the prescription medications she had been taking, and her\n                        conversation with her passenger prior to the crash.\n\n\n                        The Nissan Sentra (Vehicle #2) was driven by a belted 30-year old male who was airlifted to an\n                        area trauma center. There was a belted 27-year old female passenger in the right front seat who\n                        was transported to an area hospital. The occupants of this vehicle were not available for\n                        interviews and did not return messages. This vehicle was towed due to damage.\n\n\n                        The Critical Pre-crash Event coded to Vehicle #2 was other vehicle encroachment from opposite\n                        direction over left lane line. The Critical Reason for the Critical Pre-crash Event was not\n                        coded to this vehicle. No associated factors could be coded to this driver due to the lack of an\n                        interview."
+}

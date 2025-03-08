@@ -1,0 +1,38 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "89KMPH",
+    "intersection": "no",
+    "T": "no",
+    "carCount": 2,
+    "laneCount": 3,
+    "striker": "V1",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 3,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 2
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 0
+        }
+    },
+    "ID": "2005006445302",
+    "description": "The crash occurred in the northbound side of a six lane physically divided north/southbound\n                        highway, three southbound and three northbound lanes. During the time of the crash the highway\n                        was under construction, approaching a work zone, lane three was closed allowing access to lanes\n                        one and two. There were traffic barricades blocking lane one.\n\n\n                        The concrete highway was dry, level, and there was no adverse weather conditions. The posted\n                        speed limit was 89kmph (55mph). The crash occurred early afternoon and the full access\n                        controlled highway had a consistent flow of traffic.\n\n\n                        V1, a 2005 Mitsubishi Lancer was traveling north and had entered lane two of the work zone when\n                        its front-end struck the rear of V2, a, 1999 Ford F-350 pick-up. The driver of V1,a 56 year old\n                        male stated that he had merged into lane two and preceded driving several feet when V2 suddenly\n                        stopped in front of him causing V1 to rear-end V2. The driver of V2, a 49-year-old female said\n                        that she was traveling at a consistent speed of approximately 64 kmph (40 mph) when she was\n                        rear-ended by V1. V1 was towed due to damages and all three occupants were transported to the\n                        hospital for minor injuries.\n\n\n                        The Critical Precrash Event for V1 was coded other motor vehicle in lane stopped, and the\n                        Critical Precrash reason was coded inadequate surveillance (failed to look far enough ahead).\n\n\n                        The Critical Precrash Event for V2 was coded traveling in the same direction with higher speed.\n                        The Critical Precrash reason was not coded to this vehicle."
+}

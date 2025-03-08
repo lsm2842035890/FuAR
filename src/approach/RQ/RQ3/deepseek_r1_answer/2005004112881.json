@@ -1,0 +1,45 @@
+{
+    "weather": [
+        "clear"
+    ],
+    "lighting": [
+        "bright"
+    ],
+    "speedlimit": "45MPH",
+    "intersection": "yes",
+    "T": "yes",
+    "carCount": 2,
+    "laneCount": 2,
+    "striker": "V2",
+    "At-Fault-Vehicle": "V1",
+    "impactPart": 1,
+    "carInformation": {
+        "V1": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "turn left",
+                    1
+                ]
+            ],
+            "direction": "south",
+            "laneNumber": 1
+        },
+        "V2": {
+            "behaviors": [
+                [
+                    "follow lane"
+                ],
+                [
+                    "go across"
+                ]
+            ],
+            "direction": "north",
+            "laneNumber": 1
+        }
+    },
+    "ID": "2005004112881",
+    "description": "The crash occurred in the northbound lane of a two-lane roadway with a T-intersection.\n                        Conditions were daylight in the morning on a weekday. The posted speed limit was 45 MPH.\n\n\n                        V1 was a 1991 Volkswagen Jetta sedan traveling southbound in the 1st travel lane approaching the\n                        T-intersection intending on turning left. V2, a 1994 Ford Taurus sedan, was traveling northbound\n                        in the 1st travel lane intending on going straight. V1 made the left turn and the front of V2\n                        struck the front-right of V1 in the northbound lane. Both vehicles came to final rest facing\n                        northbound.\n\n\n                        V1 was driven by a 22-year-old male who sustained moderate injuries and was transported to a\n                        trauma center. He stated that he was turning left and did not see V2. The driver of V1 did not\n                        take any avoidance actions. The driver of V1 was talking to the passenger just prior to the\n                        crash. The driver of V1 was traveling between 31 and 40 MPH at the time of impact. V1 was towed\n                        due to damage.\n\n\n                        The critical precrash event for V1 was this vehicle turning left at the intersection. The\n                        critical reason for the critical precrash event was a driver recognition error; internal\n                        distraction (talking to passenger). An associated factor coded to this driver was a driver\n                        recognition factor; inadequate surveillance (looked, but did not see).\n\n\n                        V2 was driven by a 48-year-old male who was not injured. He stated that he was traveling\n                        northbound when V1 turned in front of him. V2 was towed due to damage.\n\n\n                        The critical precrash event for V2 was other vehicle encroachment from opposite direction over\n                        the left lane line. No critical reason for the critical precrash event was coded to this driver."
+}
