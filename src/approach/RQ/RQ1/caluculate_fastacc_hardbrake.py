@@ -71,7 +71,7 @@ def calculate_fastacc_hardbrake_count(json_path):
 
 if __name__ == '__main__':
     # json_path = '/home/lsm/SFTSG_NME/src/approach/runtime_scenaio_data/n_merged'
-    json_path = '/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fuse_report_runtimedata'
+    json_path = '/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/no_fuse_report_runtimedata'
     fastacc_count, hardbrake_count, exceed_speed_count = calculate_fastacc_hardbrake_count(json_path)
     print('fastacc_count:', fastacc_count)
     print('hardbrake_count:', hardbrake_count)

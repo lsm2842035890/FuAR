@@ -27,24 +27,44 @@ def introduction_example():
         sim.load(scene_name)
 
     sim.set_date_time(datetime(2022, 6, 22, 11, 0, 0, 0), True)
+    ######
+    # print(sim.map_from_gps(northing=4134412.25,easting=592656,altitude=10))
+    # print(sim.map_from_gps(northing=4134409,easting=592658.1,altitude=10))
+    # print(sim.map_from_gps(northing=4134420.8,easting=592670.7,altitude=10))
+    # print(sim.map_from_gps(northing=4134430.7,easting=592673.7,altitude=10))
+    # print(sim.map_from_gps(northing=4134455.9,easting=592698,altitude=10))
+    ######
 
 
-    temp_pos = lgsvl.Vector(69,10,-60)
+    temp_pos = lgsvl.Vector(66.75,10,-64)
     ego_state = lgsvl.AgentState()
-    ego_state.transform = Transform(position=temp_pos,rotation=sim.map_point_on_lane(temp_pos).rotation)
+    ego_state.transform = Transform(position=lgsvl.Vector(77.8,10,-75.8),rotation=sim.map_point_on_lane(temp_pos).rotation)
     ego = sim.add_agent(vehicle_conf, lgsvl.AgentType.EGO, ego_state)
     ego.connect_bridge(BRIDGE_HOST, BRIDGE_PORT)
 
     ####
     temp_pos = lgsvl.Vector(-28.7000064849854, 10, 16.1999969482422)
     state = lgsvl.AgentState()
-    state.transform = Transform(position=lgsvl.Vector(14.0000028610229, 10, -7.99999809265137),rotation=sim.map_point_on_lane(temp_pos).rotation)
+    state.transform = Transform(position=lgsvl.Vector(23.1, 10, -22),rotation=sim.map_point_on_lane(temp_pos).rotation)
     npc = sim.add_agent("SUV", lgsvl.AgentType.NPC,state)
     waypoints = [
-        lgsvl.DriveWaypoint(position=lgsvl.Vector(14.0000028610229, 10, -7.99999809265137),speed=5,angle=sim.map_point_on_lane(temp_pos).rotation),
-        lgsvl.DriveWaypoint(position=lgsvl.Vector(69.0000152587891, 10, -59.9999923706055),speed=5,angle=lgsvl.Vector(0,math.degrees(math.atan2(28,-30)))),
+        lgsvl.DriveWaypoint(position=lgsvl.Vector(23.1, 10, -22),speed=1.5,angle=sim.map_point_on_lane(temp_pos).rotation),
+        lgsvl.DriveWaypoint(position=lgsvl.Vector(48.3, 10, -46.3),speed=1.5,angle=lgsvl.Vector(0,math.degrees(math.atan2(25.2,-24.3)))),
     ]
     npc.follow(waypoints)
+    ####
+    ####
+    temp_pos1 = lgsvl.Vector(70,10,-61.9)
+    state1 = lgsvl.AgentState()
+    state1.transform = Transform(position=lgsvl.Vector(94,10,-87.1),rotation=sim.map_point_on_lane(temp_pos1).rotation)
+    npc1 = sim.add_agent("SUV", lgsvl.AgentType.NPC,state1)
+    waypoints1 = [
+        lgsvl.DriveWaypoint(position=lgsvl.Vector(94,10,-87.1),speed=7,angle=sim.map_point_on_lane(temp_pos1).rotation),
+        lgsvl.DriveWaypoint(position=lgsvl.Vector(70,10,-61.9),speed=8,angle=lgsvl.Vector(0,math.degrees(math.atan2(-12,12.6)))),
+        lgsvl.DriveWaypoint(position=lgsvl.Vector(58,10,-49.3),speed=8,angle=lgsvl.Vector(0,math.degrees(math.atan2(-12,12.6)))),
+        lgsvl.DriveWaypoint(position=lgsvl.Vector(48.3,10,-46.3),speed=8,angle=lgsvl.Vector(0,math.degrees(math.atan2(-9.8,3)))),
+    ]
+    npc1.follow(waypoints1)
     ####
 
     dv = lgsvl.dreamview.Connection(sim, ego, BRIDGE_HOST)
@@ -64,9 +84,8 @@ def introduction_example():
     ]
 
     dv.disable_apollo()
-    time.sleep(5)
-    dv.setup_apollo(592690, 4134441.25, default_modules)
-    dv.set_destination(592690, 4134441.25,coord_type=CoordType.Northing)
+    dv.setup_apollo(592656, 4134412.25, default_modules)
+    dv.set_destination(592688, 4134442.5,coord_type=CoordType.Northing)
     sim.run(LGSVL__SIMULATION_DURATION_SECS)
 
 if __name__ == "__main__":

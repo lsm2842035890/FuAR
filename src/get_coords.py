@@ -189,7 +189,7 @@ def get_map_coords_rotation():
     else:
         sim.load(scene_name)
     #########
-    coor = sim.map_from_gps(northing=4134397,easting=592645,altitude=10)
+    coor = sim.map_from_gps(northing=4134412.25,easting=592656,altitude=10)
     print(coor)
     one = lgsvl.Vector(coor.position.x,coor.position.y,coor.position.z)
     state = lgsvl.AgentState()
@@ -206,5 +206,5 @@ def get_map_coords_rotation():
 
 # get_coords()
 # npc_coords()
-apollo_and_npc()
-# get_map_coords_rotation()
+# apollo_and_npc()
+get_map_coords_rotation()

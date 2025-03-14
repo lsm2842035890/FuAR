@@ -1,0 +1,300 @@
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005048103261.json
+start:2025-03-14 17:43:57
+end:2025-03-14 17:45:12
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004495861.json
+start:2025-03-14 17:45:12
+end:2025-03-14 17:46:11
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002585382.json
+start:2025-03-14 17:46:11
+end:2025-03-14 17:47:12
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112901.json
+start:2025-03-14 17:47:12
+end:2025-03-14 17:48:11
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005074595061.json
+start:2025-03-14 17:48:11
+end:2025-03-14 17:49:13
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005045587801.json
+start:2025-03-14 17:49:13
+end:2025-03-14 17:50:12
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005075585381.json
+start:2025-03-14 17:50:12
+end:2025-03-14 17:51:11
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005006445042.json
+start:2025-03-14 17:51:11
+end:2025-03-14 17:52:11
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498401.json
+start:2025-03-14 17:52:11
+end:2025-03-14 17:53:10
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005074433941.json
+start:2025-03-14 17:53:10
+end:2025-03-14 17:54:09
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002585263.json
+start:2025-03-14 17:54:09
+end:2025-03-14 17:55:09
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004496062.json
+start:2025-03-14 17:55:09
+end:2025-03-14 17:56:10
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498361.json
+start:2025-03-14 17:56:10
+end:2025-03-14 17:57:09
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112261.json
+start:2025-03-14 17:57:09
+end:2025-03-14 17:58:09
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005012696003.json
+start:2025-03-14 17:58:09
+end:2025-03-14 17:59:08
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005005447482.json
+start:2025-03-14 17:59:08
+end:2025-03-14 18:00:09
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005075585601.json
+start:2025-03-14 18:00:09
+end:2025-03-14 18:01:08
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229242.json
+start:2025-03-14 18:01:08
+end:2025-03-14 18:02:08
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005006445243.json
+start:2025-03-14 18:02:08
+end:2025-03-14 18:03:08
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498502.json
+start:2025-03-14 19:42:47
+end:2025-03-14 19:44:23
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005074596001.json
+start:2025-03-14 19:44:23
+end:2025-03-14 19:45:24
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005045706121.json
+start:2025-03-14 19:45:24
+end:2025-03-14 19:46:23
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004495041.json
+start:2025-03-14 19:46:23
+end:2025-03-14 19:47:23
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005076197381.json
+start:2025-03-14 19:47:23
+end:2025-03-14 19:48:22
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005078436445.json
+start:2025-03-14 19:48:22
+end:2025-03-14 19:49:23
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003588201.json
+start:2025-03-14 19:49:23
+end:2025-03-14 19:50:23
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003588301.json
+start:2025-03-14 19:50:23
+end:2025-03-14 19:51:22
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005076597363.json
+start:2025-03-14 19:51:22
+end:2025-03-14 19:52:22
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229102.json
+start:2025-03-14 19:52:22
+end:2025-03-14 19:53:21
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229482.json
+start:2025-03-14 19:53:21
+end:2025-03-14 19:54:20
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498501.json
+start:2025-03-14 19:54:20
+end:2025-03-14 19:55:22
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005076197801.json
+start:2025-03-14 19:55:22
+end:2025-03-14 19:56:22
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002585683.json
+start:2025-03-14 19:56:22
+end:2025-03-14 19:57:23
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112021.json
+start:2025-03-14 19:57:23
+end:2025-03-14 19:58:24
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/200501269401.json
+start:2025-03-14 19:58:24
+end:2025-03-14 19:59:24
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005005447262.json
+start:2025-03-14 19:59:24
+end:2025-03-14 20:00:23
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005049602084.json
+start:2025-03-14 20:00:23
+end:2025-03-14 20:01:25
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498081.json
+start:2025-03-14 20:01:25
+end:2025-03-14 20:02:27
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005048103001.json
+start:2025-03-14 20:02:27
+end:2025-03-14 20:03:28
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229442.json
+start:2025-03-14 20:06:59
+end:2025-03-14 20:08:01
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498503.json
+start:2025-03-14 20:08:01
+end:2025-03-14 20:09:01
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003588101.json
+start:2025-03-14 20:09:01
+end:2025-03-14 20:10:02
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005008450282.json
+start:2025-03-14 20:10:02
+end:2025-03-14 20:11:02
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005075585221.json
+start:2025-03-14 20:11:02
+end:2025-03-14 20:12:01
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229602.json
+start:2025-03-14 20:12:01
+end:2025-03-14 20:13:01
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112561.json
+start:2025-03-14 20:13:01
+end:2025-03-14 20:14:00
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2006012695726.json
+start:2025-03-14 20:14:00
+end:2025-03-14 20:15:00
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005006589001.json
+start:2025-03-14 20:15:00
+end:2025-03-14 20:16:00
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498461.json
+start:2025-03-14 20:16:00
+end:2025-03-14 20:16:59
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005005447202.json
+start:2025-03-14 20:16:59
+end:2025-03-14 20:17:59
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005041508981.json
+start:2025-03-14 20:17:59
+end:2025-03-14 20:19:01
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112001.json
+start:2025-03-14 20:19:01
+end:2025-03-14 20:20:03
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498381.json
+start:2025-03-14 20:20:03
+end:2025-03-14 20:21:02
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498282.json
+start:2025-03-14 20:21:02
+end:2025-03-14 20:22:02
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229483.json
+start:2025-03-14 20:22:02
+end:2025-03-14 20:22:02
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112182.json
+start:2025-03-14 20:25:53
+end:2025-03-14 20:26:56
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002585744.json
+start:2025-03-14 20:26:56
+end:2025-03-14 20:27:55
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003588341.json
+start:2025-03-14 20:27:55
+end:2025-03-14 20:28:55
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498482.json
+start:2025-03-14 20:28:55
+end:2025-03-14 20:29:54
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005043700301.json
+start:2025-03-14 20:29:54
+end:2025-03-14 20:30:54
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005005289182.json
+start:2025-03-14 20:30:54
+end:2025-03-14 20:30:54
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002585643.json
+start:2025-03-14 20:33:30
+end:2025-03-14 20:34:45
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005006445082.json
+start:2025-03-14 20:34:45
+end:2025-03-14 20:35:45
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005043601421.json
+start:2025-03-14 20:35:45
+end:2025-03-14 20:36:45
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004113122.json
+start:2025-03-14 20:36:45
+end:2025-03-14 20:37:44
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002585224.json
+start:2025-03-14 20:37:44
+end:2025-03-14 20:38:46
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112921.json
+start:2025-03-14 20:38:46
+end:2025-03-14 20:39:46
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005072709641.json
+start:2025-03-14 20:39:46
+end:2025-03-14 20:40:45
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005006445102.json
+start:2025-03-14 20:40:45
+end:2025-03-14 20:41:45
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498181.json
+start:2025-03-14 20:41:45
+end:2025-03-14 20:42:45
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112161.json
+start:2025-03-14 20:42:45
+end:2025-03-14 20:43:45
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112101.json
+start:2025-03-14 20:43:45
+end:2025-03-14 20:44:47
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005005447062.json
+start:2025-03-14 20:44:47
+end:2025-03-14 20:45:46
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229462.json
+start:2025-03-14 20:45:46
+end:2025-03-14 20:46:46
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005045588442.json
+start:2025-03-14 20:46:46
+end:2025-03-14 20:47:46
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005006445302.json
+start:2025-03-14 20:47:46
+end:2025-03-14 20:48:48
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005006445022.json
+start:2025-03-14 20:48:48
+end:2025-03-14 20:49:48
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004495863.json
+start:2025-03-14 20:49:48
+end:2025-03-14 20:50:49
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002585502.json
+start:2025-03-14 20:50:49
+end:2025-03-14 20:51:52
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112601.json
+start:2025-03-14 20:51:52
+end:2025-03-14 20:52:54
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112382.json
+start:2025-03-14 20:52:54
+end:2025-03-14 20:53:57
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/200P5004496041.json
+start:2025-03-14 20:53:57
+end:2025-03-14 20:55:00
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498261.json
+start:2025-03-14 20:56:05
+end:2025-03-14 20:57:10
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005005289222.json
+start:2025-03-14 20:57:10
+end:2025-03-14 20:58:10
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003588241.json
+start:2025-03-14 20:58:10
+end:2025-03-14 20:59:10
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005005289162.json
+start:2025-03-14 20:59:10
+end:2025-03-14 21:00:10
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112402.json
+start:2025-03-14 21:00:10
+end:2025-03-14 21:01:09
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229723.json
+start:2025-03-14 21:01:09
+end:2025-03-14 21:02:11
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112721.json
+start:2025-03-14 21:02:11
+end:2025-03-14 21:03:11
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005009501162.json
+start:2025-03-14 21:03:11
+end:2025-03-14 21:04:11
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003498523.json
+start:2025-03-14 21:04:11
+end:2025-03-14 21:05:11
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004112541.json
+start:2025-03-14 21:05:11
+end:2025-03-14 21:06:13
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005003588441.json
+start:2025-03-14 21:06:13
+end:2025-03-14 21:07:13
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229303.json
+start:2025-03-14 21:07:13
+end:2025-03-14 21:08:14
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004495301.json
+start:2025-03-14 21:08:14
+end:2025-03-14 21:09:17
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005004495621.json
+start:2025-03-14 21:09:17
+end:2025-03-14 21:10:19
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005005289822.json
+start:2025-03-14 21:10:19
+end:2025-03-14 21:11:21
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005002229503.json
+start:2025-03-14 21:11:21
+end:2025-03-14 21:12:23
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005043601461.json
+start:2025-03-14 21:12:23
+end:2025-03-14 21:13:27
+/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data/2005045587921.json
+start:2025-03-14 21:13:27
+end:2025-03-14 21:14:30

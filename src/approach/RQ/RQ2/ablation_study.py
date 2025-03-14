@@ -44,14 +44,14 @@ def read_completed_files(time_file_path):
     return completed_files
 
 
-directory_path = "/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fused_data/fuar_report"
+directory_path = "/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/raw_data"
 json_files = glob.glob(os.path.join(directory_path, '*.json'))
-completed_files = read_completed_files("/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fuse_report_time.txt")
+completed_files = read_completed_files("/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/no_fuse_report_time.txt")
 for file_path in json_files:
     if file_path in completed_files:
         print(f"Skipping {file_path}, already completed.") 
         continue
-    with open("/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fuse_report_time.txt","a") as f:
+    with open("/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/no_fuse_report_time.txt","a") as f:
         f.write(file_path)
         f.write('\n')
         f.write('start:'+ datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
@@ -69,6 +69,6 @@ for file_path in json_files:
     if cyber:
         cyber.save_pose_perception_json()  # 执行保存操作
         #cyber = None
-    with open("/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/fuar_fuse_report_time.txt","a") as f:
+    with open("/home/lsm/SFTSG_NME/src/approach/RQ/RQ2/no_fuse_report_time.txt","a") as f:
         f.write('end:'+ datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
         f.write('\n')
