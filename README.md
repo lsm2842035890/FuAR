@@ -1,5 +1,6 @@
 # FuAR
-![Overview](overview.png)
+<img src="/home/lsm/SFTSG_NME/overview.png" alt="Apollo Setup" width="500">
+
 [Demo videos](https://sites.google.com/view/lsmfuar)
 ## Prerequisites
 
