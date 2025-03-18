@@ -1,5 +1,6 @@
 # FuAR
-[demo videos](https://sites.google.com/view/lsmfuar)
+![Overview of FuAR](/home/lsm/SFTSG_NME/overview.png)
+[Demo videos](https://sites.google.com/view/lsmfuar)
 ## Prerequisites
 
 1. Ubuntu 22.04 LTS
