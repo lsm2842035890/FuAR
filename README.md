@@ -1,5 +1,5 @@
 # FuAR
-![Overview of FuAR](/home/lsm/SFTSG_NME/overview.png)
+![Overview](overview.png)
 [Demo videos](https://sites.google.com/view/lsmfuar)
 ## Prerequisites
 
