@@ -15,8 +15,7 @@ The structure of folder "Approach" is as follows:
 approach         
 │── combined_reports_strict_rule                    fusion judgment 
 │── information_ex_results_pro                      information extraction of accident reports
-│── runtime_scenaio_data                            runtime data of test apollo                                   
-├── base_map.txt                                    base map of apollo                
+│── runtime_scenaio_data                            runtime data of test apollo                                               
 ├── generate_conbinable_graph.py                    directed graph         
 ├── generate_conbined_reports.py                    generate fused reports         
 ├── informationexact.py                             exract information                 
@@ -26,5 +25,36 @@ approach
 └── utils_lsm.py                                    basic methods     
 ```
 
+##  Conda Environment Setup
+```
+pip install -r requirements.txt
+```
 
-## Citing
+##  Navigate to Apollo scripts directory
+```
+cd apollo/docker/scripts/
+```
+
+##  Start Apollo containers
+```
+bash dev_start.sh
+```
+
+##  Enter development container
+```
+bash dev_into.sh
+```
+
+## Start bootstrap and bridge
+```
+bash bootstrap.sh
+bash bridge.sh
+```
+
+## Start SORA-SVL
+Refer to [text](https://github.com/YuqiHuai/SORA-SVL)
+
+## Start automation test
+```
+python /home/yourusername/FuAR/src/approach/simulate_report.py
+```
