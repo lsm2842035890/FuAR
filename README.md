@@ -52,7 +52,7 @@ bash bridge.sh
 ```
 
 ## Start SORA-SVL
-Refer to [text](https://github.com/YuqiHuai/SORA-SVL)
+Refer to [https://github.com/YuqiHuai/SORA-SVL](https://github.com/YuqiHuai/SORA-SVL)
 
 ## Start automation test
 ```
