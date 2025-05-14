@@ -1011,7 +1011,8 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
     print(all_vehs_waypoints)
     all_vehs_waypoints = solve_waypoints_overlap(all_vehs_waypoints)
     print(all_vehs_waypoints)
-    
+
+    final_pos_lon_lat = []  
     if flag_apollo == False:
         ####
         env = Env()
@@ -1288,7 +1289,7 @@ def start_svl_simulation_nooryes_apollo(all_vehs_waypoints,all_vehs_symbol,map,m
             sim.run(50)
             sim.close()
         pass
-
+    return final_pos_lon_lat
 
 def run_cyberbridgeinstance(directory_name,name):
     global cyber
